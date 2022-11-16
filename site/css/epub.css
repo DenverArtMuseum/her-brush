@@ -84,11 +84,13 @@ h1, h2, h3, h4, h5, h6, blockquote p cite, dt, pre, address, table, caption, th,
 
 h1, h2, h3, h4, h5, h6, dt, hr {
   page-break-inside: avoid;
-  -moz-column-break-inside: avoid;
-       break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+     -moz-column-break-inside: avoid;
+          break-inside: avoid;
   page-break-after: avoid;
-  -moz-column-break-after: avoid;
-       break-after: avoid; }
+  -webkit-column-break-after: avoid;
+     -moz-column-break-after: avoid;
+          break-after: avoid; }
 
 p {
   text-indent: 0;
@@ -174,8 +176,9 @@ sup {
 /* FIGURES + IMAGES  */
 figure {
   page-break-inside: avoid;
-  -moz-column-break-inside: avoid;
-       break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+     -moz-column-break-inside: avoid;
+          break-inside: avoid;
   margin: 1.5em 0; }
   figure img {
     background-color: #CCCCCC; }
@@ -384,6 +387,11 @@ figure {
     display: block;
     margin-top: .5em;
     font-size: 0.9rem; }
+
+/* figure labels */
+.quire-figure__label {
+  font-weight: bold;
+  margin-right: .5em; }
 
 table {
   width: 100%; }
