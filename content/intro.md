@@ -1,21 +1,40 @@
 ---
-title: Introduction
-subtitle: A Tale of Two Photographers
-weight: 3
-type: splash
-image: figures/lange-house.jpg
+label: Introduction
+title: "Her Brush: New Approaches to Gender and Agency in Japanese Art"
+contributor:
+  - id: einorcervone
+type: page
+weight: 5
 ---
 
-Dorothea Lange had an extraordinary life and career as a prolific photographer. She worked for Arnold Genthe in his portrait studio in New York and studied photography with Clarence White at Columbia University. In 1918 she began to travel around the world to make her living as a photographer. She found herself stranded in San Francisco, so she opened a photographic studio there. Paul Taylor, who would become her second husband, hired her to document migratory workers in California.
+## An Introduction
 
-{{< q-figure id="dog1" class="is-pulled-right" >}}
+Why is it that you’ve never heard of Katō Seiko?
 
-In 1935 she began to work for the Resettlement Administration, later known as the Farm Security Administration ([fig. 1](#dog1)). During this period, she made her most famous image, [*Human Erosion in California (Migrant Mother)*](/catalogue/1/), of Native American Florence Owens Thompson and her children in a pea-pickers' camp. Other less famous subjects included Japanese internment camps and scenes of workers in factories during World War II. Lange became the first woman awarded a Guggenheim fellowship, and she spent nearly ten years making photo essays for *Life* and other magazines. She also traveled extensively, making photo essays in Vietnam, Ireland, Pakistan, India, and elsewhere.
+How about Yamamoto Shōtō or Kō (Ōshima) Raikin? It is not that they weren’t well known. They were, quite so, both during their own lifetime and in generations that followed. The brilliance of their work, too, stands the test of time—whether in Seiko’s sprightly jubilations of finches among verdant blades of bamboo (fig. 1); in the measured steps of a weary countryman, returning home in autumnal twilight over Raikin’s brushed steps (fig. 2); or in Shōtō’s golden gossamers, malachite pools, and rushes of ink that give form to her supramundane chrysanthemums (fig. 3).
 
-{{< q-figure id="dog2" class="is-pulled-left" >}}
+These are only some of the names whose absence from the ledgers of art history has summoned this project.
 
-Walker Evans began to photograph in the late 1920s, making snapshots during a European trip. Upon his return to New York, he published his first images in 1930. During the Great Depression, Evans began to photograph for the Resettlement Administration, later known as the Farm Security Administration (FSA), documenting workers and architecture in the Southeastern states ([fig. 2](#dog2)). In 1936 he traveled with the writer James Agee to illustrate an article on tenant farm families for *Fortune* magazine; the book *Let Us Now Praise Famous Men* came out of this collaboration.
+*Her Brush: New Approaches to Gender and Agency in Japanese Art* is a multipronged project with a twofold objective: representation and accessibility. To achieve these goals, it leverages an expansive collection of calligraphy, painting, and ceramics, largely by women artists from early modern and modern Japan.
 
-Throughout his career Evans contributed photographs to numerous publications, including three devoted solely to his work. In 1965 he left Fortune, where he had been a staff photographer for twenty years, to become a professor of photography and graphic design at Yale University. He remained in the position until 1974, a year before his death.
+This all began with a gift.
 
-{{< q-figure id="photo-podcast" >}}
+In 2018, Dr. John Fong and Dr. Colin Johnstone pledged their collection of over 500 works of Japanese art to the Denver Art Museum. Jiao Tianlong (Palace Museum Hong Kong), then Joseph de Heer Curator of Asian Art, along with Professor Andrew Maske (Professor of museum studies and Director of Gordon L. Grosscup Museum, Wayne State University), a specialist of Japanese ceramics, conceived of an exhibition focusing on one of the main strengths of the Fong-Johnstone collection: works by women artists dating from the 1600s to the 1900s.
+
+Research and preparation were underway when all work on the exhibition abruptly ground to a halt with the pandemic outbreak and curatorial changeover. Above all, a reckoning of an altered cultural landscape, which demanded an active response from art institutions, loomed large as a need—and as an opportunity.
+
+Thanks to the museum’s longstanding commitment to DEAI (Diversity, Equity, Accessibility, and Inclusiveness), and a team like no other of creative and devoted individuals, an idea was born. The project, *Her Brush: New Approaches to Gender and Agency in Japanese Art,* seeks to bring awareness to this long-overlooked group of artists by shifting exhibition priorities and through ongoing commitment to focused programming, academic symposia, and artist engagement.
+
+The Fong-Johnstone collection, which, according to the collectors, was itself inspired by the formidable art dealer Alice Boney (1901–1988), has been little studied and never shown. It holds many mysteries and questions, from identification to authenticity (figs. 4 and 5). It is, therefore, an invaluable resource for the study of connoisseurship. Addressing the steadily narrowing opportunities of in-person access to artworks, the Fong-Johnstone collection will ultimately be made fully available for study—both online and in person. This study collection will provide opportunities to delve into questions of authorship and authenticity and to consider the nuances of connoisseurship.
+
+In response to the dearth of information in Western languages, an eponymous digital publication will be made open source. Comprised of videos, scholarly essays, as well as exhibition and object information, it will be updated as new information comes to light. This online publication, the harbinger of which you are now reading, includes in-gallery materials from the inaugural exhibition, *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection* (opening November 13, 2022)*.* In addition, Professor Emerita Patricia Fister (International Research Center for Japanese Studies, or Nichibunken), who spearheaded the field back in the 1980s and dedicated her career to the study and exhibition of Japanese women artists, has generously contributed an important essay.
+
+To follow, short essays by scholars and specialists participating in a forthcoming symposium (February 25, 2023) will add to the ongoing discourse on gender and agency in Japanese art.
+
+Additionally, a case study of works in the Fong-Johnstone Study Collection will begin to highlight some of the conundrums surrounding them, delving into the question of authenticity and its spectrum—from homage to forgery. How might we understand the cultural nuances of authorship? How might a copy shed light on the historical and contemporary demand for a given artist? We welcome future contributions and hope to continue and feature new scholarship.
+
+This online publication will also serve as a platform for elevating voices of contemporary artists and their responses to works in the collection. Those will include Denver-based Sarah Fukami’s contemporary take on portraits of several of the showcased artists. Kyoto-based Tomoko Kawao will pursue her international, multiyear *Hitomoji Project: Women* at the Denver Art Museum and Art Collective SML\|k. Kawao’s open-to-the public performance (March 21, 2023) will be recorded in the publication as well.
+
+In short, *Her Brush* is both a promise and an invitation. It is the museum’s commitment to advancing the field through this collection. And it is an invitation to you—whether you are a student, an educator, a specialist, or simply curious—to explore, contribute, engage, and to make this art your own.
+
+Einor Cervone<br />Associate Curator of Asian Art

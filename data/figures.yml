@@ -1,90 +1,365 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
-
+  - id: "2018_253"
+    src: figures/2018_253.jpg
+    caption: ""
+    credit: ""
+  - id: "24_2018"
+    src: figures/24_2018.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_146"
+    src: figures/2018_146.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_149_1"
+    src: figures/2018_149_1-3.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_149_1"
+    src: figures/2018_149_1.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_149_2"
+    src: figures/2018_149_2.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_149_3"
+    src: figures/2018_149_3.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_150"
+    src: figures/2018_150.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_152"
+    src: figures/2018_152.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_153"
+    src: figures/2018_153.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_154A"
+    src: figures/2018_154A-C~2.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_155"
+    src: figures/2018_155.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_156"
+    src: figures/2018_156.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_157"
+    src: figures/2018_157.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_158"
+    src: figures/2018_158.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_159"
+    src: figures/2018_159.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_160"
+    src: figures/2018_160.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_164"
+    src: figures/2018_164.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_165"
+    src: figures/2018_165.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_166_1-2"
+    src: figures/2018_166_1-2.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_175"
+    src: figures/2018_175.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_181_1-44"
+    src: figures/2018_181_1-44.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_181_1"
+    src: figures/2018_181_1.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_181_2"
+    src: figures/2018_181_2.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_181_3_back_signature"
+    src: figures/2018_181_3_back_signature.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_181_3"
+    src: figures/2018_181_3.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_181_3~3"
+    src: figures/2018_181_3~3.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_182"
+    src: figures/2018_182.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_183"
+    src: figures/2018_183.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_184_1A"
+    src: figures/2018_184_1A-B.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_185"
+    src: figures/2018_185.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_186"
+    src: figures/2018_186.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_189"
+    src: figures/2018_189.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_190"
+    src: figures/2018_190.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_191"
+    src: figures/2018_191.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_192"
+    src: figures/2018_192.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_193_detail"
+    src: figures/2018_193_detail.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_193"
+    src: figures/2018_193.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_194"
+    src: figures/2018_194.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_195"
+    src: figures/2018_195.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_196"
+    src: figures/2018_196.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_198"
+    src: figures/2018_198.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_201"
+    src: figures/2018_201.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_202"
+    src: figures/2018_202.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_206"
+    src: figures/2018_206.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_207"
+    src: figures/2018_207.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_208"
+    src: figures/2018_208.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_211"
+    src: figures/2018_211.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_212_detail"
+    src: figures/2018_212_detail.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_212"
+    src: figures/2018_212.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_213"
+    src: figures/2018_213.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_214"
+    src: figures/2018_214.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_215"
+    src: figures/2018_215.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_216_detail"
+    src: figures/2018_216_detail.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_216"
+    src: figures/2018_216.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_217"
+    src: figures/2018_217.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_218"
+    src: figures/2018_218.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_221"
+    src: figures/2018_221.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_222"
+    src: figures/2018_222.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_224"
+    src: figures/2018_224.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_225"
+    src: figures/2018_225.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_226"
+    src: figures/2018_226.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_245"
+    src: figures/2018_245.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_247A"
+    src: figures/2018_247A-B.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_251"
+    src: figures/2018_251.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_255"
+    src: figures/2018_255.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_259_1"
+    src: figures/2018_259_1-2.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_156"
+    src: figures/2018_156~2.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_163A"
+    src: figures/2018_163A-B.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_164A"
+    src: figures/2018_164A-B.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_170_1"
+    src: figures/2018_170_1-5.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_184"
+    src: figures/2018_184.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_196"
+    src: figures/2018_196.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_198_1"
+    src: figures/2018_198_1-5.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_198_1"
+    src: figures/2018_198_1.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_199A-B"
+    src: figures/2018_199A-B.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_205"
+    src: figures/2018_205.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_206"
+    src: figures/2018_206.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_206~4"
+    src: figures/2018_206~4.jpg
+    caption: ""
+    credit: ""
+  - id: "2018_206~17"
+    src: figures/2018_206~17.jpg
+    caption: ""
+    credit: ""
+  - id: "fister-fig4-cropped"
+    src: figures/FISTER fig 4 cropped.jpg
+    caption: ""
+    credit: ""
+  - id: "fister-fig2"
+    src: figures/FISTER fig. 2 Bunchi portrait.jpg
+    caption: ""
+    credit: ""
+  - id: "fister-fig4"
+    src: figures/FISTER fig. 4.jpg
+    caption: ""
+    credit: ""
+  - id: "fister-fig14"
+    src: figures/FISTER fig. 14.jpg
+    caption: ""
+    credit: ""
+  - id: "fister-fig18"
+    src: figures/FISTER fig. 18.jpg
+    caption: ""
+    credit: ""
+  - id: "fister-fig19"
+    src: figures/FISTER fig. 19.jpg
+    caption: ""
+    credit: ""
+  - id: "gion-teahouse"
+    src: figures/Gion Teahouse_hi-res.jpg
+    caption: ""
+    credit: ""
+  - id: "seiko"
+    src: figures/Seiko_hi-res.jpg
+    caption: ""
+    credit: ""
+  - id: "shohin-crop"
+    src: figures/Shohin_crop.jpg
+    caption: ""
+    credit: ""
+  - id: "shohin"
+    src: figures/Shohin_hi-res.jpg
+    caption: ""
+    credit: ""
+  - id: "tokuyama-gyokuran"
+    src: figures/Tokuyama Gyokuran & Ike no Taiga.jpg
+    caption: ""
+    credit: ""
