@@ -1,118 +1,116 @@
 figure_list:
-  - id: "intro-1"
+  - id: intro-1
     src: figures/2018_212_detail.jpg
     caption: "**fig. 1:** Katō Seiko 加藤青湖 (active 1800s), *Sparrows and Bamboo* (detail), about 1872. Ink and color on silk, 9⅜ × 16⅛ in. (125.4 × 41 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.212."
     alt: "A close-up detail of a larger ink-painted scroll depicts 7 sparrows flitting around and sitting in the green leaves of two bamboo plants."
-  - id: "intro-2"
+  - id: intro-2
     src: figures/2018_193_detail.jpg
     caption: "**fig. 2:**Kō (Ōshima) Raikin 高(大島)来禽 (active late 1700s), *Autumn Landscape* (detail), late 1700s. Ink and light color on paper, 12⅞ × 8½ in. (32.7 × 21.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.193."
     alt: "A close-up detail of a larger ink-painted scroll depicts house on an outcropping, surrounded by trees. A small figure in a blue shirt walks up a path toward the house."
-  - id: "intro-3"
+  - id: intro-3
     src: figures/2018_216_detail.jpg
     caption: "**fig. 3:**Yamamoto Shōtō 山本緗桃 (1757–1831), *Chrysanthemums* (detail), late 1700s–early 1800s. Ink, color, and gold on silk, 9⅛ × 7⅜ in. (23.2 × 18.7 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.216."
     alt: "A close-up detail of a larger ink-painted scroll depicts finely painted green leaves from a chrysanthemum. A red stamp is visible in the upper left of the image."
-  - id: "intro-4"
+  - id: intro-4
     src: figures/2018_255.jpg
     caption: "**fig. 4:**Artist unknown (signed Kiyohara Yukinobu 清原雪信, active 1600s–1700s), *Genji Peeping at the Young Murasaki*, 1600s. Ink and color on silk, 15¼ × 21½ in. (38.7 × 54.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.255."
     alt: "A house with a large porch stands on stilts amid a hilly landscape. A green pine tree grows on the hillside to the right. Below the porch, a lavishly dressed man and his servant look up at the porch where three women and a young girl, all in kimonos, stand and sit."
-  - id: "intro-5"
+  - id: intro-5
     src: figures/2018_149_1-3.jpg
     caption: "**fig. 5:**Artist unknown (later signed Kiyohara Yukinobu 清原雪信, active 1600s–1700s), *Fukurokuju and Flowers of the Winter and Early Spring*, 1660–80s. Ink and color on silk triptych, each 40¾ × 16⅜ in. (103.5 × 41.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.149.1-3."
     alt: "Triptych of hanging scrolls. The center scroll depicts a jovial, prancing elder—the longevity deity Fukurokuju—with an exaggerated cranium and large white beard, walking through a landscape. On the left and right scrolls, birds rest on blossoming branches."
-  - id: "fister-1"
+  - id: fister-1
     src: figures/2018_153.jpg
     caption: "**fig. 1:** Daitsū Bunchi 大通文智 (1619–1697), *Bodhisattva of Myriad Acts of Compassion* (Jihi Mangyō Bosatsu), 1600s. Ink on paper, 38¾ × 11 in (98.4 × 27.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.153."
     alt: "Hanging scroll with a single line of semi-cursive calligraphy. The strong and energetic characters are rendered in thick black ink on yellowing paper."
-  - id: "fister-2"
+  - id: fister-2
     src: figures/FISTER_fig2_Bunchi_portrait.jpg
     caption: "**fig. 2:** Shinkei (1649–1706), *Portrait of Daitsū Bunchi*, 1698. Hanging scroll: ink and color on silk, 51⅝ × 21¾ in. (131.1 × 55.2 cm). Collection of Enshōji. Source: Amamonzeki: A Hidden Heritage: Treasures of the Japanese Imperial Convents (Tokyo: Sankei Shimbun, 2009), pl. 37."
     alt: "An older woman with no hair wears heavy black and brown robes and sits on a green polka-dot armchair with wooden arms and legs. The shape of the chair matches the woman’s round body. Above her, fourteen lines of Japanese characters fill the top of the frame."
-  - id: "fister-3"
+  - id: fister-3
     src: figures/2018_159.jpg
     caption: "**fig. 3:** Ryōnen Gensō 了然元総 (1646–1711), *Poem*, late 1600s–early 1700s. Ink on paper, 11¼ × 11 in. (28.6 × 27.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.159."
     alt: "Five vertical lines of cursive Japanese calligraphy are painted on yellowing paper at varying heights and thicknesses. Two large red square seals at bottom left."
-  - id: "fister-4"
+  - id: fister-4
     src: figures/FISTER_fig_4_cropped.jpg
     caption: "**fig. 4:** *Ryōnen Burning Her Face*, illustration from Kinsei meika shogadan [Famous calligraphers and painters of recent ages], vol. 4, 1844. Waseda University Library."
     alt: "A black-and-white woodblock print depicting the nun Ryōn with a shaved head, putting a hot iron to her face. Two startled attendants reach out to try and stop her."
-  - id: "fister-5"
+  - id: fister-5
     src: figures/2018_160.jpg
     caption: "**fig. 5:** Image by Utagawa Kunisada 歌川国貞 (1786–1864), inscription by Ryūtei Tanehiko 柳亭種彦 (1783–1842), “The Nun Ryōnen (Ryōnen-ni)” from *Famous Women of Past and Present* (*Kokon meifuden*), 1864. Color woodblock print, 14⅞ × 9¾ in. (37.8 × 24. 8 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.160."
     alt: "Colorful woodblock print showing a nun pressing a hot iron to her cheek. A brazier with smoldering embers in the background. Tightly arranged blocks of Japanese text overhead."
-  - id: "fister-6"
+  - id: fister-6
     src: figures/2018_222.jpg
     caption: "**fig. 6:** Tagami Kikusha 田上菊舎 (1753–1826), *Hermit/Self-Portrait*, early 1800s. Ink on paper, 11½ × 4⅝ in. (29.2 × 11. 7 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.222."
     alt: "Small monochrome ink painting on yellowing paper. A few expressive strokes outline a robed figure facing away. Cursive and archaic style calligraphy occupy most of the space above."
-  - id: "fister-7"
+  - id: fister-7
     src: figures/2018_164.jpg
     caption: "**fig. 7:** Ōtagaki Rengetsu 太田垣蓮月 (1791–1875), *Moon, Blossoming Cherry, and Poem*, 1867. Ink and color on paper, 14⅝ × 18¼ in. (37.1 × 46.4 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.164."
     alt: "On the left, the moon looms large behind a Sakura branch rendered in soft ink and light ochres. On the right, a poem in thin calligraphy."
-  - id: "fister-8"
+  - id: fister-8
     src: figures/2021_198_1.jpg
     caption: "**fig. 8:**  Ōtagaki Rengetsu 太田垣蓮月 (1791–1875), *Sweets Plate with Painting and Poem*, 1800s. Ink and color on cedar plank, 5¼ × 6½ in. (13.3 × 16.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2021.198.XX."
     alt: "Small and flat rectangular wooden plate with painting and cursive calligraphy"
-  - id: "fister-9"
+  - id: fister-9
     src: figures/2021_206.jpg
     caption: "**fig. 9:** Ōtagaki Rengetsu 太田垣蓮月 (1791–1875), *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper, 1¼ × 4¼ × 6½ in. (3.2 × 10.8 ×16.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2021.206."
     alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
-  - id: "fister-10"
+  - id: fister-10
     src: figures/2021_156.jpg
     caption: "**fig. 10:** Calligraphy by Ōtagaki Rengetsu 太田垣蓮月 (1791–1875), painting by Tomioka Tessai 富岡鉄斎 (1836–1924), *Three Waka Poems and a Pine*, second half of the 1800s. Ink on paper, 38¼ × 12 in. (97.2 × 30.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2021.156."
     alt: "Energetically brushed Japanese characters in black ink fill the top three quarters of a long, narrow composition. A delicately drawn branch of a pine tree spreads across the bottom of the composition. A signature and two red stamps are in the bottom right corner."
-  - id: "fister-11"
+  - id: fister-11
     src: figures/2018_245.jpg
     caption: "**fig. 11:** Calligraphy by Ōtagaki Rengetsu 太田垣蓮月 (1791–1875), painting by Wada Gesshin 和田月心 (1800–70), *Stag and Poem*, 1865–70. Ink on paper, 26¾ × 7¾ (67.9 × 19.7 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.245."
     alt: "A stag painted in thin black ink stands on a light ground near the bottom of the narrow, vertical composition. A poem in Japanese calligraphy is inscribed in the top half of the composition, and a red stamped seal appears below the stag."
-  - id: "fister-12"
+  - id: fister-12
     src: figures/2018_259_1-2.jpg
     caption: "**fig. 12:** Kuroda Kōryō 黒田光良 (1823–1895), *Two Teabowls in the Style of Rengetsu* (Rengetsu-yaki), late 1800s. Glazed ceramic, each bowl 1⅞ ×4½ in. dia. (4.6 × 11.4 cm dia.). Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2."
     alt: "Two small beige bowls with slanted sides. The exteriors are rough and darker brown than the smooth interiors. The interior rims are stamped with small squares and circles. The interior of the bowls are lighter beige and inscribed with poems written in  Japanese characters."
-  - id: "fister-13"
+  - id: fister-13
     src: figures/2018_165.jpg
     caption: "**fig. 13:** Suganuma Ōhō 菅沼大鳳 (1891–1966), *Rengetsu Working in Her Hut*, 1935. Ink and color on paper, 45⅛ × 16⅞ (114.6 × 42.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.165."
     alt: "Detailed ink painting showing a birds-eye view of a simple but elegantly furnished hut, partially obscured by trees. Inside, a seated nun serenely inscribes her pottery."
-  - id: "fister-14"
+  - id: fister-14
     src: figures/FISTER_fig14.jpg
     caption: "**fig. 14:** Photograph of Ōishi Junkyō. From *The Mainichi Graphic*, 4 January 1956, published by The Mainichi Newspapers Co., Ltd. Source: Wikimedia Commons"
     alt: "Black and white side-profile photograph of the artist wearing a black cap. She holds a paint brush in her mouth and bends towards a piece of paper on the table in front of her."
-  - id: "fister-15"
+  - id: fister-15
     src: figures/2018_157.jpg
     caption: "**fig. 15:** Ōishi Junkyō 大石順教 (1888–1968), *Willow and Frog*, mid-1900s. Ink on paper, 15 × 19¾ in. (38.1 × 50.2 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.157."
     alt: "A small frog leaps with outstretched limbs towards a delicately-brushed branch in the upper left-hand corner. Sprightly, cursive script occupies most of the paper ground, dwarfing the little frog."
-  - id: "fister-16"
+  - id: fister-16
     src: figures/2018_158.jpg
     caption: "**fig. 16:** Ōishi Junkyō 大石順教 (1888–1968), *Shrimp*, mid-1900s. Ink on paper, 6¼ × 13¾ in. (15.7 × 34.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.158."
     alt: "Fan painting on light paper using wet dabs of monochrome ink of a wide-eyed shrimp, stretching claws to upper right corner. Artist’s signature on the left."
-  - id: "fister-17"
+  - id: fister-17
     src: figures/2018_156.jpg
     caption: "**fig. 17:** Ōishi Junkyō 大石順教 (1888–1968), *Bodhisattva Kannon* (Avalokiteśvara), mid-1900s. Ink on paper, 25⅝ × 13⅜ in. (65.1 × 34 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.156."
     alt: "Simply brushed plain line painting in black ink of a seated meditating feminine figure draped in a flowy robe. Japanese calligraphy on the right."
-  - id: "fister-18"
+  - id: fister-18
     src: figures/FISTER_fig18.jpg
     caption: "**fig. 18:** Ōishi Junkyō 大石順教 (1888–1968), *Bird and Grapes*, date not known. Hanging scroll: ink and color on silk, 44½ × 10⅝ in. (113 × 27 cm). Private collection."
     alt: "At the top, a black and gray bird with its beak slightly open and head tilted upward sits on a branch. Tendrils, leaves, and blue-red grapes fill the space to the right of the bird. Four lines of calligraphy fill the bottom half of the long, horizontal paper."
-  - id: "fister-19"
+  - id: fister-19
     src: figures/FISTER_fig19.jpg
     caption: "**fig. 19:** Murase Myōdō, 2008. Courtesy of photographer Ikazaki Shinobu."
     alt: "The nun-artist Murase Myōdō sits on a wooden platform, with her white-socked feet in the foreground. A black cat sits to the left, and a walking cane lies on the platform on the right. A lush green forest and a thatch-roofed house in the background."
-  - id: "fister-20"
+  - id: fister-20
     src: figures/2018_155.jpg
     caption: "**fig. 20:** Murase Myōdō 村瀬明道 (1924–2013), *Breaking Waves in the Pines* (*shōtō*), late 1900s. Ink on paper, 12⅝ × 23⅞ in. (32.1 × 60.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.155."
     alt: "Two thickly brushed Japanese characters in black ink occupy the center of a horizontal piece of paper. One small red stamp in the top left corner, and two others on the right-center edge of the paper."
-  - id: "fister-21"
+  - id: fister-21
     src: figures/2018_154A-C.jpg
     caption: "**fig. 21:** Murase Myōdō 村瀬明道 (1924–2013), *Kan* (barrier), late 1900s. Ink on paper with wood frame, overall 23⅝ × 41½ × 12 in. (60 × 105.4 × 30.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.154A-C."
     alt: "Small, double-sided table screen. Each face bears a sweeping, powerfully brushed Japanese character that occupies most of the paper ground. Small red seals punctuate it."
-  - id: "2018_253"
+  - id: 2018-253
     src: figures/2018_253.jpg
+    alt: "On the left, a stick-figure-like sketch of a sign, barely balancing on a wobbly post. To the right, four lines of unsteady-looking calligraphy at varying heights."
     caption: ""
     credit: ""
-  - id: "24_2018"
-    src: figures/24_2018.jpg
-    caption: ""
-    credit: ""
-  - id: "2018_146"
+  - id: 2018-146
     src: figures/2018_146.jpg
+    alt: "Two large Japanese characters are written in thick black ink at the top of the long, horizontal composition. At the bottom, a woman in a brown and black robe sits on a thinly painted white rug with her knees bent beneath her. She holds rosary beads and seems to look out at the observer."
     caption: ""
     credit: ""
   - id: "2018_149_1"
@@ -131,244 +129,284 @@ figure_list:
     src: figures/2018_149_3.jpg
     caption: ""
     credit: ""
-  - id: "2018_150"
+  - id: 2018-150
     src: figures/2018_150.jpg
+    alt: "A slender, elegantly dressed woman in flowing robes sits crosslegged on a tuft of grass upon a rock. She strums a lute that rests in her lap. Behind her is a vague suggestion of a landscape, and a large, moon-like orb frames the top half of her body."
     caption: ""
     credit: ""
-  - id: "2018_152"
+  - id: 2018-152
     src: figures/2018_152.jpg
+    alt: "A man with black hair in a high bun and a long, wispy beard wearing a kimono takes up the majority of the composition. Japanese calligraphy is above both of his shoulders, and also in the lower left-hand corner."
     caption: ""
     credit: ""
-  - id: "2018_153"
+  - id: 2018-153
     src: figures/2018_153.jpg
+    alt: "Hanging scroll with a single line of semi-cursive calligraphy. The strong and energetic characters are rendered in thick black ink on yellowing paper."
     caption: ""
     credit: ""
-  - id: "2018_154A"
+  - id: 2018-154A-C
     src: figures/2018_154A-C~2.jpg
+    alt: "Small, double-sided table screen. Each face bears a sweeping, powerfully brushed Japanese character that occupies most of the paper ground. Small red seals punctuate it."
     caption: ""
     credit: ""
-  - id: "2018_155"
+  - id: 2018-155
     src: figures/2018_155.jpg
+    alt: "Two thickly brushed Japanese characters in black ink occupy the center of a horizontal piece of paper. One small red stamp in the top left corner, and two others on the right-center edge of the paper."
     caption: ""
     credit: ""
-  - id: "2018_156"
+  - id: 2018-156
     src: figures/2018_156.jpg
+    alt: "Simply brushed plain line painting in black ink of a seated meditating feminine figure draped in a flowy robe. Japanese calligraphy on the right."
     caption: ""
     credit: ""
-  - id: "2018_157"
+  - id: 2018-157
     src: figures/2018_157.jpg
+    alt: "A small frog leaps with outstretched limbs towards a delicately-brushed branch in the upper left-hand corner. Sprightly, cursive script occupies most of the paper ground, dwarfing the little frog."
     caption: ""
     credit: ""
-  - id: "2018_158"
+  - id: 2018-158
     src: figures/2018_158.jpg
+    alt: "Fan painting on light paper using wet dabs of monochrome ink of a wide-eyed shrimp, stretching claws to upper right corner. Artist’s signature on the left."
     caption: ""
     credit: ""
-  - id: "2018_159"
+  - id: 2018-159
     src: figures/2018_159.jpg
+    alt: "Five vertical lines of cursive Japanese calligraphy are painted on yellowing paper at varying heights and thicknesses. Two large red square seals at bottom left."
     caption: ""
     credit: ""
-  - id: "2018_160"
+  - id: 2018-160
     src: figures/2018_160.jpg
+    alt: "Colorful woodblock print showing a nun pressing a hot iron to her cheek. A brazier with smoldering embers in the background. Tightly arranged blocks of Japanese text overhead."
     caption: ""
     credit: ""
-  - id: "2018_164"
+  - id: 2018-164
     src: figures/2018_164.jpg
+    alt: "On the left, the moon looms large behind a Sakura branch rendered in soft ink and light ochres. On the right, a poem in thin calligraphy."
     caption: ""
     credit: ""
-  - id: "2018_165"
+  - id: 2018-165
     src: figures/2018_165.jpg
+    alt: "Detailed ink painting showing a birds-eye view of a simple but elegantly furnished hut, partially obscured by trees. Inside, a seated nun serenely inscribes her pottery."
     caption: ""
     credit: ""
-  - id: "2018_166_1-2"
+  - id: 2018-166-1-2
     src: figures/2018_166_1-2.jpg
+    alt: "Two paddle-shaped fans. The fan on the left is beige, and the fan on the right is light blue. Both have black handles and are inscribed with poems in thin Japanese calligraphy."
     caption: ""
     credit: ""
-  - id: "2018_175"
+  - id: 2018-175
     src: figures/2018_175.jpg
+    alt: "Dark brown ceramic vase with round body that tapers towards the top. Uneven surface is inscribed with stylized Japanese calligraphy."
     caption: ""
     credit: ""
-  - id: "2018_181_1-44"
-    src: figures/2018_181_1-44.jpg
+  - id: 2018-181-install
+    src: figures/2018_181_install.jpg
+    alt: "Dozens of vertical, decorated paper slips with calligraphy are mounted haphazardly on faux folding screen made of transparent plexiglass. Their reflection in the mirror-like platform, enhanced by the dark room, creates a sense of floating."
     caption: ""
     credit: ""
-  - id: "2018_181_1"
+  - id: 2018-181-1
     src: figures/2018_181_1.jpg
+    alt: "Long, vertical paper slip with light grey marbled pattern inscribed with stylized Japanese calligraphy."
     caption: ""
     credit: ""
-  - id: "2018_181_2"
+  - id: 2018-181-2
     src: figures/2018_181_2.jpg
+    alt: "Two columns of quickly brushed calligraphy extend down the length of a narrow sheet of paper. The top and bottom quarters are washed in light shades of blue."
     caption: ""
     credit: ""
   - id: "2018_181_3_back_signature"
     src: figures/2018_181_3_back_signature.jpg
     caption: ""
     credit: ""
-  - id: "2018_181_3"
+  - id: 2018-181-3
     src: figures/2018_181_3.jpg
+    alt: "A poem in Japanese characters and brushed with black ink fills the length of a long, narrow strip of paper. Splotches and drips of light-colored ink appear atop some of the calligraphy."
     caption: ""
     credit: ""
-  - id: "2018_181_3~3"
-    src: figures/2018_181_3~3.jpg
-    caption: ""
-    credit: ""
-  - id: "2018_182"
+  - id: 2018-182
     src: figures/2018_182.jpg
+    alt: "A poem in Japanese characters and brushed with black ink fills the length of a long, narrow strip of paper. Splotches and drips of light-colored ink appear atop some of the calligraphy."
     caption: ""
     credit: ""
-  - id: "2018_183"
+  - id: 2018-183
     src: figures/2018_183.jpg
+    alt: "Long, horizontal sheet of beige paper speckled with gold inscribed with many short lines of cursive calligraphy at alternating heights. Calligraphy is fluid with a variety of line thicknesses"
     caption: ""
     credit: ""
-  - id: "2018_184_1A"
+  - id: 2018-184-1A-B
     src: figures/2018_184_1A-B.jpg
+    alt: "Tall, narrow black lacquer box speckled with gold. Lid has a gold and silver lacquer image of an old man and deer sitting under a tree. The man wears voluminous robes, holds a staff, and has a long beard, mustache, and eyebrows."
     caption: ""
     credit: ""
-  - id: "2018_185"
+  - id: 2018-185
     src: figures/2018_185.jpg
+    alt: "A man sits and looks into a large bag in the left half of the composition. A small signature and red stamp are to his left at the edge of the paper. Two vertical rows of Japanese calligraphy fill the right half."
     caption: ""
     credit: ""
-  - id: "2018_186"
+  - id: 2018-186
     src: figures/2018_186.jpg
+    alt: "A square sheet of paper inscribed with flowing calligraphy, mounted on a vertical orange cloth with cream-colored clouds and green and gold embroidery."
     caption: ""
     credit: ""
-  - id: "2018_189"
+  - id: 2018-189
     src: figures/2018_189.jpg
+    alt: "Branches of pine, bamboo and plum blossom intertwine and fill the majority of the paper. Mushrooms sprout at the bottom. Calligraphy and red stamps in the middle-right."
     caption: ""
     credit: ""
-  - id: "2018_190"
+  - id: 2018-190
     src: figures/2018_190.jpg
+    alt: "Four lines of Japanese calligraphy in the top left-hand corner, along with two red stamps. Five orchid plants dot the bottom half of the paper, with a red stamp in the bottom right corner."
     caption: ""
     credit: ""
-  - id: "2018_191"
+  - id: 2018-191
     src: figures/2018_191.jpg
+    alt: "Bamboo branches start in the middle left of the composition. Two branches go up to the top of the frame and other leaves spread out to the bottom right. Japanese calligraphy and three red stamps in the top right corner."
     caption: ""
     credit: ""
-  - id: "2018_192"
+  - id: 2018-192
     src: figures/2018_192.jpg
+    alt: "Painted in black and gray ink, several branches of a blossoming plum tree swoop across the paper, filling the bottom two-thirds of the composition. Every branch is heavy with delicate white blossoms. Three lines of calligraphy and three red seals in the top left corner."
     caption: ""
     credit: ""
-  - id: "2018_193"
+  - id: 2018-193
     src: figures/2018_193.jpg
     caption: ""
     credit: ""
-  - id: "2018_194"
+  - id: 2018-194
     src: figures/2018_194.jpg
+    alt: "In the bottom left corner of this long, vertical composition, a few bamboo stems jut across the paper. Above, a blossoming plum branch reaches across to the other side and then up the length of the composition. Both are painted in black ink. At the bottom, two red stamps and Japanese characters."
     caption: ""
     credit: ""
-  - id: "2018_195"
+  - id: 2018-195
     src: figures/2018_195.jpg
+    alt: "Cream colored paper folding fan painted with mountain scene with red leaf tree."
     caption: ""
     credit: ""
-  - id: "2018_196"
+  - id: 2018-196
     src: figures/2018_196.jpg
+    alt: "A wicker basket overflowing with flowers and foliage sits in the bottom foreground of a vertical composition. Behind it, a tall narrow vase on a short plant stand also overspills with blooming flowers, verdant foliage, and a pine bough."
     caption: ""
     credit: ""
   - id: "2018_198"
     src: figures/2018_198.jpg
     caption: ""
     credit: ""
-  - id: "2018_201"
+  - id: 2018-201
     src: figures/2018_201.jpg
+    alt: "Cream colored paper folding fan painted with mountain scene."
     caption: ""
     credit: ""
-  - id: "2018_202"
+  - id: 2018-202
     src: figures/2018_202.jpg
+    alt: "Yellowed silk painted with nine turtles clamering up a rocky surface under a rising sun. Each turtle is accompanied by a signature."
     caption: ""
     credit: ""
-  - id: "2018_206"
+  - id: 2018-206
     src: figures/2018_206.jpg
+    alt: "Tall painting of a steep cliffside with orchids jutting from the rocky surface. Stylized Japanese calligraphy along the right edge"
     caption: ""
     credit: ""
-  - id: "2018_207"
+  - id: 2018-207
     src: figures/2018_207.jpg
+    alt: "Vertical painting of mountain waterfall flowing into a lake near trees and a small hut. Five lines of calligraphy in the top left corner."
     caption: ""
     credit: ""
-  - id: "2018_208"
+  - id: 2018-208
     src: figures/2018_208.jpg
+    alt: "The branch of a knotted plum tree starts in the lower right-hand corner, and extends upwards with tapering branches and delicate blossoms. A signature and red seal at the bottom center."
     caption: ""
     credit: ""
-  - id: "2018_211"
+  - id: 2018-211
     src: figures/2018_211.jpg
+    alt: "A slender woman in a blue kimono and dusty-rose obi stands on a hill, looking down at the sprigs with green leaves and white blossoms that she holds in her hands. A young girl in a dusty-rose colored robe with green trim stands behind her. She carries a zither and looks into the distance to the left of the frame."
     caption: ""
     credit: ""
-  - id: "2018_212"
+  - id: 2018-212
     src: figures/2018_212.jpg
+    alt: "About 15 sparrows flit around and sit in the green leaves of two bamboo plants on the left side of this long, narrow composition. Japanese calligraphy and two red stamps appear in the upper right corner."
     caption: ""
     credit: ""
-  - id: "2018_213"
+  - id: 2018-213
     src: figures/2018_213.jpg
+    alt: "The green and brown trunk of a cherry tree stands on a pillowy brown hill. The trunk leans to the left, and smaller limbs with leaves and flowers branch out from the trunk. Only part of the tree is seen as it seems to extend beyond the paper."
     caption: ""
     credit: ""
-  - id: "2018_214"
+  - id: 2018-214
     src: figures/2018_214.jpg
+    alt: "Branches of a plum tree with tiny white blossoms. Japanese calligraphy in the upper right-hand corner, along with a red stamp."
     caption: ""
     credit: ""
-  - id: "2018_215"
+  - id: 2018-215
     src: figures/2018_215.jpg
+    alt: "A narrow, horizontally oriented composition. A brown bird sits on a thin branch of a plum tree with small white blossoms. Other tree branches spread out below and above it. A signature with Japanese characters is in the bottom right corner."
     caption: ""
     credit: ""
-  - id: "2018_216"
+  - id: 2018-216
     src: figures/2018_216.jpg
+    alt: "Two chrysanthemum blossoms in black ink in the upper right-hand of the frame rest atop a leafy stem that tapers to the bottom left. A signature and red stamp in the left-center."
     caption: ""
     credit: ""
-  - id: "2018_217"
+  - id: 2018-217
     src: figures/2018_217.jpg
+    alt: "Four vertical lines of calligraphy spaced out over an otherwise blank paper. The lines are of varying lengths, and they ascend in height from left to right. Two small red stamps under the line on the far left."
     caption: ""
     credit: ""
-  - id: "2018_218"
+  - id: 2018-218
     src: figures/2018_218.jpg
+    alt: "Chrysanthemum flowers are delicately painted in the bottom half. A small signature and red stamp to the left of the flowers. Two rows of Japanese calligraphy in the top half of the paper to the right."
     caption: ""
     credit: ""
-  - id: "2018_221"
+  - id: 2018-221
     src: figures/2018_221.jpg
+    alt: "A branch from a plum tree fills the bottom half of the paper. Two vertical rows of Japanese calligraphy and a signature with a red stamp fill the top right of the paper."
     caption: ""
     credit: ""
-  - id: "2018_222"
+  - id: 2018-222
     src: figures/2018_222.jpg
+    alt: "Small monochrome ink painting on yellowing paper. A few expressive strokes outline a robed figure facing away. Cursive and archaic style calligraphy occupy most of the space above."
     caption: ""
     credit: ""
-  - id: "2018_224"
+  - id: 2018-224
     src: figures/2018_224.jpg
+    alt: "A bamboo branch with two smaller shoots with leaves on the lefthand side of the frame, and a poem in calligraphy on the right."
     caption: ""
     credit: ""
-  - id: "2018_225"
+  - id: 2018-225
     src: figures/2018_225.jpg
+    alt: "Seven lines of calligraphy in the lefthand side of the frame. On the right, a small thatch-roofed studio nestled into a mountainside flanked by budding branches."
     caption: ""
     credit: ""
-  - id: "2018_226"
+  - id: 2018-226
     src: figures/2018_226.jpg
+    alt: "Seven decorated vertical paper slips with calligraphy mounted on a two-paneled folding screen at alternating heights."
     caption: ""
     credit: ""
-  - id: "2018_245"
+  - id: 2018-245
     src: figures/2018_245.jpg
     caption: ""
     credit: ""
-  - id: "2018_247A"
+  - id: 2018-247A
     src: figures/2018_247A-B.jpg
+    alt: "A pair of sliding screen doors framed in brown wood. Colorful flowers span the two doors. The left door has ten lines of calligraphy in the upper left-hand corner."
     caption: ""
     credit: ""
-  - id: "2018_251"
+  - id: 2018-251
     src: figures/2018_251.jpg
+    alt: "Ink painting of cross-legged female figure in flowing robes with long dark hair. Two lines of calligraphy at the top right and bottom left."
     caption: ""
     credit: ""
-  - id: "2018_255"
+  - id: 2018-255
     src: figures/2018_255.jpg
+    alt: "A house with a large porch stands on stilts amid a hilly landscape. A green pine tree grows on the hillside to the right. Below the porch, a lavishly dressed man and his servant look up at the porch where three women and a young girl, all in kimonos, stand and sit."
     caption: ""
     credit: ""
-  - id: "2018_259_1"
+  - id: 2018-259-1-2
     src: figures/2018_259_1-2.jpg
-    caption: ""
-    credit: ""
-  - id: "2018_156"
-    src: figures/2018_156~2.jpg
+    alt: "Two small beige bowls with slanted sides. The exteriors are rough and darker brown than the smooth interiors. The interior rims are stamped with small squares and circles. The interior of the bowls are lighter beige and inscribed with poems written in  Japanese characters."
     caption: ""
     credit: ""
   - id: "2018_163A"
     src: figures/2018_163A-B.jpg
-    caption: ""
-    credit: ""
-  - id: "2018_164A"
-    src: figures/2018_164A-B.jpg
     caption: ""
     credit: ""
   - id: "2018_170_1"
@@ -379,12 +417,61 @@ figure_list:
     src: figures/2018_184.jpg
     caption: ""
     credit: ""
-  - id: "2018_196"
-    src: figures/2018_196.jpg
+  - id: 2020-570
+    src: figures/24_2018.jpg
+    alt: "Two crickets crawl on wispy grasses in the lefthand side of the frame. The right is filled with eleven lines of calligraphy."
     caption: ""
     credit: ""
-  - id: "2018_198_1"
-    src: figures/2018_198_1-5.jpg
+  - id: 2021-156
+    src: figures/2021_156.jpg
+    alt: "Energetically brushed Japanese characters in black ink fill the top three quarters of a long, narrow composition. A delicately drawn branch of a pine tree spreads across the bottom of the composition. A signature and two red stamps are in the bottom right corner."
+    caption: ""
+    credit: ""
+  - id: 2021-163A-B
+    src: figures/2021_163A-B.jpg
+    caption: ""
+    credit: ""
+  - id: 2021-164A-B
+    src: figures/2021_164A-B.jpg
+    alt: "A small brown box in the shape of a tortoise. The box’s lid is the head and shell of the tortoise. It has eight faceted sides, and the eyes of the tortoise are holes on either side of the head."
+    caption: ""
+    credit: ""
+  - id: 2021-170-1-5
+    src: figures/2021_170_1-5.jpg
+    caption: ""
+    credit: ""
+  - id: 2021-184
+    src: figures/2021_184.jpg
+    alt: "A gourd-shaped vase with vertical ridges. A dark hole in the center takes up about one third of the surface area."
+    caption: ""
+    credit: ""
+  - id: 2021-196
+    src: figures/2021_196.jpg
+    alt: "A light brown sake decanter with a narrow opening at the top and a much wider base. It has a small rimmed lid, and a poem in Japanese characters is inscribed around the vessel. Finger prints and indentations cover its surface."
+    caption: ""
+    credit: ""
+  - id: 2021-198
+    src: figures/RA_2021_198.jpg
+    caption: ""
+    credit: ""
+  - id: 2021-198-1-5
+    src: figures/2021_198_1-5.jpg
+    alt: "Small and flat rectangular wooden plates with painting and cursive calligraphy."
+    caption: ""
+    credit: ""
+  - id: 2021-199A-B
+    src: figures/2021_199A-B.jpg
+    alt: "A white, spherical vessel in the shape of a racoon dog. The racoon dog’s face looks up, and its arms and legs, with incised lines representing fur, are close to its body. Japanese characters are incised on its chest."
+    caption: ""
+    credit: ""
+  - id: 2021-205
+    src: figures/2021_205.jpg
+    alt: "Round ceramic dish with edges pinched upwards to resemble lotus petals. Interior is inscribed with stylized Japanese calligraphy."
+    caption: ""
+    credit: ""
+  - id: 2021-206
+    src: figures/2021_206~17.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
     caption: ""
     credit: ""
   - id: "2018_198_1"
@@ -397,18 +484,6 @@ figure_list:
     credit: ""
   - id: "2018_205"
     src: figures/2018_205.jpg
-    caption: ""
-    credit: ""
-  - id: "2018_206"
-    src: figures/2018_206.jpg
-    caption: ""
-    credit: ""
-  - id: "2018_206~4"
-    src: figures/2018_206~4.jpg
-    caption: ""
-    credit: ""
-  - id: "2018_206~17"
-    src: figures/2018_206~17.jpg
     caption: ""
     credit: ""
   - id: "gion-teahouse"
