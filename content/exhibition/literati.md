@@ -11,7 +11,7 @@ Literati painting (*bunjinga* 文人画) prioritized self-expression over techni
 
 As in other realms explored in this exhibition, literati circles included women from different social backgrounds. But perhaps more so than any other social context, literati circles were accepting of women participants. Many prominent women artists in Edo and Meiji Japan flourished within these intellectual cliques.
 
-{{< q-figure id="2018-208" caption="" >}}
+{{< q-figure id="2018-208" >}}
 
 Tokuyama (Ike) Gyokuran is one of the Three Women of Gion, and perhaps the most famous of them all. This knotted plum, together with bamboo, chrysanthemum, and orchid, make up the Four Gentlemen (*shikunshi*), all common subjects for literati paintings.
 
@@ -19,27 +19,27 @@ Gyokuran and her husband, the accomplished artist Ike Taiga, were on such equal 
 
 {{< q-figure id="" caption="Mikuma Shikō, Tokuyama Gyokuran and Ike Taiga in their studio (detail), in *Kinsei kijinden*, vol. 4 (1788), 8." >}}
 
-{{< q-figure id="2018-202" caption="" >}}
+{{< q-figure id="2018-202" >}}
 
 This collaborative work (*gassaku*) was signed by different literati artists during an artistic gathering. Three of them—Atomi Gyokushi (1859–1943), Noguchi Shōhin (1847–1917), and Nakabayashi Seishuku (1829–1912)—are women.
 
 Turtles, and especially the long-tailed *minogame*, are symbols of longevity. As the sun rises on the New Year, these perky turtles come to celebrate and commemorate the occasion.
 
-{{< q-figure id="2021-198-1-5" caption="" >}}
+{{< q-figure id="2021-198-1-5" >}}
 
 These small plates, painted for a literati gathering, were used for sweets to complement the *sencha* (green leaf tea) ceremony. These abbreviated paintings and poems burst with humor and personality. Their creator, the nun-artist Ōtagaki Rengetsu, was a central figure in Edo literati circles. She also produced other tea ceremony paraphernalia, as exhibited here.
 
 This group of plates is also rare for its impeccable documentation. Their original box bears an inscription of authenticity by Priest Kōen of the Jinkō-in temple, where Rengetsu once lived.
 
-{{< q-figure id="2018-189" caption="" >}}
+{{< q-figure id="2018-189" >}}
 
 The Three Friends of Winter, namely, pine, plum, and bamboo, are a common subject of literati painting (*bunjinga*). But here, Ema Saikō creates an unconventional composition. From the crevice of a garden rock, wildly twisting pines intertwine and loop around bamboo and frenzied plum blossoms that jut out in all directions. Immortality Mushrooms (*reishi*), sprouting in the foreground, allude to the subject of resilience in old age. Saikō painted this only four years before her death.
 
-{{< q-figure id="2018-224" caption="" >}}
+{{< q-figure id="2018-224" >}}
 
-{{< q-figure id="2018-225" caption="" >}}
+{{< q-figure id="2018-225" >}}
 
-{{< q-figure id="2020-570" caption="" >}}
+{{< q-figure id="2020-570" >}}
 
 These paintings belong to the genre of *haiga*, an abbreviated and swiftly executed painting, accompanied by an equally brief form of poetry called *haikai*, or haiku.
 
@@ -64,7 +64,7 @@ One of the period’s most influential literati artists, Seiko founded a school 
 
 {{< q-figure id="" caption="Portrait of Noguchi Shōhin 野口小蘋 in *Bunbu kōmeiroku 文武高名録*, a compilation of famous people and important literary figures published in 1893. Courtesy Hathi Trust Digital Library, digitized by Google." >}}
 
-{{< q-figure id="2018-196" caption="" >}}
+{{< q-figure id="2018-196" >}}
 
 >“Good wife, wise mother”<br />
 >—Popular aphorism in Meiji-era Japan<br />
