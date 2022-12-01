@@ -4,7 +4,7 @@ title: "Her Brush: New Approaches to Gender and Agency in Japanese Art"
 contributor:
   - id: einorcervone
 type: page
-weight: 5
+weight: 4
 ---
 
 ## An Introduction
