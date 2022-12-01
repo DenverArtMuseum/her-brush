@@ -4,7 +4,7 @@ type: essay
 weight: 106
 ---
 
-##Floating World
+## Floating World
 
 Starting in the Tokugawa period (or Edo period, 1615–1868), the Floating World (*ukiyo*) referred to the state-sanctioned pleasure quarters, or urban entertainment districts, which catered to male patrons who frequented the teahouses, brothels, and theaters. The term alludes to the hedonistic and ephemeral nature of this realm.
 
@@ -57,9 +57,9 @@ This display is a reinterpretation of the traditional mounting in a scattered ar
 >&#12288;梶が茶屋」<br />
 >&#12288;宝井其角
 
-{{< q-figure id="" caption="Illustration by Mikuma Katen (三熊思孝), *Matsuya Teahouse*, from the *Kinsei Kijin* 近世畸伝,  woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l'UCL. Creative Commons Attribution 4.0 International license." >}}
+{{< q-figure id="gion-teahouse" >}}
 
-###Three Women of Gion 祇園三女 (1600s–1700s)
+### Three Women of Gion 祇園三女 (1600s–1700s)
 
 Kaji, Yuri, and Machi were owners of a famous teahouse in Gion called Matsuya (illustrated here) where many of Kyoto’s lovers of art and poetry would meet. Together, these three remarkable women formed a matriarchal artistic lineage.
 

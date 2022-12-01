@@ -3,7 +3,7 @@ Title: Unstoppable
 type: essay
 weight: 108
 ---
-##Unstoppable (No Barriers) (*mukan* 無関)
+## Unstoppable (No Barriers) (*mukan* 無関)
 
 {{< q-figure id="2018-154A-C" >}}
 
@@ -27,18 +27,18 @@ Little is known of Yamamoto Shōtō’s background, but her enduring mark surviv
 
 In Takabatake Shikibu’s time, signboards such as this commonly posted governmental edicts. In a veiled critique of unjust rules and restrictions, Shikibu asserts that nature and reason will ultimately prevail.
 
-*Flowering branches*
-*must not be broken off.*
-*So says the signboard.*
-*But with whose permission*
-*does the storm blow over it?*
+>Flowering branches<br />
+>must not be broken off.<br />
+>So says the signboard.<br />
+>But with whose permission<br />
+>does the storm blow over it?
 
 {{< q-figure id="2018-164" >}}
 
 Being a nun, Ōtagaki Rengetsu could travel freely despite state-imposed restrictions on unaccompanied women travelers. Still, innkeepers commonly refused nuns lodging. The poem reflects her endurance as she found (and created) beauty despite the inn turning her away and having to spend the night unsheltered:
 
-*The inn refuses me,*
-*but their slight is a kindness.*
-*I make my bed instead*
-*below the cherry blossoms*
-*with the hazy moon above.*
+>The inn refuses me,<br />
+>but their slight is a kindness.<br />
+>I make my bed instead<br />
+>below the cherry blossoms<br />
+>with the hazy moon above.

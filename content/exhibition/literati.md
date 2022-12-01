@@ -3,7 +3,7 @@ Title: Literati Circles
 type: essay
 weight: 107
 ---
-##Literati Circles
+## Literati Circles
 
 United by a shared appreciation for China’s artistic traditions, intellectuals and art enthusiasts formed literati societies (*bunjin*). For them, art was a form of social interaction. In their gatherings, they composed poetry, painted together, and inscribed calligraphy for one another.
 
@@ -45,14 +45,14 @@ These paintings belong to the genre of *haiga*, an abbreviated and swiftly execu
 
 Nonoguchi Ryūho was one of the progenitors of the *haiga* form. Takabatake Shikibu, a poet-painter who exhibited talent at an exceedingly young age, continued producing art well into her 90s. In haiga, text becomes an aesthetic element, offsetting, complementing, and balancing the image.
 
-###Okuhara Seiko 奥原晴湖 (1837–1913)
+### Okuhara Seiko 奥原晴湖 (1837–1913)
 
 {{< q-figure id="" caption="Okuhara Seiko 奥原晴湖, 1912. Photographer unknown. Source: Patricia Fister, *Japanese Women Artists, 1600–1900* (Lawrence, KS: Spencer Museum of Art/Harper & Row, Publishers Inc., 1988), fig. 16." >}}
 
 >“The tip of her brush<br />
 >can wipe away<br />
 >one thousand armies.”<br />
->—Writer for *Postal News*, 1875<br />
+>—Writer for *Postal News*, 1875
 
 Okuhara Seiko (born Ikeda Setsu) was born into a high-ranking samurai family from Koga. Arriving in Edo (Tokyo), Seiko almost instantaneously garnered a large following and established a studio, which became a vibrant hub for literati painters, poets, and calligraphers.
 
@@ -67,7 +67,7 @@ One of the period’s most influential literati artists, Seiko founded a school 
 {{< q-figure id="2018-196" >}}
 
 >“Good wife, wise mother”<br />
->—Popular aphorism in Meiji-era Japan<br />
+>—Popular aphorism in Meiji-era Japan
 
 Noguchi Shōhin burst onto the literati art scene right at the tail end of Okuhara Seiko’s heyday. She exhibited remarkable talent from an early age and later enjoyed imperial patronage, becoming the first woman artist to be appointed Official Artist of the Imperial Household in 1904.
 
