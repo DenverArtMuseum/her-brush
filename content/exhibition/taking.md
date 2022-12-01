@@ -23,9 +23,9 @@ This is an imagined portrait done 60 years after Rengetsu’s death. Depicting h
 >“I took leave of this floating world. The day I thought I wished to see every famous nook and corner under the heavens and pay homage to every shrine and temple, I just took to the road, all by myself.”<br />
 >—Tagami Kikusha
 
->「浮世に暇あく身と成ぬれば、
->&#12288;天が下の名にあふくまぐま神社仏閣を拝詣せばやと思ひ立日を其儘に、
->&#12288;ひとり旅路におもむきぬ」
+>「浮世に暇あく身と成ぬれば、<br />
+>&#12288;天が下の名にあふくまぐま神社仏閣を拝詣せばやと思ひ立日を其儘に、<br />
+>&#12288;ひとり旅路におもむきぬ」<br />
 >&#12288;田上菊舎
 
 {{< q-figure id="2021-206" >}}
@@ -74,9 +74,9 @@ This poem was written shortly after this turning point. It reads:
 
 
 
->「髪を結ふ
->&#12288;手の隙明て　
->&#12288;炬燵哉」
+>「髪を結ふ<br />
+>&#12288;手の隙明て　<br />
+>&#12288;炬燵哉」<br />
 >&#12288;加賀千代
 
 

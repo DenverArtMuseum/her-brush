@@ -14,42 +14,38 @@ Being well-versed in The Three Perfections (painting, poetry, and calligraphy) w
 
 Eternal art in a floating world.
 
-{{< q-figure id="2018.183" caption="" >}}
+{{< q-figure id="2018-183" >}}
 
 Ōhashi is the stage name of Ritsu, born to a wealthy samurai family and trained in various arts as a child. When her family lost their fortune, they sold her to a brothel. With her talent and dazzling looks, she quickly rose to the highest rank of *tayū* (Grand Courtesan) in Kyoto’s Shimabara pleasure quarter. Although highly admired, she remained beholden to her clients and patrons.
 
 Her poems here read:
 
-*Last night’s affair,*
+>Last night’s affair,<br />
+>this morning’s parting. Which will be<br />
+>the seed of love?<br />
+>So you say, though…
 
-*this morning’s parting. Which will be*
+>The dawn has come.<br />
+>My hands wring out my sleeves, making the pools<br />
+>overflow with my tears.
 
-*the seed of love?*
-
-So you say, though . . .
-
-*The dawn has come.*
-
-*My hands wring out my sleeves, making the pools*
-
-*overflow with my tears.*
-
-{{< q-figure id="2018.181.4-44" caption="" >}}
+{{< q-figure id="2018-181-install" >}}
 
 These poetry slips (*tanzaku*) were written by women and men occupying different social realms, including pleasure quarters, aristocracy, and monastic orders. Written in private or in gatherings, tanzaku were saved, exchanged, and sometimes discarded. These floating tanzaku therefore existed in a space between art and ephemera.
 
 This display is a reinterpretation of the traditional mounting in a scattered arrangement (*chirashigaki*). A modern example bears the poetry of Takabatake Shikibu, a literati artist whose works appear in the next section.
 
-{{< q-figure id="2018.226" caption="" >}}
+{{< q-figure id="2018.226" >}}
 
 >“The Star Festival—<br />
 >Off to hear good poetry<br />
 >at lady Kaji’s teahouse.”<br />
->—Takarai Kikaku<br />
+>—Takarai Kikaku
 
->七夕や<br />
->良き歌聞きに<br />
->梶が茶屋<br />
+>「七夕や<br />
+>&#12288;良き歌聞きに<br />
+>&#12288;梶が茶屋」<br />
+>&#12288;宝井其角
 
 {{< q-figure id="" caption="Illustration by Mikuma Katen (三熊思孝), *Matsuya Teahouse*, from the *Kinsei Kijin* 近世畸伝,  woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l'UCL. Creative Commons Attribution 4.0 International license." >}}
 
