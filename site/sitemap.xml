@@ -9,10 +9,6 @@
   </url>
   
   <url>
-    <loc>/walk-through/</loc>
-  </url>
-  
-  <url>
     <loc>/forward/</loc>
   </url>
   
@@ -25,11 +21,11 @@
   </url>
   
   <url>
-    <loc>/exhibition/</loc>
+    <loc>/walk-through/</loc>
   </url>
   
   <url>
-    <loc>/exhibition/preamble/</loc>
+    <loc>/exhibition/</loc>
   </url>
   
   <url>
@@ -70,6 +66,10 @@
   
   <url>
     <loc>/exhibition/works/1/</loc>
+  </url>
+  
+  <url>
+    <loc>/exhibition/works/2/</loc>
   </url>
   
   <url>
