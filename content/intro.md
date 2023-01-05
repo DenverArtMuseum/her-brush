@@ -1,40 +1,48 @@
 ---
 label: Introduction
-title: "Her Brush: New Approaches to Gender and Agency in Japanese Art"
+title: "Introduction"
 contributor:
   - id: einorcervone
 type: page
 weight: 4
 ---
 
-## An Introduction
+## Introduction
 
 Why is it that you’ve never heard of Katō Seiko?
 
-How about Yamamoto Shōtō or Kō (Ōshima) Raikin? It is not that they weren’t well known. They were, quite so, both during their own lifetime and in generations that followed. The brilliance of their work, too, stands the test of time—whether in Seiko’s sprightly jubilations of finches among verdant blades of bamboo (fig. 1); in the measured steps of a weary countryman, returning home in autumnal twilight over Raikin’s brushed steps (fig. 2); or in Shōtō’s golden gossamers, malachite pools, and rushes of ink that give form to her supramundane chrysanthemums (fig. 3).
+How about Yamamoto Shōtō or Kō (Ōshima) Raikin? It is not that they weren’t well known. They were, quite so, both during their own lifetimes and in generations that followed. The brilliance of their work, too, stands the test of time—whether in Seiko’s sprightly jubilations of finches among verdant blades of bamboo (fig. 1); in the measured steps of a weary countryman, returning home in autumnal twilight over Raikin’s brushed steps (fig. 2); or in Shōtō’s golden gossamers, malachite pools, and rushes of ink that give form to her supramundane chrysanthemums (fig. 3).
+
+{% figure 'intro-1' %}
+
+{% figure 'intro-2' %}
+
+{% figure 'intro-3' %}
 
 These are only some of the names whose absence from the ledgers of art history has summoned this project.
 
-*Her Brush: New Approaches to Gender and Agency in Japanese Art* is a multipronged project with a twofold objective: representation and accessibility. To achieve these goals, it leverages an expansive collection of calligraphy, painting, and ceramics, largely by women artists from early modern and modern Japan.
+The exhibition *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection* (November 13, 2022–May 13, 2023) marks the inauguration of a multipronged project with a twofold objective: representation and accessibility. To achieve these goals, it leverages an expansive collection of calligraphy, painting, and ceramics, largely by women artists from early modern and modern Japan.
 
 This all began with a gift.
 
-In 2018, Dr. John Fong and Dr. Colin Johnstone pledged their collection of over 500 works of Japanese art to the Denver Art Museum. Jiao Tianlong (Palace Museum Hong Kong), then Joseph de Heer Curator of Asian Art, along with Professor Andrew Maske (Professor of museum studies and Director of Gordon L. Grosscup Museum, Wayne State University), a specialist of Japanese ceramics, conceived of an exhibition focusing on one of the main strengths of the Fong-Johnstone collection: works by women artists dating from the 1600s to the 1900s.
+In 2018, Dr. John Fong and Dr. Colin Johnstone pledged their collection of over five hundred works of Japanese art to the Denver Art Museum. Tianlong Jiao (Palace Museum Hong Kong), then Joseph de Heer Curator of Asian Art, along with Professor Andrew Maske (Wayne State University), a specialist of Japanese ceramics, conceived of an exhibition focusing on one of the main strengths of the Fong-Johnstone Collection: works by women artists dating from the 1600s to the 1900s. In line with the museum’s commitment to collecting and exhibiting underrepresented art and artists, the proposal was embraced wholeheartedly.
 
-Research and preparation were underway when all work on the exhibition abruptly ground to a halt with the pandemic outbreak and curatorial changeover. Above all, a reckoning of an altered cultural landscape, which demanded an active response from art institutions, loomed large as a need—and as an opportunity.
+Research and preparation were underway when all work on the exhibition abruptly ground to a halt with the pandemic outbreak and curatorial changeover. Themes of artistic volition and inclusivity came to the fore, and a reckoning with an altered cultural landscape made the exhibition all the more relevant. The project as a whole seeks to bring awareness to this long-overlooked group of artists by shifting exhibition priorities and through ongoing commitment to focused programming, academic symposia, and artist engagement.
 
-Thanks to the museum’s longstanding commitment to DEAI (Diversity, Equity, Accessibility, and Inclusiveness), and a team like no other of creative and devoted individuals, an idea was born. The project, *Her Brush: New Approaches to Gender and Agency in Japanese Art,* seeks to bring awareness to this long-overlooked group of artists by shifting exhibition priorities and through ongoing commitment to focused programming, academic symposia, and artist engagement.
+The Fong-Johnstone Collection, which according to the collectors, was itself inspired by the formidable art dealer Alice Boney (1901–1988), has been little studied and never shown. It holds many mysteries and questions, from identification to authenticity (figs. 4 and 5). It is, therefore, an invaluable resource for the study of connoisseurship. Addressing the steadily narrowing opportunities of in-person access to artworks, the Fong-Johnstone Collection and the Study Collection will ultimately be made fully available for study—both online and in person. It will provide opportunities to delve into questions of authorship and authenticity and to consider the nuances of connoisseurship.
 
-The Fong-Johnstone collection, which, according to the collectors, was itself inspired by the formidable art dealer Alice Boney (1901–1988), has been little studied and never shown. It holds many mysteries and questions, from identification to authenticity (figs. 4 and 5). It is, therefore, an invaluable resource for the study of connoisseurship. Addressing the steadily narrowing opportunities of in-person access to artworks, the Fong-Johnstone collection will ultimately be made fully available for study—both online and in person. This study collection will provide opportunities to delve into questions of authorship and authenticity and to consider the nuances of connoisseurship.
+{% figure 'intro-4' %}
 
-In response to the dearth of information in Western languages, an eponymous digital publication will be made open source. Comprised of videos, scholarly essays, as well as exhibition and object information, it will be updated as new information comes to light. This online publication, the harbinger of which you are now reading, includes in-gallery materials from the inaugural exhibition, *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection* (opening November 13, 2022)*.* In addition, Professor Emerita Patricia Fister (International Research Center for Japanese Studies, or Nichibunken), who spearheaded the field back in the 1980s and dedicated her career to the study and exhibition of Japanese women artists, has generously contributed an important essay.
+{% figure 'intro-5' %}
 
-To follow, short essays by scholars and specialists participating in a forthcoming symposium (February 25, 2023) will add to the ongoing discourse on gender and agency in Japanese art.
+The catalog presents new research, detailed exhibition and object content, and supplemental materials that shed light on the artists and their lives. In response to the dearth of information in Western languages, it also takes a self-reflexive approach, contextualizing the exhibition and considering the subject through a multidisciplinary framework. Leading scholars, artists, and specialists weigh in on the state of the field—past, present, and future.
 
-Additionally, a case study of works in the Fong-Johnstone Study Collection will begin to highlight some of the conundrums surrounding them, delving into the question of authenticity and its spectrum—from homage to forgery. How might we understand the cultural nuances of authorship? How might a copy shed light on the historical and contemporary demand for a given artist? We welcome future contributions and hope to continue and feature new scholarship.
+Patricia Fister, who spearheaded the field in the 1980s and dedicated her career to the study and exhibition of Japanese women artists, has contributed an important essay. “Calligraphy, Poems, and Paintings by Japanese Buddhist Nuns” offers rare insights into artistic production by Buddhist nuns in early modern and modern Japan. A case study by Cervone, “On the Fong-Johnstone Study Collection and the Power of Access,” reconsiders questions of authenticity and its spectrum—from homage to forgery. How might we understand the cultural nuances of authorship? How might a copy shed light on the historical and contemporary demand for a given artist? Interpretive specialist Karuna Srikureja, in her essay, “xxx,” shares and explicates the interpretive strategies and methodologies developed and applied by the Learning and Engagement team at the Denver Art Museum to make *Her Brush* an inclusive, impactful, and relevant experience.
 
-This online publication will also serve as a platform for elevating voices of contemporary artists and their responses to works in the collection. Those will include Denver-based Sarah Fukami’s contemporary take on portraits of several of the showcased artists. Kyoto-based Tomoko Kawao will pursue her international, multiyear *Hitomoji Project: Women* at the Denver Art Museum and Art Collective SML\|k. Kawao’s open-to-the public performance (March 21, 2023) will be recorded in the publication as well.
+In short essays, scholars and specialists participating in the symposium, *New Approaches to Gender and Agency in Japanese Art* (February 25, 2023), add their voices to the ongoing discourse. Patricia Fister shares her journey and contributions to the study and exhibition of women artists in Japan; Melissa McCormick exemplifies research approaches to word and image in Ōtagaki Rengetsu’s art; Alison Miller contemplates gender and identity in Noguchi Shōhin’s artistic persona; Amy Beth Stanley addresses historiographical approaches to archival materials and the feminine voice in early modern Japan; Marcia A. Yonemoto questions gendered divides between art and craft, artist and artisan; and Paul Berry offers his thoughts on the current state of the field.
 
-In short, *Her Brush* is both a promise and an invitation. It is the museum’s commitment to advancing the field through this collection. And it is an invitation to you—whether you are a student, an educator, a specialist, or simply curious—to explore, contribute, engage, and to make this art your own.
+Finally, this catalog brings voices of two contemporary artists and their responses to works in the collection. Denver-based Sarah Fukami’s contemporary take on portraits of several of the showcased artists is discussed in Srikureja’s essay. Beginning March 8, 2023, internationally acclaimed Kyoto-based artist Tomoko Kawao will pursue her multiyear and global *Hitomoji Project: Women* at the Denver Art Museum, with the support of Art Collective SML\|k. Kawao’s public performance (March 21, 2023) will be recorded in the publication as well.
+
+In short, this ongoing project is both a promise and an invitation. It is the museum’s commitment to advancing the field through this collection. And it is an invitation to you—whether you are a student, an educator, a specialist, or simply curious—to explore, contribute, engage, and to make this art your own.
 
 Einor Cervone<br />Associate Curator of Asian Art
