@@ -1,0 +1,28 @@
+.quire-search__close-button {
+    position: absolute;
+    left: auto;
+    right: 0;
+    top: 0;
+}
+
+.quire:not(.no-js) .quire__primary {
+    height: 100vh;
+    position: absolute;
+}
+
+.quire:not(.no-js) .quire__secondary {
+    width: 352px;
+    -webkit-transform: translateX(-352px);
+    transform: translateX(-352px);
+    z-index: 1100;
+}
+
+.quire:not(.no-js) .quire__secondary.is-expanded {
+    -webkit-transform: translateX(0);
+    transform:  translateX(0);
+}
+
+.quire:not(.no-js) .quire__secondary.is-expanded+.quire__primary {
+    left: 352px;
+    width: calc(100% - 352px);
+}
