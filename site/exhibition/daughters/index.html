@@ -1434,21 +1434,18 @@
 
   <nav class="quire-navbar-controls">
     <div class="quire-navbar-controls__left">
-      <button class="quire-navbar-button menu-button"
-              id="quire-controls-menu-button"
-              onclick="toggleMenu()"
-              aria-expanded="true"
-              aria-controls="quire-menu"
-              tabindex="2" >
+      <button class="quire-navbar-button search-button"
+              aria-controls="quire-search"
+              onclick="toggleSearch()">
         <svg class="remove-from-epub">
           <switch>
-            <use xlink:href="#nav-icon"></use>
+            <use xlink:href="#search-icon"></use>
             <foreignObject width="32" height="32">
-                <img src="../../img/icons/nav.png" alt="Table of Contents" />
+                <img src="../../img/icons/search.png" alt="Search" />
             </foreignObject>
           </switch>
         </svg>
-        <span class="visually-hidden">Table of Contents</span>
+        <span class="visually-hidden">Search</span>
       </button>
     </div>
 
@@ -1497,18 +1494,21 @@
     </div>
 
     <div class="quire-navbar-controls__right">
-      <button class="quire-navbar-button search-button"
-              aria-controls="quire-search"
-              onclick="toggleSearch()">
+      <button class="quire-navbar-button menu-button"
+              id="quire-controls-menu-button"
+              onclick="toggleMenu()"
+              aria-expanded="true"
+              aria-controls="quire-menu"
+              tabindex="2" >
         <svg class="remove-from-epub">
           <switch>
-            <use xlink:href="#search-icon"></use>
+            <use xlink:href="#nav-icon"></use>
             <foreignObject width="32" height="32">
-                <img src="../../img/icons/search.png" alt="Search" />
+                <img src="../../img/icons/nav.png" alt="Table of Contents" />
             </foreignObject>
           </switch>
         </svg>
-        <span class="visually-hidden">Search</span>
+        <span class="visually-hidden">Table of Contents</span>
       </button>
     </div>
   </nav>
@@ -1630,12 +1630,12 @@
   <div class="q-figure__wrapper">
     
 <figure
-    id="deepzoom-1673571958123778000"
+    id="deepzoom-1673576627045632000"
     title=""
     class="quire-figure leaflet-outer-wrapper mfp-hide notGet"
   >
     <div
-      id="js-deepzoom-1673571958123778000"
+      id="js-deepzoom-1673576627045632000"
       class="quire-deepzoom inset leaflet-inner-wrapper "
       aria-label="Zoomable image"
       aria-live="polite"
@@ -1644,7 +1644,7 @@
     ></div>
   </figure>
   <a
-    href="#deepzoom-1673571958123778000"
+    href="#deepzoom-1673576627045632000"
     class="inline popup"
     data-type="inline"
     title=""><img

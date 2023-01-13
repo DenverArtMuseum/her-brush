@@ -8,21 +8,31 @@
 .quire:not(.no-js) .quire__primary {
     height: 100vh;
     position: absolute;
+    -webkit-transform: translateX(0);
+    -webkit-transition-duration: 0.15s;
+            transition-duration: 0.15s;
 }
 
 .quire:not(.no-js) .quire__secondary {
+    top: 0;
+    left: 0;
+    right: auto;
     width: 352px;
     -webkit-transform: translateX(-352px);
     transform: translateX(-352px);
+    -webkit-transition-duration: 0.15s;
+            transition-duration: 0.15s;
     z-index: 1100;
 }
 
 .quire:not(.no-js) .quire__secondary.is-expanded {
     -webkit-transform: translateX(0);
     transform:  translateX(0);
+    width: 352px;
 }
 
 .quire:not(.no-js) .quire__secondary.is-expanded+.quire__primary {
     left: 352px;
     width: calc(100% - 352px);
+    -webkit-transform: translateX(0);
 }
