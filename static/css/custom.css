@@ -36,3 +36,8 @@
     width: calc(100% - 352px);
     -webkit-transform: translateX(0);
 }
+
+.littlefoot__button {
+    border-radius: 7.5px;
+    border: none;
+}
