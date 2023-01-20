@@ -2,6 +2,7 @@
 title: Inner Chambers
 type: essay
 weight: 103
+class: 2-columns
 ---
 
 The Inner Chambers (*ōoku* 大奥) are the secluded areas where women primarily resided within the courts and castles of the upper class. The term became synonymous with women and reveals the gender segregation of early modern Japan’s elite.
