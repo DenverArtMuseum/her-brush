@@ -82,3 +82,57 @@
     max-width: calc( 100vw - 100px );
     width: auto;
 }
+
+
+
+article.quire-page--left-column .quire-page__content .container,
+article.quire-page--right-column .quire-page__content .container {
+    max-width: 1200px;
+    width: 1200px;
+}
+article.quire-page--left-column .quire-page__content .container .content p,
+article.quire-page--right-column .quire-page__content .container .content p,
+article.quire-page--left-column .quire-page__content figure,
+article.quire-page--right-column .quire-page__content figure { 
+    max-width: 700px;
+    width: 700px;
+}
+
+
+article.quire-page--left-column .quire-page__content figure.right-column {
+    float: right;
+    max-width: 400px;
+    width: 400px;
+}
+
+article.quire-page--right-column .quire-page__content figure.left-column {
+    position: absolute;
+    right: 0;
+    max-width: 400px;
+    width: 400px;
+}
+
+.spacer {
+    width: auto;
+}
+.spacer-100 {
+    width: auto;
+    height: 100px;
+}
+.spacer-200 {
+    width: auto;
+    height: 200px;
+}
+
+/* .content figure:not(:last-child) {
+    margin-bottom: 0;
+} */
+.content figure:not(:first-child) {
+    margin-top: 0;
+}
+
+.quire-figure {
+    border-top: none;
+    border-bottom: none;
+    padding: 0;
+}
