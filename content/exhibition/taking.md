@@ -37,7 +37,7 @@ This travel journal recounts Ōtagaki Rengetsu’s visit to Arashiyama, a distri
 
 {{< q-figure id="2018-153" class="right-column" >}}
 
-[Princess Umenomiya](/nameofpage/#idname), daughter of Emperor Gomizuno-o (1596–1680), took the tonsure at age 22, changing her name to Bunchi. She later founded a temple, which functioned as a training center for women.
+Princess Umenomiya, daughter of Emperor Gomizuno-o (1596–1680), took the tonsure at age 22, changing her name to Bunchi. She later founded a temple, which functioned as a training center for women.
 
 The calligraphy reads “Bodhisattva of Myriad Acts of Compassion,” the Buddhist name for the principal deity of a Shinto shrine in Nara. By writing this *myōgō* (names of Buddhist deities as invocations), Bunchi performed a devotional act, accumulating karmic merit.
 
