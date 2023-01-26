@@ -493,7 +493,7 @@ figure_list:
   - id: "gion-teahouse"
     src: figures/Gion_Teahouse_hi-res.jpg
     caption: ""
-    credit: 'llustration by Mikuma Katen (<span lang="ja">三熊思孝</span>), *Matsuya Teahouse*, from the *Kinsei Kijin* <span lang="ja">近世畸伝</span>,  woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l\'UCL. Creative Commons Attribution 4.0 International license.'
+    credit: "llustration by Mikuma Katen (<span lang=\"ja\">三熊思孝</span>), *Matsuya Teahouse*, from the *Kinsei Kijin* <span lang=\"ja\">近世畸伝</span>,  woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l'UCL. Creative Commons Attribution 4.0 International license."
   - id: "seiko"
     src: figures/Seiko_hi-res.jpg
     caption: ""
