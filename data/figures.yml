@@ -1,27 +1,27 @@
 figure_list:
   - id: intro-1
     src: figures/2018_212_detail.jpg
-    caption: "**fig. 1:** Katō Seiko 加藤青湖 (active 1800s), *Sparrows and Bamboo* (detail), about 1872. Ink and color on silk, 9⅜ × 16⅛ in. (125.4 × 41 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.212."
+    caption: '**fig. 1:** Katō Seiko <span lang="ja">加藤青湖</span> (active 1800s), *Sparrows and Bamboo* (detail), about 1872. Ink and color on silk, 9⅜ × 16⅛ in. (125.4 × 41 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.212.'
     alt: "A close-up detail of a larger ink-painted scroll depicts 7 sparrows flitting around and sitting in the green leaves of two bamboo plants."
   - id: intro-2
     src: figures/2018_193_detail.jpg
-    caption: "**fig. 2:** Kō (Ōshima) Raikin 高(大島)来禽 (active late 1700s), *Autumn Landscape* (detail), late 1700s. Ink and light color on paper, 12⅞ × 8½ in. (32.7 × 21.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.193."
+    caption: '**fig. 2:** Kō (Ōshima) Raikin <span lang="ja">高(大島)来禽</span> (active late 1700s), *Autumn Landscape* (detail), late 1700s. Ink and light color on paper, 12⅞ × 8½ in. (32.7 × 21.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.193.'
     alt: "A close-up detail of a larger ink-painted scroll depicts house on an outcropping, surrounded by trees. A small figure in a blue shirt walks up a path toward the house."
   - id: intro-3
     src: figures/2018_216_detail.jpg
-    caption: "**fig. 3:** Yamamoto Shōtō 山本緗桃 (1757–1831), *Chrysanthemums* (detail), late 1700s–early 1800s. Ink, color, and gold on silk, 9⅛ × 7⅜ in. (23.2 × 18.7 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.216."
+    caption: '**fig. 3:** Yamamoto Shōtō <span lang="ja">山本緗桃</span> (1757–1831), *Chrysanthemums* (detail), late 1700s–early 1800s. Ink, color, and gold on silk, 9⅛ × 7⅜ in. (23.2 × 18.7 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.216.'
     alt: "A close-up detail of a larger ink-painted scroll depicts finely painted green leaves from a chrysanthemum. A red stamp is visible in the upper left of the image."
   - id: intro-4
     src: figures/2018_255.jpg
-    caption: "**fig. 4:** Artist unknown (signed Kiyohara Yukinobu 清原雪信, active 1600s–1700s), *Genji Peeping at the Young Murasaki*, 1600s. Ink and color on silk, 15¼ × 21½ in. (38.7 × 54.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.255."
+    caption: '**fig. 4:** Artist unknown (signed Kiyohara Yukinobu <span lang="ja">清原雪信</span>, active 1600s–1700s), *Genji Peeping at the Young Murasaki*, 1600s. Ink and color on silk, 15¼ × 21½ in. (38.7 × 54.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.255.'
     alt: "A house with a large porch stands on stilts amid a hilly landscape. A green pine tree grows on the hillside to the right. Below the porch, a lavishly dressed man and his servant look up at the porch where three women and a young girl, all in kimonos, stand and sit."
   - id: intro-5
     src: figures/2018_149_1-3.jpg
-    caption: "**fig. 5:** Artist unknown (later signed Kiyohara Yukinobu 清原雪信, active 1600s–1700s), *Fukurokuju and Flowers of the Winter and Early Spring*, 1660–80s. Ink and color on silk triptych, each 40¾ × 16⅜ in. (103.5 × 41.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.149.1-3."
+    caption: '**fig. 5:** Artist unknown (later signed Kiyohara Yukinobu <span lang="ja">清原雪信</span>, active 1600s–1700s), *Fukurokuju and Flowers of the Winter and Early Spring*, 1660–80s. Ink and color on silk triptych, each 40¾ × 16⅜ in. (103.5 × 41.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.149.1-3.'
     alt: "Triptych of hanging scrolls. The center scroll depicts a jovial, prancing elder—the longevity deity Fukurokuju—with an exaggerated cranium and large white beard, walking through a landscape. On the left and right scrolls, birds rest on blossoming branches."
   - id: fister-1
     src: figures/2018_153.jpg
-    caption: "**fig. 1:** Daitsū Bunchi 大通文智 (1619–1697), *Bodhisattva of Myriad Acts of Compassion* (Jihi Mangyō Bosatsu), 1600s. Ink on paper, 38¾ × 11 in (98.4 × 27.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.153."
+    caption: '**fig. 1:** Daitsū Bunchi <span lang="ja">大通文智</span> (1619–1697), *Bodhisattva of Myriad Acts of Compassion* (Jihi Mangyō Bosatsu), 1600s. Ink on paper, 38¾ × 11 in (98.4 × 27.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.153.'
     alt: "Hanging scroll with a single line of semi-cursive calligraphy. The strong and energetic characters are rendered in thick black ink on yellowing paper."
   - id: fister-2
     src: figures/FISTER_fig2_Bunchi_portrait.jpg
@@ -29,7 +29,7 @@ figure_list:
     alt: "An older woman with no hair wears heavy black and brown robes and sits on a green polka-dot armchair with wooden arms and legs. The shape of the chair matches the woman’s round body. Above her, fourteen lines of Japanese characters fill the top of the frame."
   - id: fister-3
     src: figures/2018_159.jpg
-    caption: "**fig. 3:** Ryōnen Gensō 了然元総 (1646–1711), *Poem*, late 1600s–early 1700s. Ink on paper, 11¼ × 11 in. (28.6 × 27.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.159."
+    caption: '**fig. 3:** Ryōnen Gensō <span lang="ja">了然元総</span> (1646–1711), *Poem*, late 1600s–early 1700s. Ink on paper, 11¼ × 11 in. (28.6 × 27.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.159.'
     alt: "Five vertical lines of cursive Japanese calligraphy are painted on yellowing paper at varying heights and thicknesses. Two large red square seals at bottom left."
   - id: fister-4
     src: figures/FISTER_fig_4_cropped.jpg
@@ -37,39 +37,39 @@ figure_list:
     alt: "A black-and-white woodblock print depicting the nun Ryōn with a shaved head, putting a hot iron to her face. Two startled attendants reach out to try and stop her."
   - id: fister-5
     src: figures/2018_160.jpg
-    caption: "**fig. 5:** Image by Utagawa Kunisada 歌川国貞 (1786–1864), inscription by Ryūtei Tanehiko 柳亭種彦 (1783–1842), “The Nun Ryōnen (Ryōnen-ni)” from *Famous Women of Past and Present* (*Kokon meifuden*), 1864. Color woodblock print, 14⅞ × 9¾ in. (37.8 × 24. 8 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.160."
+    caption: '**fig. 5:** Image by Utagawa Kunisada <span lang="ja">歌川国貞</span> (1786–1864), inscription by Ryūtei Tanehiko 柳亭種彦 (1783–1842), “The Nun Ryōnen (Ryōnen-ni)” from *Famous Women of Past and Present* (*Kokon meifuden*), 1864. Color woodblock print, 14⅞ × 9¾ in. (37.8 × 24. 8 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.160.'
     alt: "Colorful woodblock print showing a nun pressing a hot iron to her cheek. A brazier with smoldering embers in the background. Tightly arranged blocks of Japanese text overhead."
   - id: fister-6
     src: figures/2018_222.jpg
-    caption: "**fig. 6:** Tagami Kikusha 田上菊舎 (1753–1826), *Hermit/Self-Portrait*, early 1800s. Ink on paper, 11½ × 4⅝ in. (29.2 × 11. 7 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.222."
+    caption: '**fig. 6:** Tagami Kikusha <span lang="ja">田上菊舎</span> (1753–1826), *Hermit/Self-Portrait*, early 1800s. Ink on paper, 11½ × 4⅝ in. (29.2 × 11. 7 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.222.'
     alt: "Small monochrome ink painting on yellowing paper. A few expressive strokes outline a robed figure facing away. Cursive and archaic style calligraphy occupy most of the space above."
   - id: fister-7
     src: figures/2018_164.jpg
-    caption: "**fig. 7:** Ōtagaki Rengetsu 太田垣蓮月 (1791–1875), *Moon, Blossoming Cherry, and Poem*, 1867. Ink and color on paper, 14⅝ × 18¼ in. (37.1 × 46.4 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.164."
+    caption: '**fig. 7:** Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span> (1791–1875), *Moon, Blossoming Cherry, and Poem*, 1867. Ink and color on paper, 14⅝ × 18¼ in. (37.1 × 46.4 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.164.'
     alt: "On the left, the moon looms large behind a Sakura branch rendered in soft ink and light ochres. On the right, a poem in thin calligraphy."
   - id: fister-8
     src: figures/2021_198_1.jpg
-    caption: "**fig. 8:**  Ōtagaki Rengetsu 太田垣蓮月 (1791–1875), *Sweets Plate with Painting and Poem*, 1800s. Ink and color on cedar plank, 5¼ × 6½ in. (13.3 × 16.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2021.198.XX."
+    caption: '**fig. 8:**  Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span> (1791–1875), *Sweets Plate with Painting and Poem*, 1800s. Ink and color on cedar plank, 5¼ × 6½ in. (13.3 × 16.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2021.198.XX.'
     alt: "Small and flat rectangular wooden plate with painting and cursive calligraphy"
   - id: fister-9
     src: figures/2021_206.jpg
-    caption: "**fig. 9:** Ōtagaki Rengetsu 太田垣蓮月 (1791–1875), *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper, 1¼ × 4¼ × 6½ in. (3.2 × 10.8 ×16.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2021.206."
+    caption: '**fig. 9:** Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span> (1791–1875), *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper, 1¼ × 4¼ × 6½ in. (3.2 × 10.8 ×16.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
     alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
   - id: fister-10
     src: figures/2021_156.jpg
-    caption: "**fig. 10:** Calligraphy by Ōtagaki Rengetsu 太田垣蓮月 (1791–1875), painting by Tomioka Tessai 富岡鉄斎 (1836–1924), *Three Waka Poems and a Pine*, second half of the 1800s. Ink on paper, 38¼ × 12 in. (97.2 × 30.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2021.156."
+    caption: '**fig. 10:** Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span> (1791–1875), painting by Tomioka Tessai 富岡鉄斎 (1836–1924), *Three Waka Poems and a Pine*, second half of the 1800s. Ink on paper, 38¼ × 12 in. (97.2 × 30.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2021.156.'
     alt: "Energetically brushed Japanese characters in black ink fill the top three quarters of a long, narrow composition. A delicately drawn branch of a pine tree spreads across the bottom of the composition. A signature and two red stamps are in the bottom right corner."
   - id: fister-11
     src: figures/2018_245.jpg
-    caption: "**fig. 11:** Calligraphy by Ōtagaki Rengetsu 太田垣蓮月 (1791–1875), painting by Wada Gesshin 和田月心 (1800–70), *Stag and Poem*, 1865–70. Ink on paper, 26¾ × 7¾ (67.9 × 19.7 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.245."
+    caption: '**fig. 11:** Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span> (1791–1875), painting by Wada Gesshin <span lang="ja">和田月心</span> (1800–70), *Stag and Poem*, 1865–70. Ink on paper, 26¾ × 7¾ (67.9 × 19.7 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.245.'
     alt: "A stag painted in thin black ink stands on a light ground near the bottom of the narrow, vertical composition. A poem in Japanese calligraphy is inscribed in the top half of the composition, and a red stamped seal appears below the stag."
   - id: fister-12
     src: figures/2018_259_1-2.jpg
-    caption: "**fig. 12:** Kuroda Kōryō 黒田光良 (1823–1895), *Two Teabowls in the Style of Rengetsu* (Rengetsu-yaki), late 1800s. Glazed ceramic, each bowl 1⅞ ×4½ in. dia. (4.6 × 11.4 cm dia.). Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2."
+    caption: '**fig. 12:** Kuroda Kōryō <span lang="ja">黒田光良</span> (1823–1895), *Two Teabowls in the Style of Rengetsu* (Rengetsu-yaki), late 1800s. Glazed ceramic, each bowl 1⅞ ×4½ in. dia. (4.6 × 11.4 cm dia.). Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2.'
     alt: "Two small beige bowls with slanted sides. The exteriors are rough and darker brown than the smooth interiors. The interior rims are stamped with small squares and circles. The interior of the bowls are lighter beige and inscribed with poems written in  Japanese characters."
   - id: fister-13
     src: figures/2018_165.jpg
-    caption: "**fig. 13:** Suganuma Ōhō 菅沼大鳳 (1891–1966), *Rengetsu Working in Her Hut*, 1935. Ink and color on paper, 45⅛ × 16⅞ (114.6 × 42.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.165."
+    caption: '**fig. 13:** Suganuma Ōhō <span lang="ja">菅沼大鳳</span> (1891–1966), *Rengetsu Working in Her Hut*, 1935. Ink and color on paper, 45⅛ × 16⅞ (114.6 × 42.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.165.'
     alt: "Detailed ink painting showing a birds-eye view of a simple but elegantly furnished hut, partially obscured by trees. Inside, a seated nun serenely inscribes her pottery."
   - id: fister-14
     src: figures/FISTER_fig14.jpg
@@ -77,19 +77,19 @@ figure_list:
     alt: "Black and white side-profile photograph of the artist wearing a black cap. She holds a paint brush in her mouth and bends towards a piece of paper on the table in front of her."
   - id: fister-15
     src: figures/2018_157.jpg
-    caption: "**fig. 15:** Ōishi Junkyō 大石順教 (1888–1968), *Willow and Frog*, mid-1900s. Ink on paper, 15 × 19¾ in. (38.1 × 50.2 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.157."
+    caption: '**fig. 15:** Ōishi Junkyō <span lang="ja">大石順教</span> (1888–1968), *Willow and Frog*, mid-1900s. Ink on paper, 15 × 19¾ in. (38.1 × 50.2 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.157.'
     alt: "A small frog leaps with outstretched limbs towards a delicately-brushed branch in the upper left-hand corner. Sprightly, cursive script occupies most of the paper ground, dwarfing the little frog."
   - id: fister-16
     src: figures/2018_158.jpg
-    caption: "**fig. 16:** Ōishi Junkyō 大石順教 (1888–1968), *Shrimp*, mid-1900s. Ink on paper, 6¼ × 13¾ in. (15.7 × 34.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.158."
+    caption: '**fig. 16:** Ōishi Junkyō <span lang="ja">大石順教</span> (1888–1968), *Shrimp*, mid-1900s. Ink on paper, 6¼ × 13¾ in. (15.7 × 34.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.158.'
     alt: "Fan painting on light paper using wet dabs of monochrome ink of a wide-eyed shrimp, stretching claws to upper right corner. Artist’s signature on the left."
   - id: fister-17
     src: figures/2018_156.jpg
-    caption: "**fig. 17:** Ōishi Junkyō 大石順教 (1888–1968), *Bodhisattva Kannon* (Avalokiteśvara), mid-1900s. Ink on paper, 25⅝ × 13⅜ in. (65.1 × 34 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.156."
+    caption: '**fig. 17:** Ōishi Junkyō <span lang="ja">大石順教</span> (1888–1968), *Bodhisattva Kannon* (Avalokiteśvara), mid-1900s. Ink on paper, 25⅝ × 13⅜ in. (65.1 × 34 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.156.'
     alt: "Simply brushed plain line painting in black ink of a seated meditating feminine figure draped in a flowy robe. Japanese calligraphy on the right."
   - id: fister-18
     src: figures/FISTER_fig18.jpg
-    caption: "**fig. 18:** Ōishi Junkyō 大石順教 (1888–1968), *Bird and Grapes*, date not known. Hanging scroll: ink and color on silk, 44½ × 10⅝ in. (113 × 27 cm). Private collection."
+    caption: '**fig. 18:** Ōishi Junkyō <span lang="ja">大石順教</span> (1888–1968), *Bird and Grapes*, date not known. Hanging scroll: ink and color on silk, 44½ × 10⅝ in. (113 × 27 cm). Private collection.'
     alt: "At the top, a black and gray bird with its beak slightly open and head tilted upward sits on a branch. Tendrils, leaves, and blue-red grapes fill the space to the right of the bird. Four lines of calligraphy fill the bottom half of the long, horizontal paper."
   - id: fister-19
     src: figures/FISTER_fig19.jpg
@@ -97,17 +97,17 @@ figure_list:
     alt: "The nun-artist Murase Myōdō sits on a wooden platform, with her white-socked feet in the foreground. A black cat sits to the left, and a walking cane lies on the platform on the right. A lush green forest and a thatch-roofed house in the background."
   - id: fister-20
     src: figures/2018_155.jpg
-    caption: "**fig. 20:** Murase Myōdō 村瀬明道 (1924–2013), *Breaking Waves in the Pines* (*shōtō*), late 1900s. Ink on paper, 12⅝ × 23⅞ in. (32.1 × 60.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.155."
+    caption: '**fig. 20:** Murase Myōdō <span lang="ja">村瀬明道</span> (1924–2013), *Breaking Waves in the Pines* (*shōtō*), late 1900s. Ink on paper, 12⅝ × 23⅞ in. (32.1 × 60.6 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.155.'
     alt: "Two thickly brushed Japanese characters in black ink occupy the center of a horizontal piece of paper. One small red stamp in the top left corner, and two others on the right-center edge of the paper."
   - id: fister-21
     src: figures/2018_154A-C.jpg
-    caption: "**fig. 21:** Murase Myōdō 村瀬明道 (1924–2013), *Kan* (barrier), late 1900s. Ink on paper with wood frame, overall 23⅝ × 41½ × 12 in. (60 × 105.4 × 30.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.154A-C."
+    caption: '**fig. 21:** Murase Myōdō <span lang="ja">村瀬明道</span> (1924–2013), *Kan* (barrier), late 1900s. Ink on paper with wood frame, overall 23⅝ × 41½ × 12 in. (60 × 105.4 × 30.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.154A-C.'
     alt: "Small, double-sided table screen. Each face bears a sweeping, powerfully brushed Japanese character that occupies most of the paper ground. Small red seals punctuate it."
   - id: 2018-146
     src: figures/2018_146.jpg
     alt: "Two large Japanese characters are written in thick black ink at the top of the long, horizontal composition. At the bottom, a woman in a brown and black robe sits on a thinly painted white rug with her knees bent beneath her. She holds rosary beads and seems to look out at the observer."
     caption: ""
-    credit: "Unidentified artist, Signed Mirei 美嶺, **The Three Obediences (Sanjū)**, 1700s–mid-1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.146"
+    credit: 'Unidentified artist, Signed Mirei <span lang="ja">美嶺</span>, **The Three Obediences (Sanjū)**, 1700s–mid-1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.146'
   - id: "2018_149_1"
     src: figures/2018_149_1-3.jpg
     caption: ""
@@ -128,27 +128,27 @@ figure_list:
     src: figures/2018_150.jpg
     alt: "A slender, elegantly dressed woman in flowing robes sits crosslegged on a tuft of grass upon a rock. She strums a lute that rests in her lap. Behind her is a vague suggestion of a landscape, and a large, moon-like orb frames the top half of her body."
     caption: ""
-    credit: "Kiyohara Yukinobu 清原雪信, 1643–1682, **The Goddess Benzaiten and Her Lute (*biwa*)**, 1660s–80s, Ink, color, and gold on silk, Gift of Drs. John Fong and Colin Johnstone, 2018.150"
+    credit: 'Kiyohara Yukinobu <span lang="ja">清原雪信</span>, 1643–1682, **The Goddess Benzaiten and Her Lute (*biwa*)**, 1660s–80s, Ink, color, and gold on silk, Gift of Drs. John Fong and Colin Johnstone, 2018.150'
   - id: 2018-152
     src: figures/2018_152.jpg
     alt: "A man with black hair in a high bun and a long, wispy beard wearing a kimono takes up the majority of the composition. Japanese calligraphy is above both of his shoulders, and also in the lower left-hand corner."
     caption: ""
-    credit: "Ono no Ozū (or Ono no Otsū) 小野お通 (1559/68–before 1650), *The Deified Sugawara Michizane Crossing to China* (Totō Tenjin), early 1600s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.152."
+    credit: 'Ono no Ozū (or Ono no Otsū) <span lang="ja">小野お通</span> (1559/68–before 1650), *The Deified Sugawara Michizane Crossing to China* (Totō Tenjin), early 1600s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.152.'
   - id: 2018-153
     src: figures/2018_153.jpg
     alt: "Hanging scroll with a single line of semi-cursive calligraphy. The strong and energetic characters are rendered in thick black ink on yellowing paper."
     caption: ""
-    credit: "Daitsū Bunchi 大通文智, 1619–1697, **Bodhisattva of Myriad Acts of Compassion (Jihi Mangyō Bosatsu)**, 1600s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.153"
+    credit: 'Daitsū Bunchi <span lang="ja">大通文智</span>, 1619–1697, **Bodhisattva of Myriad Acts of Compassion (Jihi Mangyō Bosatsu)**, 1600s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.153'
   - id: 2018-154A-C
     src: figures/2018_154A-C~2.jpg
     alt: "Small, double-sided table screen. Each face bears a sweeping, powerfully brushed Japanese character that occupies most of the paper ground. Small red seals punctuate it."
     caption: ""
-    credit: "Murase Myōdō 村瀬明道, 1924–2013, ***Mu* (no, nothingness)** and ***Kan* (barrier)**, Late 1900s, Ink on paper with wood frame, 2018.154A-C"
+    credit: 'Murase Myōdō <span lang="ja">村瀬明道</span>, 1924–2013, ***Mu* (no, nothingness)** and ***Kan* (barrier)**, Late 1900s, Ink on paper with wood frame, 2018.154A-C'
   - id: 2018-155
     src: figures/2018_155.jpg
     alt: "Two thickly brushed Japanese characters in black ink occupy the center of a horizontal piece of paper. One small red stamp in the top left corner, and two others on the right-center edge of the paper."
     caption: ""
-    credit: "Murase Myōdō 村瀬明道, 1924–2013, **Breaking Waves in the Pines (*shōtō*)**, Late 1900s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.155"
+    credit: 'Murase Myōdō <span lang="ja">村瀬明道</span>, 1924–2013, **Breaking Waves in the Pines (*shōtō*)**, Late 1900s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.155'
   - id: 2018-156
     src: figures/2018_156.jpg
     alt: "Simply brushed plain line painting in black ink of a seated meditating feminine figure draped in a flowy robe. Japanese calligraphy on the right."
@@ -168,12 +168,12 @@ figure_list:
     src: figures/2018_159.jpg
     alt: "Five vertical lines of cursive Japanese calligraphy are painted on yellowing paper at varying heights and thicknesses. Two large red square seals at bottom left."
     caption: ""
-    credit: "Ryōnen Gensō 了然元総 (1646–1711), *Poem*, late 1600s–early 1700s. Ink on paper, 11¼ × 11 in. (28.6 × 27.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.159."
+    credit: 'Ryōnen Gensō <span lang="ja">了然元総</span> (1646–1711), *Poem*, late 1600s–early 1700s. Ink on paper, 11¼ × 11 in. (28.6 × 27.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.159.'
   - id: 2018-160
     src: figures/2018_160.jpg
     alt: "Colorful woodblock print showing a nun pressing a hot iron to her cheek. A brazier with smoldering embers in the background. Tightly arranged blocks of Japanese text overhead."
     caption: ""
-    credit: "Image by Utagawa Kunisada 歌川国貞 (1786–1864); Inscription by Ryūtei Tanehiko 柳亭種 (1783–1842), “The Nun Ryōnen (Ryōnen-ni)” from *Kokon meifuden* [Famous women of past and present], 1864 edition. Color woodblock print, 14⅞ × 9¾ in. (37.8 × 24.8 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.160."
+    credit: 'Image by Utagawa Kunisada <span lang="ja">歌川国貞</span> (1786–1864); Inscription by Ryūtei Tanehiko <span lang="ja">柳亭種</span> (1783–1842), “The Nun Ryōnen (Ryōnen-ni)” from *Kokon meifuden* [Famous women of past and present], 1864 edition. Color woodblock print, 14⅞ × 9¾ in. (37.8 × 24.8 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.160.'
   - id: "2018_163A"
     src: figures/2018_163A-B.jpg
     caption: ""
@@ -182,12 +182,12 @@ figure_list:
     src: figures/2018_164.jpg
     alt: "On the left, the moon looms large behind a Sakura branch rendered in soft ink and light ochres. On the right, a poem in thin calligraphy."
     caption: ""
-    credit: "Ōtagaki Rengetsu 太田垣蓮月, 1791–1875, **Moon, Blossoming Cherry, and Poem**, 1867, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.164"
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Moon, Blossoming Cherry, and Poem**, 1867, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.164'
   - id: 2018-165
     src: figures/2018_165.jpg
     alt: "Detailed ink painting showing a birds-eye view of a simple but elegantly furnished hut, partially obscured by trees. Inside, a seated nun serenely inscribes her pottery."
     caption: ""
-    credit: "Suganuma Ōhō 菅沼大鳳, 1891–1966, **Rengetsu Working in Her Hut**, 1935, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.165"
+    credit: 'Suganuma Ōhō <span lang="ja">菅沼大鳳</span>, 1891–1966, **Rengetsu Working in Her Hut**, 1935, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.165'
   - id: 2018-166-1-2
     src: figures/2018_166_1-2.jpg
     alt: "Two paddle-shaped fans. The fan on the left is beige, and the fan on the right is light blue. Both have black handles and are inscribed with poems in thin Japanese calligraphy."
@@ -225,17 +225,17 @@ figure_list:
     src: figures/2018_181_3.jpg
     alt: "A poem in Japanese characters and brushed with black ink fills the length of a long, narrow strip of paper. Splotches and drips of light-colored ink appear atop some of the calligraphy."
     caption: ""
-    credit: "Ōtagaki Rengetsu 太田垣蓮月, 1791–1875, ***Waka* Poem**, About 1828 or 1840, Ink on decorated paper, Gift of Drs. John Fong and Colin Johnstone, 2018.181.3."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, ***Waka* Poem**, About 1828 or 1840, Ink on decorated paper, Gift of Drs. John Fong and Colin Johnstone, 2018.181.3.'
   - id: 2018-182
     src: figures/2018_182.jpg
     alt: "A poem in Japanese characters and brushed with black ink fills the length of a long, narrow strip of paper. Splotches and drips of light-colored ink appear atop some of the calligraphy."
     caption: ""
-    credit: "Miwa Teishin 三輪貞信, 1809–1902, ***Waka* Poem on Poetry Slip (*tanzaku*)**, Late 1800s, Ink on decorated paper, Gift of Drs. John Fong and Colin Johnstone, 2018.182"
+    credit: 'Miwa Teishin <span lang="ja">三輪貞信</span>, 1809–1902, ***Waka* Poem on Poetry Slip (*tanzaku*)**, Late 1800s, Ink on decorated paper, Gift of Drs. John Fong and Colin Johnstone, 2018.182'
   - id: 2018-183
     src: figures/2018_183.jpg
     alt: "Long, horizontal sheet of beige paper speckled with gold inscribed with many short lines of cursive calligraphy at alternating heights. Calligraphy is fluid with a variety of line thicknesses"
     caption: ""
-    credit: "Ōhashi-dayū (The Tayū Ōhashi) 大橋太夫, Active 1700s, **Two Poems**, Mid–1700s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.183"
+    credit: 'Ōhashi-dayū (The Tayū Ōhashi) <span lang="ja">大橋太夫</span>, Active 1700s, **Two Poems**, Mid–1700s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.183'
   - id: "2018_184"
     src: figures/2018_184.jpg
     caption: ""
@@ -259,7 +259,7 @@ figure_list:
     src: figures/2018_189.jpg
     alt: "Branches of pine, bamboo and plum blossom intertwine and fill the majority of the paper. Mushrooms sprout at the bottom. Calligraphy and red stamps in the middle-right."
     caption: ""
-    credit: "Ema Saikō 江馬細香, 1787–1861, **The Three Friends of Winter**, 1857, Ink and light color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.189"
+    credit: 'Ema Saikō <span lang="ja">江馬細香</span>, 1787–1861, **The Three Friends of Winter**, 1857, Ink and light color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.189'
   - id: 2018-190
     src: figures/2018_190.jpg
     alt: "Four lines of Japanese calligraphy in the top left-hand corner, along with two red stamps. Five orchid plants dot the bottom half of the paper, with a red stamp in the bottom right corner."
@@ -278,7 +278,7 @@ figure_list:
   - id: 2018-193
     src: figures/2018_193.jpg
     caption: ""
-    credit: "Kō (Ōshima) Raikin 高(大島)来禽, Active late 1700s, **Autumn Landscape**, Late 1700s, Ink and light color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.193"
+    credit: 'Kō (Ōshima) Raikin <span lang="ja">高(大島)来禽</span>, Active late 1700s, **Autumn Landscape**, Late 1700s, Ink and light color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.193'
   - id: 2018-194
     src: figures/2018_194.jpg
     alt: "In the bottom left corner of this long, vertical composition, a few bamboo stems jut across the paper. Above, a blossoming plum branch reaches across to the other side and then up the length of the composition. Both are painted in black ink. At the bottom, two red stamps and Japanese characters."
@@ -322,12 +322,12 @@ figure_list:
     src: figures/2018_208.jpg
     alt: "The branch of a knotted plum tree starts in the lower right-hand corner, and extends upwards with tapering branches and delicate blossoms. A signature and red seal at the bottom center."
     caption: ""
-    credit: "Tokuyama (Ike) Gyokuran 徳山(池)玉瀾, 1727–1784, **Blossoming Plum**, Mid-1700s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.208"
+    credit: 'Tokuyama (Ike) Gyokuran <span lang="ja">徳山(池)玉瀾</span>, 1727–1784, **Blossoming Plum**, Mid-1700s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.208'
   - id: 2018-211
     src: figures/2018_211.jpg
     alt: "A slender woman in a blue kimono and dusty-rose obi stands on a hill, looking down at the sprigs with green leaves and white blossoms that she holds in her hands. A young girl in a dusty-rose colored robe with green trim stands behind her. She carries a zither and looks into the distance to the left of the frame."
     caption: ""
-    credit: "Katō Seiko 加藤青湖, Active 1800s, **Sparrows and Bamboo**, About 1872, Ink and color on silk, 2018.212"
+    credit: 'Katō Seiko <span lang="ja">加藤青湖</span>, Active 1800s, **Sparrows and Bamboo**, About 1872, Ink and color on silk, 2018.212'
   - id: 2018-212
     src: figures/2018_212.jpg
     alt: "About 15 sparrows flit around and sit in the green leaves of two bamboo plants on the left side of this long, narrow composition. Japanese calligraphy and two red stamps appear in the upper right corner."
@@ -337,7 +337,7 @@ figure_list:
     src: figures/2018_213.jpg
     alt: "The green and brown trunk of a cherry tree stands on a pillowy brown hill. The trunk leans to the left, and smaller limbs with leaves and flowers branch out from the trunk. Only part of the tree is seen as it seems to extend beyond the paper."
     caption: ""
-    credit: "Attributed to Oda Shitsushitsu 織田瑟瑟, 1779–1832, **Blossoming Cherry Tree**, Early 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.213"
+    credit: 'Attributed to Oda Shitsushitsu <span lang="ja">織田瑟瑟</span>, 1779–1832, **Blossoming Cherry Tree**, Early 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.213'
   - id: 2018-214
     src: figures/2018_214.jpg
     alt: "Branches of a plum tree with tiny white blossoms. Japanese calligraphy in the upper right-hand corner, along with a red stamp."
@@ -347,12 +347,12 @@ figure_list:
     src: figures/2018_215.jpg
     alt: "A narrow, horizontally oriented composition. A brown bird sits on a thin branch of a plum tree with small white blossoms. Other tree branches spread out below and above it. A signature with Japanese characters is in the bottom right corner."
     caption: ""
-    credit: "Takeuchi Shōran 武内小鸞, Active late 1700s–early 1800s, **Bush Warbler on a Plum Branch**, Early 1800s, Ink and color on silk, 2018.215"
+    credit: 'Takeuchi Shōran <span lang="ja">武内小鸞</span>, Active late 1700s–early 1800s, **Bush Warbler on a Plum Branch**, Early 1800s, Ink and color on silk, 2018.215'
   - id: 2018-216
     src: figures/2018_216.jpg
     alt: "Two chrysanthemum blossoms in black ink in the upper right-hand of the frame rest atop a leafy stem that tapers to the bottom left. A signature and red stamp in the left-center."
     caption: ""
-    credit: "Yamamoto Shōtō 山本緗桃, 1757–1831, **Chrysanthemums**, Late 1700s–early 1800s, Ink, color, and gold on silk, Gift of Drs. John Fong and Colin Johnstone, 2018.216"
+    credit: 'Yamamoto Shōtō <span lang="ja">山本緗桃</span>, 1757–1831, **Chrysanthemums**, Late 1700s–early 1800s, Ink, color, and gold on silk, Gift of Drs. John Fong and Colin Johnstone, 2018.216'
   - id: 2018-217
     src: figures/2018_217.jpg
     alt: "Four vertical lines of calligraphy spaced out over an otherwise blank paper. The lines are of varying lengths, and they ascend in height from left to right. Two small red stamps under the line on the far left."
@@ -377,17 +377,17 @@ figure_list:
     src: figures/2018_224.jpg
     alt: "A bamboo branch with two smaller shoots with leaves on the lefthand side of the frame, and a poem in calligraphy on the right."
     caption: ""
-    credit: "Takabatake Shikibu 高畠式部, 1785–1881, **Bamboo and Poem**, 1861, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.224"
+    credit: 'Takabatake Shikibu <span lang="ja">高畠式部</span>, 1785–1881, **Bamboo and Poem**, 1861, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.224'
   - id: 2018-225
     src: figures/2018_225.jpg
     alt: "Seven lines of calligraphy in the lefthand side of the frame. On the right, a small thatch-roofed studio nestled into a mountainside flanked by budding branches."
     caption: ""
-    credit: "Takabatake Shikibu 高畠式部, 1785–1881, **Mountain Studio in Early Spring**, 1800s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.225"
+    credit: 'Takabatake Shikibu <span lang="ja">高畠式部</span>, 1785–1881, **Mountain Studio in Early Spring**, 1800s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.225'
   - id: 2018-226
     src: figures/2018_226.jpg
     alt: "Seven decorated vertical paper slips with calligraphy mounted on a two-paneled folding screen at alternating heights."
     caption: ""
-    credit: "Takabatake Shikibu 高畠式部 (1785–1881), *Seven Waka Poems*, 1800s. Ink on decorated paper. Gift of Drs. John Fong and Colin Johnstone, 2018.226."
+    credit: 'Takabatake Shikibu <span lang="ja">高畠式部</span> (1785–1881), *Seven Waka Poems*, 1800s. Ink on decorated paper. Gift of Drs. John Fong and Colin Johnstone, 2018.226.'
   - id: 2018-245
     src: figures/2018_245.jpg
     caption: ""
@@ -406,22 +406,22 @@ figure_list:
     src: figures/2018_253.jpg
     alt: "On the left, a stick-figure-like sketch of a sign, barely balancing on a wobbly post. To the right, four lines of unsteady-looking calligraphy at varying heights."
     caption: ""
-    credit: "Takabatake Shikibu 高畠式部, 1785–1881, **Signboard**, 1863, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.253"
+    credit: 'Takabatake Shikibu <span lang="ja">高畠式部</span>, 1785–1881, **Signboard**, 1863, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.253'
   - id: 2018-255
     src: figures/2018_255.jpg
     alt: "A house with a large porch stands on stilts amid a hilly landscape. A green pine tree grows on the hillside to the right. Below the porch, a lavishly dressed man and his servant look up at the porch where three women and a young girl, all in kimonos, stand and sit."
     caption: ""
-    credit: "Artist unknown, Signed Kiyohara Yukinobu 清原雪信, 1643–1682, **Genji Peeping at the Young Murasaki**, 1600s, Ink and color on silk, Gift of Drs. John Fong and Colin Johnstone, 2018.255"
+    credit: 'Artist unknown, Signed Kiyohara Yukinobu <span lang="ja">清原雪信</span>, 1643–1682, **Genji Peeping at the Young Murasaki**, 1600s, Ink and color on silk, Gift of Drs. John Fong and Colin Johnstone, 2018.255'
   - id: 2018-259-1-2
     src: figures/2018_259_1-2.jpg
     alt: "Two small beige bowls with slanted sides. The exteriors are rough and darker brown than the smooth interiors. The interior rims are stamped with small squares and circles. The interior of the bowls are lighter beige and inscribed with poems written in  Japanese characters."
     caption: ""
-    credit: "Kuroda Kōryō 黒田光良, 1823–1895, **Two Teabowls in the Style of Rengetsu (*Rengetsu-yaki*)**, Late 1800s, Glazed ceramic, Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2."
+    credit: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–1895, **Two Teabowls in the Style of Rengetsu (*Rengetsu-yaki*)**, Late 1800s, Glazed ceramic, Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2.'
   - id: 2020-570
     src: figures/24_2018.jpg
     alt: "Two crickets crawl on wispy grasses in the lefthand side of the frame. The right is filled with eleven lines of calligraphy."
     caption: ""
-    credit: "Attributed to Nonoguchi Ryu-ho 野々口立圃, 1595–1669, ***Haibun* and *Haiga* of Crickets**, Mid-1600s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2020.570"
+    credit: 'Attributed to Nonoguchi Ryu-ho <span lang="ja">野々口立圃</span>, 1595–1669, ***Haibun* and *Haiga* of Crickets**, Mid-1600s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2020.570'
   - id: 2021-156
     src: figures/2021_156.jpg
     alt: "Energetically brushed Japanese characters in black ink fill the top three quarters of a long, narrow composition. A delicately drawn branch of a pine tree spreads across the bottom of the composition. A signature and two red stamps are in the bottom right corner."
@@ -430,7 +430,7 @@ figure_list:
   - id: 2021-163A-B
     src: figures/2021_163A-B.jpg
     caption: ""
-    credit: "Ōtagaki Rengetsu 太田垣蓮月, 1791–1875, **Teapot for *Sencha***, Ceramic, ift of Drs. John Fong and Colin Johnstone, 2021.163A-B"
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Teapot for *Sencha***, Ceramic, ift of Drs. John Fong and Colin Johnstone, 2021.163A-B'
   - id: 2021-164A-B
     src: figures/2021_164A-B.jpg
     alt: "A small brown box in the shape of a tortoise. The box’s lid is the head and shell of the tortoise. It has eight faceted sides, and the eyes of the tortoise are holes on either side of the head."
@@ -439,7 +439,7 @@ figure_list:
   - id: 2021-170-1-5
     src: figures/2021_170_1-5.jpg
     caption: ""
-    credit: "Ōtagaki Rengetsu 太田垣蓮月, 1791–1875, **Set of Five *Sencha* Cups**, Glazed ceramic, ift of Drs. John Fong and Colin Johnstone, 2021.170.1-5"
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Set of Five *Sencha* Cups**, Glazed ceramic, ift of Drs. John Fong and Colin Johnstone, 2021.170.1-5'
   - id: 2021-184
     src: figures/2021_184.jpg
     alt: "A gourd-shaped vase with vertical ridges. A dark hole in the center takes up about one third of the surface area."
@@ -449,7 +449,7 @@ figure_list:
     src: figures/2021_196.jpg
     alt: "A light brown sake decanter with a narrow opening at the top and a much wider base. It has a small rimmed lid, and a poem in Japanese characters is inscribed around the vessel. Finger prints and indentations cover its surface."
     caption: ""
-    credit: "Ōtagaki Rengetsu 太田垣蓮月, 1791–1875, **Sake Decanter (*tokkuri*)**, 1800s, Glazed ceramic, Gift of Drs. John Fong and Colin Johnstone, 2021.196"
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Sake Decanter (*tokkuri*)**, 1800s, Glazed ceramic, Gift of Drs. John Fong and Colin Johnstone, 2021.196'
   - id: 2021-198
     src: figures/RA_2021_198.jpg
     caption: ""
@@ -458,7 +458,7 @@ figure_list:
     src: figures/2021_198_1-5.jpg
     alt: "Small and flat rectangular wooden plates with painting and cursive calligraphy."
     caption: ""
-    credit: "Ōtagaki Rengetsu 太田垣蓮月, 1791–1875, **Sweets Plates with Paintings and Poems**, 1800s, Ink and color on cedar planks, Gift of Drs. John Fong and Colin Johnstone, 2021.198.1-5"
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Sweets Plates with Paintings and Poems**, 1800s, Ink and color on cedar planks, Gift of Drs. John Fong and Colin Johnstone, 2021.198.1-5'
   - id: 2021-199A-B
     src: figures/2021_199A-B.jpg
     alt: "A white, spherical vessel in the shape of a racoon dog. The racoon dog’s face looks up, and its arms and legs, with incised lines representing fur, are close to its body. Japanese characters are incised on its chest."
@@ -473,11 +473,11 @@ figure_list:
     src: figures/2021_206~17.jpg
     alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
     caption: ""
-    credit: "Ōtagaki Rengetsu 太田垣蓮月, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206"
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
   - id: rengetsu-portrait
     src: figures/Rengetsu_scan.jpg
     caption: ""
-    credit: "Tomioka Tessai, detail of a posthumous portrait of Ōtagaki Rengetsu 太田垣蓮月. Source: Tokuda Kōen, Otakagaki Rengetsu 大田垣蓮月 (Tōkyō: Kodansha, 1982)."
+    credit: 'Tomioka Tessai, detail of a posthumous portrait of Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>. Source: Tokuda Kōen, Otakagaki Rengetsu <span lang="ja">大田垣蓮月</span> (Tōkyō: Kodansha, 1982).'
   - id: "2018_198_1"
     src: figures/2018_198_1.jpg
     caption: ""
@@ -493,7 +493,7 @@ figure_list:
   - id: "gion-teahouse"
     src: figures/Gion_Teahouse_hi-res.jpg
     caption: ""
-    credit: "llustration by Mikuma Katen (三熊思孝), *Matsuya Teahouse*, from the *Kinsei Kijin* 近世畸伝,  woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l'UCL. Creative Commons Attribution 4.0 International license."
+    credit: 'llustration by Mikuma Katen (<span lang="ja">三熊思孝</span>), *Matsuya Teahouse*, from the *Kinsei Kijin* <span lang="ja">近世畸伝</span>,  woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l\'UCL. Creative Commons Attribution 4.0 International license.'
   - id: "seiko"
     src: figures/Seiko_hi-res.jpg
     caption: ""

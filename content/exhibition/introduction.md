@@ -36,12 +36,12 @@ Every aspect of this work reveals her personal mark. The pockmarked surface reco
 >long lines of dancing letters.”<br />
 >—Ōtagaki Rengetsu
 
->「なにごとを<br />
+><span lang="ja">「なにごとを<br />
 >&#12288;なすとはなしに<br />
 >&#12288;たはむれに<br />
 >&#12288;かきながしたる<br />
 >&#12288;水莖のあと」<br />
->太田垣蓮月
+>太田垣蓮月</span>
 
 ## Introduction
 
@@ -49,9 +49,9 @@ Turning to the sister arts of painting, poetry, and calligraphy (together called
 
 You will find the designation *joshi* in the signature of several artists on view. It is made of two *kanji* characters:
 
-女 （pronounced “jo”）woman
+<span lang="ja">女</span> （pronounced “jo”）woman
 
-史　（pronounced “shi”）author
+<span lang="ja">史</span>　（pronounced “shi”）author
 
 Today this gendered honorific is outdated. Recently, it has even been used as a derogatory term. But artists who referred to themselves as joshi used it to identify themselves as women of culture—as women and as artists.
 
@@ -69,7 +69,7 @@ From an early age Kō (Ōshima) Raikin studied Chinese painting, poetry, and cal
 
 {{< q-figure id="rengetsu-portrait" >}}
 
-### ŌTAGAKI RENGETSU 太田垣蓮月 (1791–1875)
+### ŌTAGAKI RENGETSU <span lang="ja">太田垣蓮月</span> (1791–1875)
 
 Ōtagaki Rengetsu was a fixture in the artworld of her day. She was a revered colleague and mentor of both male and female artists. So admired for her poetry, calligraphy, painting, and ceramics, forgeries appeared already in her lifetime.
 
@@ -98,14 +98,14 @@ They were made as a tribute by her collaborator and admirer, Kuroda Kōryō. Aft
 >“The Three Obediences—I’ve had none all my life.”<br />
 >— Ema Saikō
 
->「 三従総欠一生涯」<br />
->江馬細香
+><span lang="ja">「 三従総欠一生涯」<br />
+>江馬細香</span>
 
 {{< q-figure id="2018-146" >}}
 
 In this folk painting, an aged woman clutching Buddhist rosary beads crouches on a mat.
 
-Overhead hang the characters: The Three Obediences (Sanjū 三従), a Confucian code of propriety stating that a virtuous woman is beholden to her father, husband, and, finally, son. This social tenet originated in China and grew popular throughout East Asia, including Japan. It captures the challenges imposed by strict gender roles and expectations.
+Overhead hang the characters: The Three Obediences (Sanjū <span lang="ja">三従</span>), a Confucian code of propriety stating that a virtuous woman is beholden to her father, husband, and, finally, son. This social tenet originated in China and grew popular throughout East Asia, including Japan. It captures the challenges imposed by strict gender roles and expectations.
 
 {{< q-figure id="2018-182" >}}
 

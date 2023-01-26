@@ -7,7 +7,7 @@ class: left-column
 
 {{< q-figure id="2018-165" class="right-column" >}}
 
-Taking the tonsure is the ceremonial shaving of one’s hair to join a Buddhist monastic order. It was a symbolic act of leaving one’s past behind. In fact, becoming a nun literally translates to “leaving one’s home” (*shukke* 出家).
+Taking the tonsure is the ceremonial shaving of one’s hair to join a Buddhist monastic order. It was a symbolic act of leaving one’s past behind. In fact, becoming a nun literally translates to “leaving one’s home” (*shukke* <span lang="ja">出家</span>).
 
 Tonsure did not mean, however, relinquishing one’s autonomy. On the contrary, it offered a form of liberation from societal expectations, such as The Three Obediences (of a woman to her father, husband, and son). It also enabled nuns to travel freely in times of state-imposed restrictions, which especially impacted women. Above all, it allowed them the freedom to pursue their art.
 
@@ -24,10 +24,10 @@ This is an imagined portrait done 60 years after Rengetsu’s death. Depicting h
 >“I took leave of this floating world. The day I thought I wished to see every famous nook and corner under the heavens and pay homage to every shrine and temple, I just took to the road, all by myself.”<br />
 >—Tagami Kikusha
 
->「浮世に暇あく身と成ぬれば、<br />
+><span lang="ja">「浮世に暇あく身と成ぬれば、<br />
 >&#12288;天が下の名にあふくまぐま神社仏閣を拝詣せばやと思ひ立日を其儘に、<br />
 >&#12288;ひとり旅路におもむきぬ」<br />
->&#12288;田上菊舎
+>&#12288;田上菊舎</span>
 
 <div class="spacer spacer-200"></div>
 
@@ -43,7 +43,7 @@ The calligraphy reads “Bodhisattva of Myriad Acts of Compassion,” the Buddhi
 
 {{< q-figure id="fister-14" >}}
 
-### ŌISHI JUNKYŌ 大石順教 (1888–1968)
+### ŌISHI JUNKYŌ <span lang="ja">大石順教</span> (1888–1968)
 
 In her youth, Ōishi Yone was establishing her career as a *geigi* dancer. Her stage name was Tsumakichi. When she was 17, her adoptive father went on a murderous rampage, killing six members of the teahouse where she worked and severing both her arms.
 
@@ -53,7 +53,7 @@ At the age of 45, she took the tonsure as a Buddhist nun, adopting the name Junk
 
 {{< q-figure id="2018-160" >}}
 
-### RYŌNEN GENSŌ 了然元総
+### RYŌNEN GENSŌ <span lang="ja">了然元総</span>
 
 Born into an aristocratic family as the daughter of a lady-in-waiting, Ryōnen Gensō, spent her early years in the Inner Chambers. At the age of 17, she married a courtier. Ten years later, she took the tonsure and became a Buddhist nun.
 
@@ -77,9 +77,9 @@ This poem was written shortly after this turning point. It reads:
 
 
 
->「髪を結ふ<br />
+><span lang="ja">「髪を結ふ<br />
 >&#12288;手の隙明て　<br />
 >&#12288;炬燵哉」<br />
->&#12288;加賀千代
+>&#12288;加賀千代</span>
 
 

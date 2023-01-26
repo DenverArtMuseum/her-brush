@@ -52,14 +52,14 @@ This display is a reinterpretation of the traditional mounting in a scattered ar
 >at lady Kaji’s teahouse.”<br />
 >—Takarai Kikaku
 
->「七夕や<br />
+><span lang="ja">「七夕や<br />
 >&#12288;良き歌聞きに<br />
 >&#12288;梶が茶屋」<br />
->&#12288;宝井其角
+>&#12288;宝井其角</span>
 
 {{< q-figure id="gion-teahouse" >}}
 
-### Three Women of Gion 祇園三女 (1600s–1700s)
+### Three Women of Gion <span lang="ja">祇園三女</span> (1600s–1700s)
 
 Kaji, Yuri, and Machi were owners of a famous teahouse in Gion called Matsuya (illustrated here) where many of Kyoto’s lovers of art and poetry would meet. Together, these three remarkable women formed a matriarchal artistic lineage.
 
