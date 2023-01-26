@@ -1,5 +1,5 @@
 ---
-Title: Galleries as Sites of Connection: Visitor Experience in Her Brush
+Title: "Galleries as Sites of Connection: Visitor Experience in Her Brush"
 type: essay
 weight: 109
 contributor:
