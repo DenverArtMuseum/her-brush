@@ -98,6 +98,15 @@ contributor:
     bio:
     url:
     pic:
+  - id: karuna
+    type: secondary
+    first_name: 
+    last_name: Karuna
+    title:
+    affiliation:
+    bio:
+    url:
+    pic:
 
 
 # ------------------------------------------------------------------------------
