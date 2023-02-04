@@ -1,5 +1,7 @@
 ---
-title: Study Collection, essay by Einor (TK)
+title: Study Collection
 type: page
-weight: 302
+weight: 303
+contributor:
+    - id: einorcervone
 ---

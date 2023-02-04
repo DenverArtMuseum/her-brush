@@ -1,12 +1,12 @@
 ---
-Title: "Galleries as Sites of Connection: Visitor Experience in Her Brush"
+Title: "Essay"
 type: essay
-weight: 109
+weight: 304
 contributor:
-    id: karuna
+    - id: karuna
 ---
 
-## TITLE TK
+## Galleries as Sites of Connection: Visitor Experience in Her Brush
 
 *Her Brush* opens with these questions: “How do we leave our mark?” “How is art a reflection of our personhood?”
 

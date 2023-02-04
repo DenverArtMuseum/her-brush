@@ -1,7 +1,9 @@
 ---
-title: "Essay by Paul Berry (TK)"
+title: "Essay"
 type: essay
-weight: 206
+weight: 107
 contributor:
   - id: pberry
 ---
+
+## Essay by Paul Berry (TK)

@@ -1,7 +1,7 @@
 ---
-title: "Shining Light on Art by Japanese Buddhist Nuns"
+title: "Essay"
 type: essay
-weight: 205
+weight: 102
 contributor:
   - id: pfister
 ---

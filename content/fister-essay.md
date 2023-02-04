@@ -1,7 +1,7 @@
 ---
-title: "Calligraphy, Poems, and Paintings by Buddhist Nuns, an essay by Patricia Fister"
+title: "Calligraphy, Poems, and Paintings by Japanese Buddhist Nuns"
 type: essay
-weight: 300
+weight: 302
 contributor:
   - id: pfister
 ---

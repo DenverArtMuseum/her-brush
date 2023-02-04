@@ -1,5 +1,7 @@
 ---
-title: Kawao Tomoko artist statement and images (TK—not until March after Quire launch)
+title: "Artist Statement"
 type: page
 weight: 301
+contributor:
+    - id: tomoko
 ---

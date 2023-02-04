@@ -1,7 +1,7 @@
 ---
 Title: Taking the Tonsure
 type: essay
-weight: 105
+weight: 405
 class: left-column
 ---
 

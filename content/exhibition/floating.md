@@ -1,7 +1,7 @@
 ---
 Title: Floating Worlds
 type: essay
-weight: 106
+weight: 406
 ---
 
 ## Floating World

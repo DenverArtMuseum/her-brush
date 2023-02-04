@@ -5,7 +5,8 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: figures/2018_155.jpg
+image: figures/2018_216.jpg
+logo: "svg/Web Logo.svg"
 ---
 
 Her Brush: Japanese Women Artists from the Fong-Johnstone Collection takes a nuanced approach to questions of artistic voice, gender, and agency through more than 100 works of painting, calligraphy, and ceramics from 1600s to 1900s Japan.

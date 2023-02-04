@@ -1,7 +1,7 @@
 ---
 title: Inner Chambers
 type: essay
-weight: 103
+weight: 403
 class: 2-columns
 ---
 

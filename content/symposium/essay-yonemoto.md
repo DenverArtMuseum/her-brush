@@ -1,7 +1,7 @@
 ---
-title: "Her Brush, Her Needle: Rethinking the Relationship Between Art and Artisanal Work by Women in Early Modern Japan"
+title: "Essay"
 type: essay
-weight: 203
+weight: 106
 contributor:
   - id: myonemoto
 ---

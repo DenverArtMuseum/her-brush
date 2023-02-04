@@ -1,7 +1,7 @@
 ---
-title: "Finding Gender in Japanese Literati Painting"
+title: "Essay"
 type: essay
-weight: 202
+weight: 104
 contributor:
   - id: amiller
 ---

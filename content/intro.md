@@ -1,10 +1,9 @@
 ---
-label: Introduction
 title: "Introduction"
 contributor:
   - id: einorcervone
 type: page
-weight: 4
+weight: 5
 ---
 
 ## Introduction

@@ -52,6 +52,15 @@ contributor:
     bio: ""
     url:
     pic:
+  - id: christophheinrich
+    type: secondary
+    first_name: Christoph
+    last_name: Heinrich
+    title: Director
+    affiliation: Denver Art Museum
+    bio:
+    url:
+    pic:
   - id: douglaswagner
     type: secondary
     first_name: Douglas
@@ -97,16 +106,52 @@ contributor:
     affiliation:
     bio:
     url:
-    pic:
+    pic: 
   - id: karuna
     type: secondary
-    first_name: 
-    last_name: Karuna
+    first_name: Karuna
+    last_name: Srikureja
     title:
     affiliation:
     bio:
     url:
     pic:
+  - id: tomoko
+    type: secondary
+    first_name: Tomoko
+    last_name: Kawao
+    title:
+    affiliation:
+    bio:
+    url:
+    pic:
+  - id: pberry
+    type: secondary
+    first_name: Paul
+    last_name: Berry
+    title:
+    affiliation:
+    bio:
+    url:
+    pic:
+  - id: mmccormick
+    type: secondary
+    first_name: Melissa
+    last_name: McCormick
+  - id: amiller
+    type: secondary
+    first_name: Alison
+    last_name: Miller
+  - id: abstanley
+    type: secondary
+    first_name: Amy Beth
+    last_name: Stanley
+  - id: myonemoto
+    type: secondary
+    first_name: Marcia A.
+    last_name: Yonemoto
+    
+
 
 
 # ------------------------------------------------------------------------------

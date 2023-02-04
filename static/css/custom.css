@@ -52,6 +52,10 @@
     font-weight: 700;
 }
 
+:root {
+    --green: rgb(172,207,176);
+    --white: #ffffff;
+}
 
 html {
     font-size: 100%; /* 16px */
@@ -96,7 +100,9 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     border: none;
 }
 
-
+.mfp-gallery strong {
+    color: inherit;
+}
 
 
 /* Navbar */
@@ -153,6 +159,9 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 /* Cover */
 
 .quire-page.quire-cover .quire-cover__hero-body .title {
+    font-size: 5rem;
+    color: var(--green);
+    text-transform: uppercase;
     -webkit-animation: fadeIn 2s;
     animation: fadeIn 2s;
     -webkit-animation-fill-mode: backwards;
@@ -161,6 +170,8 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     animation-delay: 0.5s;
 }
 .quire-page.quire-cover .quire-cover__hero-body .title .subtitle {
+    color: var(--green);
+    text-transform: none;
     -webkit-animation: fadeIn 2s;
     animation: fadeIn 2s;
     -webkit-animation-fill-mode: backwards;
@@ -169,11 +180,45 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     animation-delay: 2s;
 }
 
+.quire-page.quire-cover .section.quire-page__content, .quire-page.quire-cover .quire-contents-buttons {
+    display: none;
+}
+.quire-page.quire-cover .quire-cover__hero {
+    background-color: #000;
+    background-image: none;
+}
+.quire-page.quire-cover .quire-cover__hero .quire-cover__overlay {
+    /* background-position: 50% 0; */
+    opacity: 0.3;
+}
+.quire-page.quire-cover .quire-cover__hero .quire-cover__hero-bod.hero-body {
+    width: 100%;
+}
+.quire-page.quire-cover .hero-body .container.is-fluid {
+    width: 100%;
+    background: none;
+    bottom: auto;
+    display: flex;
+    justify-content: center;
+}
+.quire-page.quire-cover .hero-body .container.is-fluid .title {
+    word-spacing: 1.1em;
+    font-weight: bold;
+}
+.quire-page.quire-cover .hero-body .container.is-fluid .title .subtitle {
+    word-spacing: 0.2rem;
+    font-size: calc(1.1rem * 1);
+    font-weight: bold;
+}
 
 
 
 /* TOC */
 
+.quire-page--list.quire-contents .quire-page--list.quire-content {
+    font-size: 0.8rem;
+    line-height: 1.4;
+}
 
 .quire-page--list.quire-contents .section.quire-page__content .container {
     max-width: 1200px;
@@ -185,7 +230,37 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     -moz-columns: 2;
 }
 
+.quire-page--list.quire-contents .quire-contents-list .section-item > a {
+    margin-bottom: 0.75rem;
+}
 
+.quire-page--list.quire-contents li.page-item, .quire-page--list.quire-contents li.section-item {
+    margin-bottom: 0;
+}
+.quire-page--list.quire-contents .quire-contents-list > ul > li.page-item, .quire-page--list.quire-contents .quire-contents-list > ul > li.section-item {
+    margin-bottom: 0.75rem;
+}
+
+.quire-page--list.quire-contents li.page-item .arrow, .quire-page--list.quire-contents li.section-item .arrow {
+    display: none;
+}
+
+.quire-page--list.quire-contents .quire-page__header__title {
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.quire-page--list.quire-contents .quire-page__header {
+    animation: none;
+}
+.quire-page--list.quire-contents .quire-page__header, 
+.quire-page--list.quire-contents .quire-page__content {
+    background-color: black;
+}
+.quire-page--list.quire-contents .quire-contents-list, 
+.quire-page--list.quire-contents .quire-contents-list a {
+    color: #fff;
+}
 
 /* Page Styles */
 
@@ -252,8 +327,9 @@ article.quire-page--right-column .quire-page__content figure.left-column {
 
 
 
-
-
+.quire-contents-buttons {
+    clear: both;
+}
 
 /* Other Devices definitions - Mobile first */
 
