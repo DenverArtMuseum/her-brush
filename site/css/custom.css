@@ -53,7 +53,8 @@
 }
 
 :root {
-    --green: rgb(172,207,176);
+    --grayish-lime-green: rgb(172,207,176); /* Grayish lime green */
+    --light-grayish-orange: rgb(225,207,187); /* Light grayish orange */
     --white: #ffffff;
 }
 
@@ -125,6 +126,7 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 }
 
 .quire:not(.no-js) .quire__secondary {
+    background-color: #000;
     top: 0;
     left: 0;
     right: auto;
@@ -135,6 +137,9 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
             transition-duration: 0s;
     z-index: 1000;
     padding: 1em 1.5em;
+}
+.quire:not(.no-js) .quire__secondary a {
+    background-color: inherit;
 }
 
 .quire:not(.no-js) .quire__secondary.is-expanded {
@@ -155,12 +160,31 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     margin-top: -0.5rem;
 }
 
+.quire-progress-bar div {
+    background-color: var(--grayish-lime-green);
+}
+
+.quire-contents-buttons li.quire-nav-button {
+    border: 1px solid var(--grayish-lime-green);
+    color: var(--grayish-lime-green);
+}
+.quire-contents-buttons li.quire-nav-button.prev a {
+    color: var(--grayish-lime-green);
+}
+.quire-contents-buttons li.quire-nav-button.prev svg {
+    fill: var(--grayish-lime-green);
+}
+.quire-contents-buttons li.quire-nav-button.next {
+    background-color: var(--grayish-lime-green);
+}
+
+
 
 /* Cover */
 
 .quire-page.quire-cover .quire-cover__hero-body .title {
     font-size: 5rem;
-    color: var(--green);
+    color: var(--grayish-lime-green);
     text-transform: uppercase;
     -webkit-animation: fadeIn 2s;
     animation: fadeIn 2s;
@@ -170,7 +194,7 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     animation-delay: 0.5s;
 }
 .quire-page.quire-cover .quire-cover__hero-body .title .subtitle {
-    color: var(--green);
+    color: var(--grayish-lime-green);
     text-transform: none;
     -webkit-animation: fadeIn 2s;
     animation: fadeIn 2s;
@@ -200,15 +224,35 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     bottom: auto;
     display: flex;
     justify-content: center;
+    margin: auto;
 }
 .quire-page.quire-cover .hero-body .container.is-fluid .title {
-    word-spacing: 1.1em;
+    word-spacing: 0.6em;
     font-weight: bold;
+    letter-spacing: 1rem;
+    margin: auto;
 }
 .quire-page.quire-cover .hero-body .container.is-fluid .title .subtitle {
     word-spacing: 0.2rem;
     font-size: calc(1.1rem * 1);
     font-weight: bold;
+    letter-spacing: 0.1rem;
+}
+
+.quire-page.quire-cover .quire-cover__hero .logo {
+    padding: 0 0 120px;
+    -webkit-animation: fadeIn 4s;
+    animation: fadeIn 4s;
+    -webkit-animation-fill-mode: backwards;
+    animation-fill-mode: backwards;
+    -webkit-animation-delay: 4s;
+    animation-delay: 4s;
+}
+.quire-page.quire-cover .quire-cover__hero .logo svg {
+    width: 80px;
+}
+.quire-page.quire-cover .quire-cover__hero .logo svg path {
+    fill: var(--grayish-lime-green);
 }
 
 
