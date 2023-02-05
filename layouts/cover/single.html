@@ -69,19 +69,19 @@ Cover page layout. This controls the home page of the publication.
         {{- end -}}
         </div>
 
-        {{- $logoPath := printf "%s/%s" ($.Scratch.Get "imageDir") .Params.logo -}}
-        <div class="logo">
-          <img src="{{ $logoPath | relURL }}"/>
-        </div>
-
         {{ else }}
         {{/* Fallback for when no publication.yml data is present */}}
         <h1 class="title">{{ .Site.Title }}</h1>
         {{ end }}
       </div>
     </div>
+    {{- $logoPath := printf "%s/%s" "static/img" .Params.logo -}}
+    <figure class="logo">
+      {{ readFile $logoPath | safeHTML }}
+      </figure>
   </section>
   {{/* End full-page cover section */}}
+  
   
   {{/* Begin "below-the-fold" section */}}
   {{ if .Content }}
