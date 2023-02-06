@@ -258,8 +258,8 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     background-image: none;
 }
 .quire-page.quire-cover .quire-cover__hero .quire-cover__overlay {
-    /* background-position: 50% 0; */
-    opacity: 0.3;
+    /* background-position: 50% 10%; */
+    opacity: 0.5;
 }
 .quire-page.quire-cover .quire-cover__hero .quire-cover__hero-bod.hero-body {
     width: 100%;
@@ -459,9 +459,33 @@ article.quire-page--right-column .quire-page__content figure.left-column {
 .quire-splash.quire-featured .quire-page__header.hero-image {
     height: 90vh;
     max-height: 700px;
+    position: sticky;
+    min-height: 400px;
+}
+.quire-featured .hero-body {
+    text-align: end;
+}
+.quire-featured .quire-page__header.hero-image .hero-body .quire-page__header__title {
+    color: var(--light-grayish-orange);
+    font-size: 1.8rem;
+    margin-bottom: 0.3em;
+}
+.quire-featured .quire-page__header.hero-image .hero-body .quire-page__header__contributor {
+    color: var(--light-grayish-orange);
+    margin-top: 0px;
+}
+.quire-featured .quire-page__content .container .content {
+    background-color: transparent;
 }
 
-
+.quire-featured .quire-page__content p:first-child:first-letter{
+    font-size: 4em; 
+    float:left;
+    margin-top:0.1em !important;
+    margin-left:-0.09em;
+    padding-right:0.025em;
+    line-height:0.85em
+}}
 
 
 /* Other Devices definitions - Mobile first */
