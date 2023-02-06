@@ -221,6 +221,10 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 
 .quire-page.quire-cover .quire-cover__hero-body .title {
     font-size: 5rem;
+    word-spacing: 0.4em;
+    font-weight: bold;
+    letter-spacing: 0.9rem;
+    margin: auto;
     color: var(--grayish-lime-green);
     text-transform: uppercase;
     -webkit-animation: fadeIn 2s;
@@ -231,6 +235,11 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     animation-delay: 0.5s;
 }
 .quire-page.quire-cover .quire-cover__hero-body .title .subtitle {
+    padding-left: 6px;
+    font-size: 1.0rem;
+    word-spacing: 0.3rem;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
     color: var(--grayish-lime-green);
     text-transform: none;
     -webkit-animation: fadeIn 2s;
@@ -263,18 +272,18 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     justify-content: center;
     margin: auto;
 }
-.quire-page.quire-cover .hero-body .container.is-fluid .title {
-    word-spacing: 0.6em;
+/* .quire-page.quire-cover .hero-body .container.is-fluid .title {
+    word-spacing: 0.4em;
     font-weight: bold;
     letter-spacing: 1rem;
     margin: auto;
 }
 .quire-page.quire-cover .hero-body .container.is-fluid .title .subtitle {
     word-spacing: 0.2rem;
-    font-size: calc(1.1rem * 1);
+    font-size: calc(1.1rem);
     font-weight: bold;
     letter-spacing: 0.1rem;
-}
+} */
 
 .quire-page.quire-cover .quire-cover__hero .logo {
     padding: 0 0 120px;
