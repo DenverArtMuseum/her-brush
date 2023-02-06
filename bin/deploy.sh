@@ -22,4 +22,10 @@ quire site --env=github
 
 echo "Updating gh-pages branch"
 git add -f $BUILD_DIR && git commit -m "Automated deploy at $(date)."
+
+# this creates an error: Updates were rejected because a pushed branch tip is behind its remote
+# one solution is to delete ghg-pages first
 git subtree push --prefix $BUILD_DIR origin gh-pages
+
+# solution to error from here: https://stackoverflow.com/questions/13756055/why-cant-i-push-this-up-to-date-git-subtree
+#git push origin `git subtree split --prefix $BUILD_DIR master`:gh-pages --force

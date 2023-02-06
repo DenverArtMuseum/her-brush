@@ -1,10 +1,9 @@
 ---
-label: Introduction
 title: "Introduction"
 contributor:
   - id: einorcervone
 type: page
-weight: 4
+weight: 5
 ---
 
 ## Introduction
@@ -13,11 +12,11 @@ Why is it that you’ve never heard of Katō Seiko?
 
 How about Yamamoto Shōtō or Kō (Ōshima) Raikin? It is not that they weren’t well known. They were, quite so, both during their own lifetimes and in generations that followed. The brilliance of their work, too, stands the test of time—whether in Seiko’s sprightly jubilations of finches among verdant blades of bamboo (fig. 1); in the measured steps of a weary countryman, returning home in autumnal twilight over Raikin’s brushed steps (fig. 2); or in Shōtō’s golden gossamers, malachite pools, and rushes of ink that give form to her supramundane chrysanthemums (fig. 3).
 
-{% figure 'intro-1' %}
+{{< q-figure id="intro-1" >}}
 
-{% figure 'intro-2' %}
+{{< q-figure id="intro-2" >}}
 
-{% figure 'intro-3' %}
+{{< q-figure id="intro-3" >}}
 
 These are only some of the names whose absence from the ledgers of art history has summoned this project.
 
@@ -31,9 +30,9 @@ Research and preparation were underway when all work on the exhibition abruptly 
 
 The Fong-Johnstone Collection, which according to the collectors, was itself inspired by the formidable art dealer Alice Boney (1901–1988), has been little studied and never shown. It holds many mysteries and questions, from identification to authenticity (figs. 4 and 5). It is, therefore, an invaluable resource for the study of connoisseurship. Addressing the steadily narrowing opportunities of in-person access to artworks, the Fong-Johnstone Collection and the Study Collection will ultimately be made fully available for study—both online and in person. It will provide opportunities to delve into questions of authorship and authenticity and to consider the nuances of connoisseurship.
 
-{% figure 'intro-4' %}
+{{< q-figure id="intro-4" >}}
 
-{% figure 'intro-5' %}
+{{< q-figure id="intro-5" >}}
 
 The catalog presents new research, detailed exhibition and object content, and supplemental materials that shed light on the artists and their lives. In response to the dearth of information in Western languages, it also takes a self-reflexive approach, contextualizing the exhibition and considering the subject through a multidisciplinary framework. Leading scholars, artists, and specialists weigh in on the state of the field—past, present, and future.
 

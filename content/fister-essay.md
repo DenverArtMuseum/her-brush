@@ -1,7 +1,7 @@
 ---
-title: "Calligraphy, Poems, and Paintings by Buddhist Nuns, an essay by Patricia Fister"
+title: "Calligraphy, Poems, and Paintings by Japanese Buddhist Nuns"
 type: essay
-weight: 300
+weight: 302
 contributor:
   - id: pfister
 ---
@@ -158,7 +158,7 @@ Regretfully, I never had the chance to meet Myōdō or enjoy her *shōjin ryōri
 
 [^18]: Translations of both poems are by Barbara Ruch in Fister, *Art by Buddhist Nuns*, 81. The characters for the poem are:
 
-    生る世に　捨て焼く身や　うからまし　つみのたきぎと　おもハざりせバ
+    <span lang="ja">生る世に　捨て焼く身や　うからまし　つみのたきぎと　おもハざりせバ</span>
 
     *Ikeru yo ni / sutete yaku mi ya / ukaramashi / tsumi no takigi to / omowazariseba*
 
@@ -178,7 +178,7 @@ Regretfully, I never had the chance to meet Myōdō or enjoy her *shōjin ryōri
 
 [^26]: Two examples are included in the exhibition catalog *Un’yū to ama: Tagami Kikusha* (Yamaguchi Prefectural Museum, 2003). See Oka Masako, ed. *Un’yū to ama: Tagami Kikusha.* (Hōhokuchō, Japan: Kikusha Kenshōkai, 2003), plates 53 and 139.
 
-[^27]: The characters for the title and poem are: 腹便々山水笥 月花に　うつや浮世の　腹つづみ.
+[^27]: The characters for the title and poem are: <span lang="ja">腹便々山水笥 月花に　うつや浮世の　腹つづみ</span>.
 
     *Tsuki hana ni / utsu ya ukiyo no / haratsuzumi*
 

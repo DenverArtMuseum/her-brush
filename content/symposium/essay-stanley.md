@@ -1,9 +1,9 @@
 ---
-title: "Reading an Archive of Everyday Life"
+title: "Essay"
 type: essay
-weight: 201
+weight: 105
 contributor:
-  - id: astanley
+  - id: abstanley
 ---
 
 ## Reading an Archive of Everyday Life

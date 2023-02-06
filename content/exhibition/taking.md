@@ -1,18 +1,19 @@
 ---
 Title: Taking the Tonsure
 type: essay
-weight: 105
+weight: 405
+class: left-column
 ---
 
-Taking the tonsure is the ceremonial shaving of one’s hair to join a Buddhist monastic order. It was a symbolic act of leaving one’s past behind. In fact, becoming a nun literally translates to “leaving one’s home” (*shukke* 出家).
+{{< q-figure id="2018-165" class="right-column" >}}
+
+Taking the tonsure is the ceremonial shaving of one’s hair to join a Buddhist monastic order. It was a symbolic act of leaving one’s past behind. In fact, becoming a nun literally translates to “leaving one’s home” (*shukke* <span lang="ja">出家</span>).
 
 Tonsure did not mean, however, relinquishing one’s autonomy. On the contrary, it offered a form of liberation from societal expectations, such as The Three Obediences (of a woman to her father, husband, and son). It also enabled nuns to travel freely in times of state-imposed restrictions, which especially impacted women. Above all, it allowed them the freedom to pursue their art.
 
 Women from all walks of life took the tonsure, from princesses (like Daitsu Bunchi) to entertainers (like Ōishi Junkyō). Still, this was an extremely difficult path to take and often entailed unimaginable determination.
 
 Leaving their old names behind, taking new names as ordained nuns, these artists crafted new identities for themselves.
-
-{{< q-figure id="2018-165" >}}
 
 The nun-artist Ōtagaki Rengetsu is seen here brushing a poem onto her ceramics. Her elegant surroundings, more like a scholar’s study than a nun’s hut, alludes to her literati background and affiliation.
 
@@ -23,16 +24,18 @@ This is an imagined portrait done 60 years after Rengetsu’s death. Depicting h
 >“I took leave of this floating world. The day I thought I wished to see every famous nook and corner under the heavens and pay homage to every shrine and temple, I just took to the road, all by myself.”<br />
 >—Tagami Kikusha
 
->「浮世に暇あく身と成ぬれば、<br />
+><span lang="ja">「浮世に暇あく身と成ぬれば、<br />
 >&#12288;天が下の名にあふくまぐま神社仏閣を拝詣せばやと思ひ立日を其儘に、<br />
 >&#12288;ひとり旅路におもむきぬ」<br />
->&#12288;田上菊舎
+>&#12288;田上菊舎</span>
+
+<div class="spacer spacer-200"></div>
 
 {{< q-figure id="2021-206" >}}
 
 This travel journal recounts Ōtagaki Rengetsu’s visit to Arashiyama, a district to the west of Kyoto. Freely brushed poetry is occasionally punctuated by offhand and charming illustrations. Simple forms outline a cluster of flowers. A few lines gather into a *torii*, a traditional Japanese gate, overtaken by vegetation. This account offers a rare and intimate glimpse into the artist’s personal musings. It must not have been a long trip since Rengetsu left a good part of the album blank.
 
-{{< q-figure id="2018-153" >}}
+{{< q-figure id="2018-153" class="right-column" >}}
 
 Princess Umenomiya, daughter of Emperor Gomizuno-o (1596–1680), took the tonsure at age 22, changing her name to Bunchi. She later founded a temple, which functioned as a training center for women.
 
@@ -40,7 +43,7 @@ The calligraphy reads “Bodhisattva of Myriad Acts of Compassion,” the Buddhi
 
 {{< q-figure id="fister-14" >}}
 
-### ŌISHI JUNKYŌ 大石順教 (1888–1968)
+### ŌISHI JUNKYŌ <span lang="ja">大石順教</span> (1888–1968)
 
 In her youth, Ōishi Yone was establishing her career as a *geigi* dancer. Her stage name was Tsumakichi. When she was 17, her adoptive father went on a murderous rampage, killing six members of the teahouse where she worked and severing both her arms.
 
@@ -50,7 +53,7 @@ At the age of 45, she took the tonsure as a Buddhist nun, adopting the name Junk
 
 {{< q-figure id="2018-160" >}}
 
-### RYŌNEN GENSŌ 了然元総
+### RYŌNEN GENSŌ <span lang="ja">了然元総</span>
 
 Born into an aristocratic family as the daughter of a lady-in-waiting, Ryōnen Gensō, spent her early years in the Inner Chambers. At the age of 17, she married a courtier. Ten years later, she took the tonsure and became a Buddhist nun.
 
@@ -74,9 +77,9 @@ This poem was written shortly after this turning point. It reads:
 
 
 
->「髪を結ふ<br />
+><span lang="ja">「髪を結ふ<br />
 >&#12288;手の隙明て　<br />
 >&#12288;炬燵哉」<br />
->&#12288;加賀千代
+>&#12288;加賀千代</span>
 
 

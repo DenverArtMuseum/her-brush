@@ -1,7 +1,7 @@
 ---
 title: Narratives of Japanese Art History—Where Are the Women?
 type: essay
-weight: 206
+weight: 107
 contributor:
   - id: pberry
 ---

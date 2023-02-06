@@ -26,6 +26,7 @@ $ibm-sans: 'IBM Plex Sans Condensed', sans-serif;
 $noto-sans: 'Noto Sans', sans-serif;
 $noto-serif: 'Noto Serif', serif;
 $times-serif: Times, serif;
+$railway-sans: 'Raleway', sans-serif;
 
 // Page typography
 // -----------------------------------------------------------------------------
@@ -73,10 +74,10 @@ $print-entry-image-display: all; // first | all
 // Themes
 // -----------------------------------------------------------------------------
 // Declare theme variables
-$quire-primary-font: null; // body and menu text
-$quire-headings-font: null; // headings
-$quire-footnotes-font: null; // footnotes and page backmatter
-$quire-navigation-font: null; // navbar and next/prev buttons
+$quire-primary-font: $railway-sans; // body and menu text
+$quire-headings-font: $railway-sans; // headings
+$quire-footnotes-font: $railway-sans; // footnotes and page backmatter
+$quire-navigation-font: $railway-sans; // navbar and next/prev buttons
 
 @if $theme == classic {
   // Classic Theme

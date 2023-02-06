@@ -1,10 +1,11 @@
 ---
 title: Inner Chambers
 type: essay
-weight: 103
+weight: 403
+class: 2-columns
 ---
 
-The Inner Chambers (*ōoku* 大奥) are the secluded areas where women primarily resided within the courts and castles of the upper class. The term became synonymous with women and reveals the gender segregation of early modern Japan’s elite.
+The Inner Chambers (*ōoku* <span lang="ja">大奥</span>) are the secluded areas where women primarily resided within the courts and castles of the upper class. The term became synonymous with women and reveals the gender segregation of early modern Japan’s elite.
 
 Daughters born into elite and wealthy households studied the fundamentals of The Three Perfections (painting, poetry, and calligraphy). They were not expected to become artists. Their artistic education was intended to prepare them to be proper companions for the men in their lives.
 
@@ -16,7 +17,7 @@ The painting depicts a scene from the *Tale of Genji,* the world’s earliest no
 
 {{< q-figure id="2018-152" >}}
 
-### ONO NO OZŪ 小野お通 (1559/68–before 1650)
+### ONO NO OZŪ <span lang="ja">小野お通</span> (1559/68–before 1650)
 
 Not much is known for certain about Ono no Ozū, not even her name (possibly pronounced Otsū). Apparently born to an aristocratic family and orphaned as a child, she was raised in Kyoto where she exhibited extraordinary talent in poetry, painting, calligraphy, and music. Ozū served as a lady-in-waiting, tutoring women in the Inner Chambers both for shoguns and for the imperial house. She likely served all three of the warlords known as Japan’s Great Unifiers (Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu). Generations of noblewomen emulated Ozū’s graceful style of calligraphy. She is known today as one of the greatest women calligraphers of premodern Japan.
 

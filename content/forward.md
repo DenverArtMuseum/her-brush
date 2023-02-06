@@ -1,7 +1,11 @@
 ---
 title: Director’s Foreword
-type: page
+type: featured
 weight: 3
+image: figures/2018_181_install.jpg
+contributor:
+    - id: christophheinrich
+class: left-column
 ---
 
 Since an initial gift in 1915, the Denver Art Museum has built an expansive and rich collection of Asian art that allows us to display a versatile array of art from across the continent, and in particular from Japan. With the recent generous gift of Dr. John Fong and Dr. Colin Johnstone, the museum is now able to uniquely emphasize our collection of ceramics and ink paintings by Japanese women artists from the 1600s to the 1900s.

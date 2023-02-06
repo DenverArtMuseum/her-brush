@@ -9,11 +9,11 @@
   </url>
   
   <url>
-    <loc>/walk-through/</loc>
+    <loc>/forward/</loc>
   </url>
   
   <url>
-    <loc>/forward/</loc>
+    <loc>/collectors-note/</loc>
   </url>
   
   <url>
@@ -21,7 +21,47 @@
   </url>
   
   <url>
-    <loc>/acknowledgements/</loc>
+    <loc>/symposium/</loc>
+  </url>
+  
+  <url>
+    <loc>/symposium/essay-fister/</loc>
+  </url>
+  
+  <url>
+    <loc>/symposium/essay-mccormick/</loc>
+  </url>
+  
+  <url>
+    <loc>/symposium/essay-miller/</loc>
+  </url>
+  
+  <url>
+    <loc>/symposium/essay-stanley/</loc>
+  </url>
+  
+  <url>
+    <loc>/symposium/essay-yonemoto/</loc>
+  </url>
+  
+  <url>
+    <loc>/symposium/essay-berry/</loc>
+  </url>
+  
+  <url>
+    <loc>/tomoko/</loc>
+  </url>
+  
+  <url>
+    <loc>/fister-essay/</loc>
+  </url>
+  
+  <url>
+    <loc>/study-collection/</loc>
+  </url>
+  
+  <url>
+    <loc>/karuna/</loc>
   </url>
   
   <url>
@@ -29,7 +69,7 @@
   </url>
   
   <url>
-    <loc>/exhibition/preamble/</loc>
+    <loc>/exhibition/walk-through/</loc>
   </url>
   
   <url>
@@ -61,59 +101,35 @@
   </url>
   
   <url>
-    <loc>/exhibition/karuna/</loc>
+    <loc>/exhibition/checklist/</loc>
   </url>
   
   <url>
-    <loc>/exhibition/works/</loc>
+    <loc>/artists/</loc>
   </url>
   
   <url>
-    <loc>/exhibition/works/1/</loc>
+    <loc>/acknowledgements/</loc>
   </url>
   
   <url>
-    <loc>/symposium/symposium-index/</loc>
-  </url>
-  
-  <url>
-    <loc>/symposium/essay-stanley/</loc>
-  </url>
-  
-  <url>
-    <loc>/symposium/essay-miller/</loc>
-  </url>
-  
-  <url>
-    <loc>/symposium/essay-yonemoto/</loc>
-  </url>
-  
-  <url>
-    <loc>/symposium/essay-mccormick/</loc>
-  </url>
-  
-  <url>
-    <loc>/symposium/essay-fister/</loc>
-  </url>
-  
-  <url>
-    <loc>/symposium/essay-berry/</loc>
-  </url>
-  
-  <url>
-    <loc>/fister-essay/</loc>
-  </url>
-  
-  <url>
-    <loc>/tomoko/</loc>
-  </url>
-  
-  <url>
-    <loc>/study-collection/</loc>
+    <loc>/contributors/</loc>
   </url>
   
   <url>
     <loc>/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/links-events/</loc>
+  </url>
+  
+  <url>
+    <loc>/bibliography/</loc>
   </url>
   
   <url>
@@ -125,23 +141,7 @@
   </url>
   
   <url>
-    <loc>/links-events/</loc>
-  </url>
-  
-  <url>
     <loc>/feedback/</loc>
-  </url>
-  
-  <url>
-    <loc>/bibliography/</loc>
-  </url>
-  
-  <url>
-    <loc>/contributors/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
   </url>
   
 </urlset>

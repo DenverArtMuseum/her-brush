@@ -1,13 +1,13 @@
 ---
 Title: Literati Circles
 type: essay
-weight: 107
+weight: 407
 ---
 ## Literati Circles
 
 United by a shared appreciation for China’s artistic traditions, intellectuals and art enthusiasts formed literati societies (*bunjin*). For them, art was a form of social interaction. In their gatherings, they composed poetry, painted together, and inscribed calligraphy for one another.
 
-Literati painting (*bunjinga* 文人画) prioritized self-expression over technical skill. Following this understanding of the brushstroke as an expression of one’s true self, these artists constructed—and conveyed—their identity and personhood through art.
+Literati painting (*bunjinga* <span lang="ja">文人画</span>) prioritized self-expression over technical skill. Following this understanding of the brushstroke as an expression of one’s true self, these artists constructed—and conveyed—their identity and personhood through art.
 
 As in other realms explored in this exhibition, literati circles included women from different social backgrounds. But perhaps more so than any other social context, literati circles were accepting of women participants. Many prominent women artists in Edo and Meiji Japan flourished within these intellectual cliques.
 
@@ -45,9 +45,9 @@ These paintings belong to the genre of *haiga*, an abbreviated and swiftly execu
 
 Nonoguchi Ryūho was one of the progenitors of the *haiga* form. Takabatake Shikibu, a poet-painter who exhibited talent at an exceedingly young age, continued producing art well into her 90s. In haiga, text becomes an aesthetic element, offsetting, complementing, and balancing the image.
 
-### Okuhara Seiko 奥原晴湖 (1837–1913)
+### Okuhara Seiko <span lang="ja">奥原晴湖</span> (1837–1913)
 
-{{< q-figure id="" caption="Okuhara Seiko 奥原晴湖, 1912. Photographer unknown. Source: Patricia Fister, *Japanese Women Artists, 1600–1900* (Lawrence, KS: Spencer Museum of Art/Harper & Row, Publishers Inc., 1988), fig. 16." >}}
+{{< q-figure id="" caption="Okuhara Seiko <span lang=\"ja\">奥原晴湖</span>, 1912. Photographer unknown. Source: Patricia Fister, *Japanese Women Artists, 1600–1900* (Lawrence, KS: Spencer Museum of Art/Harper & Row, Publishers Inc., 1988), fig. 16." >}}
 
 >“The tip of her brush<br />
 >can wipe away<br />
@@ -60,7 +60,7 @@ Despite an 1872 prohibition of women cropping their hair, Seiko did just that (h
 
 One of the period’s most influential literati artists, Seiko founded a school and had hundreds of followers belonging to all walks of life—from government officials and geisha to roaming samurai.
 
-###Noguchi Shōhin 野口小蘋 (1847–1917)
+###Noguchi Shōhin <span lang="ja">野口小蘋</span> (1847–1917)
 
 {{< q-figure id="" caption="Portrait of Noguchi Shōhin 野口小蘋 in *Bunbu kōmeiroku 文武高名録*, a compilation of famous people and important literary figures published in 1893. Courtesy Hathi Trust Digital Library, digitized by Google." >}}
 
