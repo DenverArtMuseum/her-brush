@@ -63,7 +63,7 @@
   
         {{- if eq .File.UniqueID ($.Scratch.Get "homepage") -}}
   
-          <li class="quire-navbar-page-controls__item quire-home-page">
+          <li style="display:none" class="quire-navbar-page-controls__item quire-next-page">
             <a href='{{ $.Scratch.Get "secondpage-link" | relURL }}' rel="next">
               <span class="visually-hidden">Next Page: </span>
               <span class="quire-navbar-button play-button">
@@ -102,7 +102,7 @@
           {{- end -}}
   
           <li class="quire-navbar-page-controls__item quire-home-page">
-            <a href='{{ $.Scratch.Get "homepage-link" | relURL }}' rel='home'>
+            <a href='{{ $.Scratch.Get "secondpage-link" | relURL }}' rel='home'>
               <span class="visually-hidden">Home Page: </span>
               <span class="quire-navbar-button home-button">
                 <svg class="remove-from-epub">

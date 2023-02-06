@@ -17,4 +17,4 @@ In her advancing years, Alice was no longer able to travel to seek out art objec
 Dr. Johnstone and I are thankful to Tianlong Jiao, the former Joseph de Heer Curator of Asian Art, and Christoph Heinrich, the Frederick and Jan Mayer Director at the Denver Art Museum, together with the museum’s staff, for their interest in exhibiting and publishing the Fong-Johnstone collection. We are also grateful to Andrew Maske, who sought out a home for the collection and initially conceived of an exhibition, and Patricia Fister, one of the foremost scholars in this field, who published important early research on Japanese women artists and has contributed an essay to this publication. We hope that, in the same manner that Alice Boney inspired us, that those who view these works of art will be inspired to learn more about Japanese culture and the talented women artists who were overlooked in their lifetime.
 
 
-John Fong
+Dr. John Fong

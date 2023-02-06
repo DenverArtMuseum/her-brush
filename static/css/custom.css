@@ -105,6 +105,22 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     color: inherit;
 }
 
+.quire-navbar-controls__left a:hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover, 
+.quire-navbar-controls__right a:hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, 
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, 
+.quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
+    background-color: var(--grayish-lime-green);
+}
+
+/* .quire-contents-buttons li.quire-nav-button.prev:hover,
+.quire-contents-buttons li.quire-nav-button.next:hover {
+    background-color: var(--light-grayish-orange) !important;
+}
+.quire-contents-buttons li.quire-nav-button.prev:hover a,
+.quire-contents-buttons li.quire-nav-button.next:hover a {
+    color: #000;
+} */
+
 
 /* Navbar */
 
@@ -124,6 +140,19 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
             transition-duration: 0s;
     z-index: 1000;
 }
+
+/*.quire:not(.no-js) .quire__primary .quire-navbar {
+    display: none;
+}
+.quire:not(.no-js) .quire__primary:hover .quire-navbar {
+    display: block;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+    -webkit-animation-fill-mode: backwards;
+    animation-fill-mode: backwards;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;
+}*/
 
 .quire:not(.no-js) .quire__secondary {
     background-color: #000;
@@ -177,6 +206,14 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 .quire-contents-buttons li.quire-nav-button.next {
     background-color: var(--grayish-lime-green);
 }
+.quire-navbar-page-controls__item.quire-previous-page {
+    width: 400px;
+    text-align: right;
+}
+.quire-navbar-page-controls__item.quire-next-page {
+    width: 400px;
+    text-align: left;
+}
 
 
 
@@ -184,6 +221,10 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 
 .quire-page.quire-cover .quire-cover__hero-body .title {
     font-size: 5rem;
+    word-spacing: 0.4em;
+    font-weight: bold;
+    letter-spacing: 0.9rem;
+    margin: auto;
     color: var(--grayish-lime-green);
     text-transform: uppercase;
     -webkit-animation: fadeIn 2s;
@@ -194,6 +235,11 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     animation-delay: 0.5s;
 }
 .quire-page.quire-cover .quire-cover__hero-body .title .subtitle {
+    padding-left: 6px;
+    font-size: 1.0rem;
+    word-spacing: 0.3rem;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
     color: var(--grayish-lime-green);
     text-transform: none;
     -webkit-animation: fadeIn 2s;
@@ -226,18 +272,18 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     justify-content: center;
     margin: auto;
 }
-.quire-page.quire-cover .hero-body .container.is-fluid .title {
-    word-spacing: 0.6em;
+/* .quire-page.quire-cover .hero-body .container.is-fluid .title {
+    word-spacing: 0.4em;
     font-weight: bold;
     letter-spacing: 1rem;
     margin: auto;
 }
 .quire-page.quire-cover .hero-body .container.is-fluid .title .subtitle {
     word-spacing: 0.2rem;
-    font-size: calc(1.1rem * 1);
+    font-size: calc(1.1rem);
     font-weight: bold;
     letter-spacing: 0.1rem;
-}
+} */
 
 .quire-page.quire-cover .quire-cover__hero .logo {
     padding: 0 0 120px;
@@ -259,9 +305,17 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 
 /* TOC */
 
-.quire-page--list.quire-contents .quire-page--list.quire-content {
-    font-size: 0.8rem;
-    line-height: 1.4;
+.section-item.level-0:nth-child(2) {
+    break-before: always;
+}
+
+.quire-page h1, .quire-page__header__title {
+    font-size: 2.4rem;
+}
+
+.quire-page--list.quire-contents .quire-page__content {
+    font-size: 1.1rem;
+    line-height: 1.3 !important;
 }
 
 .quire-page--list.quire-contents .section.quire-page__content .container {
@@ -272,7 +326,15 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     columns: 2;
     -webkit-columns: 2;
     -moz-columns: 2;
+    column-gap: 4em;
 }
+.quire-page--list.quire-contents .quire-contents-list.list > ul li {
+    text-align: right;
+}
+.quire-page--list.quire-contents .quire-contents-list.list > ul li {
+    text-align: left;
+}
+
 
 .quire-page--list.quire-contents .quire-contents-list .section-item > a {
     margin-bottom: 0.75rem;
@@ -305,6 +367,19 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 .quire-page--list.quire-contents .quire-contents-list a {
     color: #fff;
 }
+
+.quire-cover__more .hero-more.next-page {
+    transform: rotate(-90deg);
+}
+
+.quire-cover__more .hero-more svg {
+    width: 54px;
+    height: 54px;
+}
+
+
+
+
 
 /* Page Styles */
 
@@ -374,6 +449,20 @@ article.quire-page--right-column .quire-page__content figure.left-column {
 .quire-contents-buttons {
     clear: both;
 }
+
+
+
+
+
+/* Featured Page */
+
+.quire-splash.quire-featured .quire-page__header.hero-image {
+    height: 90vh;
+    max-height: 700px;
+}
+
+
+
 
 /* Other Devices definitions - Mobile first */
 
