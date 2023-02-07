@@ -1,0 +1,93 @@
+{{/*
+
+  This shortcode generates a list of all the figures in the project's
+  `figures.yml` file.
+
+*/}}
+
+{{- range $.Site.Data.figures.figure_list -}}
+
+    {{- $alt := "" -}}
+    {{- $aspectRatio := "" -}}
+    {{- $caption := "" -}}
+    {{- $credit := "" -}}
+    {{- $download := "" -}}
+    {{- $id := "" -}}
+    {{- $label := "" -}}
+    {{- $mediaId := "" -}}
+    {{- $mediaType := "" -}}
+    {{- $src := "" -}}
+
+    {{/*
+    ----------------------------------------------------------------------------
+    Get attributes from figures.yml
+    ----------------------------------------------------------------------------
+    */}}
+
+    {{- if ($.Get "alt") }}
+    {{ $alt = ($.Get "alt") }}{{ else if .alt }}{{ $alt = .alt }}{{ end -}}
+
+    {{- with .aspect_ratio }}{{ $aspectRatio = . }}{{ end -}}
+    {{- if ($.Get "caption") }}
+    {{ $caption = ($.Get "caption") }}{{ else if .caption }}{{ $caption = .caption }}{{ end -}}
+
+    {{- if ($.Get "credit") }}
+    {{ $credit = ($.Get "credit") }}{{ else if .credit }}{{ $credit = .credit }}{{ end -}}
+
+    {{- with .download }}{{ $download = . }}{{ end -}}
+    {{- with .id }}{{ $id = . }}{{ end -}}
+    {{- if ($.Get "label") }}
+    {{ $label = ($.Get "label") }}{{ else if .label }}{{ $label = .label }}{{ end -}}
+
+    {{- with .media_id }}{{ $mediaId = . }}{{ end -}}
+    {{- with .media_type }}{{ $mediaType = . }}{{ end -}}
+    {{- with .src }}{{ $src = . }}{{ end -}}
+
+    {{- $dict := dict "Site" $.Site "alt" $alt "aspectRatio" $aspectRatio "caption" $caption "credit" $credit "download" $download "id" $id "label" $label "mediaId" $mediaId "mediaType" $mediaType "src" $src -}}
+
+
+    {{- $figSort := "" -}}
+    {{ if .src }}
+    {{- $figSort = .src -}}
+    {{ else }}
+    {{- $figSort = .id -}}
+    {{ end }}
+    {{- $figSort = $figSort | truncate 400 | urlize -}} 
+
+    {{- $.Page.Scratch.SetInMap "ref" "0" $dict -}}
+    {{- $ref := ($.Page.Scratch.GetSortedMapValues "ref") -}}
+    {{- $.Page.Scratch.SetInMap "figure" $figSort $ref -}}
+    {{- $.Page.Scratch.Delete "ref" -}}
+
+{{- end -}}
+
+{{- if ($.Page.Scratch.GetSortedMapValues "figure") }}
+
+
+<div class="quire-page__content__figures">
+    {{- range ($.Page.Scratch.GetSortedMapValues "figure") -}}
+        {{ $dict := (index . 0) }}
+        <figure
+        data="q-figure"
+        class="quire-figure"
+        id="{{ $dict.id }}"
+        >
+        <div class="q-figure__wrapper">
+            {{ if eq $dict.mediaType "youtube" -}}
+            {{- partial "figures/media-types/youtube.html" $dict -}}
+            {{- else if eq $dict.mediaType "vimeo" -}}
+            {{- partial "figures/media-types/vimeo.html" $dict -}}
+            {{- else if eq $dict.mediaType "soundcloud" -}}
+            {{- partial "figures/media-types/soundcloud.html" $dict -}}
+            {{- else if eq $dict.mediaType "website" -}}
+            {{- partial "figures/media-types/website.html" $dict -}}
+            {{- else if eq $dict.mediaType "table" -}}
+            {{- partial "figures/media-types/table.html" $dict -}}
+            {{- else -}}
+            {{- partial "figures/media-types/image.html" $dict -}}
+            {{- end -}}
+        </div>
+        </figure>
+    {{- end -}}
+</div>
+{{- end -}}
