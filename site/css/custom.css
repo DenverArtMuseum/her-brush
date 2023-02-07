@@ -400,8 +400,8 @@ article.quire-page--right-column .quire-page__content .container {
     max-width: 1200px;
     width: 1200px;
 }
-article.quire-page--left-column .quire-page__content .container .content p,
-article.quire-page--right-column .quire-page__content .container .content p,
+article.quire-page--left-column .quire-page__content .container .content > p,
+article.quire-page--right-column .quire-page__content .container .content > p,
 article.quire-page--left-column .quire-page__content figure,
 article.quire-page--right-column .quire-page__content figure { 
     max-width: 700px;
@@ -454,7 +454,10 @@ article.quire-page--right-column .quire-page__content figure.left-column {
 }
 
 
-
+.footnotes.footnote-print-only,
+.footnotes .footnote-print-only {
+    display: block !important;
+}
 
 
 /* Featured Page */
@@ -462,14 +465,14 @@ article.quire-page--right-column .quire-page__content figure.left-column {
 .quire-page.quire-featured {
     min-height: 100vh;
 }
-.quire #main.quire-featured {
+#main.quire-page--black-page {
     background-color: #000;
 }
-.quire-featured .quire-page__content {
+#main.quire-page--black-page .quire-page__content {
     background-color: #000;
     color: #fff;
 }
-.quire-featured .quire-page__content .container .content {
+#main.quire-page--black-page .quire-page__content .container .content {
     background-color: #000;
 }
 
@@ -496,13 +499,18 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     display: none;
 }
 .quire-featured .quire-page__content p:first-child:first-letter{
-    font-size: 4em; 
-    float:left;
-    margin-top:0.1em !important;
-    margin-left:-0.09em;
-    padding-right:0.025em;
-    line-height:0.85em
-}}
+    font-size: 1em; /* 8em; */
+    float: none; /* left; */
+    margin-top: 0; /* 0.1em !important; */
+    margin-left:  0; /*  -0.09em; */
+    padding-right: 0; /* 0.025em; */
+    line-height: 1; /* 0.85em */
+}
+
+.littlefoot-footnote__content p {
+    color: #000;
+    width: auto;
+}
 
 
 /* Other Devices definitions - Mobile first */
