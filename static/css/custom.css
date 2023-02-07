@@ -390,7 +390,10 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     width: auto;
 }
 
-
+article.quire-page--full-width .quire-page__content .container {
+    max-width: 1200px;
+    width: 1200px;
+}
 
 article.quire-page--left-column .quire-page__content .container,
 article.quire-page--right-column .quire-page__content .container {
@@ -456,11 +459,25 @@ article.quire-page--right-column .quire-page__content figure.left-column {
 
 /* Featured Page */
 
+.quire-page.quire-featured {
+    min-height: 100vh;
+}
+.quire #main.quire-featured {
+    background-color: #000;
+}
+.quire-featured .quire-page__content {
+    background-color: #000;
+    color: #fff;
+}
+.quire-featured .quire-page__content .container .content {
+    background-color: #000;
+}
+
 .quire-splash.quire-featured .quire-page__header.hero-image {
     height: 90vh;
     max-height: 700px;
-    position: sticky;
     min-height: 400px;
+    position: sticky;
 }
 .quire-featured .hero-body {
     text-align: end;
@@ -474,10 +491,10 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     color: var(--light-grayish-orange);
     margin-top: 0px;
 }
-.quire-featured .quire-page__content .container .content {
-    background-color: transparent;
+.quire-featured .quire-page__header.hero-image .hero-body .quire-page__header__contributor .quire-contributor__title,
+.quire-featured .quire-page__header.hero-image .hero-body .quire-page__header__contributor .quire-contributor__affiliation {
+    display: none;
 }
-
 .quire-featured .quire-page__content p:first-child:first-letter{
     font-size: 4em; 
     float:left;

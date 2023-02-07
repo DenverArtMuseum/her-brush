@@ -5,7 +5,7 @@ weight: 3
 image: figures/2018_181_install.jpg
 contributor:
     - id: christophheinrich
-class: left-column
+class: full-width page-one
 ---
 
 Since an initial gift in 1915, the Denver Art Museum has built an expansive and rich collection of Asian art that allows us to display a versatile array of art from across the continent, and in particular from Japan. With the recent generous gift of Dr. John Fong and Dr. Colin Johnstone, the museum is now able to uniquely emphasize our collection of ceramics and ink paintings by Japanese women artists from the 1600s to the 1900s.
@@ -18,5 +18,5 @@ This larger project prompted by Drs. Fong and Johnstone’s gift has led to the 
 
 I would like to thank Tianlong Jiao (former Joseph de Heer Curator of Asian Art) and Professor Andrew Maske (Wayne State University) for inviting Dr. Fong and Dr. Johnstone into the museum’s orbit and initially conceiving of an exhibition. Einor Cervone, Associate Curator of Asian Art, and the museum’s curatorial and exhibitions teams transformed those initial forays and research into a beautiful and engaging exhibition, *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection*. Finally, I am grateful for the support of the E. Rhodes and Leona B. Carpenter Foundation, the Blakemore Foundation, the donors to the Annual Fund Leadership Campaign, and the residents who support the Scientific and Cultural Facilities District (SCFD).
 
-Christoph Heinrich
-Frederick and Jan Mayer Director
+Christoph Heinrich\
+*Frederick and Jan Mayer Director*
