@@ -1,12 +1,15 @@
 ---
-title: "Essay"
+title: "Reading an Archive of Everyday Life"
+short_title: "Essay / Amy Beth Stanley"
+toctitle: Essay
 type: essay
 weight: 105
 contributor:
   - id: abstanley
+one_line:
+full:
+class: left-column
 ---
-
-## Reading an Archive of Everyday Life
 
 In 2008, as a beginning assistant professor at Northwestern University planning my first survey course on the history of the Tokugawa era (1600–1868), I wanted to assign more readings on everyday life in villages. At the time, there were not many primary sources available in English, so I decided to translate some representative documents from the Niigata Prefectural Archives. On their website, I found the “Internet Document Reading Course,” a series of transcriptions and explanations of materials in their archive. It was there I first encountered the writing of a woman named Tsuneno, a daughter of a temple family from the tiny village of Ishigami in Kubiki County in Echigo Province. She had run away to the shogun’s capital of Edo in 1839, and in the letter that the archive had on display, she wrote to her mother to describe her new life as a maidservant in the theater district. “Everything in Edo is delicious,” she said.
 

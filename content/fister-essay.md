@@ -1,9 +1,15 @@
 ---
 title: "Calligraphy, Poems, and Paintings by Japanese Buddhist Nuns"
-type: essay
+short_title: "Essay / Patricia Fister"
+toctitle: Essay
+type: featured
 weight: 302
 contributor:
   - id: pfister
+image: figures/2018_159.jpg
+one_line:
+full:
+class: left-column
 ---
 
 Why is it that people are fascinated by the idea of nuns creating art? Is it because they expect nuns to express something different from “ordinary” artists, perhaps something spiritual? It was not unusual for Buddhist nuns in Japan to write poetry (*waka*, *kanshi*), names of sacred deities (*myōgō*), or single-character/single-line Zen maxims and to paint devotional images as well as secular subjects. Less common was the creation of sculpture or ceramics, but examples do exist.
@@ -22,11 +28,15 @@ Bunchi ascribed the successful founding of her convent and teaching activities t
 
 The Buddhism that Bunchi taught at Enshōji was grounded in Rinzai Zen and tempered with elements from Shingon and Ritsu. Her own personal practice was marked by ascetic acts as she struggled to rid herself of worldly attachments and transcend gender. Once she wrote the words of a sutra on a piece of skin peeled or cut off from her hand,[^9] and on other occasions she poured oil into her palm and lit it while chanting sutras, perhaps as part of an ordination practice. Such extreme acts are not unknown in Buddhism.[^10] Scholar Barbara Ruch has researched examples of self-mutilation carried out by religious women in Japan, who may have been striving to overcome human desires and render themselves genderless.[^11] Bunchi’s half-brother Shinkei (1649–1706), prince-abbot of Ichijōin temple in Nara, painted and inscribed a portrait of her in the year following her death. The painting powerfully conveys her fortitude and dedication to the Buddhist dharma (fig. 2). He did not attempt to idealize her but shows her wearing a simple bast-fiber black robe and brown *kesa* vestment draped over her left shoulder. Shinkei sums up her lifelong practice in one of the lines of the poem: “She trampled the great earth to dust and smashed the great void to oblivion.”[^12]
 
+{{< q-figure id="fister-2" class="right-column" >}}
+
 In addition to calligraphy, Bunchi created paintings of important Buddhist figures (Daruma, Kannon), clay portrait sculptures, and small plaques with embroidered characters. She also made some unique *myōgō* using her emperor father’s fingernail clippings.[^13] Most of her works are religious in nature and done mainly for herself and the people or temples with which she was intimately connected. Nearly all remain at her convent, Enshōji, or are in other temple collections; the Fong-Johnstone scroll is a rare example that traveled outside Japan.
 
 The burgeoning interest in Zen practice among Kyoto’s imperial family and court nobility may have sparked a similar interest in Bunchi’s younger contemporary, Ryōnen Gensō. Ryōnen’s mother was an attendant to Empress Tōfukumon’in (1607–1678), the daughter of Shogun Tokugawa Hidetada who married Emperor Gomizuno-o the year after Bunchi was born.[^14] As a youth, Ryōnen served Tōfukumon’in’s granddaughter Yoshi no Kimi, but by this time, Bunchi had already left the palace and was living at Enshōji in northeastern Kyoto. Emperor Gomizuno-o and Tōfukumon’in were both fervent pupils of Zen, and by 1650, the emperor was becoming a major patron of the newly introduced (from China) Rinzai Zen school that became known as **Ō**baku. There was a kind of “**Ō**baku boom,” and **Ō**baku Zen temples were rapidly established throughout Japan. Ryōnen’s two brothers became **Ō**baku priests, but at the age of seventeen, she was married to a Confucian scholar-doctor.[^15] Ten years later, she left her family and entered the Rinzai Zen imperial convent Hōkyōji, where she was tonsured by one of Emperor Gomizuno-o’s daughters, Richū (1641–1689).[^16]
 
 It is unclear how long Ryōnen resided at Hōkyōji, but she left to go to Edo (presumably with some sort of introduction), aspiring to study under Tetsugyu Dōki, disciple of the emigrant Chinese priest Mu’an (in Japanese, Mokuan). However, she was refused by him on the basis that her beauty would be a distraction to the monks in training. Ryōnen then went to see another disciple of Mu’an, Hakuō Dōtai, at the temple Daikyūan. She was again turned away, and since her beauty was an “obstruction,” she pressed a hot iron to her face to show her commitment and willingness to destroy her femininity in order to devote herself to Zen practice. Ryōnen was not the first woman to disfigure herself in this manner, as there are stories of earlier Japanese female clerics who similarly scarred their faces.[^17] To mark this act of religious determination, she composed the following two poems (a quatrain in Chinese and waka verse in Japanese) and presented them to Priest Hakuō. The second verse is the one that appears in the scroll in this exhibition (fig. 3).
+
+{{< q-figure id="fister-3" class="right-column" >}}
 
 > Long ago I played games at court where we burned orchid incense;<br />
 > now to enter the Zen path I burn the flesh of my face.<br />
@@ -39,8 +49,8 @@ It is unclear how long Ryōnen resided at Hōkyōji, but she left to go to Edo (
 
 Impressed by her fervor, Hakuō accepted her as a disciple, and she trained under him for several years before he designated her as his dharma heir in 1680. Ryōnen later established her own temple, and the priest who had initially refused her, Tetsugyū, presided at the dedication of her Nyoirin Kannon Hall in 1694. Since the poem in the Fong-Johnstone collection is signed “Taiunji Ryōnen,” it must date from after her temple was officially designated as the **Ō**baku Zen temple Taiunji in 1701.[^19] Ryōnen became famous for the radical act of scarring her face that inspired these poems, and the existence of numerous scrolls by her hand suggests that she received many requests for her potent verses.[^20] Like Bunchi, Ryōnen studied poetry and calligraphy from her childhood, and her manner of writing reflects the style prevailing at the court.
 
-{{< q-figure id="fister-fig4" >}}
-{{< q-figure id="fister-fig4" >}}
+{{< q-figure id="fister-4" class="right-column" >}}
+{{< q-figure id="fister-5" class="right-column" >}}
 
 Ryōnen’s two verses, accompanied by illustrations of her burning her face (fig. 4), appeared in numerous woodblock-printed books and gazetteers, as well as *ukiyo-e* featuring famous women, such as the print by Utagawa Kunisada (Toyokuni III) (fig. 5). She first became known in the West through Lafcadio Hearn, who wrote a paper titled “The Nun Ryōnen: Fragments of a Japanese Biography,” which was read at the meeting of the Japan Society of London on April 13, 1904.[^21] Famous for his books on Japan recounting legends and ghost stories, he presented a fictionalized account of Ryōnen’s life, emphasizing her spirit of self-sacrifice.
 
@@ -63,6 +73,8 @@ Kikusha kept diaries recording the places she visited, the people she met, and h
 Rengetsu was born into an entirely different world than Kikusha; instead of the countryside, she grew up in the old cultural capital of Kyoto. The origins of her birth parents are unclear, but she was adopted by the **Ō**tagaki family, whose head came to hold a high-ranking administrative post at the Pure Land Buddhist temple Chion’in in Kyoto.[^28] In her youth, she worked as a lady-in-waiting in the women’s quarters at Kameoka Castle in the outskirts of Kyoto.[^29] It was there that Rengetsu (her childhood name was Nobu) learned the classical *waka* poetry and calligraphy that became the foundation for her livelihood.
 
 Rengetsu was married at the age of seventeen and bore three children, all of whom died. After separating from her husband, she remarried and had another child, but lost both her second husband and daughter to illness. At the age of thirty-three, she took the tonsure, adopting Rengetsu (literally, “lotus moon”) as her Buddhist name. She took up residence in a subtemple at Chion’in with her adoptive father (who also took vows), and they lived together until his death. Rengetsu then moved to the Okazaki district in eastern Kyoto, where many poets and artists lived. She studied *waka* with Kagawa Kageki and Mutobe Yoshika and within a few years had established a reputation as a poet. Her name was also included in such compendiums as the *Heian jinbutsu shi* (Record of Heian \[Kyoto\] Notables),[^30] and two volumes of her *waka* were published during her lifetime.[^31] *Waka* had been the prevailing form of literary expression for aristocratic women from ancient times, and by the Edo period (1615–1868) women from all walks of life were becoming literate and interested in composing poetry. Rengetsu and Kikusha had the advantage over counterparts from earlier periods of growing up in an age when many famous *waka* and *haikai* poets readily accepted and encouraged female pupils.
+
+{{< q-figure id="fister-5" class="right-column" >}}
 
 Like Kikusha, in addition to writing out her poems, Rengetsu also created poem-paintings, combining her waka with simply brushed seasonal motifs such as a branch of cherry or plum blossoms, the moon (fig. 7), eggplants (fig. 8), birds, butterflies (fig. 9), and occasionally animals. The subject matter is not so different from that of Kikusha, but their brush styles are at opposite poles: Kikusha’s coarse and dynamic, Rengetsu’s delicate and ethereal. Living in Kyoto, Rengetsu was no doubt influenced by the lyrical Maruyama-Shijō tradition of painting, which emphasized nature subjects modeled with soft ink and color washes. She associated with many painters and sometimes inscribed her poems on their paintings. Examples of “joint creations” (*gassaku*) in the exhibition include those done with Tomioka Tessai (1836–1924) and Wada Gesshin (1800–1870) (figs. 10 and 11). Rengetsu’s unique calligraphic style, featuring elegantly brushed, threadlike lines, is easily identifiable and, judging from the scores of extant works, was highly admired and sought after. She herself loved to write, as expressed in the following verse:
 

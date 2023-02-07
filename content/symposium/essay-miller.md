@@ -1,12 +1,12 @@
 ---
-title: "Essay"
+title: "Finding Gender in Japanese Literati Painting"
+short_title: "Essay / Alison Miller"
+toctitle: Essay
 type: essay
 weight: 104
 contributor:
   - id: amiller
 ---
-
-## Finding Gender in Japanese Literati Painting
 
 Where do we locate gender within a work of art? Is it in the subject matter, the maker, the viewer, the larger cultural milieu of production and reception, or is it a combination of these factors? Should the identity of the artist relate to our reception of their work? The objects exhibited in *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection* provide varied answers to these questions. In woodblock prints, women are often the subject of the image and the male gaze; in ceramics, women were makers but limited in the tools they could use, resulting in different and often innovative forms; and in the realm of *bunjinga* (literally, literati painting), women artists enjoyed greater equality and access than they did in other artistic pursuits.
 

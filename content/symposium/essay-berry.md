@@ -1,13 +1,15 @@
 ---
 title: Narratives of Japanese Art History—Where Are the Women?
+short_title: "Essay / Paul Berry"
+toctitle: Essay
 type: essay
 weight: 107
 contributor:
   - id: pberry
+one_line:
+full:
 class: left-column
 ---
-
-# Narratives of Japanese Art History—Where Are the Women?
 
 On the occasion of *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection*, it is appropriate to consider several aspects of the appearance of women as artists in the histories of Japanese art, especially since exhibitions such as this are still rare. Since the 1970s, the study of the art produced by women in Japan has gradually increased, with a variety of articles, dissertations, books, and exhibitions on one or another artist or theme. While the admirable persistence of scholars, curators, and critics has created foundational projects that are the necessary prelude to further developments, it also seems that their total impact on society, museum exhibitions, and popular media presentations of art, while noticeable, remains limited. Although the following topics can only be addressed briefly in this abbreviated essay, these considerations are useful to keep in mind when viewing the works on display.
 

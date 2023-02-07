@@ -1,12 +1,15 @@
 ---
-title: "Essay"
+title: "Ōtagaki Rengetsu’s Buddhist Poetics: Gender and Materiality"
+short_title: "Essay / Melissa McCormick"
+toctitle: Essay
 type: essay
 weight: 103
 contributor:
   - id: mmccormick
+one_line:
+full:
+class: left-column
 ---
-
-## Ōtagaki Rengetsu’s Buddhist Poetics: Gender and Materiality
 
 Poet, painter, and ceramicist Ōtagaki Rengetsu (1791–1875) and her artwork and status as a Jōdo Buddhist nun challenge assumptions concerning the gender identities of historical subjects. Active for over fifty years as an artist after taking Buddhist vows, Rengetsu, and other nun artists of her era, demands a nuanced approach to gender beyond static notions of “female” and “male.” Since she removed physical markers of conventional lay femininity—shaving her head, donning simple robes, taking the name Rengetsu (Lotus Moon)—her identity can be understood through a contextualized lens that accommodates the historically contingent nature of gender categories. Although aspects of her artistic identity and self-expression may seem straightforward, Rengetsu’s work often demonstrates an engagement with a Buddhist philosophical tradition that questions the very nature of the self and artistic subjectivity.
 

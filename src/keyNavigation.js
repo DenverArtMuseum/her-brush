@@ -2,7 +2,9 @@
  * Move through pages
  */
 var prevNextNavigation = function( event ) {
-    console.log(`${event.key} ${event.code} ${event.keyCode}`);
+    if( $('.mfp-ready').length ) return false;
+    //console.log(`${event.key} ${event.code} ${event.keyCode}`);
+    
     if (event.key === "ArrowLeft") {
         var url = $('.quire-navbar-page-controls__item.quire-previous-page > a').attr('href');
     }
