@@ -447,7 +447,19 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     padding: 0;
 }
 
-
+/* Remove large quotation mark before quotes */
+.quire-page__content .container .content blockquote p:first-child:before, 
+.quire-page__content .container .content blockquote ul:first-child:before, 
+.quire-page__content .container .content blockquote ol:first-child:before, 
+.quire-page__content .container .content blockquote dl:first-child:before, 
+.quire-page__content .container .content blockquote h1:first-child:before, 
+.quire-page__content .container .content blockquote h2:first-child:before, 
+.quire-page__content .container .content blockquote h3:first-child:before, 
+.quire-page__content .container .content blockquote h4:first-child:before,
+.quire-page__content .container .content blockquote h5:first-child:before, 
+.quire-page__content .container .content blockquote h6:first-child:before {
+    display: none;
+}
 
 .quire-contents-buttons {
     clear: both;
@@ -512,7 +524,10 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     width: auto;
 }
 
-
+.littlefoot-footnote__host {
+    vertical-align: super;
+    line-height: 1;
+}
 
 /* figures */
 
