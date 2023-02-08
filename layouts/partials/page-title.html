@@ -5,9 +5,5 @@
   See also site-title.html
 
 */}}
-{{ $title := .Page.Params.title }}
-{{- if and ( eq .Type "essay" ) ( isset .Page.Params "toc_title" ) }}
-  {{ $title = .Page.Params.toc_title }}
-{{ end }}
-{{- $endPunctuation := findRE "[!|?]$" $title -}}
-{{ $title }}{{ with .Page.Params.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . }}{{ end }}
+{{- $endPunctuation := findRE "[!|?]$" .Page.Params.title -}}
+{{ .Page.Params.title }}{{ with .Page.Params.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . }}{{ end }}
