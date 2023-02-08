@@ -1,0 +1,4 @@
+{{- $logoPath := printf "%s/%s" "static/img" .svg -}}
+<figure class="logo">
+    {{ readFile $logoPath | safeHTML }}
+</figure>

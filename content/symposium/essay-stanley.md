@@ -1,7 +1,7 @@
 ---
 title: "Reading an Archive of Everyday Life"
-short_title: "Essay / Amy Beth Stanley"
-toctitle: Essay
+toc_title: Essay
+short_title: Essay
 type: essay
 weight: 105
 contributor:

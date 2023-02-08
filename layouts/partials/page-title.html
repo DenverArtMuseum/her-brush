@@ -6,8 +6,8 @@
 
 */}}
 {{ $title := .Page.Params.title }}
-<!-- {{- if .Page.Params.toctitle }}
-  {{ $title = .Page.Params.toctitle }}
-{{ end }} -->
+{{- if and ( eq .Type "essay" ) ( isset .Page.Params "toc_title" ) }}
+  {{ $title = .Page.Params.toc_title }}
+{{ end }}
 {{- $endPunctuation := findRE "[!|?]$" $title -}}
 {{ $title }}{{ with .Page.Params.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . }}{{ end }}

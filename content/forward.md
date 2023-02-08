@@ -5,7 +5,7 @@ weight: 3
 image: figures/2018_181_install.jpg
 contributor:
     - id: christophheinrich
-contributor_byline: name # name | name-title | false
+contributor_as_it_appears: Christoph Heinrich
 class: full-width page-one black-page
 ---
 

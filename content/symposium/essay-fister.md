@@ -1,6 +1,7 @@
 ---
 title: "Shining Light on Art by Japanese Buddhist Nuns"
-toctitle: Essay
+toc_title: Essay
+short_title: Essay
 type: essay
 weight: 102
 contributor:
