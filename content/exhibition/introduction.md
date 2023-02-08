@@ -4,8 +4,6 @@ type: essay
 weight: 402
 ---
 
-## Preamble
-
 How do we leave our mark?
 
 How is art a reflection of our personhood?
@@ -43,7 +41,6 @@ Every aspect of this work reveals her personal mark. The pockmarked surface reco
 >&#12288;水莖のあと」<br />
 >太田垣蓮月</span>
 
-## Introduction
 
 Turning to the sister arts of painting, poetry, and calligraphy (together called The Three Perfections) for artistic expression was an act of self-assertion. One’s brushwork (whether in calligraphy or painting) reflected one’s true nature.
 

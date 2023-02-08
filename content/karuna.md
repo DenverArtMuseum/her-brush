@@ -1,12 +1,10 @@
 ---
-Title: "Essay"
+Title: "Galleries as Sites of Connection: Visitor Experience in *Her Brush*"
 type: essay
 weight: 304
 contributor:
     - id: karuna
 ---
-
-## Galleries as Sites of Connection: Visitor Experience in Her Brush
 
 *Her Brush* opens with these questions: “How do we leave our mark?” “How is art a reflection of our personhood?”
 
@@ -25,5 +23,7 @@ This sense of personal connection, to be sure, must be made available to audienc
 We made special effort to welcome kids and families into *Her Brush*. Denver-based artist Sarah Fukami had developed five collectable “artist slips” placed in *tanzaku* boxes around the exhibition (figs. xx–xx). On the back is a brief account of the artist, written in the first person, and a prompt leading to the next slip. A take-home folding screen bears six slots: five for the collectable artist slips and one for a slip produced by the visitor. An artmaking corner midway through the exhibition allows everyone to place themselves within this artistic lineage.
 
 Ultimately, art museums exist at the nexus of learning and leisure; visitors therefore generally do not view the museum-going experience with the same goals of mastering content as one would expect from, say, a lecture or a book. It is with this conviction that we approached the exhibition interpretation and visitor experience for *Her Brush*. By adding emotional relevance to historical content, by enhancing narrativity, we allow information—otherwise inaccessible, intimidating, even—to ring salient and memorable.
+
+### Notes
 
 [^1]: John Dewey, *Art as Experience* (New York: Minton, Balch & Company, 1934), TK.
