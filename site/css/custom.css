@@ -540,6 +540,12 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     line-height: 1;
 }
 
+/* bibliography */
+
+.quire-page__content__references dl dt {
+    display: none;
+}
+
 /* figures */
 
 .quire-page__content__figures {
