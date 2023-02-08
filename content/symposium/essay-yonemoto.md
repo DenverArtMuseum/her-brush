@@ -1,7 +1,7 @@
 ---
 title: "Her Brush, Her Needle: Rethinking the Relationship Between Art and Artisanal Work by Women in Early Modern Japan"
-short_title: "Essay / Marcia A. Yonemoto"
-toctitle: Essay
+toc_title: Essay
+short_title: Essay
 type: essay
 weight: 106
 contributor:

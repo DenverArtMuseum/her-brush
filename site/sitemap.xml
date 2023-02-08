@@ -101,6 +101,10 @@
   </url>
   
   <url>
+    <loc>/exhibition/checklist/1/</loc>
+  </url>
+  
+  <url>
     <loc>/artists/</loc>
   </url>
   
@@ -122,10 +126,6 @@
   
   <url>
     <loc>/links-events/</loc>
-  </url>
-  
-  <url>
-    <loc>/bibliography/</loc>
   </url>
   
   <url>

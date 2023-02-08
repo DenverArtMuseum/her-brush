@@ -1,5 +1,7 @@
 ---
 Title: "Exhibition Checklist"
-type: essay
+type: contents
 weight: 409
+class: grid
+slug: .
 ---

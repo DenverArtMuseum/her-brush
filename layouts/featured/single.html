@@ -3,6 +3,11 @@
 */}}
 
 {{ define "main" }}
+{{- if isset $.Site.Params "logo" }}
+{{ $.Scratch.Set "svglogo" $.Site.Params.logo }}
+{{ else }}
+{{ $.Scratch.Set "svglogo" "" }}
+{{ end -}}
 <article class="{{ partial "page-class.html" . }} quire-splash quire-featured" id="main" role="main">
   {{- if isset $.Site.Params "imagedir" }}
   {{ $.Scratch.Set "imageDir" $.Site.Params.imageDir }}
@@ -17,6 +22,9 @@
         <h1 class="quire-page__header__title" id="{{ .Title | urlize }}">
           {{ with .Params.label }}<span class="label">{{ . }}<span class="visually-hidden">{{ $.Site.Params.pageLabelDivider }}</span></span>{{ end }}
           {{- partial "page-title.html" . | markdownify -}}
+          {{ if ($.Scratch.Get "svglogo") }}
+            {{ partial "inline-svg.html" (dict "svg" $.Scratch.Get "svglogo") }}
+          {{ end }}
         </h1>
         {{/* Contributors, if any */}}
         {{ with .Params.contributor }}
@@ -33,6 +41,9 @@
         <h1 class="quire-page__header__title" id="{{ .Title | urlize }}">
           {{ with .Params.label }}<span class="label">{{ . }}<span class="visually-hidden">{{ $.Site.Params.pageLabelDivider }}</span></span>{{ end }}
           {{- partial "page-title.html" . | markdownify -}}
+          {{ if ($.Scratch.Get "svglogo") }}
+            {{ partial "inline-svg.html" (dict "svg" $.Scratch.Get "svglogo") }}
+          {{ end }}
         </h1>
         {{/* Contributors, if any */}}
         {{ with .Params.contributor }}

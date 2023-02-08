@@ -4,6 +4,7 @@ import littlefoot from 'littlefoot'
 
 littlefoot({
     buttonTemplate: '<button aria-label="Footnote <% number %>" class="littlefoot__button" id="<% reference %>" title="See Footnote <% number %>" /> <% number %> </button>',
+    //anchorPattern: '/(fn|footnote|note)[:\-_\d]/gi',
 })
 
 

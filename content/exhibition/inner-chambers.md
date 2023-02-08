@@ -2,6 +2,8 @@
 title: Inner Chambers
 type: essay
 weight: 403
+image: figures/2018_255.jpg
+logo:  "svg/Inner Chambers.svg"
 class: 2-columns
 ---
 

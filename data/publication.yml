@@ -62,7 +62,7 @@ contributor:
     url:
     pic:
   - id: douglaswagner
-    type: secondary
+    type: staff
     first_name: Douglas
     last_name: Wagner
     title: Curatorial Associate
@@ -71,7 +71,7 @@ contributor:
     url:
     pic:
   - id: valeriehellstein
-    type: secondary
+    type: staff
     first_name: Valerie
     last_name: Hellstein
     title: Project Manager
@@ -80,7 +80,7 @@ contributor:
     url:
     pic:
   - id: mattpopke
-    type: secondary
+    type: staff
     first_name: Matt
     last_name: Popke
     title: Technology
@@ -89,7 +89,7 @@ contributor:
     url:
     pic:
   - id: renéebmiller
-    type: secondary
+    type: staff
     first_name: Renée
     last_name: Miller
     full_name: Renée B. Miller

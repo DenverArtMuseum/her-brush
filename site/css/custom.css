@@ -447,7 +447,19 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     padding: 0;
 }
 
-
+/* Remove large quotation mark before quotes */
+.quire-page__content .container .content blockquote p:first-child:before, 
+.quire-page__content .container .content blockquote ul:first-child:before, 
+.quire-page__content .container .content blockquote ol:first-child:before, 
+.quire-page__content .container .content blockquote dl:first-child:before, 
+.quire-page__content .container .content blockquote h1:first-child:before, 
+.quire-page__content .container .content blockquote h2:first-child:before, 
+.quire-page__content .container .content blockquote h3:first-child:before, 
+.quire-page__content .container .content blockquote h4:first-child:before,
+.quire-page__content .container .content blockquote h5:first-child:before, 
+.quire-page__content .container .content blockquote h6:first-child:before {
+    display: none;
+}
 
 .quire-contents-buttons {
     clear: both;
@@ -481,8 +493,19 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     max-height: 700px;
     min-height: 400px;
     position: sticky;
+
+    box-sizing: content-box;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-bottom: 0;
 }
 .quire-featured .hero-body {
+    height: 100px;
+    padding: 1em;
+    flex-grow: 0;
+    flex-shrink: 1;
     text-align: end;
 }
 .quire-featured .quire-page__header.hero-image .hero-body .quire-page__header__title {
@@ -494,10 +517,10 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     color: var(--light-grayish-orange);
     margin-top: 0px;
 }
-.quire-featured .quire-page__header.hero-image .hero-body .quire-page__header__contributor .quire-contributor__title,
+/* .quire-featured .quire-page__header.hero-image .hero-body .quire-page__header__contributor .quire-contributor__title,
 .quire-featured .quire-page__header.hero-image .hero-body .quire-page__header__contributor .quire-contributor__affiliation {
     display: none;
-}
+} */
 .quire-featured .quire-page__content p:first-child:first-letter{
     font-size: 1em; /* 8em; */
     float: none; /* left; */
@@ -512,6 +535,29 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     width: auto;
 }
 
+.littlefoot-footnote__host {
+    vertical-align: super;
+    line-height: 1;
+}
+
+/* figures */
+
+.quire-page__content__figures {
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.quire-page__content__figures figure {
+    width: 25%;
+    padding: 10px;
+    margin-top: 0;
+}
+.quire-page__content__figures figure img {
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
 
 /* Other Devices definitions - Mobile first */
 

@@ -1,7 +1,7 @@
 ---
 title: "Finding Gender in Japanese Literati Painting"
-short_title: "Essay / Alison Miller"
-toctitle: Essay
+toc_title: Essay
+short_title: Essay
 type: essay
 weight: 104
 contributor:

@@ -75,10 +75,7 @@ Cover page layout. This controls the home page of the publication.
         {{ end }}
       </div>
     </div>
-    {{- $logoPath := printf "%s/%s" "static/img" .Params.logo -}}
-    <figure class="logo">
-      {{ readFile $logoPath | safeHTML }}
-      </figure>
+    {{ partial "inline-svg.html" (dict "svg" .Params.logo) }}
   </section>
   {{/* End full-page cover section */}}
   
