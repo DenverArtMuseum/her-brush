@@ -16,7 +16,3 @@ Now, come those whom I have grown to know closely since joining the work on this
 Arianna Flory, Curatorial Assistant at Large, has saved the day time and again. It seems like the mantra of our IT team, Derek Sava, Levy Smith, Cordelia Taylor, and Tim Taylor is forever “this has never been done before. Let’s do it.” Our talented photographers, Christina Jackson and Eric Stephenson have brought out the beauty and captured the spirit of the artwork. Matt Roe’s and Jenn Goodrich’s graphic design gave form to formless notions. The installation team has worked tirelessly behind the scenes. Without you, an exhibition is nothing more than some doodles in a notebook. Matt Popke and team have translated this complex and multifaceted enterprise into an arresting digital publication. Finally, I am grateful for my family, Dan and Damian, for their support and love.
 
 This list is by no means exhaustive. *Her Brush* is the fruit of dedication and hard work of this extended family I am now fortunate to call my colleagues at the Denver Art Museum.
-
-Einor Cervone
-
-Associate Curator of Asian Art
