@@ -1,5 +1,5 @@
 ---
-title: "Collector's Note"
+title: "Collector’s Note"
 type: featured
 weight: 4
 contributor:

@@ -1,5 +1,5 @@
 ---
-title: Study Collection
+title: On the Fong-Johnstone Study Collection and the Power of Access
 type: page
 weight: 303
 contributor:

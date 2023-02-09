@@ -470,6 +470,12 @@ article.quire-page--right-column .quire-page__content figure.left-column {
 .footnotes .footnote-print-only {
     display: block !important;
 }
+::marker {
+    display: none;
+}
+.footnotes li {
+    list-style-type: none;
+}
 
 
 /* Featured Page */
