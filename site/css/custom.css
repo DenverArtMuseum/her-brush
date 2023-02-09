@@ -546,7 +546,70 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     display: none;
 }
 
-/* figures */
+/* q-objects */
+
+.quire-page__content__objects {
+
+}
+.quire-page__content__objects .quire-page__content__object {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+}
+.quire-page__content__objects .quire-page__content__object:nth-child(odd) {
+    flex-direction: row-reverse;
+}
+.quire-page__content__objects .quire-page__content__object > div {
+    width: 50%;
+}
+
+.quire-page__content__objects .quire-page__content__object > div.details {
+    padding: 0 2em 2em;
+    vertical-align: middle;
+}
+
+.quire-page__content__objects .quire-image-info__credit {
+    display: none;
+    font-size: 0.6em;
+    line-height: 1 !important;
+}
+
+/* Exhibtiion Checklist */
+
+#exhibition-checklist .quire-page__content .container .content {
+    padding: 0;
+}
+#exhibition-checklist article .quire-page__content .container {
+    width: 100%;
+    max-width: 100%;
+}
+#exhibition-checklist .content figure {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#exhibition-checklist .content figure img {
+    width: auto;
+    max-height: 100vh;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+#exhibition-checklist div.details {
+    padding-left: 10rem;
+    padding-right: 8.5714285682%;
+}
+#exhibition-checklist div.details .quire-page__content__object:nth-child(odd) {
+    padding-left: 8.5714285682%;
+    padding-right: 10rem;
+}
+
+
+
+/* q-figures */
 
 .quire-page__content__figures {
     width:100%;
@@ -564,6 +627,7 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     height:100%;
     object-fit:cover;
 }
+
 
 /* Other Devices definitions - Mobile first */
 
