@@ -470,6 +470,12 @@ article.quire-page--right-column .quire-page__content figure.left-column {
 .footnotes .footnote-print-only {
     display: block !important;
 }
+::marker {
+    display: none;
+}
+.footnotes li {
+    list-style-type: none;
+}
 
 
 /* Featured Page */
@@ -627,6 +633,30 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     height:100%;
     object-fit:cover;
 }
+
+
+/* SVG Title Logos */
+
+h1 .title_logo {
+    z-index: 1000;
+    width: 200px;
+    height: 200px;
+}
+
+h1 .title_logo svg {
+    width: 100%;
+    height: auto;
+}
+
+.quire-page__header__title {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
 
 
 /* Other Devices definitions - Mobile first */
