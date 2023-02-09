@@ -201,6 +201,7 @@ object_list:
     location:
     link:
     figure:
+      - id: 2018-192
   - id: 2018-255
     title: Genji Peeping at the Young Murasaki
     artist: 'Artist unknown, Signed Kiyohara Yukinobu <span lang="ja">清原雪信</span>, Active 1600s–1700s'
@@ -435,13 +436,13 @@ object_list:
     link:
     figure:
       - id: 2018-222
-  - id: 2018-181-1-44
+  - id: 2018-181-3-44
     title: Poem Slips (*tanzaku*)
     artist: Various artists
     year: 1700–1900s
     medium: Pigment, gold, silver, and ink on paper
     dimensions: Each approx. 13 × 2 in. (33 × 5 cm)
-    accession: 2018.181.1-44
+    accession: 2018.181.3-44
     credit: Gift of Drs. John Fong and Colin Johnstone.
     section: Floating World
     location:
@@ -604,7 +605,7 @@ object_list:
     link:
     figure:
       - id: 2021-170-1-5
-  - id: 2021-198
+  - id: RA-2021-198
     title: Lidded Wooden Box (*tomobako*) with Inscription by Priest Kōen of the Jinkō-in temple
     artist: Unknown maker
     year: 1800s
@@ -623,7 +624,7 @@ object_list:
     year: 1800s
     medium: Ink and color on cedar planks
     dimensions: Each 5¼ × 6½ × ¼ in. (13.3 × 16.5 × 0.6 cm)
-    accession: 2021.198.1
+    accession: 2021.198.1-5
     credit: Gift of Drs. John Fong and Colin Johnstone.
     section: Literati Circles
     location:
