@@ -1,9 +1,10 @@
 {{/*
-Entry layout. This template is intended for use in catalogue-style pages where
-a single image or object needs to be featured prominently.\
+
+  This shortcode generates a list of all the objects in the project's
+  `objects.yml` file.
+
 */}}
 
-{{ define "main" }}
 
 {{ if isset $.Site.Params "imagedir" }}
 {{ $.Scratch.Set "imageDir" $.Site.Params.imageDir }}
@@ -11,134 +12,135 @@ a single image or object needs to be featured prominently.\
 {{ $.Scratch.Set "imageDir" "" }}
 {{ end }}
 
-{{ $zoom :=  $.Site.Params.figureZoom  }}
+{{ $zoom :=  false  }}
 {{ $pdf :=  $.Site.Params.pdf }}
-{{ $site :=  $ }}
 
-{{/* Entry content, including entry image and tombstone data */}}
-<article class="{{ partial "page-class.html" . }} quire-entry" id="main" role="main">
-<div {{ if or (eq $.Site.Params.entryPageSideBySideLayout true) (in .Page.Params.class "side-by-side") }} {{ if and (ne $.Site.Params.pdf true) (ne $.Site.Params.epub true) }} class="side-by-side" {{ end }} {{ end }} data="{{ $.Site.Params.figureZoom }}">  
-  
-  {{ if eq .Site.Params.epub true }}
-  <header class="quire-entry__header">
-    <div class="container">
-        {{/* Title */}}
-        <h1 class="quire-page__header__title" id="{{ .Title | urlize }}">
-          {{ with .Params.label }}<span>{{ . }}{{ $.Site.Params.pageLabelDivider }}</span>{{ end }}
-          {{ partial "page-title.html" . | markdownify }}
-        </h1>
-    </div>
-  </header>
-  {{ end }}
+{{- range $.Site.Data.objects.object_list -}}
 
-  {{/* Full-width entry image header */}}
-<div class="quire-entry__image-wrap">
-<div id="quire-entry__image" class="quire-entry__image">
-  <div 
-  class="leaflet-control-fullscreen leaflet-bar leaflet-control remove-from-epub"
-  >
-    <a
-    id="toggleFullscreen" 
-    class="leaflet-control-fullscreen-button leaflet-bar-part" 
-    href="#" 
-    title="View Fullscreen" 
-    style="outline: none;">
-    </a>
-  </div>
-  {{ if .Params.image }}
-    {{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") .Params.image -}}
-    <img src="{{ $imgPath | relURL }}" alt="" />
-  {{ else if .Params.object }}
-    {{ range .Params.object }}
-      {{ if .id }}
-        {{ range where $.Site.Data.objects.object_list "id" "eq" .id }}
-        <div class="quire-entry__image__group-container">
-          {{ if gt (len .figure) 1 -}}
-          {{ if ne $.Site.Params.pdf true }}
-        <button class="remove-from-epub quire-image-control quire-image-control--prev-image" id="prev-image" title="Previous image"></button>
-        <button class="remove-from-epub quire-image-control quire-image-control--next-image" id="next-image" title="Next image"></button>
-          {{ end }}
-          {{ end -}}
-        {{ range .figure }}
-          {{ if .id }}
-            {{ range where $.Site.Data.figures.figure_list "id" "eq" .id }}
-              {{ template "figure" (dict "map" . "site" $ "pdf" $pdf "zoom" $zoom "imageDir" ($.Scratch.Get "imageDir") "figure" .  ) }}
-            {{ end }}
-          {{ else if .src }}
-            {{ template "figure" (dict "map" . "site" $ "pdf" $pdf "zoom" $zoom "imageDir" ($.Scratch.Get "imageDir") "figure" .  ) }}
-          {{ end }}
-        {{ end }}
-        </div>
-        {{ end }}
-      {{ else if .figure }}
-      <div class="quire-entry__image__group-container">
-      {{ range .figure }}
-        {{ if .id }}
-          {{ range where $.Site.Data.figures.figure_list "id" "eq" .id }}
-            {{ template "figure" (dict "map" . "site" $ "pdf" $pdf "zoom" $zoom "imageDir" ($.Scratch.Get "imageDir") "figure" .  ) }}
-          {{ end }}
-        {{ else if .src }}
-          {{ template "figure" (dict "map" . "site" $ "pdf" $pdf "zoom" $zoom "imageDir" ($.Scratch.Get "imageDir") "figure" .  ) }}
-        {{ end }}
-      {{ end }}
-      </div>
-      {{ end }}
+
+    {{/* 
+    id: 2021-196
+    title: Sake Decanter (tokkuri)
+    artist: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875'
+    year: 1800s
+    medium: Glazed ceramic
+    dimensions: 5½ × 6 in. (14 × 15.2 cm)
+    accession: 2021.196
+    credit: Gift of Drs. John Fong and Colin Johnstone.
+    section: Introduction
+    location:
+    link:
+    figure:
+        id: 
+    */}}
+
+    {{- $id := "" -}}
+    {{- $title := "" -}}
+    {{- $artist := "" -}}
+    {{- $year := "" -}}
+    {{- $medium := "" -}}
+    {{- $dimensions := "" -}}
+    {{- $accession := "" -}}
+    {{- $credit := "" -}}
+    {{- $section := "" -}}
+    {{- $location := "" -}}
+    {{- $link := "" -}}
+    {{- $figure := "" -}}
+
+    {{/*
+    ----------------------------------------------------------------------------
+    Get attributes from objects.yml
+    ----------------------------------------------------------------------------
+    */}}
+
+    {{- if ($.Get "title") }}
+    {{ $title = ($.Get "title") }}{{ else if .title }}{{ $title = .title }}{{ end -}}
+
+    {{- if ($.Get "artist") }}
+    {{ $artist = ($.Get "artist") }}{{ else if .artist }}{{ $artist = .artist }}{{ end -}}
+
+    {{- if ($.Get "year") }}
+    {{ $year = ($.Get "year") }}{{ else if .year }}{{ $year = .year }}{{ end -}}
+
+    {{- if ($.Get "medium") }}
+    {{ $medium = ($.Get "medium") }}{{ else if .medium }}{{ $medium = .medium }}{{ end -}}
+
+    {{- if ($.Get "dimensions") }}
+    {{ $dimensions = ($.Get "dimensions") }}{{ else if .dimensions }}{{ $dimensions = .dimensions }}{{ end -}}
+
+    {{- if ($.Get "accession") }}
+    {{ $accession = ($.Get "accession") }}{{ else if .accession }}{{ $accession = .accession }}{{ end -}}
+
+    {{- if ($.Get "credit") }}
+    {{ $credit = ($.Get "credit") }}{{ else if .credit }}{{ $credit = .credit }}{{ end -}}
+
+    {{- if ($.Get "section") }}
+    {{ $section = ($.Get "section") }}{{ else if .section }}{{ $section = .section }}{{ end -}}
+
+    {{- if ($.Get "location") }}
+    {{ $location = ($.Get "location") }}{{ else if .location }}{{ $location = .location }}{{ end -}}
+
+    {{- if ($.Get "link") }}
+    {{ $link = ($.Get "link") }}{{ else if .link }}{{ $link = .link }}{{ end -}}
+
+    {{- if ($.Get "figure") }}
+    {{ $figure = ($.Get "figure") }}{{ else if .figure }}{{ $figure = .figure }}{{ end -}}
+
+
+    {{- $dict := dict "Site" $.Site "title" $title "artist" $artist "year" $year "medium" $medium "dimensions" $dimensions "accession" $accession "credit" $credit "section" $section "id" $id "location" $location "link" $link "figure" $figure -}}
+
+    {{- $figSort := "" -}}
+    {{ if .title }}
+    {{- $figSort = .title -}}
+    {{ else }}
+    {{- $figSort = .id -}}
     {{ end }}
-  {{ end }}
-</div>
-</div>
-
-<div class="quire-entry__content">
-  
-  {{/* Entry header */}}
-  {{ if ne .Site.Params.epub true }}
-  <header class="quire-entry__header">
-    <div class="container">
-        {{/* Title */}}
-        <h1 class="quire-page__header__title" id="{{ .Title | urlize }}">
-          {{ with .Params.label }}<span>{{ . }}{{ $.Site.Params.pageLabelDivider }}</span>{{ end }}
-          {{ partial "page-title.html" . | markdownify }}
-        </h1>
-        {{/* Contributors, if any */}}
-        {{ partial "page-contributor.html" . }}
-    </div>
-  </header>
-  {{ end }}
-
-  {{ partial "page-tombstone.html" . }}
-
-  {{ if .Params.abstract }}
-  {{ partial "page-abstract.html" . }}
-  {{ end }}
-
-  {{/* Entry content */}}
-  <section class="section quire-page__content" id="content">
-    <div class="container">
-      <div class="content">
-        {{ .Content }}
-        {{ partial "page-bibliography.html" . }}
-      </div>
-    </div>
-  </section>
-
-  <section class="section quire-page__content">
-      <div class="container">
-        {{ partial "footer-buttons.html" . }}
-      </div>
-  </section>
+    {{- $figSort = $figSort | truncate 400 | urlize -}}
 
 
+    {{- $.Page.Scratch.SetInMap "ref" "0" $dict -}}
+    {{- $ref := ($.Page.Scratch.GetSortedMapValues "ref") -}}
+    {{- $.Page.Scratch.SetInMap "object" $figSort $ref -}}
+    {{- $.Page.Scratch.Delete "ref" -}}
 
-<!-- columns -->
+{{- end -}}
+
+{{- if ($.Page.Scratch.GetSortedMapValues "object") }}
+
+<div class="quire-page__content__objects">
+    {{- range ($.Page.Scratch.GetSortedMapValues "object") -}}
+        {{ $dict := (index . 0) }}
+        {{ with $dict }}
+            <div class="quire-page__content__object">
+                <div class="details">
+                    <div class="object-artist">{{  (delimit (split .artist ",") "<br/>") | markdownify }}</div>
+                    <div class="object-title"><strong>{{- .title | markdownify  -}}</strong></div>
+                    <div class="object-year">{{- .year -}}</div>
+                    <div class="object-medium">{{- .medium | markdownify  -}}</div>
+                    <div class="object-dimensions">{{- .dimensions -}}</div>
+                    <div class="object-accession">{{- .accession -}}</div>
+                </div>
+                <div class="image">
+                {{ if .figure }}
+                {{ range .figure }}
+                    {{ if .id }}
+                    {{ range where $.Site.Data.figures.figure_list "id" "eq" .id }}
+                        {{ template "figure" (dict "map" . "site" $ "pdf" $pdf "zoom" $zoom "imageDir" ($.Scratch.Get "imageDir") "figure" .  ) }}
+                    {{ end }}
+                    {{ else if .src }}
+                        {{ template "figure" (dict "map" . "site" $ "pdf" $pdf "zoom" $zoom "imageDir" ($.Scratch.Get "imageDir") "figure" .  ) }}
+                    {{ end }}
+                {{ end }}
+                {{ end }}
+                </div>
+            </div>
+        {{ end }}
+    {{- end -}}
 </div>
 
-</div>
-</article>
-{{ end }}
+{{- end -}}
 
 
-
-/* Templates */
 
 
 {{ define "figure" }}
@@ -353,10 +355,7 @@ a single image or object needs to be featured prominently.\
 
   {{ end }}
 
-
-{{/*
 {{- template "details" (dict "imgPath" $imgPath "figureData" .) -}}
-*/}}
 </figure>
 
 {{ end }}
