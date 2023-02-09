@@ -2,6 +2,7 @@
 Title: Taking the Tonsure
 type: essay
 weight: 405
+svg_logo:  "svg/Taking the Tonsure.svg"
 class: left-column
 ---
 

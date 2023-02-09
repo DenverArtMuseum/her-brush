@@ -2,6 +2,7 @@
 title: Daughters of the Ateliers
 type: essay
 weight: 404
+svg_logo:  "svg/Daughters of the Ateliers.svg"
 class: left-column
 ---
 

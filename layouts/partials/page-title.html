@@ -7,3 +7,9 @@
 */}}
 {{- $endPunctuation := findRE "[!|?]$" .Page.Params.title -}}
 {{ .Page.Params.title }}{{ with .Page.Params.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . }}{{ end }}
+
+{{ if .Page.Params.svg_logo }}
+<div class="title_logo">
+{{ partial "inline-svg.html" (dict "svg" .Page.Params.svg_logo) }}
+</div>
+{{ end }}

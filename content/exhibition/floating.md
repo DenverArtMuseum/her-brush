@@ -2,6 +2,8 @@
 Title: Floating Worlds
 type: essay
 weight: 406
+svg_logo:  "svg/Floating Worlds.svg"
+class: left-column
 ---
 
 ## Floating World

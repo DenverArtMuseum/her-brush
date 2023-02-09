@@ -2,6 +2,8 @@
 Title: "Unstoppable (No Barriers)"
 type: essay
 weight: 408
+svg_logo:  "svg/Unstoppable.svg"
+class: left-column
 ---
 ## Unstoppable (No Barriers) (*mukan* <span lang="ja">無関</span>)
 
