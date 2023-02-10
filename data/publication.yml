@@ -47,9 +47,9 @@ contributor:
     type: secondary
     first_name: Einor
     last_name: Cervone
-    title: Associate Curator of Asian Art
+    title: Associate Curator of Arts of Asia
     affiliation: Denver Art Museum
-    bio: ""
+    bio: "Associate Curator of Arts of Asia, Denver Art Museum"
     url:
     pic:
   - id: christophheinrich
@@ -104,7 +104,7 @@ contributor:
     last_name: Fister
     title:
     affiliation:
-    bio:
+    bio: "Professor Emeritus, International Research Center for Japanese Studies and Director of Research, Medieval Japanese Studies Institute/Center for the Study of Women, Buddhism, and Cultural History"
     url:
     pic: 
   - id: karuna
@@ -113,7 +113,7 @@ contributor:
     last_name: Srikureja
     title:
     affiliation:
-    bio:
+    bio: "Interpretive Specialist for Arts of Asia, Denver Art Museum"
     url:
     pic:
   - id: tomoko
@@ -122,7 +122,7 @@ contributor:
     last_name: Kawao
     title:
     affiliation:
-    bio:
+    bio: "Internationally acclaimed shodō artist based in Kyoto"
     url:
     pic:
   - id: pberry
@@ -131,29 +131,55 @@ contributor:
     last_name: Berry
     title:
     affiliation:
-    bio:
+    bio: "Independent scholar and former professor at Kansai Gaidai University and University of Washington"
     url:
     pic:
   - id: mmccormick
     type: secondary
     first_name: Melissa
     last_name: McCormick
+    title:
+    affiliation:
+    bio: "Andrew W. Mellon Professor of Japanese Art and Culture, Harvard University"
   - id: amiller
     type: secondary
     first_name: Alison
     last_name: Miller
+    title:
+    affiliation:
+    bio: "Associate Professor of Art History and Director of Asian Studies, The University of the South"
   - id: abstanley
     type: secondary
     first_name: Amy Beth
     last_name: Stanley
+    title:
+    affiliation:
+    bio: "Wayne V. Jones II Research Professor in History at Northwestern University"
   - id: myonemoto
     type: secondary
     first_name: Marcia A.
     last_name: Yonemoto
+    title:
+    affiliation:
+    bio: "Professor of History, University of Colorado, Boulder"
   - id: drjfong
     type: secondary
     first_name: Dr. John
     last_name: Fong
+  - id: pgraham
+    type: secondary
+    first_name: Patricia
+    last_name: Graham
+    title: 
+    affiliation:
+    bio: "Research Associate, Center for East Asian Studies, University of Kansas"
+  - id: amaske
+    type: secondary
+    first_name: Andrew
+    last_name: Maske
+    title:
+    affiliation:
+    bio: "Professor of museum studies and Director of Gordon L. Grosscup Museum, Wayne State University"
     
 
 
