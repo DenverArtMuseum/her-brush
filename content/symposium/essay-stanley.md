@@ -7,11 +7,14 @@ contributor:
 one_line:
 full:
 class: left-column
+image: figures/2018_253.jpg
 ---
 
 In 2008, as a beginning assistant professor at Northwestern University planning my first survey course on the history of the Tokugawa era (1600–1868), I wanted to assign more readings on everyday life in villages. At the time, there were not many primary sources available in English, so I decided to translate some representative documents from the Niigata Prefectural Archives. On their website, I found the “Internet Document Reading Course,” a series of transcriptions and explanations of materials in their archive. It was there I first encountered the writing of a woman named Tsuneno, a daughter of a temple family from the tiny village of Ishigami in Kubiki County in Echigo Province. She had run away to the shogun’s capital of Edo in 1839, and in the letter that the archive had on display, she wrote to her mother to describe her new life as a maidservant in the theater district. “Everything in Edo is delicious,” she said.
 
 Tsuneno’s voice was so simple and direct that I could hear it in my head. But it sounded suspiciously modern and straightforward. Could this really be the writing of a nineteenth-century Japanese woman? In my previous reading in Tokugawa history, I had encountered the abject, awkward prose of a post-station prostitute; the elevated, poetic language of samurai women’s travel diaries; and the matter-of-fact, efficient lists in merchant wives’ household accounts. I was unprepared for Tsuneno’s style, not only how it looked on the page—dashed off, confident—but also its forcefulness.
+
+{{< q-figure id="2018-186" class="right-column" >}}
 
 I went to the archive in person and read Tsuneno’s other correspondence, which was preserved in her family’s papers (the Rinsenji *monjo*). I noticed that her favorite word seemed to be “I” (*watakushi*), and her letters often took the form of demands: “send me my clothes,” “go get the money I left with my uncle,” or “redeem my things from the pawnshop.” While she used traditional women’s forms, writing in *kana* and ending her letters with the respectful closing *kashiku*, she was never self-effacing. Her writing changed my ideas about how Tokugawa-era women thought about themselves. Never again would I believe that women were so enmeshed in the household system and so deeply embedded in their communities that they did not consider their individual desires. Tsuneno realized that her own ambitions and her family’s priorities were different, and though she often felt conflicted, she usually chose to pursue her own goals.
 

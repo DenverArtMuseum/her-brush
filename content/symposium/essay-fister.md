@@ -2,9 +2,13 @@
 title: "Shining Light on Art by Japanese Buddhist Nuns"
 type: essay
 weight: 102
+class: left-column
+image: figures/2018_155.jpg
 contributor:
   - id: pfister
 ---
+
+{{< q-figure id="2018-156" class="right-column" >}}
 
 I have been engaged in researching women artists for nearly four decades, and in the past twenty-five years, I have focused particularly on Zen Buddhist nuns. This brief overview of my personal journey recounts some of the obstacles and opportunities I have encountered and considers how they shaped my research approach and philosophy. Imperial convents contain a treasure trove of objects and documents, but like some other institutions and private collections in Japan, they have been reluctant to open their doors to scholars.
 
@@ -15,6 +19,8 @@ As I surveyed convent collections, I was constantly astounded at the diversity o
 I am particularly interested in nuns’ intentions and the role or function of creating in their lives. At what point in their religious careers did they begin to make things, for what purpose, and for whom were these objects created? What Buddhist doctrines or spiritual goals were the nuns seeking to express? Why did they choose specific models? I believe that the words of the *Lotus Sutra* were integral, for it taught that producing and dedicating art was a way of attaining the Buddha way. Consequently, nuns were inspired to take up a brush, or clay, or even powdered incense to create devotional imagery. The scarcity of biographical information for some of the abbesses of major convents made me realize all the more that the tangible objects they themselves created represent an important part of their legacy.
 
 In the course of my research, I discovered one Kyoto convent that had been “forgotten.” I have also tangled with an important thirteenth-century nun, Mugai Nyodai (<span lang="ja">無外如大</span>), whose identity has become terribly confused: over the centuries her biography was merged with those of two other women. Both the “resurrection” of Zuiryūji (<span lang="ja">瑞龍寺</span>) convent as well as an ongoing project to restore Mugai Nyodai’s true identity merit further discussion.
+
+{{< q-figure id="2018-153" class="right-column" >}}
 
 While conducting this research in convent collections, the urgent need for conservation and preservation, too, became evident to me. In fact, in my mind now, it goes hand-in-hand with research. In other words, it is crucial not just to publish the results of one’s studies but to give back as well. As an example, I aided one temple in getting four important portrait sculptures of nuns restored. In turn, fascinating discoveries were made during that conservation process.
 

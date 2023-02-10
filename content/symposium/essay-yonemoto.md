@@ -7,9 +7,12 @@ contributor:
 one_line:
 full:
 class: left-column
+image: figures/tea-service-install.jpg
 ---
 
 The exhibition *Her Brush:* *Japanese Women Artists from the Fong-Johnstone Collection* focuses, commonsensically, on works identified as art, predominantly by Japanese women, most of whom were identified in their lifetimes as artists. Acknowledging the obvious—that the terms “art” and “artist” are modern, necessarily convenient, and in the English language—I would nonetheless like to reconsider what types of work might fall under the rubric of “art” and what types of people we might call “artists,” particularly in early modern Japan (c. 1590–1868).
+
+{{< q-figure id="2018-211" class="right-column" >}}
 
 I am not an art historian but a cultural historian who dabbles in visual sources. This background gives me some license (at least in my own mind) to explore the somewhat arbitrary but nonetheless pervasive boundary between art and artisanal work by women in the early modern period. I propose that querying this boundary gives us insight into how and why artisanal work by women was ubiquitous, while women artists were relatively few. If we look to the types of art represented in *Her Brush*—painting, calligraphy, ceramics—we can note that elite women of the upper levels of the samurai class and of the nobility received instruction in the literary arts, including calligraphy, as a matter of course. With the growth of educational opportunities for commoners beginning in the late seventeenth century, women’s literacy and numeracy overall increased significantly over the course of the early modern period. Many of the instructional manuals for women that proliferated from the late seventeenth century on focused not only on literacy and literature but on calligraphy and formal letter-writing as well. In short, the calligraphic arts were well established among elite women from the beginning of the early modern period and spread to the commoner classes gradually over time. However, painting and ceramics remained more specialized pursuits.
 

@@ -140,6 +140,16 @@ figure_list:
     caption: ""
     credit: 'Daitsū Bunchi <span lang="ja">大通文智</span>, 1619–1697, **Bodhisattva of Myriad Acts of Compassion (Jihi Mangyō Bosatsu)**, 1600s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.153'
   - id: 2018-154A-C
+    src: figures/2018_154A-C.jpg
+    alt: "Small, double-sided table screen. Each face bears a sweeping, powerfully brushed Japanese character that occupies most of the paper ground. Small red seals punctuate it."
+    caption: ""
+    credit: 'Murase Myōdō <span lang="ja">村瀬明道</span>, 1924–2013, ***Mu* (no, nothingness)** and ***Kan* (barrier)**, Late 1900s, Ink on paper with wood frame, 2018.154A-C'
+  - id: 2018-154A
+    src: figures/2018_154A-C~1.jpg
+    alt: "Small, double-sided table screen. Each face bears a sweeping, powerfully brushed Japanese character that occupies most of the paper ground. Small red seals punctuate it."
+    caption: ""
+    credit: 'Murase Myōdō <span lang="ja">村瀬明道</span>, 1924–2013, ***Mu* (no, nothingness)** and ***Kan* (barrier)**, Late 1900s, Ink on paper with wood frame, 2018.154A-C'
+  - id: 2018-154B
     src: figures/2018_154A-C~2.jpg
     alt: "Small, double-sided table screen. Each face bears a sweeping, powerfully brushed Japanese character that occupies most of the paper ground. Small red seals punctuate it."
     caption: ""
@@ -534,3 +544,5 @@ figure_list:
     src: "figures/Install_Literati.jpg"
   - id: "install-unstoppable"
     src: "figures/Install_Unstoppable.jpg"
+  - id: "install-three-obediences"
+    src: "figures/three-obediences-install.jpg"

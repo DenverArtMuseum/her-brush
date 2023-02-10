@@ -7,7 +7,10 @@ contributor:
 one_line:
 full:
 class: left-column
+image: figures/2018_202.jpg
 ---
+
+{{< q-figure id="2018-189" class="right-column" >}}
 
 On the occasion of *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection*, it is appropriate to consider several aspects of the appearance of women as artists in the histories of Japanese art, especially since exhibitions such as this are still rare. Since the 1970s, the study of the art produced by women in Japan has gradually increased, with a variety of articles, dissertations, books, and exhibitions on one or another artist or theme. While the admirable persistence of scholars, curators, and critics has created foundational projects that are the necessary prelude to further developments, it also seems that their total impact on society, museum exhibitions, and popular media presentations of art, while noticeable, remains limited. Although the following topics can only be addressed briefly in this abbreviated essay, these considerations are useful to keep in mind when viewing the works on display.
 
@@ -18,6 +21,8 @@ The largest dictionary of Japanese painters and calligraphers, *Dai Nihon shoga 
 ## Gender Roles in Relation to Themes and Styles
 
 Gendered categories have long pervaded the production and reception of Japanese art. Speaking in the broadest of generalizations, paintings and techniques perceived as “delicate” or “gentile” rather than bold are often considered “feminine” (*joseiteki*). Traditional themes drawn from Japanese, as opposed to Chinese, culture were deemed most appropriate for women. The assumption that women making figure paintings should paint other women rather than men lasted into the 1930s. Paintings and calligraphy by women have often been praised for their “femininity,” leaving the definition of what that may be up to the viewer. Closer examination reveals male artists employing many of the same themes and delicate brushwork that are acclaimed as being “feminine” when executed by a woman. Women as a class have a range of experiences different from their male counterparts, yet much of the differences in style and subject matter can more easily relate to the training they received and the general expectations placed on their work. Women either trained in or electing to study “masculine” brushwork associated with Zen, Kanō school renditions of Chinese themes, or Chinese-referenced literati landscapes and poetry rivaled their male counterpoints in quality.
+
+{{< q-figure id="install-three-obediences" >}}
 
 ## Challenges for Enacting Change
 
