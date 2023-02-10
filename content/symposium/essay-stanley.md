@@ -1,7 +1,5 @@
 ---
 title: "Reading an Archive of Everyday Life"
-toc_title: Essay
-short_title: Essay
 type: essay
 weight: 105
 contributor:

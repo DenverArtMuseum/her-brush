@@ -1,7 +1,5 @@
 ---
 title: "Calligraphy, Poems, and Paintings by Japanese Buddhist Nuns"
-short_title: "Essay / Patricia Fister"
-toctitle: Essay
 type: featured
 weight: 302
 contributor:

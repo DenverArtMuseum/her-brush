@@ -1,7 +1,5 @@
 ---
 title: Narratives of Japanese Art History—Where Are the Women?
-toc_title: Essay
-short_title: Essay
 type: essay
 weight: 107
 contributor:
