@@ -122,6 +122,24 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 } */
 
 
+.quire-page__header {
+    background-color: #fff;
+}
+
+.quire-page__header.hero {
+    position: relative;
+    z-index: 101;
+}
+.quire-page__header.hero__image {
+    z-index: 100;
+}
+.quire-page__content {
+    z-index: 100;
+}
+
+
+
+
 /* Navbar */
 
 .quire-search__close-button {
@@ -305,6 +323,11 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 
 /* TOC */
 
+/* Hide kanji */
+#contents .title_logo {
+    display: none;
+}
+
 .section-item.level-0:nth-child(2) {
     break-before: always;
 }
@@ -388,8 +411,12 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     margin-right: calc(-100vw / 2 + 100% / 2 - 50px );
     max-width: calc( 100vw - 100px );
     width: auto;
+    clear: both;
 }
-
+.content figure.full-width.centered {
+    margin-left: auto;
+    margin-right: auto;
+}
 article.quire-page--full-width .quire-page__content .container {
     max-width: 1200px;
     width: 1200px;
@@ -546,11 +573,44 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     line-height: 1;
 }
 
+
+/* Exhibition Landing Page */
+
+
+#exhibition-landing-page .quire-contents, #exhibition-landing-page .card, 
+#exhibition-landing-page .quire-page__header, #exhibition-landing-page .section.quire-page__content {
+    background-color: #000;
+}
+
+#exhibition-landing-page .quire-page__header__title,
+#exhibition-landing-page .quire-contents-list.grid .section-item .card .card-content,
+#exhibition-landing-page .quire-contents-list.grid .page-item .card .card-content {
+    color: #fff;
+}
+#exhibition-landing-page .quire-contents-list.grid .section-item .card .card-content,
+#exhibition-landing-page .quire-contents-list.grid .page-item .card .card-content {
+    display: flex;
+    flex-direction: row;
+    text-align: right;
+    justify-content: end;
+}
+#exhibition-landing-page .quire-contents-list.grid .page-item .card .card-content .title_logo svg {
+    fill: #fff;
+}
+#exhibition-landing-page .card-content .arrow {
+    display: none;
+}
+
 /* bibliography */
 
 .quire-page__content__references dl dt {
     display: none;
 }
+
+
+
+
+
 
 /* q-objects */
 
@@ -643,7 +703,7 @@ h1 .title_logo {
     height: 200px;
 }
 
-h1 .title_logo svg {
+.title_logo svg {
     width: 100%;
     height: auto;
 }
@@ -653,6 +713,13 @@ h1 .title_logo svg {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+}
+
+/* Index pages */
+.card-content .title_logo {
+    z-index: 1000;
+    width: 100px;
+    height: 100px;
 }
 
 
