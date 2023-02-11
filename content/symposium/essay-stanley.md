@@ -1,5 +1,6 @@
 ---
 title: "Reading an Archive of Everyday Life"
+short_title: Reading an Archive
 type: essay
 weight: 105
 contributor:

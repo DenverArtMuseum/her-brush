@@ -2,6 +2,7 @@
 title: Introduction
 type: essay
 weight: 402
+class: left-column
 ---
 
 How do we leave our mark?

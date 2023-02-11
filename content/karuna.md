@@ -1,5 +1,6 @@
 ---
 Title: "Galleries as Sites of Connection: Visitor Experience in *Her Brush*"
+short_title: Visitor Experience
 type: essay
 weight: 304
 contributor:

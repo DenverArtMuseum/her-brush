@@ -1,5 +1,6 @@
 ---
 title: "Shining Light on Art by Japanese Buddhist Nuns"
+short_title: Shining Light on Art
 type: essay
 weight: 102
 class: left-column
