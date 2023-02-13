@@ -1,7 +1,7 @@
 ---
 title: "Reading an Archive of Everyday Life"
 short_title: Reading an Archive
-type: essay
+type: featured
 weight: 105
 contributor:
   - id: abstanley

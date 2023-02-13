@@ -1,9 +1,10 @@
 ---
 title: "Introduction"
+type: featured
 contributor:
   - id: einorcervone
-type: page
 weight: 5
+class: left-column
 ---
 
 Why is it that you’ve never heard of [Katō Seiko](/artists/#katō-seiko-加藤青湖)?

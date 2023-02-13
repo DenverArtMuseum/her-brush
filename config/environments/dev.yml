@@ -9,6 +9,6 @@
 #
 # If you are using the Quire commands, this will happen automatically.
 
-baseURL: ""
+baseURL: "test"
 relativeURLs: true
 buildDrafts: true

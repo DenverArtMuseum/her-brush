@@ -546,3 +546,7 @@ figure_list:
     src: "figures/Install_Unstoppable.jpg"
   - id: "install-three-obediences"
     src: "figures/three-obediences-install.jpg"
+  - id: "symposium-cover"
+    src: figures/symposium-cover.png
+  - id: "tomoko-cover"
+    src: figures/tomoko-cover.jpg
