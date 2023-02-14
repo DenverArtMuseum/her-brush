@@ -68,6 +68,40 @@ html {
     }
 }
 
+/*
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *  contenteditable attribute is included anywhere else in the document.
+ *  Otherwise it causes space to appear at the top and bottom of elements
+ *  that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ * `:before` to contain the top-margins of child elements.
+ */
+ #content .container .content:before,
+ #content .container .content:after,
+ .clearfix:before,
+ .clearfix:after {
+   content: " "; /* 1 */
+   display: table; /* 2 */
+ }
+ 
+ #content .container .content:after,
+ .clearfix:after {
+   clear: both;
+ }
+ 
+ /*
+  * For IE 6/7 only
+  * Include this rule to trigger hasLayout and contain floats.
+  */
+  #content .container .content,
+ .clearfix {
+   zoom: 1;
+ }
+
+
+
+
 body {
     font-family: 'Raleway', sans-serif !important;
     font-size: 1.25rem;
@@ -136,6 +170,14 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 .quire-page__content {
     z-index: 100;
 }
+
+.quire-page__content .container .content hr:after {
+    content: "";
+}
+
+
+
+
 
 
 
@@ -427,8 +469,8 @@ article.quire-page--right-column .quire-page__content .container {
     max-width: 1200px;
     width: 1200px;
 }
-article.quire-page--left-column .quire-page__content .container .content > p,
-article.quire-page--right-column .quire-page__content .container .content > p,
+article.quire-page--left-column .quire-page__content .container .content > *,
+article.quire-page--right-column .quire-page__content .container .content > *,
 article.quire-page--left-column .quire-page__content figure,
 article.quire-page--right-column .quire-page__content figure { 
     max-width: 700px;
@@ -436,17 +478,33 @@ article.quire-page--right-column .quire-page__content figure {
 }
 
 
-article.quire-page--left-column .quire-page__content figure.right-column {
+article.quire-page--left-column .quire-page__content .container .content figure.right-column {
     float: right;
     max-width: 400px;
     width: 400px;
+    clear: right;
 }
 
-article.quire-page--right-column .quire-page__content figure.left-column {
-    position: absolute;
+article.quire-page--right-column .quire-page__content .container .content figure.left-column {
+    float: left;
     right: 0;
     max-width: 400px;
     width: 400px;
+    clear: left;
+}
+
+.content figure.sticky {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 10px;
+    /* position: relative;
+    height: 400px; */
+}
+
+.test-spacer {
+    background-color: red;
+    height: 200px;
+    float: right;
 }
 
 .spacer {
@@ -500,10 +558,23 @@ article.quire-page--right-column .quire-page__content figure.left-column {
 ::marker {
     display: none;
 }
-.footnotes li {
-    list-style-type: none;
+.footnotes li.footnote-print-only {
+    list-style-type: decimal;
+    display: list-item !important;
 }
 
+
+.flexbox-row {
+    display: flex;
+    flex-direction: row;
+}
+.flexbox-row > div {
+    width: 50%;
+}
+
+.center {
+    text-align: center;
+}
 
 /* Featured Page */
 
@@ -534,9 +605,9 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     align-items: flex-end;
     margin-bottom: 0;
 }
-.quire-featured .hero-body {
-    height: 100px;
-    padding: 1em;
+.quire-featured .quire-page__header.hero-image .hero-body {
+    width: 50%;
+    padding: 2em 0;
     flex-grow: 0;
     flex-shrink: 1;
     text-align: end;
@@ -545,6 +616,7 @@ article.quire-page--right-column .quire-page__content figure.left-column {
     color: var(--light-grayish-orange);
     font-size: 1.8rem;
     margin-bottom: 0.3em;
+    justify-content: right;
 }
 .quire-featured .quire-page__header.hero-image .hero-body .quire-page__header__contributor {
     color: var(--light-grayish-orange);
