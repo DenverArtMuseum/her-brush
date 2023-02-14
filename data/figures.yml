@@ -32,7 +32,7 @@ figure_list:
     caption: '**fig. 3:** Ryōnen Gensō <span lang="ja">了然元総</span> (1646–1711), *Poem*, late 1600s–early 1700s. Ink on paper, 11¼ × 11 in. (28.6 × 27.9 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.159.'
     alt: "Five vertical lines of cursive Japanese calligraphy are painted on yellowing paper at varying heights and thicknesses. Two large red square seals at bottom left."
   - id: fister-4
-    src: figures/FISTER_fig_4_cropped.jpg
+    src: figures/FISTER_fig4_cropped.jpg
     caption: "**fig. 4:** *Ryōnen Burning Her Face*, illustration from Kinsei meika shogadan [Famous calligraphers and painters of recent ages], vol. 4, 1844. Waseda University Library."
     alt: "A black-and-white woodblock print depicting the nun Ryōn with a shaved head, putting a hot iron to her face. Two startled attendants reach out to try and stop her."
   - id: fister-5
@@ -56,7 +56,7 @@ figure_list:
     caption: '**fig. 9:** Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span> (1791–1875), *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper, 1¼ × 4¼ × 6½ in. (3.2 × 10.8 ×16.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
     alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
   - id: fister-10
-    src: figures/2021_156.jpg
+    src: figures/2021_156~2.jpg
     caption: '**fig. 10:** Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span> (1791–1875), painting by Tomioka Tessai 富岡鉄斎 (1836–1924), *Three Waka Poems and a Pine*, second half of the 1800s. Ink on paper, 38¼ × 12 in. (97.2 × 30.5 cm). Gift of Drs. John Fong and Colin Johnstone, 2021.156.'
     alt: "Energetically brushed Japanese characters in black ink fill the top three quarters of a long, narrow composition. A delicately drawn branch of a pine tree spreads across the bottom of the composition. A signature and two red stamps are in the bottom right corner."
   - id: fister-11
@@ -225,7 +225,7 @@ figure_list:
     caption: ""
     credit: ""
   - id: 2018-177
-    src: figures/2018-177.jpg
+    src: figures/2018_177.jpg
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Tea Bowl**, 1800s, Ceramic, Gift of Drs. John Fong and Colin Johnstone, 2018.164'
   - id: 2018-181-install
     src: figures/2018_181_install.jpg
@@ -499,6 +499,10 @@ figure_list:
     alt: "A white, spherical vessel in the shape of a racoon dog. The racoon dog’s face looks up, and its arms and legs, with incised lines representing fur, are close to its body. Japanese characters are incised on its chest."
     caption: ""
     credit: ""
+  - id: 2021-200-1-4
+    src: figures/PTL-21788.jpg
+    alt: "A set of four square ceramic plates with raised edges. The top left corner of each plate is lighter in color and features a floral motif. The rest of each plate is filled with Japanese calligraphy."
+    credit: 'Formerly attributed to Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Sweet Plates for Tea Ceremony**, 1800s, Glazed ceramic, Gift of Drs. John Fong and Colin Johnstone, 2021.200.1-4'
   - id: 2021-205
     src: figures/2021_205.jpg
     alt: "Round ceramic dish with edges pinched upwards to resemble lotus petals. Interior is inscribed with stylized Japanese calligraphy."

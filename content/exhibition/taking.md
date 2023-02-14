@@ -42,7 +42,7 @@ Princess Umenomiya, daughter of Emperor Gomizuno-o (1596–1680), took the tonsu
 
 The calligraphy reads “Bodhisattva of Myriad Acts of Compassion,” the Buddhist name for the principal deity of a Shinto shrine in Nara. By writing this *myōgō* (names of Buddhist deities as invocations), Bunchi performed a devotional act, accumulating karmic merit.
 
-{{< q-figure id="fister-14" >}}
+{{< q-figure id="fister-14" caption="Photograph of Ōishi Junkyō. From *The Mainichi Graphic*, 4 January 1956, published by The Mainichi Newspapers Co., Ltd. Source: Wikimedia Commons" >}}
 
 ### ŌISHI JUNKYŌ <span lang="ja">大石順教</span> (1888–1968)
 

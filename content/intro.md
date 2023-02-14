@@ -9,9 +9,9 @@ class: left-column
 
 Why is it that you’ve never heard of [Katō Seiko](/artists/#katō-seiko-加藤青湖)?
 
-How about [Yamamoto Shōtō](/artists/#yamamoto-shōtō-山本緗桃) or [Kō (Ōshima) Raikin?](/artists/#kō-ōshima-raikin-高大島来禽) It is not that they weren’t well known. They were, quite so, both during their own lifetimes and in generations that followed. The brilliance of their work, too, stands the test of time—whether in Seiko’s sprightly jubilations of finches among verdant blades of bamboo (fig. 1); in the measured steps of a weary countryman, returning home in autumnal twilight over Raikin’s brushed steps (fig. 2); or in Shōtō’s golden gossamers, malachite pools, and rushes of ink that give form to her supramundane chrysanthemums (fig. 3).
+{{< q-figure id="intro-1" class="right-column">}}
 
-{{< q-figure id="intro-1" >}}
+How about [Yamamoto Shōtō](/artists/#yamamoto-shōtō-山本緗桃) or [Kō (Ōshima) Raikin?](/artists/#kō-ōshima-raikin-高大島来禽) It is not that they weren’t well known. They were, quite so, both during their own lifetimes and in generations that followed. The brilliance of their work, too, stands the test of time—whether in Seiko’s sprightly jubilations of finches among verdant blades of bamboo (fig. 1); in the measured steps of a weary countryman, returning home in autumnal twilight over Raikin’s brushed steps (fig. 2); or in Shōtō’s golden gossamers, malachite pools, and rushes of ink that give form to her supramundane chrysanthemums (fig. 3).
 
 {{< q-figure id="intro-2" >}}
 
@@ -27,13 +27,13 @@ In 2018, Dr. John Fong and Dr. Colin Johnstone pledged their collection of over 
 
 Research and preparation were underway when all work on the exhibition abruptly ground to a halt with the pandemic outbreak and curatorial changeover. Themes of artistic volition and inclusivity came to the fore, and a reckoning with an altered cultural landscape made the exhibition all the more relevant. The project as a whole seeks to bring awareness to this long-overlooked group of artists by shifting exhibition priorities and through ongoing commitment to focused programming, academic symposia, and artist engagement.
 
+{{< q-figure id="intro-4" class="right-column" >}}
+
 The Fong-Johnstone Collection, which according to the collectors, was itself inspired by the formidable art dealer Alice Boney (1901–1988), has been little studied and never shown. It holds many mysteries and questions, from identification to authenticity (figs. 4 and 5). It is, therefore, an invaluable resource for the study of connoisseurship. Addressing the steadily narrowing opportunities of in-person access to artworks, the Fong-Johnstone Collection and the Study Collection will ultimately be made fully available for study—both online and in person. It will provide opportunities to delve into questions of authorship and authenticity and to consider the nuances of connoisseurship.
 
-{{< q-figure id="intro-4" >}}
+The catalog presents new research, detailed exhibition and object content, and supplemental materials that shed light on the artists and their lives. In response to the dearth of information in Western languages, it also takes a self-reflexive approach, contextualizing the exhibition and considering the subject through a multidisciplinary framework. Leading scholars, artists, and specialists weigh in on the state of the field—past, present, and future.
 
 {{< q-figure id="intro-5" >}}
-
-The catalog presents new research, detailed exhibition and object content, and supplemental materials that shed light on the artists and their lives. In response to the dearth of information in Western languages, it also takes a self-reflexive approach, contextualizing the exhibition and considering the subject through a multidisciplinary framework. Leading scholars, artists, and specialists weigh in on the state of the field—past, present, and future.
 
 Patricia Fister, who spearheaded the field in the 1980s and dedicated her career to the study and exhibition of Japanese women artists, has contributed an important essay. “Calligraphy, Poems, and Paintings by Japanese Buddhist Nuns” offers rare insights into artistic production by Buddhist nuns in early modern and modern Japan. A case study by Cervone, “On the Fong-Johnstone Study Collection and the Power of Access,” reconsiders questions of authenticity and its spectrum—from homage to forgery. How might we understand the cultural nuances of authorship? How might a copy shed light on the historical and contemporary demand for a given artist? Interpretive specialist Karuna Srikureja, in her essay, "[Galleries as Sites of Connection: Visitor Experience in *Her Brush*](/karuna/)”, shares and explicates the interpretive strategies and methodologies developed and applied by the Learning and Engagement team at the Denver Art Museum to make *Her Brush* an inclusive, impactful, and relevant experience.
 
