@@ -168,7 +168,7 @@ figure_list:
     src: figures/2018_157.jpg
     alt: "A small frog leaps with outstretched limbs towards a delicately-brushed branch in the upper left-hand corner. Sprightly, cursive script occupies most of the paper ground, dwarfing the little frog."
     caption: ""
-    credit: ""
+    credit: 'Ōishi Junkyō <span lang="ja">大石順教</span>, 1888–1968, **Willow and Frog**, Mid-1900s, Ink on paper, 2018.157'
   - id: 2018-158
     src: figures/2018_158.jpg
     alt: "Fan painting on light paper using wet dabs of monochrome ink of a wide-eyed shrimp, stretching claws to upper right corner. Artist’s signature on the left."
@@ -203,15 +203,30 @@ figure_list:
     alt: "Two paddle-shaped fans. The fan on the left is beige, and the fan on the right is light blue. Both have black handles and are inscribed with poems in thin Japanese calligraphy."
     caption: ""
     credit: ""
+  - id: 2018-169-A-B
+    src: figures/2018_169A-B.jpg
+    alt: "An incense burner with a round base that curves upward to an undulating rim. Thin Japanese calligraphy adorns the exterior. A darker silver cap sits atop the incense burner."
+    credit: 'Formerly attributed to Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Incense Burner*, 1800s, Glazed ceramic (stoneware) with copper and silver, Gift of Drs. John Fong and Colin Johnstone, 2018.169A-B'
   - id: "2018_170_1"
     src: figures/2018_170_1-5.jpg
     caption: ""
     credit: ""
+  - id: 2018-173
+    src: figures/2018_173.jpg
+    alt: "A gourd-shaped ceramic vase with vertical ridges and a loop of clay vine at the top. A dark hole near the center of the vase is surrounded by incised Japanese calligraphy."
+    credit: 'Formerly attributed to Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Gourd-Shaped Hanging Vase*, 1866, Ceramic (earthenware), Gift of Drs. John Fong and Colin Johnstone, 2018.173'
+  - id: 2018-173-back
+    src: figures/2018_173~4.jpg
+    alt: "A gourd-shaped ceramic vase with vertical ridges and a loop of clay vine at the top. A dark hole near the center of the vase is surrounded by incised Japanese calligraphy."
+    credit: 'Formerly attributed to Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Gourd-Shaped Hanging Vase*, 1866, Ceramic (earthenware), Gift of Drs. John Fong and Colin Johnstone, 2018.173'
   - id: 2018-175
     src: figures/2018_175.jpg
     alt: "Dark brown ceramic vase with round body that tapers towards the top. Uneven surface is inscribed with stylized Japanese calligraphy."
     caption: ""
     credit: ""
+  - id: 2018-177
+    src: figures/2018-177.jpg
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Tea Bowl**, 1800s, Ceramic, Gift of Drs. John Fong and Colin Johnstone, 2018.164'
   - id: 2018-181-install
     src: figures/2018_181_install.jpg
     alt: "Dozens of vertical, decorated paper slips with calligraphy are mounted haphazardly on faux folding screen made of transparent plexiglass. Their reflection in the mirror-like platform, enhanced by the dark room, creates a sense of floating."
@@ -287,7 +302,6 @@ figure_list:
     credit: ""
   - id: 2018-193
     src: figures/2018_193.jpg
-    caption: ""
     credit: 'Kō (Ōshima) Raikin <span lang="ja">高(大島)来禽</span>, Active late 1700s, **Autumn Landscape**, Late 1700s, Ink and light color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.193'
   - id: 2018-194
     src: figures/2018_194.jpg
@@ -302,8 +316,7 @@ figure_list:
   - id: 2018-196
     src: figures/2018_196.jpg
     alt: "A wicker basket overflowing with flowers and foliage sits in the bottom foreground of a vertical composition. Behind it, a tall narrow vase on a short plant stand also overspills with blooming flowers, verdant foliage, and a pine bough."
-    caption: ""
-    credit: ""
+    credit: 'Noguchi Shōhin <span lang="ja">野口小蘋</span>, 1847–1917, *Cut Flowers and Pine Bough*, Late 1800s–early 1900s, Ink and color on silk, 2018.196'
   - id: "2018_198"
     src: figures/2018_198.jpg
     caption: ""
@@ -316,7 +329,6 @@ figure_list:
   - id: 2018-202
     src: figures/2018_202.jpg
     alt: "Yellowed silk painted with nine turtles clamering up a rocky surface under a rising sun. Each turtle is accompanied by a signature."
-    caption: ""
     credit: "Various artists, **Turtles on New Year’s Morn**, About 1894, Ink and color on silk, Gift of Drs. John Fong and Colin Johnstone, 2018.202"
   - id: 2018-206
     src: figures/2018_206.jpg
@@ -422,11 +434,18 @@ figure_list:
     alt: "A house with a large porch stands on stilts amid a hilly landscape. A green pine tree grows on the hillside to the right. Below the porch, a lavishly dressed man and his servant look up at the porch where three women and a young girl, all in kimonos, stand and sit."
     caption: ""
     credit: 'Artist unknown, Signed Kiyohara Yukinobu <span lang="ja">清原雪信</span>, 1643–1682, **Genji Peeping at the Young Murasaki**, 1600s, Ink and color on silk, Gift of Drs. John Fong and Colin Johnstone, 2018.255'
+  - id: 2018-257A-B
+    src: figures/2018_257A-B.jpg
+    credit: "Ōtagaki Rengetsu 太田垣蓮月, 1791–1875, *Teapot*, 1800s, stoneware, Gift of Drs. John Fong and Colin Johnstone, 2018.257.A-B"
   - id: 2018-259-1-2
     src: figures/2018_259_1-2.jpg
     alt: "Two small beige bowls with slanted sides. The exteriors are rough and darker brown than the smooth interiors. The interior rims are stamped with small squares and circles. The interior of the bowls are lighter beige and inscribed with poems written in  Japanese characters."
-    caption: ""
     credit: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–1895, **Two Teabowls in the Style of Rengetsu (*Rengetsu-yaki*)**, Late 1800s, Glazed ceramic, Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2.'
+  - id: 2018-262-1-7
+    src: figures/2018_262_1-7.jpg
+    alt: "A pale-colored ceramic tea set with a teapot, a water cooler, and five cups. Each piece has a slightly flared rim and features Japanese calligraphy incised on the exterior."
+    caption: ""
+    credit: "Formerly attributed to Ōtagaki Rengetsu <span lang=\"ja\">太田垣蓮月</span>, 1791–1875, *Set for Sencha Tea*, 1800s, Glazed ceramic (porcelain), Gift of Drs. John Fong and Colin Johnstone, 2018.262.1-7"
   - id: 2020-570
     src: figures/24_2018.jpg
     alt: "Two crickets crawl on wispy grasses in the lefthand side of the frame. The right is filled with eleven lines of calligraphy."
@@ -445,16 +464,22 @@ figure_list:
     src: figures/2021_164A-B.jpg
     alt: "A small brown box in the shape of a tortoise. The box’s lid is the head and shell of the tortoise. It has eight faceted sides, and the eyes of the tortoise are holes on either side of the head."
     caption: ""
-    credit: ""
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Incense Box (*kōgō*) in the Shape of a Tortoise, 1800s, Ceramic with gold and lacquer repair (*kintsugi*), Gift of Drs. John Fong and Colin Johnstone, 2021.164A-B'
   - id: 2021-170-1-5
     src: figures/2021_170_1-5.jpg
     caption: ""
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Set of Five *Sencha* Cups**, Glazed ceramic, ift of Drs. John Fong and Colin Johnstone, 2021.170.1-5'
+  - id: 2021-182-A-B
+    src: figures/2021_182_A_B.jpg
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Lidded Teapot in Shape of Lotus Leaf with Bud**, 1800s, Glazed ceramic, Gift of Drs. John Fong and Colin Johnstone, 2021.170.1-5'
   - id: 2021-184
     src: figures/2021_184.jpg
     alt: "A gourd-shaped vase with vertical ridges. A dark hole in the center takes up about one third of the surface area."
-    caption: ""
-    credit: ""
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Hanging Flower Vase (hana-ike) in the Shape of a Hechima Gourd**, 1800s, Ceramic, 2021.184'
+  - id: 2021-184-back
+    src: figures/2021_184~6.jpg
+    alt: "A gourd-shaped vase with vertical ridges. A dark hole in the center takes up about one third of the surface area."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Hanging Flower Vase (hana-ike) in the Shape of a Hechima Gourd**, 1800s, Ceramic, 2021.184'
   - id: 2021-196
     src: figures/2021_196.jpg
     alt: "A light brown sake decanter with a narrow opening at the top and a much wider base. It has a small rimmed lid, and a poem in Japanese characters is inscribed around the vessel. Finger prints and indentations cover its surface."
@@ -506,8 +531,7 @@ figure_list:
     credit: "llustration by Mikuma Katen (<span lang=\"ja\">三熊思孝</span>), *Matsuya Teahouse*, from the *Kinsei Kijin* <span lang=\"ja\">近世畸伝</span>,  woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l'UCL. Creative Commons Attribution 4.0 International license."
   - id: "seiko"
     src: figures/Seiko_hi-res.jpg
-    caption: ""
-    credit: ""
+    credit: "Okuhara Seiko 奥原晴湖, 1912. Photographer unknown. Source: Patricia Fister, Japanese Women Artists, 1600–1900 (Lawrence, KS: Spencer Museum of Art/Harper & Row, Publishers Inc., 1988), fig. 16."
   - id: "shohin-crop"
     src: figures/Shohin_crop.jpg
     caption: ""
@@ -530,6 +554,8 @@ figure_list:
     src: "figures/artist slip Rengetsu.jpg"
   - id: "slip-shohin"
     src: "figures/artist slip Shohin.jpg"
+  - id: install-entrance
+    src: figures/install-entrance.jpg
   - id: "install-intro"
     src: "figures/Install_Intro.jpg"
   - id: "install-inner-chambers"
@@ -550,3 +576,7 @@ figure_list:
     src: figures/symposium-cover.png
   - id: "tomoko-cover"
     src: figures/tomoko-cover.jpg
+  - id: IMG_1282
+    src: IMG_1282.jpg
+  - id: early-views
+    src: HerBrushEarlyViews17.jpg

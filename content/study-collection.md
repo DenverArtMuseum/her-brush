@@ -4,8 +4,10 @@ type: page
 weight: 303
 contributor:
     - id: einorcervone
-class: full-width
+class: left-column
 ---
+
+{{< q-figure id="2021-164A-B" class="right-column" >}}
 
 A slapdash fissure stretches into a grimace beneath two burrowed cavities—a pair of gaping eyes—pressed into groggy *shigaraki* clay (fig. 1). Simple, coarse, unglazed. Almost insignificant. But then, a metallic glimmer draws the eye. Gold and lacquer *kintsugi*, lovingly applied to mend a crack, discloses how treasured a possession this tortoise-shaped *kōgō* (incense box) must have been. Notwithstanding its undeniable charm, how was its earthy material, hastily pressed onto a mold, valued above gold? Turning it over, three finger-wide grooves drag vertically from chin to tail. Through them, a signature emerges: Rengetsu.
 
