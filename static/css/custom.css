@@ -564,6 +564,18 @@ article.quire-page--right-column .quire-page__content .container .content figure
 }
 
 
+.flexbox-row {
+    display: flex;
+    flex-direction: row;
+}
+.flexbox-row > div {
+    width: 50%;
+}
+
+.center {
+    text-align: center;
+}
+
 /* Featured Page */
 
 .quire-page.quire-featured {

@@ -4,15 +4,16 @@ type: page
 weight: 303
 contributor:
     - id: einorcervone
+class: full-width
 ---
 
 A slapdash fissure stretches into a grimace beneath two burrowed cavities—a pair of gaping eyes—pressed into groggy *shigaraki* clay (fig. 1). Simple, coarse, unglazed. Almost insignificant. But then, a metallic glimmer draws the eye. Gold and lacquer *kintsugi*, lovingly applied to mend a crack, discloses how treasured a possession this tortoise-shaped *kōgō* (incense box) must have been. Notwithstanding its undeniable charm, how was its earthy material, hastily pressed onto a mold, valued above gold? Turning it over, three finger-wide grooves drag vertically from chin to tail. Through them, a signature emerges: Rengetsu.
 
-Oscillating between mass production and prized rarity, this tortoise *kōgō* sneers at such proscriptive divides as those of professional and literati art. Rengetsu (Lotus Moon) was the ordained name of the Buddhist nun and artist-cum-celebrity Ōtagaki Rengetsu (太田垣蓮月1791–1875). Her painting, calligraphy, and ceramics were so coveted that she could barely keep up with demand. She did not have her own kiln, relying instead on local networks. She churned out deceptively simple and heartachingly captivating ceramics. Her idiosyncratic style, unpolished and whimsical, came to be known as Rengetsu-style pottery, or *Rengetsu-yaki*.
+Oscillating between mass production and prized rarity, this tortoise *kōgō* sneers at such proscriptive divides as those of professional and literati art. Rengetsu (Lotus Moon) was the ordained name of the Buddhist nun and artist-cum-celebrity Ōtagaki Rengetsu (<span lang="ja">太田垣蓮月</span> 1791–1875). Her painting, calligraphy, and ceramics were so coveted that she could barely keep up with demand. She did not have her own kiln, relying instead on local networks. She churned out deceptively simple and heartachingly captivating ceramics. Her idiosyncratic style, unpolished and whimsical, came to be known as Rengetsu-style pottery, or *Rengetsu-yaki*.
 
 The market—forever attentive—swiftly responded to this demand in kind with a flood of copies and forgeries already in the artist’s own lifetime. This plethora of *Rengetsu-yaki* wares has long challenged art historians and connoisseurs in assessing the artist’s oeuvre. At the same time, these idiomatic works hold an equally important key to better understanding the artist, her life, and her work.
 
-Emulations of Rengetsu’s signature style range from outright forgeries (e.g., figs. 2–5) to pieces that, as art historian Paul Berry has remarked, were never intended to deceive but instead were a nod to her work—an homage to the artist. Such, for instance, is this later incenser bearing an underglaze poem by Rengetsu and crowned with reticulated metal openwork (fig. 6). Its smooth and clear-overglazed surface indicates it was thrown on a wheel. It thereby does not attempt to imitate Rengetsu’s hand-built process. It is not a forgery; neither is it an authentic work by Rengetsu herself. It is an “honest copy.” It lives in the liminal space, somewhere on the richly gradated spectrum of idiomatic artmaking (see LINK for discussion of two *Rengetsu-yaki* teabowls by the artist Kuroda Kōryō (黒田光良 1823–1895).
+Emulations of Rengetsu’s signature style range from outright forgeries (e.g., figs. 2–5) to pieces that, as art historian Paul Berry has remarked, were never intended to deceive but instead were a nod to her work—an homage to the artist. Such, for instance, is this later incenser bearing an underglaze poem by Rengetsu and crowned with reticulated metal openwork (fig. 6). Its smooth and clear-overglazed surface indicates it was thrown on a wheel. It thereby does not attempt to imitate Rengetsu’s hand-built process. It is not a forgery; neither is it an authentic work by Rengetsu herself. It is an “honest copy.” It lives in the liminal space, somewhere on the richly gradated spectrum of idiomatic artmaking (see LINK for discussion of two *Rengetsu-yaki* teabowls by the artist Kuroda Kōryō (<span lang="ja">黒田光良</span> 1823–1895).
 
 Belying the elaborate role of copying in East Asian art, the very classification draws an implicit bias in Euro-American art historical discourse. Granted, some copies are forgeries made explicitly to be passed off as authentic. The act of copying, though, is more nuanced. It is intrinsic to the artist’s technical maturation. It is a way of constructing and finessing one’s artistic voice, of capturing an admired master’s technique—even their spirit. It weaves a visual dialogue with one’s predecessors, artistic lineages, and visual culture—whether contemporaneous or historical. Producing a copy can be an expression of appreciation, a claim to having mastered (or even surpassed) said precursor, or anything in between.
 
@@ -20,47 +21,45 @@ Dismissing idiomatic art can be likened, perhaps, to removing archeological arti
 
 The two *hana-ike* are inscribed with poems by Rengetsu, reading, respectively:
 
-> *A lone pine awaits me*
->
-> *its needles chestnut brown—*
->
-> *were someone here to greet me*
->
-> *I’d present a souvenir from Miyako*
->
+{{< q-class "flexbox-row" >}}
+{{< q-class "flexbox-column" >}}
+> *A lone pine awaits me*\
+> *its needles chestnut brown—*\
+> *were someone here to greet me*\
+> *I’d present a souvenir from Miyako*\
 > *happily saying: “Here!”*
->
-> くりいろの
->
-> あれはの松の
->
-> 人ならば
->
-> 都のつとに
->
-> いざといはましを
+{{< /q-class >}}
 
+{{< q-class "flexbox-column" >}}
+> <span lang="ja">くりいろの</span>\
+> <span lang="ja">あれはの松の</span>\
+> <span lang="ja">人ならば</span>\
+> <span lang="ja">都のつとに</span>\
+> <span lang="ja">いざといはましを</span>
+{{< /q-class >}}
+{{< /q-class >}}
+
+{{< q-class "center" >}}
 and
+{{< /q-class >}}
 
-> *Having left my hometown*
->
-> *sleeping on a pillow of waves*
->
-> *as I travel a far-flung island . . .*
->
-> *how sad the cries*
->
+{{< q-class "flexbox-row" >}}
+{{< q-class "flexbox-column" >}}
+> *Having left my hometown*\
+> *sleeping on a pillow of waves*\
+> *as I travel a far-flung island . . .*\
+> *how sad the cries*\
 > *of a friendless plover.*
->
-> ふるさとを
->
-> はなれ小島の
->
-> 浪まくら
->
-> ともなし千鳥
->
-> 鳴音かなしも
+{{< /q-class >}}
+
+{{< q-class "flexbox-column" >}}
+> <span lang="ja">ふるさとを</span>\
+> <span lang="ja">はなれ小島の</span>\
+> <span lang="ja">浪まくら</span>\
+> <span lang="ja">ともなし千鳥</span>\
+> <span lang="ja">鳴音かなしも</span>
+{{< /q-class >}}
+{{< /q-class >}}
 
 We will refer to the first *hana-ike* as *Lone Pine* and to the second as *Friendless Plover*. While the poems were indeed composed by Rengetsu, the calligraphy reveals a discrepancy in style and technique. The poem gracing *Lone Pine* is rendered in a confident hand with elegant *kana* and lithe curves. The stylus pushed through the soft clay, parting it smoothly, leaving clean and crisp ridges that are further accentuated by the darkened edges from the firing process. The calligraphy on *Friendless Plover*, however, is more belabored and uncertain. The *kana* drags and tears at the clay, leaving a rugged trail in its furrows. It is weighed down by forced flourishes and overly accented curlicues, and it lacks the balanced cadence of *Lone Pine*. Nowhere does this discrepancy emerge more clearly than in the incised signatures. The lightness and natural undulation of line in *Lone* *Pine* contrasts sharply with the clunky *kanji* on *Friendless Plover.*
 
