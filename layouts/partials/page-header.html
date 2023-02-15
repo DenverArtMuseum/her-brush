@@ -1,3 +1,6 @@
+{{- $credit := "" -}}
+{{- $src := "" -}}
+
 {{- if isset $.Site.Params "imagedir" }}
 {{ $.Scratch.Set "imageDir" $.Site.Params.imageDir }}
 {{ else }}
@@ -15,8 +18,20 @@
   </div>
 </section>
 
+
+
 {{- if .Params.image -}}
-{{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") .Params.image -}}
+{{- if isset .Params.image "id" }}
+  {{- range where .Site.Data.figures.figure_list "id" "eq" .Params.image.Get "id" -}}
+    {{- if ($.Get "credit") }}
+      {{ $credit = ($.Get "credit") }}{{ else if .credit }}{{ $credit = .credit }}{{ end -}}
+
+    {{- with .src }}{{ $src = . }}{{ end -}}
+  {{- end -}}
+{{- else -}}
+  {{ $src = .Params.image }}
+{{- end -}}
+{{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") $src -}}
   <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero__image" style="background-image: url('{{ $imgPath | absURL }}');">
   </section>
 {{- end -}}
