@@ -246,10 +246,10 @@ revision_history:
   - date:
     summary:
 
-repository_url:
+repository_url: https://github.com/DenverArtMuseum/her-brush
 
 # ------------------------------------------------------------------------------
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: cover.png
+promo_image: figures/2018_216.jpg

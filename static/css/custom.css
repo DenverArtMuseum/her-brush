@@ -55,6 +55,12 @@
 :root {
     --grayish-lime-green: rgb(172,207,176); /* Grayish lime green */
     --light-grayish-orange: rgb(225,207,187); /* Light grayish orange */
+    --light-orange: #ffbd59;
+    --rajah: #feb06a;
+    --tan: #d5b690;
+    --grandis: #fecf67;
+    --rich-gold: #9b4922;
+
     --white: #ffffff;
 }
 
@@ -126,9 +132,19 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
     line-height: 1.555555em;
 }
 
+h1 > * {
+    display: inherit;
+}
+
 .quire #main {
     background-color: #fff;
 }
+
+.quire-page__content .content a {
+    color: var(--grayish-lime-green);
+    border-bottom: 1px dotted var(--grayish-lime-green);
+}
+
 
 .littlefoot__button {
     border-radius: 7.5px;
@@ -366,6 +382,7 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 /* TOC */
 
 /* Hide kanji */
+#site-menu__inner .title_logo,
 #contents .title_logo {
     display: none;
 }
@@ -591,7 +608,9 @@ article.quire-page--right-column .quire-page__content .container .content figure
 #main.quire-page--black-page .quire-page__content .container .content {
     background-color: #000;
 }
-
+.quire-splash .quire-page__content .container .content {
+    background-color: transparent;
+}
 .quire-splash.quire-featured .quire-page__header.hero-image {
     height: 90vh;
     max-height: 700px;
@@ -643,6 +662,20 @@ article.quire-page--right-column .quire-page__content .container .content figure
 .littlefoot-footnote__host {
     vertical-align: super;
     line-height: 1;
+}
+
+.quire-page__content .container .content .footnotes {
+    font-size: 0.7em;
+}
+
+.quire-page h2 {
+    font-size: 1.45rem;
+}
+
+.quire-page h1:not(:first-child), .quire-page h2:not(:first-child), 
+.quire-page h3:not(:first-child), .quire-page h4:not(:first-child), 
+.quire-page h5:not(:first-child), .quire-page h6:not(:first-child) {
+    margin-top: 2rem;
 }
 
 
@@ -780,7 +813,14 @@ h1 .title_logo {
     height: auto;
 }
 
-.quire-page__header__title {
+.hero-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quire-page--kanji-header .quire-page__header__title {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -823,6 +863,14 @@ h1 .title_logo {
         -webkit-columns: 1;
         -moz-columns: 1;
     }
+
+    .quire-navbar-page-controls__item.quire-previous-page {
+        width: auto;
+    }
+    .quire-navbar-page-controls__item.quire-next-page {
+        width: auto;
+    }
+    
 }
 
 /* Media Query for Mobile Devices */
