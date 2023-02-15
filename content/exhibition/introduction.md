@@ -2,6 +2,7 @@
 title: Introduction
 type: essay
 weight: 402
+svg_logo:  "svg/Title - Her Brush.svg"
 class: left-column
 ---
 
@@ -29,27 +30,33 @@ Every aspect of this work reveals her personal mark. The pockmarked surface reco
 
 ### Joys of Calligraphy
 
->“Taking up the brush<br />
->just for the joy of it,<br />
->writing on and on, leaving behind<br />
->long lines of dancing letters.”<br />
+{{< q-class "flexbox-row" >}}
+{{< q-class "flexbox-column" >}}
+>“Taking up the brush\
+>just for the joy of it,\
+>writing on and on, leaving behind\
+>long lines of dancing letters.”\
 >—Ōtagaki Rengetsu
+{{< /q-class >}}
 
-><span lang="ja">「なにごとを<br />
->&#12288;なすとはなしに<br />
->&#12288;たはむれに<br />
->&#12288;かきながしたる<br />
->&#12288;水莖のあと」<br />
+{{< q-class "flexbox-column" >}}
+><span lang="ja">「なにごとを\
+>&#12288;なすとはなしに\
+>&#12288;たはむれに\
+>&#12288;かきながしたる\
+>&#12288;水莖のあと」\
 >太田垣蓮月</span>
+{{< /q-class >}}
+{{< /q-class >}}
 
 
 Turning to the sister arts of painting, poetry, and calligraphy (together called The Three Perfections) for artistic expression was an act of self-assertion. One’s brushwork (whether in calligraphy or painting) reflected one’s true nature.
 
 You will find the designation *joshi* in the signature of several artists on view. It is made of two *kanji* characters:
 
-<span lang="ja">女</span> （pronounced “jo”）woman
+><span lang="ja">女</span> （pronounced “jo”）woman
 
-<span lang="ja">史</span>　（pronounced “shi”）author
+><span lang="ja">史</span> （pronounced “shi”）author
 
 Today this gendered honorific is outdated. Recently, it has even been used as a derogatory term. But artists who referred to themselves as joshi used it to identify themselves as women of culture—as women and as artists.
 
