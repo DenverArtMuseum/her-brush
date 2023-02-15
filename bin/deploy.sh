@@ -28,4 +28,4 @@ git add -f $BUILD_DIR && git commit -m "Automated deploy at $(date)."
 git subtree push --prefix $BUILD_DIR origin gh-pages
 
 # solution to error from here: https://stackoverflow.com/questions/13756055/why-cant-i-push-this-up-to-date-git-subtree
-#git push origin `git subtree split --prefix $BUILD_DIR master`:gh-pages --force
+#git push origin `git subtree split --prefix $BUILD_DIR --onto master`:gh-pages --force
