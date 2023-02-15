@@ -16,7 +16,7 @@
   {{ end -}}
   {{- if .Params.image -}}
   {{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") .Params.image -}}
-    <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero {{ if .Content }}{{ else }}quire-page__header--full-height{{ end }} {{ if .Params.image }}hero-image{{ end }}" style="background-image: url('{{ $imgPath | relURL }}');">
+    <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero {{ if .Content }}{{ else }}quire-page__header--full-height{{ end }} {{ if .Params.image }}hero-image{{ end }}" style="background-image: url('{{ $imgPath | absURL }}');">
       <div class="hero-body">
         {{/* Page Title */}}
         <h1 class="quire-page__header__title" id="{{ .Title | urlize }}">
