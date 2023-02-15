@@ -3,9 +3,13 @@ Title: "Galleries as Sites of Connection: Visitor Experience in *Her Brush*"
 short_title: Visitor Experience
 type: essay
 weight: 304
+image: figures/install-entrance.jpg
+class: left-column
 contributor:
     - id: karuna
 ---
+
+{{< q-figure id="slips" class="right-column" >}}
 
 *Her Brush* opens with these questions: “How do we leave our mark?” “How is art a reflection of our personhood?”
 
@@ -13,9 +17,13 @@ These are not questions that one might find on a pop quiz—they are deeply pers
 
 This approach is characteristic of the Denver Art Museum (DAM), which has been at the forefront of the movement toward visitor-centered museums for decades. Since the early 1990s, the DAM has employed a team-based approach to exhibition design built on the partnership between a curator and an educator (originally called a master teacher, now an interpretive specialist), championed by the then-director of education, Patterson Williams. This marriage of pedagogical and visitor-centered expertise with art-historical scholarship results in exhibitions that consistently push the boundaries of what it means to be a welcoming and accessible resource to the public.
 
+{{< q-figure id="IMG_1282" class="right-column" >}}
+
 With this institutional inheritance in mind, curator Einor Cervone and I were presented with a challenge in *Her Brush*. This exhibition had the potential to be incredibly alienating to a general audience: it explores a large swath of Japanese history (1600s–1900s) across varied genres and social realms, often diving into the cultural nuances that allowed women to pursue artistic careers. Despite this, the story we hoped to tell is an exceedingly human one. It is a story about resilience, self-actualization, and the universal drive to create. But how to tell this story when these artworks have become so far removed from the conditions that created them? This is the central challenge of art interpretation, which the noted philosopher and educator John Dewey articulated in his seminal *Art as Experience* (1934). To Dewey, “[The] task is to restore continuity between the refined and intensified forms of experience that are works of art and the everyday events, doings, and sufferings that are universally recognized to constitute experience.”[^1]
 
 The interpretive elements we created present art-historical detail *in the service of* personal connection. Biographical focus moments, for example, bring together an artist’s words, work, signature, and story and encourage visitors to see each artist as an individual with unique experience instead of the nebulous notion of the artist.
+
+{{< q-figure id="early-views" class="right-column" >}}
 
 While we wanted to privilege the artists’ experiences, we recognized the limitations of our own familiarity with their circumstances. Several of the highlighted artists in the exhibition dealt with challenges related to trauma, gender, and national and religious identity. While the exhibition team approached these artists’ experiences through a historical lens, many visitors face related challenges today and would bring their own vulnerabilities and preconceived notions to the exhibition. To help us navigate these key issues, we convened a group of local stakeholders. This group of community consultants included people from a range of backgrounds, including a disability rights lawyer, a Zen-based psychotherapist, Denver-based Japanese nationals, and Japanese American artists. The goal was not co-curation but rather gaining a nuanced understanding of the priorities and concerns of vulnerable communities represented in the exhibition. We sought to craft an approach that framed these historical stories in a way that was sensitive to our twenty-first-century cultural climate.
 

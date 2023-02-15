@@ -548,6 +548,9 @@ figure_list:
     src: figures/Tokuyama_Gyokuran_Ike_no_Taiga.jpg
     caption: ""
     credit: "Mikuma Shikō, Tokuyama Gyokuran and Ike Taiga in their studio (detail), in Kinsei kijinden, vol. 4 (1788), p. 8."
+  - id: slips
+    src: figures/slips.jpg
+    alt: Five thin, printed strips resembling bookmarks. Each slip depicts one of the artists from the Her Brush exhibition.
   - id: "slip-gyokuran"
     src: "figures/artist slip Gyokuran.jpg"
   - id: "slip-junkyo"
@@ -581,6 +584,6 @@ figure_list:
   - id: "tomoko-cover"
     src: figures/tomoko-cover.jpg
   - id: IMG_1282
-    src: IMG_1282.jpg
+    src: figures/IMG_1282.jpg
   - id: early-views
-    src: HerBrushEarlyViews17.jpg
+    src: figures/HerBrushEarlyViews17.jpg

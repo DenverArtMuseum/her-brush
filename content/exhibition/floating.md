@@ -41,7 +41,7 @@ So you say, though . . .
 
 *overflow with my tears.*
 
-{{< q-figure id="2018-181-4-44" caption="missing figure" >}}
+{{< q-figure id="2018-181-install" class="right-column" >}}
 
 These poetry slips (*tanzaku*) were written by women and men occupying different social realms, including pleasure quarters, aristocracy, and monastic orders. Written in private or in gatherings, tanzaku were saved, exchanged, and sometimes discarded. These floating tanzaku therefore existed in a space between art and ephemera.
 

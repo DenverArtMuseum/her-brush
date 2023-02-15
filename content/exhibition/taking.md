@@ -56,13 +56,13 @@ At the age of 45, she took the tonsure as a Buddhist nun, adopting the name Junk
 
 ### RYŌNEN GENSŌ <span lang="ja">了然元総</span>
 
+{{< q-figure id="2018-159" class="right-column" >}}
+
 Born into an aristocratic family as the daughter of a lady-in-waiting, Ryōnen Gensō, spent her early years in the Inner Chambers. At the age of 17, she married a courtier. Ten years later, she took the tonsure and became a Buddhist nun.
 
 Wishing to join as a disciple of a famous Ōbaku Zen monk, she traveled to Edo (Tokyo). However, the monk turned her away on the pretext that her beauty would distract male disciples.
 
 In a stark show of determination, she used a searing iron to disfigure her face. Only when proving this degree of devoutness to her faith was she finally accepted into the order.
-
-{{< q-figure id="2018-159" >}}
 
 This poem was written shortly after this turning point. It reads:
 
@@ -75,8 +75,6 @@ This poem was written shortly after this turning point. It reads:
 >would leave my hands free<br />
 >to spend my time at the desk.”<br />
 >—Kaga no Chiyo<br />
-
-
 
 ><span lang="ja">「髪を結ふ<br />
 >&#12288;手の隙明て　<br />
