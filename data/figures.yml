@@ -463,8 +463,11 @@ figure_list:
   - id: 2021-164A-B
     src: figures/2021_164A-B.jpg
     alt: "A small brown box in the shape of a tortoise. The box’s lid is the head and shell of the tortoise. It has eight faceted sides, and the eyes of the tortoise are holes on either side of the head."
-    caption: ""
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Incense Box (*kōgō*) in the Shape of a Tortoise, 1800s, Ceramic with gold and lacquer repair (*kintsugi*), Gift of Drs. John Fong and Colin Johnstone, 2021.164A-B'
+  - id: 2021-164-bottom
+    src: figures/2021_164B~2.jpg
+    alt: "The bottom of a small brown box in the shape of a tortoise. It has eight faceted sides, and there are three finger-wide grooves that run from front to back. There is a rough-carved inscription of two characters, which represent the artist's name, Rengetsu."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Incense Box (*kōgō*) in the Shape of a Tortoise, 1800s, Ceramic with gold and lacquer repair (*kintsugi*), Gift of Drs. John Fong and Colin Johnstone, 2021.164B'
   - id: 2021-170-1-5
     src: figures/2021_170_1-5.jpg
     caption: ""
