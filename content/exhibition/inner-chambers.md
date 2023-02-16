@@ -9,13 +9,13 @@ class: left-column kanji-header
 
 The Inner Chambers (*ōoku* <span lang="ja">大奥</span>) are the secluded areas where women primarily resided within the courts and castles of the upper class. The term became synonymous with women and reveals the gender segregation of early modern Japan’s elite.
 
-Daughters born into elite and wealthy households studied the fundamentals of The Three Perfections (painting, poetry, and calligraphy). They were not expected to become artists. Their artistic education was intended to prepare them to be proper companions for the men in their lives.
+Daughters born into elite and wealthy households studied the fundamentals of the Three Perfections (painting, poetry, and calligraphy). They were not expected to become artists. Their artistic education was intended to prepare them to be proper companions for the men in their lives.
 
 Yet sometimes exceptionally talented and driven women continued to cultivate these skills, paving their own paths as independent artists. Some, like Ono no Ozū, even served as teachers in the Inner Chambers, transmitting their knowledge in the arts to future generations.
 
-{{< q-figure id="2018-182" class="right-column">}}
+{{< q-figure id="2018-255" class="right-column">}}
 
-The painting depicts a scene from the *Tale of Genji,* the world’s earliest novel, written in the early 1000s by court lady Murasaki Shikibu. Here, Prince Genji peeks into the inner chambers and spies the young Murasaki, who will eventually be his greatest love. This anonymous early painting bears a forged signature of the professional painter Kiyohara Yukinobu, whose work is also included in the exhibition—a testament to her popularity.
+The painting depicts a scene from the *Tale of Genji,* the world’s earliest novel, written in the early 1000s by court lady Murasaki Shikibu. Here, Prince Genji peeks into the Inner Chambers and spies the young Murasaki, who will eventually be his greatest love. This anonymous early painting bears a forged signature of the professional painter Kiyohara Yukinobu, whose work is also included in the exhibition—a testament to her popularity.
 
 ### ONO NO OZŪ <span lang="ja">小野お通</span> (1559/68–before 1650)
 

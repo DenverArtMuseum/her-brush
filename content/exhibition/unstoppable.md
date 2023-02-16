@@ -5,11 +5,10 @@ weight: 408
 svg_logo:  "svg/Unstoppable.svg"
 class: left-column
 ---
-## Unstoppable (No Barriers) (*mukan* <span lang="ja">無関</span>)
 
 {{< q-figure id="2018-154A-C" >}}
 
-The screen at the center of the last gallery of the exhibition lends its name to the section title. On one side, it reads: no, or nothingness. On the other: “barriers.” When considered together, however, the two characters spell “unstoppable” (or no barriers, *mukan* <span lang="ja">無関</span>).
+The screen at the center of the last gallery of the exhibition lends its name to the section title. On one side, it reads: "no," or "nothingness." On the other: “barriers.” When considered together, however, the two characters spell “unstoppable” (or no barriers, *mukan* <span lang="ja">無関</span>).
 
 {{< q-figure id="2018-157" class="right-column" >}}
 

@@ -5,7 +5,6 @@ weight: 407
 svg_logo:  "svg/Literati Circles.svg"
 class: left-column
 ---
-## Literati Circles
 
 United by a shared appreciation for China’s artistic traditions, intellectuals and art enthusiasts formed literati societies (*bunjin*). For them, art was a form of social interaction. In their gatherings, they composed poetry, painted together, and inscribed calligraphy for one another.
 
@@ -17,7 +16,7 @@ As in other realms explored in this exhibition, literati circles included women 
 
 Tokuyama (Ike) Gyokuran is one of the Three Women of Gion, and perhaps the most famous of them all. This knotted plum, together with bamboo, chrysanthemum, and orchid, make up the Four Gentlemen (*shikunshi*), all common subjects for literati paintings.
 
-Gyokuran and her husband, the accomplished artist Ike Taiga, were on such equal footing that they would wear one another’s clothes, paint together, and neglect their housekeeping chores (evident in this illustration).
+Gyokuran and her husband, the accomplished artist Ike Taiga, were on such equal footing that they would wear one another’s clothes, paint together, and neglect their housekeeping chores.
 
 {{< q-figure id="tokuyama-gyokuran" class="right-column" caption="Mikuma Shikō, Tokuyama Gyokuran and Ike Taiga in their studio (detail), in *Kinsei kijinden*, vol. 4 (1788), 8." >}}
 
@@ -35,7 +34,7 @@ This group of plates is also rare for its impeccable documentation. Their origin
 
 {{< q-figure id="2018-189" class="right-column" >}}
 
-The Three Friends of Winter, namely, pine, plum, and bamboo, are a common subject of literati painting (*bunjinga*). But here, Ema Saikō creates an unconventional composition. From the crevice of a garden rock, wildly twisting pines intertwine and loop around bamboo and frenzied plum blossoms that jut out in all directions. Immortality Mushrooms (*reishi*), sprouting in the foreground, allude to the subject of resilience in old age. Saikō painted this only four years before her death.
+The Three Friends of Winter, namely pine, plum, and bamboo, are a common subject of literati painting (*bunjinga*). But here, Ema Saikō creates an unconventional composition. From the crevice of a garden rock, wildly twisting pines intertwine and loop around bamboo and frenzied plum blossoms that jut out in all directions. Immortality mushrooms (*reishi*), sprouting in the foreground, allude to the subject of resilience in old age. Saikō painted this only four years before her death.
 
 {{< q-figure id="2018-224" >}}
 
@@ -43,9 +42,9 @@ The Three Friends of Winter, namely, pine, plum, and bamboo, are a common subjec
 
 {{< q-figure id="2020-570" >}}
 
-These paintings belong to the genre of *haiga*, an abbreviated and swiftly executed painting, accompanied by an equally brief form of poetry called *haikai*, or haiku.
+These paintings belong to the genre of *haiga*, an abbreviated and swiftly executed painting accompanied by an equally brief form of poetry called *haikai*, or haiku.
 
-Nonoguchi Ryūho was one of the progenitors of the *haiga* form. Takabatake Shikibu, a poet-painter who exhibited talent at an exceedingly young age, continued producing art well into her 90s. In haiga, text becomes an aesthetic element, offsetting, complementing, and balancing the image.
+Nonoguchi Ryūho was one of the progenitors of the haiga form. Takabatake Shikibu, a poet-painter who exhibited talent at an exceedingly young age, continued producing art well into her nineties. In haiga, text becomes an aesthetic element, offsetting, complementing, and balancing the image.
 
 ### Okuhara Seiko <span lang="ja">奥原晴湖</span> (1837–1913)
 
