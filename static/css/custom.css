@@ -194,6 +194,10 @@ h1 > * {
 
 /* Navbar */
 
+.quire-navbar {
+    z-index: 1000;
+}
+
 .quire-search__close-button {
     position: absolute;
     left: auto;
@@ -277,11 +281,11 @@ h1 > * {
     fill: var(--grayish-lime-green);
 }
 .quire-navbar-page-controls__item.quire-previous-page {
-    width: 400px;
+    width: 500px;
     text-align: right;
 }
 .quire-navbar-page-controls__item.quire-next-page {
-    width: 400px;
+    width: 500px;
     text-align: left;
 }
 
@@ -471,7 +475,7 @@ h1 > * {
 }
 .quire-page--list.quire-contents .quire-page__header, 
 .quire-page--list.quire-contents .quire-page__content {
-    background-color: black;
+    background-color: #000;
 }
 .quire-page--list.quire-contents .quire-contents-list, 
 .quire-page--list.quire-contents .quire-contents-list a {
@@ -492,6 +496,20 @@ h1 > * {
 
 
 /* Page Styles */
+
+/* .quire-page--sticky-hero-image article {
+    display: flex;
+    align-items: center;
+    position: -webkit-sticky;
+    position: sticky;
+    height: 120px;
+}
+.quire-page--sticky-hero-image  .quire-page__header.hero-image {
+    height: 70px;
+    position: sticky;
+    top: 0; 
+} */
+
 
 .content figure.full-width {
     margin-left: calc( -100vw / 2 + 100% / 2 + 50px );
@@ -540,6 +558,16 @@ article.quire-page--right-column .quire-page__content .container .content figure
     top: 10px;
     /* position: relative;
     height: 400px; */
+}
+
+/* Special class to make sure the image is fully visible when it sticks */
+.content figure.sticky.fit .q-figure__wrapper {
+    text-align: left;
+}
+.content figure.sticky.fit img {
+    width: auto;
+    max-height: 100vh;
+    float: left;
 }
 
 .test-spacer {
@@ -638,6 +666,11 @@ article.quire-page--right-column .quire-page__content .container .content figure
 }
 #main.quire-page--black-page .quire-page__content .container .content {
     background-color: #000;
+    color: #fff;
+}
+#main.quire-page--black-page h1, #main.quire-page--black-page h2, #main.quire-page--black-page h3,
+#main.quire-page--black-page h4, #main.quire-page--black-page h5, #main.quire-page--black-page h6 {
+    color: #fff;
 }
 .quire-splash .quire-page__content .container .content {
     background-color: transparent;
@@ -828,18 +861,29 @@ article.quire-page--right-column .quire-page__content .container .content figure
     margin-top: 0;
 }
 .quire-page__content__figures figure img {
-    width:100%;
-    height:100%;
-    object-fit:cover;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
+
+
 figure .q-figure__wrapper {
     overflow: hidden;
 }
-.scrolling-zoom img {
-    transform-origin: bottom left;
+figure.scrolling-zoom img {
+    transform-origin: center left;
     backface-visibility: hidden;    
     overflow-clip-margin: content-box;
     overflow: clip;
+}
+figure.scrolling-zoom figcaption {
+    z-index: 100;
+    display: block;
+    position: relative;
+}
+
+figcaption {
+    background-color: #fff;
 }
 
 
@@ -894,14 +938,33 @@ h1 .title_logo {
 
 /* Media Query for low resolution Tablets, Ipads */
 @media (max-width: 767px) {
+    .quire-page__header.hero__image {
+        height: 40vh;
+    }
+    .quire-splash.quire-featured .quire-page__header.hero-image {
+        height: 50vh;
+        max-height: 400px;
+        min-height: 100px;
+    }
+    .quire-page__header.hero-image {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
     .quire-page--list.quire-contents .section.quire-page__content .container,
     article.quire-page--full-width .quire-page__content .container,
     article.quire-page--left-column .quire-page__content .container,
     article.quire-page--right-column .quire-page__content .container {
-        max-width: 100vw;
-        width: 100vw;
-        margin-left: 20px;
-        margin-right: 20px;
+        max-width: 100%;
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    article.quire-page--left-column .quire-page__content .container .content > *,
+    article.quire-page--right-column .quire-page__content .container .content > *,
+    article.quire-page--left-column .quire-page__content figure,
+    article.quire-page--right-column .quire-page__content figure { 
+        max-width: 100%;
+        width: 100%;
     }
     .quire-page--list.quire-contents .quire-contents-list.list > ul {
         columns: 1;
@@ -915,6 +978,14 @@ h1 .title_logo {
     .quire-navbar-page-controls__item.quire-next-page {
         width: auto;
     }
+    article.quire-page--right-column .quire-page__content .container .content figure.left-column,
+    article.quire-page--left-column .quire-page__content .container .content figure.right-column {
+        float: none;
+        width: 100%;
+    }
+    .content figure.sticky {
+        position: relative;
+    }
     
 }
 
@@ -922,4 +993,38 @@ h1 .title_logo {
 @media (max-width: 480px) {
     
 }
-   
+
+
+
+
+@media print {
+    .remove-from-epub, template {
+      display: none;
+    }
+    .quire-page.quire-cover .quire-cover__hero {
+        background-color: #000;
+    }
+    .quire-page--list.quire-contents .quire-page__header, 
+    .quire-page--list.quire-contents .quire-page__content {
+        background-color: #fff;
+    }
+    .quire-page--list.quire-contents .quire-contents-list, 
+    .quire-page--list.quire-contents .quire-contents-list a {
+        color: #333;
+    }
+    #main.quire-page--black-page {
+        background-color: #fff;
+    }
+    #main.quire-page--black-page .quire-page__content {
+        background-color: #fff;
+        color: #333;
+    }
+    #main.quire-page--black-page .quire-page__content .container .content {
+        background-color: #fff;
+        color: #333;
+    }
+    #main.quire-page--black-page h1, #main.quire-page--black-page h2, #main.quire-page--black-page h3,
+    #main.quire-page--black-page h4, #main.quire-page--black-page h5, #main.quire-page--black-page h6 {
+        color: #fff;
+    }
+}

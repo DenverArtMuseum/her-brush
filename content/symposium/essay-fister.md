@@ -9,7 +9,7 @@ contributor:
   - id: pfister
 ---
 
-{{< q-figure id="2018-156" class="right-column sticky" >}}
+{{< q-figure id="2018-156" class="right-column sticky fit" >}}
 
 I have been engaged in researching women artists for nearly four decades, and in the past twenty-five years, I have focused particularly on Zen Buddhist nuns. This brief overview of my personal journey recounts some of the obstacles and opportunities I have encountered and considers how they shaped my research approach and philosophy. Imperial convents contain a treasure trove of objects and documents, but like some other institutions and private collections in Japan, they have been reluctant to open their doors to scholars.
 

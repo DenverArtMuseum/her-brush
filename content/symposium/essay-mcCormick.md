@@ -1,5 +1,6 @@
 ---
 title: "Ōtagaki Rengetsu’s Buddhist Poetics: Gender and Materiality"
+short_title: Gender and Materiality
 type: featured
 weight: 103
 contributor:
