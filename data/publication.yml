@@ -74,7 +74,7 @@ contributor:
     type: staff
     first_name: Valerie
     last_name: Hellstein
-    title: Project Manager
+    title: Managing Editor
     affiliation: Denver Art Museum
     bio:
     url:
@@ -93,7 +93,7 @@ contributor:
     first_name: Renée
     last_name: Miller
     full_name: Renée B. Miller
-    title: Rights & Reproduction
+    title: Rights & Reproductions
     affiliation: Denver Art Museum
     bio:
     url:
@@ -122,7 +122,7 @@ contributor:
     last_name: Kawao
     title:
     affiliation:
-    bio: "Internationally acclaimed shodō artist based in Kyoto"
+    bio: "Internationally acclaimed *shodō* artist based in Kyoto"
     url:
     pic:
   - id: pberry
@@ -154,7 +154,7 @@ contributor:
     last_name: Stanley
     title:
     affiliation:
-    bio: "Wayne V. Jones II Research Professor in History at Northwestern University"
+    bio: "Wayne V. Jones II Research Professor in History, Northwestern University"
   - id: myonemoto
     type: secondary
     first_name: Marcia A.
@@ -179,7 +179,7 @@ contributor:
     last_name: Maske
     title:
     affiliation:
-    bio: "Professor of museum studies and Director of Gordon L. Grosscup Museum, Wayne State University"
+    bio: "Professor of Museum Studies and Director of Gordon L. Grosscup Museum, Wayne State University"
     
 
 

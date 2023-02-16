@@ -5,9 +5,6 @@ type: page
 class: full-width
 ---
 
-
-## Artists in the Exhibition
-
 Compiled from research conducted by Andrew Maske and Patricia Fister
 
 ### Daitsū Bunchi 大通文智
@@ -23,12 +20,12 @@ Ema Saikō was a celebrated literati painter, calligrapher, and writer of *kansh
 ### Hashimoto Seikō 橋本青江
 1821–1898
 
-Hashimoto Seikō was a literati artist known for her calligraphy and painting in the *bunjinga* style (literati painting). Seikō’s oeuvre consists primarily of landscapes and paintings of plum, bamboo, chrysanthemum, and orchid (collectively known as the Four Gentlemen). She was particularly fond of depicting the latter, which she is said to have cultivated herself. While there are conflicting accounts, Seikō was most likely born to a wealthy family in Ōsaka. She studied calligraphy with Shinozaki Shōchiku (篠崎 小竹 1781–1851) and painting with Okada Hankō (岡田 半江 1782–1846). Seikō traveled widely throughout Japan, participating in literati circles and mentoring several students, including Kawabe Seiran (河辺青蘭 1868–1931). Her name is listed in the *Kokon Nanga yōran* (古今南画要覧 Compendium of Nanga painters, past and present), published in 1853. Seikō continued to paint well into her seventies.[^2] But later in life, her mental health declined, and she died in poverty.
+Hashimoto Seikō was a literati artist known for her calligraphy and painting in the *bunjinga* style (literati painting). Seikō’s oeuvre consists primarily of landscapes and paintings of plum, bamboo, chrysanthemum, and orchid (collectively known as the Four Gentlemen). She was particularly fond of depicting the latter, which she is said to have cultivated herself. While there are conflicting accounts, Seikō was most likely born to a wealthy family in Osaka. She studied calligraphy with Shinozaki Shōchiku (篠崎 小竹 1781–1851) and painting with Okada Hankō (岡田 半江 1782–1846). Seikō traveled widely throughout Japan, participating in literati circles and mentoring several students, including Kawabe Seiran (河辺青蘭 1868–1931). Her name is listed in the *Kokon Nanga yōran* (古今南画要覧 Compendium of Nanga painters, past and present), published in 1853. Seikō continued to paint well into her seventies.[^2] But later in life, her mental health declined, and she died in poverty.
 
 ### Hirata Gyokuon 平田玉蘊
 1787–1855
 
-Hirata Gyokuon was a famed professional painter most closely associated with the Maruyama-Shijō school. She was one of only twenty-two women artists commemorated in the publication by Shirai Kayō (白井 華陽 d. 1836), *Gajō yōryaku* (畫乘要略 Brief overview of the annals of painting [1831]). Born to a well-to-do cotton merchant family in today’s Onomichi, Hiroshima Prefecture, Gyokuon studied painting with literati artist Fukuhara Gogaku (福原 五岳 1730–1799) and later with Hatta Koshū (八田 古秀 1760–1822), a painter of the Shijō school. Following the death of her father, Hirata Gohō (平田五峰), himself a painter, Gyokuon (the second of four daughters) turned to painting to support her family. Her close relationship with the literati artist Rai San’yō (1780–1832) resulted not only in many collaborations but in widespread rumors of romance, which caused a sensation. Her many extant works reveal mastery of a broad range of subjects, including figure paintings in the meticulous brushwork popular in China during the Ming and Qing periods, as well as bird-and-flower paintings and other natural subjects, genre scenes, and large-scale murals for temples.
+Hirata Gyokuon was a famed professional painter most closely associated with the Maruyama-Shijō school. She was one of only twenty-two women artists commemorated in the publication by Shirai Kayō (白井 華陽 d. 1836), *Gajō yōryaku* (畫乘要略 Brief overview of the annals of painting [1831]). Born to a well-to-do cotton merchant family in today’s Onomichi, Hiroshima Prefecture, Gyokuon studied painting with literati artist Fukuhara Gogaku (福原 五岳 1730–1799) and later with Hatta Koshū (八田 古秀 1760–1822), a painter of the Shijō school. Following the death of her father, Hirata Gohō (平田五峰), himself a painter, Gyokuon (the second of four daughters) turned to painting to support her family. Her close relationship with the literati artist Rai San’yō (1780–1832) resulted not only in many collaborations but in widespread rumors of romance, which caused a sensation. Her many extant works reveal mastery of a broad range of subjects, including figure paintings in the meticulous brushwork popular in China during the Ming and Qing periods as well as bird-and-flower paintings and other natural subjects, genre scenes, and large-scale murals for temples.
 
 ### Kaga no Chiyo 加賀千代
 
@@ -78,7 +75,7 @@ Kō (Ōshima) Raikin was a Kyoto poet and a painter in the Chinese academic styl
 ### Kuroda Kōryō 黒田光良
 1823–1895
 
-Kuroda Kōryō was a Kyoto potter and a follower and collaborator of Buddhist nun artist Ōtagaki Rengetsu (太田垣蓮月 1791–1875). After Rengetsu’s death, Kōryō continued making works in her style, assuming the name Rengetsu II (二代 太田垣連月).[^6] In his practice, Kōryō used wheel throwing, molding, as well as a combination of the two.
+Kuroda Kōryō was a Kyoto potter and a follower and collaborator of Buddhist nun-artist Ōtagaki Rengetsu (太田垣蓮月 1791–1875). After Rengetsu’s death, Kōryō continued making works in her style, assuming the name Rengetsu II (二代 太田垣連月).[^6] In his practice, Kōryō used wheel throwing, molding, as well as a combination of the two.
 
 ### Miwa Teishin 三輪貞信
 1809–1902
@@ -93,12 +90,12 @@ Murase Myōdō was born to a rice merchant in Aichi Prefecture as the fifth of n
 ### Nakabayashi Seishuku 中林清淑
 1829–1912
 
-Nakabayashi Seishuku was a literati painter in Kyoto specializing in ink painting of plum blossoms and bamboo. The third daughter of the well-known literati artist Nakabayashi Chikutō (1776–1853), she participated in the literati circles of the time. She produced collaborative works (*gassaku*) with prominent artists including Noguchi Shōhin (1847–1917) and Okuhara Seiko (1837–1913).[^7] She was recorded in the 1880 *Meika shoga shunju jo* (名家書画春秋帖 Spring and autumn album of calligraphy and painting by the masters).
+Nakabayashi Seishuku was a literati painter in Kyoto specializing in ink painting of plum blossoms and bamboo. The third daughter of the well-known literati artist Nakabayashi Chikutō (1776–1853), she participated in the literati circles of the time. She produced collaborative works (*gassaku*) with prominent artists including Noguchi Shōhin (<span lang="ja">野口小蘋</span> 1847–1917) and Okuhara Seiko (<span lang="ja">奥原晴湖</span> 1837–1913).[^7] She was recorded in the 1880 *Meika shoga shunju jo* (名家書画春秋帖 Spring and autumn album of calligraphy and painting by the masters).
 
 ### Nakayama Miya 中山三屋
 1840–1871
 
-Nakayama Miya was a Buddhist nun, poet, painter, and loyalist who traveled widely and was a central figure in literati circles. Born in Kyoto to a shogunate retainer, by the age of six or seven she had recited her classical *waka* poems at adult competitions.[^8] She soon began training with Kagawa Kagetsune (1823–1865), son of Kagawa Kigeki (1768–1843), who taught Ōtagaki Rengetsu (太田垣蓮月1791–1875) and Takabatake Shikibu (1785–1881). Her mother died when she was twelve, and she took the tonsure at the young age of fourteen. As a nun, Miya traveled freely, keeping a diary of her meetings with more than four hundred poets, artists, collectors, and poetry lovers. In 1871, while traveling in Kyūshū, she fell ill and passed away at the young age of thirty-one.
+Nakayama Miya was a Buddhist nun, poet, painter, and loyalist who traveled widely and was a central figure in literati circles. Born in Kyoto to a shogunate retainer, by the age of six or seven she had recited her classical *waka* poems at adult competitions.[^8] She soon began training with Kagawa Kagetsune (1823–1865), son of Kagawa Kigeki (1768–1843), who taught Ōtagaki Rengetsu (<span lang="ja">太田垣蓮月</span> 1791–1875) and Takabatake Shikibu (<span lang="ja">高畠式部</span> 1785–1881). Her mother died when she was twelve, and she took the tonsure at fourteen. As a nun, Miya traveled freely, keeping a diary of her meetings with more than four hundred poets, artists, collectors, and poetry lovers. In 1871, while traveling in Kyūshū, she fell ill and passed away at the young age of thirty-one.
 
 ### Noguchi Shōhin 野口小蘋
 1847–1917
@@ -107,7 +104,7 @@ Noguchi Shōhin was one of the foremost Meiji literati painters. Her work was in
 
 Shōhin and her mother settled in Kyoto in 1867, where she became the student of the prominent Nanga painter Hine Taizan (1813–1869). She also gained the attention of the budding statesman Kido Takayoshi, who invited her to observe the enthronement ceremony of the Meiji emperor in 1868 with him and his family.[^9] In 1871, Shōhin relocated to Tokyo, and in 1873, she was commissioned to paint eight *fusuma* (sliding door) panels for the sleeping quarters of the Japanese empress.
 
-In 1875, she went to the town of Kōfu, where she met Noguchi Masaakira, and they were married in 1877. A few years later, after a failed business venture, they moved to Tokyo, where Shōhin’s artistic talents again became her family’s main source of support. In 1889, she was appointed Professor of Painting at the Peeresses’ Girls School (which later became part of the educational institution Gakushūin University). That same year, her work was exhibited at both the Fourth Exposition Universelle in Paris and the Japan Art Association (Nihon bijutsu kyōkai) exhibition, receiving an honorable mention at the latter. In 1893, one of her landscape paintings won a prize at the Chicago World’s Fair. In 1899, she was asked to instruct female members of the imperial court in painting, including imperial consort Fusako. In 1901, Shōhin was asked to paint fusuma panels for the imperial palace, and around 1904, she was named an Official Artist of the Imperial Household. Shōhin passed away in February 1917 at the age of seventy-one.
+In 1875, she went to the town of Kōfu, where she met Noguchi Masaakira, and they were married in 1877. A few years later, after a failed business venture, they moved to Tokyo, where Shōhin’s artistic talents again became her family’s main source of support. In 1889, she was appointed Professor of Painting at the Peeresses’ Girls School (which later became part of the educational institution Gakushūin University). That same year, her work was exhibited at both the Fourth Exposition Universelle in Paris and the Japan Art Association (Nihon bijutsu kyōkai) exhibition, receiving an honorable mention at the latter. In 1893, one of her landscape paintings won a prize at the Chicago World’s Fair. In 1899, she was asked to instruct female members of the imperial court in painting, including imperial consort Fusako. In 1901, Shōhin was asked to paint fusuma panels for the imperial palace, and around 1904, she was named an official artist of the imperial household. Shōhin passed away in February 1917 at the age of seventy-one.
 
 ### Nonoguchi Ryūho 野々口立圃
 1595–1669
@@ -129,7 +126,7 @@ Active 1700s
 
 Ōishi Junkyō had begun a promising career as a *geigi* dancer in Osaka, but at age seventeen, she survived a brutal attack wherein both of her arms were severed. After recovering from her injuries, she worked in a traveling theatrical group, singing ballads, dancing, and performing comical storytelling. One day, after watching a canary feed its chicks with its beak, she was inspired to try to write by holding a brush in her mouth. She retired from the stage shortly thereafter and devoted herself to the study of painting and poetry.
 
-Junkyō married the calligrapher-painter Yamaguchi Sōhei (1882–1961) in 1912 and had two children. The couple later divorced, and Junkyō supported herself and her children through painting and calligraphy. She also offered a counseling service for people with disabilities. In 1933, at age forty-five, she officially took the tonsure at Kongobūji on Mount Kōya. Three years later, she moved into the Shingon temple Kanshūji in Yamashina, where she continued to counsel people with disabilities and teach about Buddhism. In 1947, she Junkyō founded the small temple of Bukkōin, where she lived the rest of her life.
+Junkyō married the calligrapher-painter Yamaguchi Sōhei (1882–1961) in 1912 and had two children. The couple later divorced, and Junkyō supported herself and her children through painting and calligraphy. She also offered a counseling service for people with disabilities. In 1933, at age forty-five, she officially took the tonsure at Kongobūji on Mount Kōya. Three years later, she moved into the Shingon temple Kanshūji in Yamashina, where she continued to counsel people with disabilities and teach about Buddhism. In 1947, Junkyō founded the small temple of Bukkōin, where she lived the rest of her life.
 
 ### Okuhara Seiko 奥原晴湖
 1837–1913
@@ -150,7 +147,7 @@ Not much is known for certain about Ono no Ozū, not even her name (possibly pro
 
 Ōtagaki Rengetsu was a Buddhist nun and a major figure in Kyoto’s artistic circles, renowned for her *waka* poetry and ceramics. In her youth, she worked as a lady-in-waiting in the women’s quarters at Kameoka Castle, where she learned classical waka poetry and calligraphy. She took Pure Land Buddhist vows at age thirty-three after being widowed and losing all of her children.
 
-Rengetsu’s name was included in the *Heian jinbutsu shi* (Record of Heian [Kyoto] notables), and two volumes of her waka were published during her lifetime. She associated with many painters and sometimes inscribed her poems on their paintings. Examples of such joint creations (*gassaku*) include those done with Mori Kansai (1814–1894), Tomioka Tessai (1836–1924), and Wada Gesshin (1800–1870). Midpoint in her career, Rengetsu began creating simple ceramic wares on which she either inscribed her poems with a brush or incised them with a stylus. Her wares were immensely popular in Kyoto, Edo (now Tokyo), and beyond.[^14]
+Rengetsu’s name was included in the *Heian jinbutsu shi* (Record of Heian [Kyoto] notables), and two volumes of her waka were published during her lifetime. She associated with many painters and sometimes inscribed her poems on their paintings. Examples of such joint creations (*gassaku*) include those done with Mori Kansai (1814–1894), Tomioka Tessai (<span lang="ja">富岡鉄斎</span> 1836–1924), and Wada Gesshin (<span lang="ja">和田月心</span> 1800–1870). Midpoint in her career, Rengetsu began creating simple ceramic wares on which she either inscribed her poems with a brush or incised them with a stylus. Her wares were immensely popular in Kyoto, Edo (now Tokyo), and beyond.[^14]
 
 Although she took her original vows at a Pure Land temple, Rengetsu associated with clergy from various sects. In her later years, she moved into a small hut on the grounds of the Jinkōin temple northwest of Kyoto at the invitation of the chief priest, Wada Gesshin (also known as Gozan), where she lived until her death at age eighty-four. Over her decades-long career, she generated thousands of works of calligraphy, painting, and ceramics.[^15] It has been said that at the peak of her popularity in the late 1800s, most households in Kyoto owned at least one example of her work.[^16]
 
@@ -182,13 +179,13 @@ Tagami Kikusha was born into a samurai family in Nagato province (now Yamaguchi 
 ### Takabatake Shikibu 高畠式部
 1785–1881
 
-Takabatake Shikibu was a poet and calligrapher active in Kyoto. She was the adopted daughter of an Osaka physician and studied *waka* poetry with the poet Kagawa Kageki (1768–1843). Shikibu became known for her painting, sculpture, and music, as well as poetry and calligraphy. After the death of her second husband in 1841, she traveled independently and dedicated her time to artmaking. Shikibu was listed in the *Kōto shoga jinmei roku* (Record of famous poets and painters in the imperial.[^17] She was active well into her nineties.
+Takabatake Shikibu was a poet and calligrapher active in Kyoto. She was the adopted daughter of an Osaka physician and studied *waka* poetry with the poet Kagawa Kageki (1768–1843). Shikibu became known for her painting, sculpture, and music, as well as poetry and calligraphy. After the death of her second husband in 1841, she traveled independently and dedicated her time to artmaking. Shikibu was listed in the *Kōto shoga jinmei roku* (Record of famous poets and painters in the imperial).[^17] She was active well into her nineties.
 
 ### Takeuchi Shōran 武内小鸞
 
 Active late 1700s–early 1800s
 
-Takeuchi Shōran grew up in Nagato province (now present-day Yamaguchi Prefecture) and was active in Kyoto. Although she was very prolific, her birth and death dates remain obscure. Shōran was a student of Maruyama Ōzui (1766–1829) and Kishi Ganku (1749–1839). Earlier in her career, she specialized in *bijin-ga* (paintings of beautiful women), later painting primarily bird-and-flower subjects.
+Takeuchi Shōran grew up in Nagato province (present-day Yamaguchi Prefecture) and was active in Kyoto. Although she was very prolific, her birth and death dates remain obscure. Shōran was a student of Maruyama Ōzui (1766–1829) and Kishi Ganku (1749–1839). Earlier in her career, she specialized in *bijin-ga* (paintings of beautiful women), later painting primarily bird-and-flower subjects.
 
 ### Tokuyama (Ike) Gyokuran 徳山(池)玉瀾
 1727–1784
@@ -259,11 +256,11 @@ Yuri, one of the Three Women of Gion, was a prolific poet and owner of the Matsu
 
 [^10]: Stephen Addiss, *Haiga: Takebe Sōchō and the Haiku-Painting Tradition* (Honolulu: University of Hawai'i Press, 1995), 14.
 
-[^11]: [Fister, *Japanese Women Artists*, 71. 
+[^11]: Fister, *Japanese Women Artists*, 71. 
 
 [^12]: Martha Jane McClintock, “Okuhara Seiko (1837–1913): The Life and Arts of a Meiji Period Literati Artist” (PhD diss., University of Michigan, 1991), 46.
 
-[^13]: Fi[ster, *Kinsei no josei gakatachi*, 32.
+[^13]: Fister, *Kinsei no josei gakatachi*, 32.
 
 [^14]: Yutaka Chiba, “Kōko shiryō to shite no Rengetsu-yaki,” *The Annual Report of the Center for Archaeological Operations* 2001 (2006): 322.
 
