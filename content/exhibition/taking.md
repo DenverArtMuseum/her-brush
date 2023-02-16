@@ -4,6 +4,7 @@ type: essay
 weight: 405
 svg_logo:  "svg/Taking the Tonsure.svg"
 class: left-column
+image: figures/banner-taking.jpg
 ---
 
 {{< q-figure id="2018-165" class="right-column" >}}

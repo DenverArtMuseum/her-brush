@@ -4,6 +4,7 @@ type: essay
 weight: 404
 svg_logo:  "svg/Daughters of the Ateliers.svg"
 class: left-column
+image: figures/banner-daughters.jpg
 ---
 
 {{< q-figure id="2018-150" class="right-column" >}}

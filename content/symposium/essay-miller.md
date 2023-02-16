@@ -3,7 +3,7 @@ title: "Finding Gender in Japanese Literati Painting"
 type: featured
 weight: 104
 class: left-column
-image: figures/2018_196.jpg
+image: figures/banner-miller.jpg
 contributor:
   - id: amiller
 ---

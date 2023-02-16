@@ -163,7 +163,7 @@ figure_list:
     src: figures/2018_156.jpg
     alt: "Simply brushed plain line painting in black ink of a seated meditating feminine figure draped in a flowy robe. Japanese calligraphy on the right."
     caption: ""
-    credit: ""
+    credit: 'Ōishi Junkyō <span lang="ja">大石順教</span>, 1888–1968, Bodhisattva Kannon (Avalokiteśvara), Mid-1900s, Ink on paper, 2018.156'
   - id: 2018-157
     src: figures/2018_157.jpg
     alt: "A small frog leaps with outstretched limbs towards a delicately-brushed branch in the upper left-hand corner. Sprightly, cursive script occupies most of the paper ground, dwarfing the little frog."
@@ -412,8 +412,7 @@ figure_list:
     credit: 'Takabatake Shikibu <span lang="ja">高畠式部</span> (1785–1881), *Seven Waka Poems*, 1800s. Ink on decorated paper. Gift of Drs. John Fong and Colin Johnstone, 2018.226.'
   - id: 2018-245
     src: figures/2018_245.jpg
-    caption: ""
-    credit: ""
+    credit: 'Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Wada Gesshin <span lang="ja">和田月心</span>, 1800–1870, Stag and Poem, About 1865–70, Ink on paper, 2018.245'
   - id: 2018-247A
     src: figures/2018_247A-B.jpg
     alt: "A pair of sliding screen doors framed in brown wood. Colorful flowers span the two doors. The left door has ten lines of calligraphy in the upper left-hand corner."
@@ -427,7 +426,6 @@ figure_list:
   - id: 2018-253
     src: figures/2018_253.jpg
     alt: "On the left, a stick-figure-like sketch of a sign, barely balancing on a wobbly post. To the right, four lines of unsteady-looking calligraphy at varying heights."
-    caption: ""
     credit: 'Takabatake Shikibu <span lang="ja">高畠式部</span>, 1785–1881, **Signboard**, 1863, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.253'
   - id: 2018-255
     src: figures/2018_255.jpg
@@ -590,3 +588,46 @@ figure_list:
     src: figures/IMG_1282.jpg
   - id: early-views
     src: figures/HerBrushEarlyViews17.jpg
+  - id: banner-forward
+    src: figures/banner-forward.jpg
+  - id: banner-collectors
+    src: figures/banner-collectors.jpg
+    credit: 'Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Wada Gesshin <span lang="ja">和田月心</span>, 1800–1870, Stag and Poem, About 1865–70, Ink on paper, 2018.245'
+  - id: banner-fister
+    src: figures/banner-fister.jpg
+    credit: 'Murase Myōdō <span lang="ja">村瀬明道</span>, 1924–2013, **Breaking Waves in the Pines (*shōtō*)**, Late 1900s, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.155'
+  - id: banner-mccormick
+    src: figures/banner-mccormick.jpg
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Moon, Blossoming Cherry, and Poem**, 1867, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.164'
+  - id: banner-miller
+    src: figures/banner-miller.jpg
+    credit: 'Noguchi Shōhin <span lang="ja">野口小蘋</span>, 1847–1917, *Cut Flowers and Pine Bough*, Late 1800s–early 1900s, Ink and color on silk, 2018.196'
+  - id: banner-stanley
+    src: figures/banner-stanley.jpg
+    credit: 'Takabatake Shikibu <span lang="ja">高畠式部</span>, 1785–1881, **Signboard**, 1863, Ink on paper, Gift of Drs. John Fong and Colin Johnstone, 2018.253'
+  - id: banner-yonemoto
+    src: figures/banner-yonemoto.jpg
+  - id: banner-berry
+    src: figures/banner-berry.jpg
+    credit: "Various artists, **Turtles on New Year’s Morn**, About 1894, Ink and color on silk, Gift of Drs. John Fong and Colin Johnstone, 2018.202"
+  - id: banner-intro
+    alt: ""
+    src: figures/banner-intro.jpg
+  - id: banner-daughters
+    alt: ""
+    src: figures/banner-daughters.jpg
+  - id: banner-inner-chambers
+    alt: ""
+    src: figures/banner-inner-chambers.jpg
+  - id: banner-taking
+    alt: ""
+    src: figures/banner-taking.jpg
+  - id: banner-floating
+    alt: ""
+    src: figures/banner-floating.jpg
+  - id: banner-literati
+    alt: ""
+    src: figures/banner-literati.jpg
+  - id: banner-unstoppable
+    alt: ""
+    src: figures/banner-unstoppable.jpg

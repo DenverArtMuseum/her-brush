@@ -4,6 +4,7 @@ type: essay
 weight: 402
 svg_logo:  "svg/Title - Her Brush.svg"
 class: left-column
+image: figures/banner-introduction.jpg
 ---
 
 How do we leave our mark?

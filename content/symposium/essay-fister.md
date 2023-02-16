@@ -4,7 +4,7 @@ short_title: Shining Light on Art
 type: featured
 weight: 102
 class: left-column
-image: figures/2018_155.jpg
+image: figures/banner-fister.jpg
 contributor:
   - id: pfister
 ---
@@ -12,6 +12,8 @@ contributor:
 {{< q-figure id="2018-156" class="right-column sticky fit" >}}
 
 I have been engaged in researching women artists for nearly four decades, and in the past twenty-five years, I have focused particularly on Zen Buddhist nuns. This brief overview of my personal journey recounts some of the obstacles and opportunities I have encountered and considers how they shaped my research approach and philosophy. Imperial convents contain a treasure trove of objects and documents, but like some other institutions and private collections in Japan, they have been reluctant to open their doors to scholars.
+
+{{< q-figure id="2018-155" >}}
 
 When I began in this field, very little was published on Japanese women artists, much less nun-artists, so the first step was gathering source materials. With permission, I photographed the objects and documents I was shown in convents and slowly created a private database. Because most of the convent collections are not cataloged, it has been exciting for me to view them in their “original homes.” Studying collections in situ is completely different from studying objects stored in museums or published in books. I have also had the rare opportunity to observe not only how objects are used but also the nuns’ attitudes toward them. For example, most present-day abbesses are adamant that Buddhist paintings and sculptures should not be referred to as art but rather be considered as religious objects, leading me to rethink the question of what constitutes art. I now look at objects from a slightly different perspective than I was taught in university art history courses, and I pay more attention to the vocabulary I use when writing about them.
 

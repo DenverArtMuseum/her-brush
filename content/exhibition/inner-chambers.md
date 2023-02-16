@@ -5,6 +5,7 @@ weight: 403
 # image: figures/2018_255.jpg
 svg_logo:  "svg/Inner Chambers.svg"
 class: left-column kanji-header
+image: figures/banner-inner-chambers.jpg
 ---
 
 The Inner Chambers (*ōoku* <span lang="ja">大奥</span>) are the secluded areas where women primarily resided within the courts and castles of the upper class. The term became synonymous with women and reveals the gender segregation of early modern Japan’s elite.

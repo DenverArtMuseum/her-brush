@@ -8,7 +8,7 @@ contributor:
 one_line:
 full:
 class: left-column
-image: figures/tea-service-install.jpg
+image: figures/banner-yonemoto.jpg
 ---
 
 The exhibition *Her Brush:* *Japanese Women Artists from the Fong-Johnstone Collection* focuses, commonsensically, on works identified as art, predominantly by Japanese women, most of whom were identified in their lifetimes as artists. Acknowledging the obvious—that the terms “art” and “artist” are modern, necessarily convenient, and in the English language—I would nonetheless like to reconsider what types of work might fall under the rubric of “art” and what types of people we might call “artists,” particularly in early modern Japan (c. 1590–1868).
