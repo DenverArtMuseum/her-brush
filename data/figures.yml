@@ -512,7 +512,78 @@ figure_list:
   - id: 2021-206
     src: figures/2021_206~17.jpg
     alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
-    caption: ""
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-cover
+    src: figures/2021_206/2021_206.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-back
+    src: figures/2021_206/2021_206-back.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-3
+    src: figures/2021_206/2021_206~03.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-4
+    src: figures/2021_206/2021_206~04.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-5
+    src: figures/2021_206/2021_206~05.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-6
+    src: figures/2021_206/2021_206~06.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-7
+    src: figures/2021_206/2021_206~07.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-8
+    src: figures/2021_206/2021_206~08.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-9
+    src: figures/2021_206/2021_206~09.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-10
+    src: figures/2021_206/2021_206~10.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-11
+    src: figures/2021_206/2021_206~11.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-12
+    src: figures/2021_206/2021_206~12.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-13
+    src: figures/2021_206/2021_206~13.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-14
+    src: figures/2021_206/2021_206~14.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-15
+    src: figures/2021_206/2021_206~15.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-16
+    src: figures/2021_206/2021_206~16.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-17
+    src: figures/2021_206/2021_206~17.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
+  - id: 2021-206-18
+    src: figures/2021_206/2021_206~18.jpg
+    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, **Travel Journal to Arashiyama (Arashiyama *hana no ki*)**, 1800s, Ink and color on paper, Gift of Drs. John Fong and Colin Johnstone, 2021.206'
   - id: rengetsu-portrait
     src: figures/Rengetsu_scan.jpg
