@@ -11,15 +11,15 @@ image: figures/banner-taking.jpg
 
 Taking the tonsure is the ceremonial shaving of one’s hair to join a Buddhist monastic order. It was a symbolic act of leaving one’s past behind. In fact, becoming a nun literally translates to “leaving one’s home” (*shukke* <span lang="ja">出家</span>).
 
-Tonsure did not mean, however, relinquishing one’s autonomy. On the contrary, it offered a form of liberation from societal expectations, such as The Three Obediences (of a woman to her father, husband, and son). It also enabled nuns to travel freely in times of state-imposed restrictions, which especially impacted women. Above all, it allowed them the freedom to pursue their art.
+Tonsure did not mean, however, relinquishing one’s autonomy. On the contrary, it offered a form of liberation from societal expectations, such as the Three Obediences (of a woman to her father, husband, and son). It also enabled nuns to travel freely in times of state-imposed restrictions, which especially impacted women. Above all, it allowed them the freedom to pursue their art.
 
-Women from all walks of life took the tonsure, from princesses (like Daitsu Bunchi) to entertainers (like Ōishi Junkyō). Still, this was an extremely difficult path to take and often entailed unimaginable determination.
+Women from all walks of life took the tonsure, from princesses (like [Daitsū Bunchi](/artists/#Daitsū-Bunchi-大通文智/)) to entertainers (like [Ōishi Junkyō](/artists/#Ōishi-Junkyō-大石順教/)). Still, this was an extremely difficult path to take and often entailed unimaginable determination.
 
 Leaving their old names behind, taking new names as ordained nuns, these artists crafted new identities for themselves.
 
-The nun-artist Ōtagaki Rengetsu is seen here brushing a poem onto her ceramics. Her elegant surroundings, more like a scholar’s study than a nun’s hut, alludes to her literati background and affiliation.
+The nun-artist [Ōtagaki Rengetsu](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/) is seen here brushing a poem onto her ceramics. Her elegant surroundings, more like a scholar’s study than a nun’s hut, alludes to her literati background and affiliation.
 
-This is an imagined portrait done 60 years after Rengetsu’s death. Depicting her with feminine and manicured features, Ōhō constructed quite a different portrait from the wizened likeness by her student, collaborator, and close friend Tessai (illustrated here).
+This is an imagined portrait done sixty years after Rengetsu’s death. Depicting her with feminine and manicured features, Suganuma Ōhō constructed quite a different portrait from the wizened likeness by her student, collaborator, and close friend [Tessai](/artists/#Tomioka-Tessai-富岡鉄斎/).
 
 {{< q-figure id="Rengetsu-portrait" >}}
 
@@ -39,7 +39,7 @@ This travel journal recounts Ōtagaki Rengetsu’s visit to Arashiyama, a distri
 
 {{< q-figure id="2018-153" class="right-column" >}}
 
-Princess Umenomiya, daughter of Emperor Gomizuno-o (1596–1680), took the tonsure at age 22, changing her name to Bunchi. She later founded a temple, which functioned as a training center for women.
+Princess Umenomiya, daughter of Emperor Gomizuno-o (1596–1680), took the tonsure at age twenty-two, changing her name to Bunchi. She later founded a temple, which functioned as a training center for women.
 
 The calligraphy reads “Bodhisattva of Myriad Acts of Compassion,” the Buddhist name for the principal deity of a Shinto shrine in Nara. By writing this *myōgō* (names of Buddhist deities as invocations), Bunchi performed a devotional act, accumulating karmic merit.
 
@@ -47,11 +47,11 @@ The calligraphy reads “Bodhisattva of Myriad Acts of Compassion,” the Buddhi
 
 ### ŌISHI JUNKYŌ <span lang="ja">大石順教</span> (1888–1968)
 
-In her youth, Ōishi Yone was establishing her career as a *geigi* dancer. Her stage name was Tsumakichi. When she was 17, her adoptive father went on a murderous rampage, killing six members of the teahouse where she worked and severing both her arms.
+In her youth, Ōishi Yone was establishing her career as a *geigi* dancer. Her stage name was Tsumakichi. When she was seventeen, her adoptive father went on a murderous rampage, killing six members of the teahouse where she worked and severing both her arms.
 
 After a long journey to recovery, she observed a bird feeding chicks with its beak. Inspired, she learned to paint and write calligraphy using her mouth. She deftly maneuvered the brush with her lips in astonishing control.
 
-At the age of 45, she took the tonsure as a Buddhist nun, adopting the name Junkyō. Junkyō later founded a Buddhist temple where she devoted herself to art, Buddhism, and counselling people with disabilities, advocating for independence and resolve.
+At the age of forty-five, she took the tonsure as a Buddhist nun, adopting the name Junkyō. Junkyō later founded a Buddhist temple where she devoted herself to art, Buddhism, and counseling people with disabilities, advocating for independence and resolve.
 
 {{< q-figure id="2018-160" >}}
 
@@ -59,7 +59,7 @@ At the age of 45, she took the tonsure as a Buddhist nun, adopting the name Junk
 
 {{< q-figure id="2018-159" class="right-column" >}}
 
-Born into an aristocratic family as the daughter of a lady-in-waiting, Ryōnen Gensō, spent her early years in the Inner Chambers. At the age of 17, she married a courtier. Ten years later, she took the tonsure and became a Buddhist nun.
+Born into an aristocratic family as the daughter of a lady-in-waiting, [Ryōnen Gensō](/artists/#Ryōnen-Gensō-了然元総/) spent her early years in the Inner Chambers. At the age of seventeen, she married a courtier. Ten years later, she took the tonsure and became a Buddhist nun.
 
 Wishing to join as a disciple of a famous Ōbaku Zen monk, she traveled to Edo (Tokyo). However, the monk turned her away on the pretext that her beauty would distract male disciples.
 

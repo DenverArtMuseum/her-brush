@@ -25,7 +25,7 @@ We cannot speak for them, but we hope to amplify their voices and celebrate how 
 
 {{< q-figure id="2021-196" >}}
 
-Ōtagaki Rengetsu did not use a pottery wheel since it was considered unsuitable for women. Instead of emulating wheel-thrown pottery, she embraced the idiosyncrasies of hand-building.
+[Ōtagaki Rengetsu](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/) did not use a pottery wheel since it was considered unsuitable for women. Instead of emulating wheel-thrown pottery, she embraced the idiosyncrasies of hand-building.
 
 Every aspect of this work reveals her personal mark. The pockmarked surface records her fingers’ movement. She inscribed it with her own poetry, written in Hiragana (also known as women’s script). Notice her fingerprints on the *tokkuri*’s surface.
 
@@ -51,9 +51,9 @@ Every aspect of this work reveals her personal mark. The pockmarked surface reco
 {{< /q-class >}}
 
 
-Turning to the sister arts of painting, poetry, and calligraphy (together called The Three Perfections) for artistic expression was an act of self-assertion. One’s brushwork (whether in calligraphy or painting) reflected one’s true nature.
+Turning to the sister arts of painting, poetry, and calligraphy (together called the Three Perfections) for artistic expression was an act of self-assertion. One’s brushwork (whether in calligraphy or painting) reflected one’s true nature.
 
-You will find the designation *joshi* in the signature of several artists on view. It is made of two *kanji* characters:
+You will find the designation *joshi* in the signature of several artists in the exhibition. It is made of two *kanji* characters:
 
 ><span lang="ja">女</span> （pronounced “jo”）woman
 
@@ -63,7 +63,7 @@ Today this gendered honorific is outdated. Recently, it has even been used as a 
 
 {{< q-figure id="2018-155" caption="Left to right, the characters read “pines” and “waves”." >}}
 
-Notice the forceful calligraphy. Ima splinters and breaks—like waves or rugged pine bark—into white streaks. Murase Myōdō created this powerful work using her left, nondominant, hand. At 39, an accident rendered her right side paralyzed. Resolute to continue pursuing her passions, she taught herself to use her left hand.
+Notice the forceful calligraphy. It splinters and breaks—like waves or rugged pine bark—into white streaks. [Murase Myōdō](/artists/#Murase-Myōdō-村瀬明道/) created this powerful work using her left, nondominant, hand. At thirty-nine, an accident rendered her right side paralyzed. Resolute to continue pursuing her passions, she taught herself to use her left hand.
 
 {{< q-figure id="2018-215" >}}
 
@@ -71,13 +71,13 @@ Notice the forceful calligraphy. Ima splinters and breaks—like waves or rugged
 
 {{< q-figure id="2018-193" >}}
 
-From an early age Kō (Ōshima) Raikin studied Chinese painting, poetry, and calligraphy and later took an active role in literati circles, intellectuals who shared a passion for Chinese art. *Autumn Landscape*, with its abbreviated strokes, schematized rendering of foliage, and color washes, reveals her familiarity with Chinese painting manuals, especially *The* *Mustard Seed Garden Manual of Painting*, popular in Japan at the time.
+From an early age [Kō (Ōshima) Raikin](/artists/#Kō-(Ōshima)-Raikin-高(大島)来禽/) studied Chinese painting, poetry, and calligraphy and later took an active role in literati circles, intellectuals who shared a passion for Chinese art. *Autumn Landscape*, with its abbreviated strokes, schematized rendering of foliage, and color washes, reveals her familiarity with Chinese painting manuals, especially *The* *Mustard Seed Garden Manual of Painting*, popular in Japan at the time.
 
 {{< q-figure id="rengetsu-portrait" >}}
 
 ### ŌTAGAKI RENGETSU <span lang="ja">太田垣蓮月</span> (1791–1875)
 
-Ōtagaki Rengetsu was a fixture in the artworld of her day. She was a revered colleague and mentor of both male and female artists. So admired for her poetry, calligraphy, painting, and ceramics, forgeries appeared already in her lifetime.
+Ōtagaki Rengetsu was a fixture in the art world of her day. She was a revered colleague and mentor of both male and female artists. So admired for her poetry, calligraphy, painting, and ceramics, forgeries appeared already in her lifetime.
 
 Despite her popularity, much of her life remains a mystery. Purportedly the illegitimate daughter of a samurai and a courtesan, her given name at birth was Nobu. She was then adopted by the Ōtagaki family. Starting at age seven, Rengetsu served as a lady-in-waiting at the castle of a *daimyo* (feudal lord), where she trained in various arts.
 
@@ -85,7 +85,7 @@ Following the loss of her husband and children to illness, she became a Buddhist
 
 {{< q-figure id="2018-181-3" >}}
 
-This poetry slip (*tanzaku*) is a rare work, likely composed in Rengetsu’s 40s judging from the signature on the back, shown here. Her poem celebrates the New Year. It alludes to the practice of gathering pine saplings during the New Year festivities, symbolizing longevity.
+This poetry slip (*tanzaku*) is a rare work, likely composed in Rengetsu’s forties judging from the signature on the back, shown here. Her poem celebrates the New Year. It alludes to the practice of gathering pine saplings during the New Year festivities, symbolizing longevity.
 
 >On this first Day of The Year of the Rat,<br />
 >even the mist covering<br />
@@ -93,13 +93,11 @@ This poetry slip (*tanzaku*) is a rare work, likely composed in Rengetsu’s 40s
 >gives a hazy sense of<br />
 >a long life to come.<br />
 
-TODO: insert signature figure
-
 {{< q-figure id="2018-259-1-2" >}}
 
 The interior of both of these teabowls is inscribed with poems by the nun-artist Ōtagaki Rengetsu. While the signatures also read “Rengetsu,” they were not made by her. And yet, they are not forgeries. (Though, owing to her fame, she was often faked.)
 
-They were made as a tribute by her collaborator and admirer, Kuroda Kōryō. After her death, he even took the name “Rengetsu II” and continued her legacy. His seal appears on both bowls.
+They were made as a tribute by her collaborator and admirer [Kuroda Kōryō](/artists/#Kuroda-Kōryō-黒田光良/). After her death, he even took the name “Rengetsu II” and continued her legacy. His seal appears on both bowls.
 
 >“The Three Obediences—I’ve had none all my life.”<br />
 >— Ema Saikō
@@ -115,7 +113,7 @@ Overhead hang the characters: The Three Obediences (Sanjū <span lang="ja">三�
 
 {{< q-figure id="2018-182" >}}
 
-Like others in the exhibition, Miwa Teishin shuttled through various social realms in her life. Born the daughter of an artist, she became a famed *geigi* dancer. Then, leaving the profession to marry, she opened a school. Following her husband’s death, Teishin took the tonsure, becoming a nun.
+Like others in the exhibition, [Miwa Teishin](/artists/#Miwa-Teishin-三輪貞信/) shuttled through various social realms in her life. Born the daughter of an artist, she became a famed *geigi* dancer. Then, leaving the profession to marry, she opened a school. Following her husband’s death, Teishin took the tonsure, becoming a nun.
 
 This animated calligraphy is of a *waka* poem she composed:
 
