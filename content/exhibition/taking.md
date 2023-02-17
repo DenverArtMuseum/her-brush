@@ -12,13 +12,13 @@ Taking the tonsure is the ceremonial shaving of one’s hair to join a Buddhist 
 
 Tonsure did not mean, however, relinquishing one’s autonomy. On the contrary, it offered a form of liberation from societal expectations, such as the Three Obediences (of a woman to her father, husband, and son). It also enabled nuns to travel freely in times of state-imposed restrictions, which especially impacted women. Above all, it allowed them the freedom to pursue their art.
 
-Women from all walks of life took the tonsure, from princesses (like Daitsū Bunchi) to entertainers (like Ōishi Junkyō). Still, this was an extremely difficult path to take and often entailed unimaginable determination.
+Women from all walks of life took the tonsure, from princesses (like [Daitsū Bunchi](/artists/#Daitsū-Bunchi-大通文智/)) to entertainers (like [Ōishi Junkyō](/artists/#Ōishi-Junkyō-大石順教/)). Still, this was an extremely difficult path to take and often entailed unimaginable determination.
 
 Leaving their old names behind, taking new names as ordained nuns, these artists crafted new identities for themselves.
 
-The nun-artist Ōtagaki Rengetsu is seen here brushing a poem onto her ceramics. Her elegant surroundings, more like a scholar’s study than a nun’s hut, alludes to her literati background and affiliation.
+The nun-artist [Ōtagaki Rengetsu](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/) is seen here brushing a poem onto her ceramics. Her elegant surroundings, more like a scholar’s study than a nun’s hut, alludes to her literati background and affiliation.
 
-This is an imagined portrait done sixty years after Rengetsu’s death. Depicting her with feminine and manicured features, Suganuma Ōhō constructed quite a different portrait from the wizened likeness by her student, collaborator, and close friend Tessai.
+This is an imagined portrait done sixty years after Rengetsu’s death. Depicting her with feminine and manicured features, Suganuma Ōhō constructed quite a different portrait from the wizened likeness by her student, collaborator, and close friend [Tessai](/artists/#Tomioka-Tessai-富岡鉄斎/).
 
 {{< q-figure id="Rengetsu-portrait" >}}
 
@@ -58,7 +58,7 @@ At the age of forty-five, she took the tonsure as a Buddhist nun, adopting the n
 
 {{< q-figure id="2018-159" class="right-column" >}}
 
-Born into an aristocratic family as the daughter of a lady-in-waiting, Ryōnen Gensō spent her early years in the Inner Chambers. At the age of seventeen, she married a courtier. Ten years later, she took the tonsure and became a Buddhist nun.
+Born into an aristocratic family as the daughter of a lady-in-waiting, [Ryōnen Gensō](/artists/#Ryōnen-Gensō-了然元総/) spent her early years in the Inner Chambers. At the age of seventeen, she married a courtier. Ten years later, she took the tonsure and became a Buddhist nun.
 
 Wishing to join as a disciple of a famous Ōbaku Zen monk, she traveled to Edo (Tokyo). However, the monk turned her away on the pretext that her beauty would distract male disciples.
 

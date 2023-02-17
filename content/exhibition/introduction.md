@@ -24,7 +24,7 @@ We cannot speak for them, but we hope to amplify their voices and celebrate how 
 
 {{< q-figure id="2021-196" >}}
 
-Ōtagaki Rengetsu did not use a pottery wheel since it was considered unsuitable for women. Instead of emulating wheel-thrown pottery, she embraced the idiosyncrasies of hand-building.
+[Ōtagaki Rengetsu](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/) did not use a pottery wheel since it was considered unsuitable for women. Instead of emulating wheel-thrown pottery, she embraced the idiosyncrasies of hand-building.
 
 Every aspect of this work reveals her personal mark. The pockmarked surface records her fingers’ movement. She inscribed it with her own poetry, written in Hiragana (also known as women’s script). Notice her fingerprints on the *tokkuri*’s surface.
 
@@ -62,7 +62,7 @@ Today this gendered honorific is outdated. Recently, it has even been used as a 
 
 {{< q-figure id="2018-155" caption="Left to right, the characters read “pines” and “waves”." >}}
 
-Notice the forceful calligraphy. It splinters and breaks—like waves or rugged pine bark—into white streaks. Murase Myōdō created this powerful work using her left, nondominant, hand. At 39, an accident rendered her right side paralyzed. Resolute to continue pursuing her passions, she taught herself to use her left hand.
+Notice the forceful calligraphy. It splinters and breaks—like waves or rugged pine bark—into white streaks. [Murase Myōdō](/artists/#Murase-Myōdō-村瀬明道/) created this powerful work using her left, nondominant, hand. At thirty-nine, an accident rendered her right side paralyzed. Resolute to continue pursuing her passions, she taught herself to use her left hand.
 
 {{< q-figure id="2018-215" >}}
 
@@ -70,7 +70,7 @@ Notice the forceful calligraphy. It splinters and breaks—like waves or rugged 
 
 {{< q-figure id="2018-193" >}}
 
-From an early age Kō (Ōshima) Raikin studied Chinese painting, poetry, and calligraphy and later took an active role in literati circles, intellectuals who shared a passion for Chinese art. *Autumn Landscape*, with its abbreviated strokes, schematized rendering of foliage, and color washes, reveals her familiarity with Chinese painting manuals, especially *The* *Mustard Seed Garden Manual of Painting*, popular in Japan at the time.
+From an early age [Kō (Ōshima) Raikin](/artists/#Kō-(Ōshima)-Raikin-高(大島)来禽/) studied Chinese painting, poetry, and calligraphy and later took an active role in literati circles, intellectuals who shared a passion for Chinese art. *Autumn Landscape*, with its abbreviated strokes, schematized rendering of foliage, and color washes, reveals her familiarity with Chinese painting manuals, especially *The* *Mustard Seed Garden Manual of Painting*, popular in Japan at the time.
 
 {{< q-figure id="rengetsu-portrait" >}}
 
@@ -96,7 +96,7 @@ This poetry slip (*tanzaku*) is a rare work, likely composed in Rengetsu’s for
 
 The interior of both of these teabowls is inscribed with poems by the nun-artist Ōtagaki Rengetsu. While the signatures also read “Rengetsu,” they were not made by her. And yet, they are not forgeries. (Though, owing to her fame, she was often faked.)
 
-They were made as a tribute by her collaborator and admirer Kuroda Kōryō. After her death, he even took the name “Rengetsu II” and continued her legacy. His seal appears on both bowls.
+They were made as a tribute by her collaborator and admirer [Kuroda Kōryō](/artists/#Kuroda-Kōryō-黒田光良/). After her death, he even took the name “Rengetsu II” and continued her legacy. His seal appears on both bowls.
 
 >“The Three Obediences—I’ve had none all my life.”<br />
 >— Ema Saikō
@@ -112,7 +112,7 @@ Overhead hang the characters: The Three Obediences (Sanjū <span lang="ja">三�
 
 {{< q-figure id="2018-182" >}}
 
-Like others in the exhibition, Miwa Teishin shuttled through various social realms in her life. Born the daughter of an artist, she became a famed *geigi* dancer. Then, leaving the profession to marry, she opened a school. Following her husband’s death, Teishin took the tonsure, becoming a nun.
+Like others in the exhibition, [Miwa Teishin](/artists/#Miwa-Teishin-三輪貞信/) shuttled through various social realms in her life. Born the daughter of an artist, she became a famed *geigi* dancer. Then, leaving the profession to marry, she opened a school. Following her husband’s death, Teishin took the tonsure, becoming a nun.
 
 This animated calligraphy is of a *waka* poem she composed:
 

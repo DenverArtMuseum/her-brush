@@ -16,7 +16,7 @@ Eternal art in a floating world.
 
 {{< q-figure id="2018-183" class="full-width">}}
 
-Ōhashi is the stage name of Ritsu, born to a wealthy samurai family and trained in various arts as a child. When her family lost their fortune, they sold her to a brothel. With her talent and dazzling looks, she quickly rose to the highest rank of *tayū* (Grand Courtesan) in Kyoto’s Shimabara pleasure quarter. Although highly admired, she remained beholden to her clients and patrons.
+[Ōhashi](/artists/#Ōhashi-dayū-(The-Tayū-Ōhashi)-大橋太夫/) is the stage name of Ritsu, born to a wealthy samurai family and trained in various arts as a child. When her family lost their fortune, they sold her to a brothel. With her talent and dazzling looks, she quickly rose to the highest rank of *tayū* (Grand Courtesan) in Kyoto’s Shimabara pleasure quarter. Although highly admired, she remained beholden to her clients and patrons.
 
 Her poems here read:
 
@@ -52,7 +52,7 @@ This display is a reinterpretation of the traditional mounting in a scattered ar
 
 ### Three Women of Gion <span lang="ja">祇園三女</span> (1600s–1700s)
 
-Kaji, Yuri, and Machi were owners of a famous teahouse in Gion called Matsuya where many of Kyoto’s lovers of art and poetry would meet. Together, these three remarkable women formed a matriarchal artistic lineage.
+[Kaji](/artists/#Kaji-of-Gion-祇園梶子/), [Yuri](/artists/#Yuri-of-Gion-祇園の百合/), and [Machi](/artists/#Tokuyama-(Ike)-Gyokuran-徳山(池)玉瀾/) were owners of a famous teahouse in Gion called Matsuya where many of Kyoto’s lovers of art and poetry would meet. Together, these three remarkable women formed a matriarchal artistic lineage.
 
 Kaji of Gion was a gifted poet-calligrapher and the first owner of the Matsuya teahouse. She later adopted Yuri and trained her in poetry as well.
 
