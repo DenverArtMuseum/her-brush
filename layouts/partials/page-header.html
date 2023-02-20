@@ -21,9 +21,7 @@
       {{- with .src }}{{ $src = . }}{{ end -}}
     {{- end -}}
   {{ else }}
-    test 2
     {{ $src = . }}
-    {{ $src }}
   {{ end }}
   {{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") $src -}}
     <section class="{{ if or (eq $title "title page") (eq $title "half title page") }} is-screen-only {{ end }} quire-page__header hero__image" style="background-image: url('{{ $imgPath | absURL }}');">
