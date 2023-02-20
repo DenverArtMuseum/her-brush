@@ -639,6 +639,7 @@ figure_list:
     src: "figures/Install_Intro.jpg"
   - id: "install-inner-chambers"
     src: "figures/Install_Inner_Chambers.jpg"
+    credit: "Installation of Inner Chambers"
   - id: "install-daughters-of-the-ateliers"
     src: "figures/Install_Daughters_Of_The_Atelier.jpg"
   - id: "install-taking-the-tonsure"

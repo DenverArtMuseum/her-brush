@@ -2,7 +2,8 @@
 title: Inner Chambers
 type: essay
 weight: 403
-# image: figures/2018_255.jpg
+image:
+  id: "install-inner-chambers"
 svg_logo:  "svg/Inner Chambers.svg"
 class: left-column kanji-header
 image: figures/banner-inner-chambers.jpg

@@ -175,7 +175,15 @@ h1 > * {
     z-index: 101;
 }
 .quire-page__header.hero__image {
+    position: relative;
     z-index: 100;
+}
+.quire-page__header.hero__image .hero-credit {
+    color: #fff;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    font-size: .9rem;
 }
 .quire-page__content {
     z-index: 100;

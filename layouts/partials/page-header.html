@@ -6,6 +6,33 @@
 {{ else }}
 {{ $.Scratch.Set "imageDir" "" }}
 {{ end -}}
+
+{{ $figure_list:= .Site.Data.figures.figure_list }}
+{{ $title:= .Title }}
+
+{{- with .Params.image -}}
+  {{ if isset . "id" }}
+    {{ $x := .Get "id" | string }}
+    {{- range where $figure_list "id" "eq" $x -}}
+      {{- if .credit }}
+        {{ $credit = .credit }}
+      {{- end -}}
+
+      {{- with .src }}{{ $src = . }}{{ end -}}
+    {{- end -}}
+  {{ else }}
+    test 2
+    {{ $src = . }}
+    {{ $src }}
+  {{ end }}
+  {{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") $src -}}
+    <section class="{{ if or (eq $title "title page") (eq $title "half title page") }} is-screen-only {{ end }} quire-page__header hero__image" style="background-image: url('{{ $imgPath | absURL }}');">
+      {{ if $credit }}
+        <span class="hero-credit">{{ $credit }}</span>
+      {{ end }}
+    </section>
+{{- end -}}
+
 <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero">
   <div class="hero-body">
     {{/* Page Title */}}
@@ -17,21 +44,3 @@
     {{ partial "page-contributor.html" . }}  
   </div>
 </section>
-
-
-
-{{- if .Params.image -}}
-{{- if isset .Params.image "id" }}
-  {{- range where .Site.Data.figures.figure_list "id" "eq" .Params.image.Get "id" -}}
-    {{- if ($.Get "credit") }}
-      {{ $credit = ($.Get "credit") }}{{ else if .credit }}{{ $credit = .credit }}{{ end -}}
-
-    {{- with .src }}{{ $src = . }}{{ end -}}
-  {{- end -}}
-{{- else -}}
-  {{ $src = .Params.image }}
-{{- end -}}
-{{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") $src -}}
-  <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero__image" style="background-image: url('{{ $imgPath | absURL }}');">
-  </section>
-{{- end -}}
