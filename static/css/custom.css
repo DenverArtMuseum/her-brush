@@ -887,6 +887,13 @@ article.quire-page--right-column .quire-page__content .container .content figure
     width: 100%;
     max-width: 100%;
 }
+
+#exhibition-checklist h2,
+#exhibition-checklist h3 {
+    text-align: center;
+    margin-top: 6rem;
+}
+
 #exhibition-checklist .content figure {
     margin-left: 0;
     margin-right: 0;

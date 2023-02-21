@@ -109,16 +109,17 @@
 
 {{- if ($.Page.Scratch.GetSortedMapValues "object") }}
 
-{{ $sections := slice "Preamble" "Introduction" "Inner Chambers" "Daughters of the Atelier" "Taking the Tonsure" "Floating World" "Literati Circles" "Unstoppable (No Barriers)" }}
+{{ $sections := slice "Introduction" "Inner Chambers" "Daughters of the Atelier" "Taking the Tonsure" "Floating World" "Literati Circles" "Unstoppable (No Barriers)" }}
 
 <div class="quire-page__content__objects">
   {{ range $sections }}
     {{ $.Scratch.Set "section" . }}
-    <h3>{{ $.Scratch.Get "section" }}</h3>
+    <h2>{{ $.Scratch.Get "section" }}</h2>
     {{- range ($.Page.Scratch.GetSortedMapValues "object") -}}
         {{ $dict := (index . 0) }}
         {{ with $dict }}
-          {{- if .section "eq" $.Scratch.Get "section" -}}
+          {{ $section := $.Scratch.Get "section" }}
+          {{- if eq .section $section -}}
             <div class="quire-page__content__object">
                 <div class="details">
                     <div class="object-artist">{{  (delimit (split .artist ",") "<br/>") | markdownify }}</div>
