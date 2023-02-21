@@ -2,7 +2,8 @@
 title: Director’s Foreword
 type: featured
 weight: 3
-image: figures/banner-forward.jpg
+image:
+    id: banner-forward
 contributor:
     - id: christophheinrich
 contributor_as_it_appears: Christoph Heinrich

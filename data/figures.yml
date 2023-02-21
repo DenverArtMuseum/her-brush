@@ -662,6 +662,7 @@ figure_list:
     src: figures/HerBrushEarlyViews17.jpg
   - id: banner-forward
     src: figures/banner-forward.jpg
+    credit: "test"
   - id: banner-collectors
     src: figures/banner-collectors.jpg
     credit: 'Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Wada Gesshin <span lang="ja">和田月心</span>, 1800–1870, Stag and Poem, About 1865–70, Ink on paper, 2018.245'
@@ -682,9 +683,9 @@ figure_list:
   - id: banner-berry
     src: figures/banner-berry.jpg
     credit: "Various artists, **Turtles on New Year’s Morn**, About 1894, Ink and color on silk, Gift of Drs. John Fong and Colin Johnstone, 2018.202"
-  - id: banner-intro
+  - id: banner-introduction
     alt: ""
-    src: figures/banner-intro.jpg
+    src: figures/banner-introduction.jpg
   - id: banner-daughters
     alt: ""
     src: figures/banner-daughters.jpg

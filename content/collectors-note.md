@@ -2,12 +2,13 @@
 title: "Collector’s Note"
 type: featured
 weight: 4
+image: 
+    id: banner-collectors
 contributor:
     - id: drjfong
 one_line:
 full:
 class: left-column
-image: figures/banner-collectors.jpg
 ---
 
 {{< q-figure id="fister-11" class="right-column sticky" caption="Calligraphy by Ōtagaki Rengetsu <span lang=\"ja\">太田垣蓮月</span> (1791–1875), painting by Wada Gesshin <span lang=\"ja\">和田月心</span> (1800–70), *Stag and Poem*, 1865–70. Ink on paper, 26¾ × 7¾ (67.9 × 19.7 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.245." >}}

@@ -3,7 +3,7 @@ Title: Literati Circles
 type: essay
 weight: 407
 svg_logo:  "svg/Literati Circles.svg"
-class: left-column
+class: left-column exhibition
 image: figures/banner-literati.jpg
 ---
 

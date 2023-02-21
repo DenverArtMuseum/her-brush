@@ -53,6 +53,7 @@
 }
 
 :root {
+    --bright-lime-green: #D1FFDA
     --grayish-lime-green: rgb(172,207,176); /* Grayish lime green */
     --light-grayish-orange: rgb(225,207,187); /* Light grayish orange */
     --light-orange: #ffbd59;
@@ -184,6 +185,7 @@ h1 > * {
     bottom: 10px;
     left: 10px;
     font-size: .9rem;
+    text-align: left;
 }
 .quire-page__content {
     z-index: 100;
@@ -194,7 +196,9 @@ h1 > * {
 }
 
 
-
+.quire-page__content .container .content {
+    margin-top: 0px;
+}
 
 
 
@@ -339,8 +343,8 @@ h1 > * {
     margin: auto;
     color: var(--grayish-lime-green);
     text-transform: uppercase;
-    -webkit-animation: fadeIn 2s;
-    animation: fadeIn 2s;
+    -webkit-animation: fadeIn 4s;
+    animation: fadeIn 4s;
     -webkit-animation-fill-mode: backwards;
     animation-fill-mode: backwards;
     -webkit-animation-delay: 0.5s;
@@ -354,8 +358,8 @@ h1 > * {
     letter-spacing: 0.1rem;
     color: var(--grayish-lime-green);
     text-transform: none;
-    -webkit-animation: fadeIn 2s;
-    animation: fadeIn 2s;
+    -webkit-animation: fadeIn 4s;
+    animation: fadeIn 4s;
     -webkit-animation-fill-mode: backwards;
     animation-fill-mode: backwards;
     -webkit-animation-delay: 2s;
@@ -500,6 +504,36 @@ h1 > * {
 }
 
 
+/* Symposium- Landing Page */
+
+#symposium-landing-page .quire-page__header.hero__image {
+    background-size: contain;
+    background-position: right;
+    background-color: rgb(238,238,238);
+}
+#symposium-landing-page .quire-page__header.hero {
+    background-color: transparent;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 600px;
+    text-align: left;
+}
+#symposium-landing-page .quire-page__header.hero .hero-body {
+    padding: 0px;
+}
+#symposium-landing-page .quire-page__header.hero h1 {
+    font-size: 4rem;
+    color: var(--grayish-lime-green);
+    font-weight: bold;
+    text-transform: uppercase;
+    -webkit-animation: fadeIn 4s;
+    animation: fadeIn 4s;
+    -webkit-animation-fill-mode: backwards;
+    animation-fill-mode: backwards;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;
+}
 
 
 
@@ -543,6 +577,11 @@ article.quire-page--right-column .quire-page__content figure {
     max-width: 700px;
     width: 700px;
 }
+article.quire-page--left-column .quire-page__content .container .content blockquote,
+article.quire-page--right-column .quire-page__content .container .content blockquote {
+    max-width: 600px;
+    width: 600px;
+}
 
 
 article.quire-page--left-column .quire-page__content .container .content figure.right-column {
@@ -550,6 +589,7 @@ article.quire-page--left-column .quire-page__content .container .content figure.
     max-width: 400px;
     width: 400px;
     clear: right;
+    padding-left: 10px;
 }
 
 article.quire-page--right-column .quire-page__content .container .content figure.left-column {
@@ -558,6 +598,12 @@ article.quire-page--right-column .quire-page__content .container .content figure
     max-width: 400px;
     width: 400px;
     clear: left;
+    padding-left: 10px;
+}
+
+
+.content figure.hidden {
+    display: none;
 }
 
 .content figure.sticky {
@@ -676,7 +722,7 @@ article.quire-page--right-column .quire-page__content .container .content figure
     background-color: #000;
     color: #fff;
 }
-#main.quire-page--black-page h1, #main.quire-page--black-page h2, #main.quire-page--black-page h3,
+#main.quire-page--black-page h2, #main.quire-page--black-page h3,
 #main.quire-page--black-page h4, #main.quire-page--black-page h5, #main.quire-page--black-page h6 {
     color: #fff;
 }
@@ -788,7 +834,16 @@ article.quire-page--right-column .quire-page__content .container .content figure
 }
 
 
+/* Class: exhibition */
 
+#main.quire-page--exhibition .quire-page__header.hero__image {
+    height: 60vh;
+}
+#main.quire-page--exhibition .quire-page__header.hero {
+    position: absolute;
+    right: 100px;
+    background-color: transparent;
+}
 
 
 
@@ -936,12 +991,42 @@ h1 .title_logo {
     
 /* Media Query for Laptops and Desktops */
 @media (max-width: 1280px) {
-    
+
 }
     
 /* Media Query for Tablets ipads portrait mode */
 @media (max-width: 1024px) {
+    .quire-page--list.quire-contents .section.quire-page__content .container,
+    article.quire-page--full-width .quire-page__content .container,
+    article.quire-page--left-column .quire-page__content .container,
+    article.quire-page--right-column .quire-page__content .container {
+        max-width: 100%;
+        width: 100%;
+        padding-left: 14px;
+        padding-right: 14px;
+    }
+    article.quire-page--left-column .quire-page__content .container .content > *,
+    article.quire-page--right-column .quire-page__content .container .content > *,
+    article.quire-page--left-column .quire-page__content figure,
+    article.quire-page--right-column .quire-page__content figure { 
+        max-width: 100%;
+        width: 100%;
+    }
 
+    .quire-navbar-page-controls__item.quire-previous-page {
+        width: auto;
+    }
+    .quire-navbar-page-controls__item.quire-next-page {
+        width: auto;
+    }
+    article.quire-page--right-column .quire-page__content .container .content figure.left-column,
+    article.quire-page--left-column .quire-page__content .container .content figure.right-column {
+        float: none;
+        width: 100%;
+    }
+    .content figure.sticky {
+        position: relative;
+    }
 }
 
 /* Media Query for low resolution Tablets, Ipads */
@@ -958,12 +1043,20 @@ h1 .title_logo {
         padding-left: 20px;
         padding-right: 20px;
     }
+    
+    .quire-featured .quire-page__header.hero-image .hero-body {
+        width: 60%;
+    }
     .quire-page--list.quire-contents .section.quire-page__content .container,
     article.quire-page--full-width .quire-page__content .container,
     article.quire-page--left-column .quire-page__content .container,
     article.quire-page--right-column .quire-page__content .container {
         max-width: 100%;
         width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .quire-page--list.quire-contents .section.quire-page__content .container {
         padding-left: 20px;
         padding-right: 20px;
     }
@@ -994,7 +1087,16 @@ h1 .title_logo {
     .content figure.sticky {
         position: relative;
     }
-    
+
+
+
+    #symposium-landing-page .quire-page__header.hero {
+        width: 94%;
+        padding: 0 10px;
+    }
+    #symposium-landing-page .quire-page__header.hero h1 {
+        font-size: 3rem;
+    }
 }
 
 /* Media Query for Mobile Devices */

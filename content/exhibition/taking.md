@@ -3,11 +3,9 @@ Title: Taking the Tonsure
 type: essay
 weight: 405
 svg_logo:  "svg/Taking the Tonsure.svg"
-class: left-column
+class: left-column exhibition
 image: figures/banner-taking.jpg
 ---
-
-{{< q-figure id="2018-165" class="right-column" >}}
 
 Taking the tonsure is the ceremonial shaving of one’s hair to join a Buddhist monastic order. It was a symbolic act of leaving one’s past behind. In fact, becoming a nun literally translates to “leaving one’s home” (*shukke* <span lang="ja">出家</span>).
 
@@ -16,6 +14,9 @@ Tonsure did not mean, however, relinquishing one’s autonomy. On the contrary, 
 Women from all walks of life took the tonsure, from princesses (like [Daitsū Bunchi](/artists/#Daitsū-Bunchi-大通文智/)) to entertainers (like [Ōishi Junkyō](/artists/#Ōishi-Junkyō-大石順教/)). Still, this was an extremely difficult path to take and often entailed unimaginable determination.
 
 Leaving their old names behind, taking new names as ordained nuns, these artists crafted new identities for themselves.
+
+
+{{< q-figure id="2018-165" class="right-column" >}}
 
 The nun-artist [Ōtagaki Rengetsu](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/) is seen here brushing a poem onto her ceramics. Her elegant surroundings, more like a scholar’s study than a nun’s hut, alludes to her literati background and affiliation.
 
@@ -33,7 +34,25 @@ This is an imagined portrait done sixty years after Rengetsu’s death. Depictin
 
 <div class="spacer spacer-200"></div>
 
-{{< q-figure id="2021-206" >}}
+{{< q-figure id="2021-206" class="full-width centered">}}
+{{< q-figure id="2021-206-cover" class="hidden">}}
+{{< q-figure id="2021-206-back" class="hidden">}}
+{{< q-figure id="2021-206-3" class="hidden">}}
+{{< q-figure id="2021-206-4" class="hidden">}}
+{{< q-figure id="2021-206-5" class="hidden">}}
+{{< q-figure id="2021-206-6" class="hidden">}}
+{{< q-figure id="2021-206-7" class="hidden">}}
+{{< q-figure id="2021-206-8" class="hidden">}}
+{{< q-figure id="2021-206-9" class="hidden">}}
+{{< q-figure id="2021-206-10" class="hidden">}}
+{{< q-figure id="2021-206-11" class="hidden">}}
+{{< q-figure id="2021-206-12" class="hidden">}}
+{{< q-figure id="2021-206-13" class="hidden">}}
+{{< q-figure id="2021-206-14" class="hidden">}}
+{{< q-figure id="2021-206-15" class="hidden">}}
+{{< q-figure id="2021-206-16" class="hidden">}}
+{{< q-figure id="2021-206-17" class="hidden">}}
+{{< q-figure id="2021-206-18" class="hidden">}}
 
 This travel journal recounts Ōtagaki Rengetsu’s visit to Arashiyama, a district to the west of Kyoto. Freely brushed poetry is occasionally punctuated by offhand and charming illustrations. Simple forms outline a cluster of flowers. A few lines gather into a *torii*, a traditional Japanese gate, overtaken by vegetation. This account offers a rare and intimate glimpse into the artist’s personal musings. It must not have been a long trip since Rengetsu left a good part of the album blank.
 

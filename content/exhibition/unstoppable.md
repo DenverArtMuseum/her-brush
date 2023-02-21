@@ -3,7 +3,7 @@ Title: "Unstoppable (No Barriers)"
 type: essay
 weight: 408
 svg_logo:  "svg/Unstoppable.svg"
-class: left-column
+class: left-column exhibition
 image: figures/banner-unstoppable.jpg
 ---
 
