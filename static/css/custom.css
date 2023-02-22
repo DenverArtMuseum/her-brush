@@ -531,7 +531,7 @@ h1 > * {
 #symposium-landing-page .quire-page__header.hero {
     background-color: transparent;
     position: absolute;
-    top: 10px;
+    top: 80px;
     left: 10px;
     width: 600px;
     text-align: left;
@@ -761,7 +761,7 @@ article.quire-page--right-column .quire-page__content .container .content figure
 .quire-splash .quire-page__content .container .content {
     background-color: transparent;
 }
-.quire-splash.quire-featured .quire-page__header.hero-image {
+.quire-splash.quire-featured .quire-page__header.hero__image {
     height: 90vh;
     max-height: 700px;
     min-height: 400px;
@@ -1095,6 +1095,15 @@ h1 .title_logo {
     .content figure.sticky {
         position: relative;
     }
+    .quire-splash.quire-featured .quire-page__header.hero__image,
+    .quire-page__header.hero__image {
+        height: 50vh;
+        background-position: center center;
+    }
+    .quire-featured .hero-body {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 }
 
 /* Media Query for low resolution Tablets, Ipads */
@@ -1107,12 +1116,9 @@ h1 .title_logo {
     .flexbox-row.col-3 > div, .flexbox-row.col-4 > div {
         width: 100%;
     }
-
+    .quire-splash.quire-featured .quire-page__header.hero__image,
     .quire-page__header.hero__image {
         height: 40vh;
-    }
-    .quire-splash.quire-featured .quire-page__header.hero-image {
-        height: 50vh;
         max-height: 400px;
         min-height: 100px;
     }
