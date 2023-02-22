@@ -24,7 +24,7 @@ Belying the elaborate role of copying in East Asian art, the very classification
 
 Dismissing idiomatic art can be likened, perhaps, to removing archeological artifacts from an excavation site without taking stock and documenting the context within which they were found. In the case of Rengetsu, the legacy that emanated from and orbited her lode star can shed light not only on her reception throughout the ages but on her practice as well. Take, for instance, these two hanging vases (*hana-ike*) (figs. 7–8). Both are Rengetsu-yaki, fashioned into bulbous gourds, wonky and humorous. At first glance one might be tempted to attribute both to the artist. Looking closely, though, the cracks begin to show.
 
-{{< q-figure-group id="2018-173, 2021-184" grid="2" class="full-width">}}
+{{< q-figure-group id="2018-173, 2021-184" grid="2" class="full-width" caption="">}}
 
 {{< q-class "full-width centered" >}}
 The two hana-ike are inscribed with poems by Rengetsu, reading, respectively:

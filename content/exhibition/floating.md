@@ -40,9 +40,9 @@ This display is a reinterpretation of the traditional mounting in a scattered ar
 
 {{< q-figure id="2018-226" caption="" >}}
 
->“The Star Festival—<br />
+>The Star Festival—<br />
 >Off to hear good poetry<br />
->at lady Kaji’s teahouse.”<br />
+>at lady Kaji’s teahouse.<br />
 >—Takarai Kikaku
 
 ><span lang="ja">「七夕や<br />
