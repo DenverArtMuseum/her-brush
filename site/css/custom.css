@@ -136,7 +136,13 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 h1 > * {
     display: inherit;
 }
-
+.quire-page h1 {
+    color: var(--grayish-lime-green);
+}
+.quire-page__header__contributor {
+    color: var(--grayish-lime-green);
+    margin-top: 0;
+}
 .quire #main {
     background-color: #fff;
 }
@@ -176,7 +182,6 @@ h1 > * {
     z-index: 101;
 }
 .quire-page__header.hero__image {
-    position: relative;
     z-index: 100;
 }
 .quire-page__header.hero__image .hero-credit {
@@ -188,7 +193,7 @@ h1 > * {
     text-align: left;
 }
 .quire-page__content {
-    z-index: 100;
+    z-index: 99;
 }
 
 .quire-page__content .container .content hr:after {
@@ -199,8 +204,6 @@ h1 > * {
 .quire-page__content .container .content {
     margin-top: 0px;
 }
-
-
 
 
 
@@ -219,6 +222,7 @@ h1 > * {
 
 .quire:not(.no-js) .quire__primary {
     height: 100vh;
+    /* height: auto; */ /* allows for hero to stay onscreen after scroll, but creates other weird effects */
     position: absolute;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -734,6 +738,7 @@ article.quire-page--right-column .quire-page__content .container .content figure
     max-height: 700px;
     min-height: 400px;
     position: sticky;
+    top: -40vh;
 
     box-sizing: content-box;
 
