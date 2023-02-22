@@ -10,7 +10,7 @@
 {{ $figureId := printf "%s-%d" "deepzoom" $now }}
 {{ $modalLink := printf "%s%s" "#" $figureId }}
 
-{{- if eq .Site.Params.figureModal true -}}
+{{- if isset . "src" -}}
   <figure
     id="{{ $figureId }}"
     title="{{ .caption | markdownify | safeHTML }}"

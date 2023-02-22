@@ -85,21 +85,37 @@ Wishing to join as a disciple of a famous Ōbaku Zen monk, she traveled to Edo (
 
 In a stark show of determination, she used a searing iron to disfigure her face. Only when proving this degree of devoutness to her faith was she finally accepted into the order.
 
+<div class="spacer-200"></div>
+
 This poem was written shortly after this turning point. It reads:
 
+{{< q-class "flexbox-row full-width centered" >}}
+
+{{< q-class "flexbox-column" >}}
 >In this living world,<br />
 >my flesh is burned and thrown away.<br />
 >I would be wretched<br />
->if I did not think of it as kindling that burns away my sins.<br />
+>if I did not think of it as kindling that burns away my sins.
+{{< /q-class >}}
 
+{{< /q-class >}}
+
+{{< q-class "flexbox-row full-width centered" >}}
+
+{{< q-class "flexbox-column" >}}
 >“Not coiffuring my hair<br />
 >would leave my hands free<br />
 >to spend my time at the desk.”<br />
 >—Kaga no Chiyo<br />
+{{< /q-class >}}
 
+{{< q-class "flexbox-column" >}}
 ><span lang="ja">「髪を結ふ<br />
 >&#12288;手の隙明て　<br />
 >&#12288;炬燵哉」<br />
 >&#12288;加賀千代</span>
+{{< /q-class >}}
+
+{{< /q-class >}}
 
 

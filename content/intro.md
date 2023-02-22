@@ -7,15 +7,11 @@ weight: 5
 class: left-column
 ---
 
+{{< q-figure-group id="intro-1, intro-2, intro-3" grid="3" class="full-width">}}
+
 Why is it that you’ve never heard of [Katō Seiko](/artists/#katō-seiko-加藤青湖)?
 
-{{< q-figure id="intro-1" class="right-column">}}
-
 How about [Yamamoto Shōtō](/artists/#yamamoto-shōtō-山本緗桃) or [Kō (Ōshima) Raikin](/artists/#kō-ōshima-raikin-高大島来禽)? It is not that they weren’t well known. They were, quite so, both during their own lifetimes and in generations that followed. The brilliance of their work, too, stands the test of time—whether in Seiko’s sprightly jubilations of sparrows among verdant blades of bamboo (fig. 1); in the measured steps of a weary countryman, returning home in autumnal twilight over Raikin’s brushed steps (fig. 2); or in Shōtō’s golden gossamers, malachite pools, and rushes of ink that give form to her supramundane chrysanthemums (fig. 3).
-
-{{< q-figure id="intro-2" >}}
-
-{{< q-figure id="intro-3" >}}
 
 These are only some of the names whose absence from the ledgers of art history has summoned this project.
 

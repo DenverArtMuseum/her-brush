@@ -14,31 +14,23 @@ A slapdash fissure stretches into a grimace beneath two burrowed cavities—a pa
 
 Oscillating between mass production and prized rarity, this tortoise kōgō sneers at such proscriptive divides as those of professional and literati art. Rengetsu (Lotus Moon) was the ordained name of the Buddhist nun and artist-cum-celebrity [Ōtagaki Rengetsu (<span lang="ja">太田垣蓮月</span> 1791–1875)](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/). Her painting, calligraphy, and ceramics were so coveted that she could barely keep up with demand. She did not have her own kiln, relying instead on local networks. She churned out deceptively simple and heartachingly captivating ceramics. Her idiosyncratic style, unpolished and whimsical, came to be known as Rengetsu-style pottery, or *Rengetsu-yaki*.
 
-{{< q-figure id="2018-262-1-7" class="right-column" caption="**fig. 2**" >}}
-
 The market—forever attentive—swiftly responded to this demand in kind with a flood of copies and forgeries already in the artist’s own lifetime. This plethora of Rengetsu-yaki wares has long challenged art historians and connoisseurs in assessing the artist’s oeuvre. At the same time, these idiomatic works hold an equally important key to better understanding the artist, her life, and her work.
-
-{{< q-figure id="2018-257A-B" class="right-column" caption="**fig. 3**" >}}
 
 Emulations of Rengetsu’s signature style range from outright forgeries (e.g., figs. 2–5) to pieces that, as art historian Paul Berry has remarked, were never intended to deceive but instead were a nod to her work—an homage to the artist. Such, for instance, is this later incenser bearing an underglaze poem by Rengetsu and crowned with reticulated metal openwork (fig. 6). Its smooth and clear-overglazed surface indicates it was thrown on a wheel. It thereby does not attempt to imitate Rengetsu’s hand-built process. It is not a forgery; neither is it an authentic work by Rengetsu herself. It is an “honest copy.” It lives in the liminal space, somewhere on the richly gradated spectrum of idiomatic artmaking (a forthcoming video will feature a discussion of two Rengetsu-yaki teabowls by the artist [Kuroda Kōryō (<span lang="ja">黒田光良</span> 1823–1895)](/artists/#Kuroda-Kōryō-黒田光良/).
 
-{{< q-figure id="2021-182-A-B" class="right-column" caption="**fig. 5.**" >}}
-
-{{< q-figure id="2018-177" caption="**fig. 4.**" >}}
-
-{{< q-figure id="2018-169-A-B" caption="**fig. 6.**" class="right-column" >}}
+{{< q-figure-group id="2018-262-1-7, 2018-257A-B, 2021-182-A-B, 2018-177, 2018-169-A-B" grid="3" class="full-width centered" >}}
 
 Belying the elaborate role of copying in East Asian art, the very classification draws an implicit bias in Euro-American art-historical discourse. Granted, some copies are forgeries made explicitly to be passed off as authentic. The act of copying, though, is more nuanced. It is intrinsic to the artist’s technical maturation. It is a way of constructing and finessing one’s artistic voice, of capturing an admired master’s technique—even their spirit. It weaves a visual dialogue with one’s predecessors, artistic lineages, and visual culture—whether contemporaneous or historical. Producing a copy can be an expression of appreciation, a claim to having mastered (or even surpassed) said precursor, or anything in between.
 
 Dismissing idiomatic art can be likened, perhaps, to removing archeological artifacts from an excavation site without taking stock and documenting the context within which they were found. In the case of Rengetsu, the legacy that emanated from and orbited her lode star can shed light not only on her reception throughout the ages but on her practice as well. Take, for instance, these two hanging vases (*hana-ike*) (figs. 7–8). Both are Rengetsu-yaki, fashioned into bulbous gourds, wonky and humorous. At first glance one might be tempted to attribute both to the artist. Looking closely, though, the cracks begin to show.
 
-{{< q-figure id="2018-173" caption="**fig. 7**" >}}
+{{< q-figure-group id="2018-173, 2021-184" grid="2" class="full-width">}}
 
-{{< q-figure id="2021-184" caption="**fig. 8**" >}}
-
+{{< q-class "full-width centered" >}}
 The two hana-ike are inscribed with poems by Rengetsu, reading, respectively:
+{{< /q-class >}}
 
-{{< q-class "flexbox-row" >}}
+{{< q-class "flexbox-row full-width col-4" >}}
 {{< q-class "flexbox-column" >}}
 > *A lone pine awaits me*\
 > *its needles chestnut brown—*\
@@ -54,13 +46,7 @@ The two hana-ike are inscribed with poems by Rengetsu, reading, respectively:
 > <span lang="ja">都のつとに</span>\
 > <span lang="ja">いざといはましを</span>
 {{< /q-class >}}
-{{< /q-class >}}
 
-{{< q-class "center" >}}
-and
-{{< /q-class >}}
-
-{{< q-class "flexbox-row" >}}
 {{< q-class "flexbox-column" >}}
 > *Having left my hometown*\
 > *sleeping on a pillow of waves*\
@@ -80,9 +66,9 @@ and
 
 We will refer to the first hana-ike as *Lone Pine* and to the second as *Friendless Plover*. While the poems were indeed composed by Rengetsu, the calligraphy reveals a discrepancy in style and technique. The poem gracing *Lone Pine* is rendered in a confident hand with elegant *kana* and lithe curves. The stylus pushed through the soft clay, parting it smoothly, leaving clean and crisp ridges that are further accentuated by the darkened edges from the firing process. The calligraphy on *Friendless Plover*, however, is more belabored and uncertain. The kana drags and tears at the clay, leaving a rugged trail in its furrows. It is weighed down by forced flourishes and overly accented curlicues, and it lacks the balanced cadence of *Lone Pine*. Nowhere does this discrepancy emerge more clearly than in the incised signatures. The lightness and natural undulation of line in *Lone Pine* contrasts sharply with the clunky *kanji* on *Friendless Plover*.
 
-{{< q-figure id="2018-173-back" caption="**fig. 9**" >}}
+{{< q-figure id="2018-173-back" caption="**fig. 9**" class="is-pulled-right">}}
 
-{{< q-figure id="2021-184-back" caption="**fig. 10**" >}}
+{{< q-figure id="2021-184-back" caption="**fig. 10**" class="is-pulled-right">}}
 
 Once again, the objects’ backs disclose important information (figs. 9 and 10). Placed side by side, it is evident that the cut-out apertures, intended to accommodate a hook for hanging, were not handled with the same attention. *Friendless Plover* bears a rectangular cutout with rugged, uneven edges. This haphazard and unpolished treatment is in line with Rengetsu’s style; however, here lies a clue: hana-ike are functional wares. They were intended to be hung in a *tokonoma* (display niche) and often contained flower arrangements (*ikebana*). The hook cutout therefore was not a forgiving element in the ware and would have needed to be smoothed out and leveled, so as not to snag or hang askew. *Lone Pine*’s hook aperture fulfills these requirements with a clean, oval finish. It hangs naturally and perfectly balanced.
 

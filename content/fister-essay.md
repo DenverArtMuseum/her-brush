@@ -50,8 +50,7 @@ It is unclear how long Ryōnen resided at Hōkyōji, but she left to go to Edo (
 
 Impressed by her fervor, Hakuō accepted her as a disciple, and she trained under him for several years before he designated her as his dharma heir in 1680. Ryōnen later established her own temple, and the priest who had initially refused her, Tetsugyū, presided at the dedication of her Nyoirin Kannon Hall in 1694. Since the poem in the Fong-Johnstone collection is signed “Taiunji Ryōnen,” it must date from after her temple was officially designated as the Ōbaku Zen temple Taiunji in 1701.[^19] Ryōnen became famous for the radical act of scarring her face that inspired these poems, and the existence of numerous scrolls by her hand suggests that she received many requests for her potent verses.[^20] Like Bunchi, Ryōnen studied poetry and calligraphy from her childhood, and her manner of writing reflects the style prevailing at the court.
 
-{{< q-figure id="fister-4" class="right-column" >}}
-{{< q-figure id="fister-5" class="right-column" >}}
+{{< q-figure-group id="fister-4, fister-5" grid="2" class="full-width centered" >}}
 
 Ryōnen’s two verses, accompanied by illustrations of her burning her face (fig. 4), appeared in numerous woodblock-printed books and gazetteers, as well as *ukiyo-e* featuring famous women, such as the print by Utagawa Kunisada (Toyokuni III) (fig. 5). She first became known in the West through Lafcadio Hearn, who wrote a paper titled “The Nun Ryōnen: Fragments of a Japanese Biography,” which was read at the meeting of the Japan Society of London on April 13, 1904.[^21] Famous for his books on Japan recounting legends and ghost stories, he presented a fictionalized account of Ryōnen’s life, emphasizing her spirit of self-sacrifice.
 
@@ -75,19 +74,14 @@ Kikusha kept diaries recording the places she visited, the people she met, and h
 
 Rengetsu was born into an entirely different world than Kikusha; instead of the countryside, she grew up in the old cultural capital of Kyoto. The origins of her birth parents are unclear, but she was adopted by the Ōtagaki family, whose head came to hold a high-ranking administrative post at the Pure Land Buddhist temple Chion’in in Kyoto.[^28] In her youth, she worked as a lady-in-waiting in the women’s quarters at Kameoka Castle in the outskirts of Kyoto.[^29] It was there that Rengetsu (her childhood name was Nobu) learned the classical waka poetry and calligraphy that became the foundation for her livelihood.
 
-{{< q-figure id="fister-7" class="right-column" >}}
-
 Rengetsu was married at the age of seventeen and bore three children, all of whom died. After separating from her husband, she remarried and had another child, but lost both her second husband and daughter to illness. At the age of thirty-three, she took the tonsure, adopting Rengetsu (literally, “lotus moon”) as her Buddhist name. She took up residence in a subtemple at Chion’in with her adoptive father (who also took vows), and they lived together until his death. Rengetsu then moved to the Okazaki district in eastern Kyoto, where many poets and artists lived. She studied waka with Kagawa Kageki and Mutobe Yoshika and within a few years had established a reputation as a poet. Her name was also included in such compendiums as the *Heian jinbutsu shi* (Record of Heian [Kyoto] Notables),[^30] and two volumes of her waka were published during her lifetime.[^31] Waka had been the prevailing form of literary expression for aristocratic women from ancient times, and by the Edo period (1615–1868) women from all walks of life were becoming literate and interested in composing poetry. Rengetsu and Kikusha had the advantage over counterparts from earlier periods of growing up in an age when many famous waka and haikai poets readily accepted and encouraged female pupils.
 
-{{< q-figure id="fister-8" class="right-column" >}}
+{{< q-figure-group id="fister-7, fister-8, fister-9" grid="3" class="full-width centered" caption="Like Kikusha, in addition to writing out her poems, Rengetsu also created poem-paintings, combining her waka with simply brushed seasonal motifs such as a branch of cherry or plum blossoms, the moon (fig. 7), eggplants (fig. 8), birds, butterflies (fig. 9), and occasionally animals." >}}
 
 Like Kikusha, in addition to writing out her poems, Rengetsu also created poem-paintings, combining her waka with simply brushed seasonal motifs such as a branch of cherry or plum blossoms, the moon (fig. 7), eggplants (fig. 8), birds, butterflies (fig. 9), and occasionally animals. The subject matter is not so different from that of Kikusha, but their brush styles are at opposite poles: Kikusha’s coarse and dynamic, Rengetsu’s delicate and ethereal. Living in Kyoto, Rengetsu was no doubt influenced by the lyrical Maruyama-Shijō tradition of painting, which emphasized nature subjects modeled with soft ink and color washes. She associated with many painters and sometimes inscribed her poems on their paintings. Examples of “joint creations” (*gassaku*) in the exhibition include those done with [Tomioka Tessai (<span lang="ja">富岡鉄斎</span> 1836–1924)](/artists/#Tomioka-Tessai-富岡鉄斎/) and [Wada Gesshin (<span lang="ja">和田月心/</span> 1800–1870)](/artists/#Wada-Gesshin-和田月心/) (figs. 10 and 11). Rengetsu’s unique calligraphic style, featuring elegantly brushed, threadlike lines, is easily identifiable and, judging from the scores of extant works, was highly admired and sought after. She herself loved to write, as expressed in the following verse:
 
-{{< q-figure id="fister-11" class="right-column" >}}
 
-{{< q-figure id="fister-9" >}}
-
-{{< q-figure id="fister-10" >}}
+{{< q-figure-group id="fister-10, fister-11" grid="2" class="full-width centered"  >}}
 
 > Taking up the brush<br />
 > just for the joy of it,<br />
@@ -102,6 +96,8 @@ The range of Rengetsu’s ceramics is well represented in the exhibition: *sench
 
 Some scholars believe that her mature calligraphy style, displaying slender lines with only subtle variations in thickness, was influenced by the incising of her poems into pottery. For example, Rengetsu often chose to use *kana* script instead of Chinese characters because the simpler syllabary characters were easier to incise and created less excess clay that had to be cleaned away. In order to make her poems easier to incise (and read), she wrote kana forms individually, leaving generous amounts of space around the lines; it is rare to find her linking more than two or three characters together.
 
+{{< q-figure id="fister-13" class="right-column" >}}
+
 Whereas Kikusha moved around Japan as she wished, Rengetsu reportedly changed her residence in Kyoto dozens of times to escape from people seeking to meet her and acquire her work. The fact that she was a Buddhist nun added to her celebrity status. Like Kikusha, she was not a full-fledged nun, but the verses of both female poets often embody Buddhist teachings.
 
 > *Yoshi-ashi ni* On a reed[^38]<br />
@@ -112,15 +108,13 @@ Whereas Kikusha moved around Japan as she wished, Rengetsu reportedly changed he
 > I should have no attractions to<br />
 > the shapes and scents of this world;<br />
 > But how can I keep my vows<br />
-> gazing at today’s crimson maple leaves? (Rengetsu)[^39]<br />
+> gazing at today’s crimson maple leaves? (Rengetsu)[^39]
 
 > Perfectly aware,<br />
 > not a thought,<br />
 > just the moon<br />
 > piercing me with light<br />
-> as I gaze upon it. (Rengetsu)[^40]<br />
-
-{{< q-figure id="fister-13" class="right-column" >}}
+> as I gaze upon it. (Rengetsu)[^40]
 
 Although she took her original vows at a Pure Land temple, Rengetsu associated with clergy from various sects. In her later years, she moved into a small hut on the grounds of Jinkōin temple northwest of Kyoto at the invitation of the chief priest, Wada Gesshin (also known as Gōzan, 1800–1870). It was here that she lived out the remainder of her life. She was such a celebrated figure in Kyoto that numerous artists did portraits of her. The example in the exhibition by Ōhō showing Rengetsu seated in her hut, writing poems on pottery (fig. 13), was probably inspired by Tessai’s famous portrait of the wizened old nun in the collection of Jinkōin.
 
@@ -136,15 +130,13 @@ My first introduction to Junkyō’s calligraphy was in an art dealer’s shop i
 Junkyō married the calligrapher-painter Yamaguchi Sōhei in 1912 and had two children, but after fifteen years they divorced. She supported herself and her children through painting and calligraphy and set up a counseling service for people with disabilities. While she had often sought spiritual solace at temples, in 1933 (at age forty-five) she officially took the tonsure at Kongobūji on Mt. Kōya, adopting the Buddhist name Junkyō. Three years later she moved into the Shingon temple Kanshūji in Yamashina, east of Kyoto, where she continued to counsel and empower people with disabilities, teaching about Buddhism. In 1947, she founded Bukkōin; she lived out her life at this small temple, and through her activities she served as a model. Not only could she write and paint by holding a brush in her mouth (fig. 14), but she raked her own garden and pulled out weeds with her toes. Her tenacity and independence have inspired others and even led to comparisons with Helen Keller, who actually met Junkyō during one of her trips to Japan.
 
 {{< q-figure id="fister-15" class="right-column" >}}
+{{< q-figure id="fister-16" class="right-column" >}}
 
 I was taken to Bukkōin by the art dealer who initially introduced me to her work and was able to meet her son and daughter-in-law, who showed me various works and photographs and also gave me some books and an unpublished manuscript that included excerpts from Junkyō’s diary. I was also given a newspaper clipping that mentioned an exhibition of her work at a museum in Munich in 1966. Nature subjects prevail in Junkyō’s oeuvre (figs. 15 and 16), but she also depicted the bodhisattva Kannon (fig. 17) and occasionally other figures. She frequently added the Buddhist maxim “Every day is a good day” to her Kannon paintings; this example is signed “Handless Junkyō.” The paintings in the Denver Art Museum exhibition, *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection*, are rather simply brushed, but other works by Junkyō are surprisingly detailed and colorful and must have taken her a long time to complete. An example is her lovely rendering of birds and grapes inscribed with the poem about being inspired by the canary quoted above (fig. 18). The simplicity of her writing shares some qualities with Rengetsu’s. In fact, Junkyō was very much aware of Rengetsu’s poetry and calligraphy and reportedly studied her script in her thirties and forties.[^43] She did paintings of a woman fulling cloth on which she inscribed a waka by Rengetsu, whom she acknowledges in her inscriptions.[^44] While Junkyō’s calligraphy does not display the hair-fine brushlines of Rengetsu’s, and the rhythmic flow is different, aesthetically the similarities are there, especially because both nuns wrote primarily with the simplified kana script.
 
 {{< q-figure id="fister-18" class="right-column" >}}
 
-{{< q-figure id="fister-16" >}}
-
 {{< q-figure id="fister-17" >}}
-
 
 People who met Junkyō described her as “radiant,” “humble,” and “peaceful”; these same qualities emanate from her paintings and calligraphy. In a letter to friends shortly before her death, she wrote that she had suffered much bitterness because her arms were cut off but that the incident enabled her to find the path of Buddha and inner peace. Getting to know others in the limb-loss community had been a special part of her life, and she wanted to thank everyone and tell them to keep up their spirits.[^45]
 
@@ -154,13 +146,13 @@ Born into the family of a rice merchant in Aichi Prefecture (she was the fifth o
 
 After the car accident, Myōdō was hospitalized for nine months. She suffered severe pain and found it difficult to breathe, but she remembers being encouraged by a doctor who said, “If the Buddha hadn’t wanted you to live, you’d be dead. The fact that you are alive is because you are needed.”[^46] Hearing that gave her strength and renewed her sense of purpose in life. She was determined to live every day fully, and cooking and preparing food became her spiritual practice. Having lost the use of her right arm and right leg, she trained herself to use her left hand to hold a writing brush, as well as to chop vegetables and grind sesame seeds with pestle and mortar for what became one of her specialties, sesame tofu. Giving by cooking and providing people with a pleasurable dining experience became her passion.
 
-{{< q-figure id="fister-19" class="right-column" >}}
+{{< q-figure id="fister-19" class="full-width centered" >}}
+
+{{< q-figure id="fister-20" class="right-column" >}}
+
+{{< q-figure id="fister-21" class="right-column" >}}
 
 Regretfully, I never had the chance to meet Myōdō or enjoy her *shōjin ryōri* at Gesshinji. I first learned about this remarkable nun through seeing some examples of her boldly brushed calligraphy in a charity exhibition of works by contemporary Zen priests in 1997. Her personality, captured in a photograph for the cover of her 2004 book (fig. 19), was the opposite of Junkyō’s: brash, outspoken, with a wry sense of humor. This is reflected in her brushwork, exemplified in the hanging scroll *Breaking Waves in the Pines (shōtō)* (fig. 20) and two-sided screen panel comprising the single characters “*mu*” and “*kan*” (fig. 21), which together mean “no barrier” (*mukan*). This refers to the state of an enlightened person who has transcended dualistic views, where everything is one, i.e., there are no barriers between you and the “other.” Myōdō wrote that when she was young, at one point she imagined that she would like to live like Rengetsu, crafting clay pots and composing poetry, but after losing the use of her right arm and leg, she found it impossible. She then persevered, learning how to write calligraphy with her left hand.[^47] As she became famous for her cuisine, requests for her brushwork no doubt increased. The majority of Myōdō’s extant works were executed with a large brush, which was perhaps easier for her to handle. She once said that calligraphy and cooking are both like “fighting with a real sword” (*shinken shōbu*). “Facing a white sheet of paper, it is you who makes it [the calligraphy or the food] live or die.”[^48] Interviews (in Japanese) with Myōdō are easily accessible on YouTube. While she is no longer with us, we can still hear her deliver short sermons on “life” and also sense that vivid life in her brushwork.
-
-{{< q-figure id="fister-20" >}}
-
-{{< q-figure id="fister-21" >}}
 
 
 [^1]: Bunchi’s grandmother (Emperor Gomizuno-o’s mother) and Ryōnen’s mother were both from the Konoe family.

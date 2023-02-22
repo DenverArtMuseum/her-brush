@@ -33,17 +33,27 @@ Hirata Gyokuon was a famed professional painter most closely associated with the
 
 Fukuda Chiyo was born in the province of Kaga during Japan’s prosperous Genroku era (1688–1704). She composed her first *waka* at age seven, and her poems soon became known throughout Japan. She was best known as “Chiyo of Kaga” (Kaga no Chiyo) rather than by her full name. Chiyo became a nun in 1755 and was acclaimed for her *haiga*, abbreviated paintings that often incorporated haiku inscriptions (a similarly brief, yet profound, form of poetry). Chiyo’s most famous poem, “Morning Glory,” has been quoted and reproduced countless times, both in Japan and abroad. In fact, Chiyo’s hometown of Hakusan has made the morning glory its official flower in her honor.
 
-> *A morning glory,*
->
-> *taking over my bucket.*
->
+{{< q-class "flexbox-row" >}}
+
+{{< q-class "flexbox-column" >}}
+> *A morning glory,*\
+> *taking over my bucket.*\
 > *Must get water elsewhere then.*
->
-> 朝顔に　*asagao ni*
->
-> つるべ取られて　*tsurube torarete*
->
-> もらい水*morai mizu.*
+{{< /q-class >}}
+
+{{< q-class "flexbox-column" >}}
+> 朝顔に\
+> つるべ取られて\
+> もらい水
+{{< /q-class >}}
+
+{{< q-class "flexbox-column" >}}
+> *asagao ni*\
+> *tsurube torarete*\
+> *morai mizu.*
+{{< /q-class >}}
+
+{{< /q-class >}}
 
 ### Kaji of Gion 祇園梶子
 1600s–1700s
