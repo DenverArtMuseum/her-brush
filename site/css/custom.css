@@ -53,7 +53,7 @@
 }
 
 :root {
-    --bright-lime-green: #D1FFDA
+    --bright-lime-green: #D1FFDA;
     --grayish-lime-green: rgb(172,207,176); /* Grayish lime green */
     --light-grayish-orange: rgb(225,207,187); /* Light grayish orange */
     --light-orange: #ffbd59;
@@ -827,6 +827,25 @@ article.quire-page--right-column .quire-page__content .container .content figure
     display: none;
 }
 
+#exhibition-landing-page .quire-contents-list.grid .page-item .card.no-image .card-content {
+    padding-top: 1.25rem;
+    padding-bottom: 0.25rem;
+    padding-right: 94px;
+    font-size: 1.125rem;
+    line-height: 1.35;
+}
+#exhibition-landing-page .quire-contents-list.grid .page-item .card .card-image figure {
+    width: 300px; 
+    height: 170px; 
+    object-fit: cover;
+    overflow: hidden;
+}
+
+#exhibition-landing-page .quire-contents-list.grid .page-item .card {
+    min-height: 340px;
+}
+
+
 /* bibliography */
 
 .quire-page__content__references dl dt {
@@ -838,6 +857,7 @@ article.quire-page--right-column .quire-page__content .container .content figure
 
 #main.quire-page--exhibition .quire-page__header.hero__image {
     height: 60vh;
+    background-position: center center;
 }
 #main.quire-page--exhibition .quire-page__header.hero {
     position: absolute;
@@ -886,6 +906,9 @@ article.quire-page--right-column .quire-page__content .container .content figure
 #exhibition-checklist article .quire-page__content .container {
     width: 100%;
     max-width: 100%;
+}
+#exhibition-checklist .quire-page__content .container .content > p {
+    padding: 0 40px;
 }
 
 #exhibition-checklist h2,
@@ -984,8 +1007,8 @@ h1 .title_logo {
 /* Index pages */
 .card-content .title_logo {
     z-index: 1000;
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
 }
 
 
