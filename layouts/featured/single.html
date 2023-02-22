@@ -38,26 +38,26 @@
     {{- end -}}
     {{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") $src -}}
     <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero {{ if .Content }}{{ else }}quire-page__header--full-height{{ end }} {{ if .Params.image }}hero-image hero__image{{ end }}" style="background-image: url('{{ $imgPath | absURL }}');">
-      <div class="hero-body">
-        {{/* Page Title */}}
-        <h1 class="quire-page__header__title" id="{{ .Title | urlize }}">
-          {{ with .Params.label }}<span class="label">{{ . }}<span class="visually-hidden">{{ $.Site.Params.pageLabelDivider }}</span></span>{{ end }}
-          {{- partial "page-title.html" . | markdownify -}}
-          {{ if ($.Scratch.Get "svglogo") }}
-            {{ partial "inline-svg.html" (dict "svg" $.Scratch.Get "svglogo") }}
-          {{ end }}
-        </h1>
-        {{/* Contributors, if any */}}
-        {{ with .Params.contributor }}
-          <div class="quire-page__header__contributor">
-            {{ partial "contributor-list.html" (dict "range" . "contributorType" "all" "listType" "list-plus" "Site" $.Site) }}
-          </div>
-        {{ end }}
-      </div>      
       {{ if $credit }}
         <span class="hero-credit">{{ $credit | safeHTML }}</span>
       {{ end }}
     </section>
+    <div class="hero-body">
+      {{/* Page Title */}}
+      <h1 class="quire-page__header__title" id="{{ .Title | urlize }}">
+        {{ with .Params.label }}<span class="label">{{ . }}<span class="visually-hidden">{{ $.Site.Params.pageLabelDivider }}</span></span>{{ end }}
+        {{- partial "page-title.html" . | markdownify -}}
+        {{ if ($.Scratch.Get "svglogo") }}
+          {{ partial "inline-svg.html" (dict "svg" $.Scratch.Get "svglogo") }}
+        {{ end }}
+      </h1>
+      {{/* Contributors, if any */}}
+      {{ with .Params.contributor }}
+        <div class="quire-page__header__contributor">
+          {{ partial "contributor-list.html" (dict "range" . "contributorType" "all" "listType" "list-plus" "Site" $.Site) }}
+        </div>
+      {{ end }}
+    </div>
   {{- else -}}
     <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero{{ if .Content }}{{ else }} quire-page__header--full-height{{ end }}">
       <div class="hero-body">

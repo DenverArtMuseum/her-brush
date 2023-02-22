@@ -662,7 +662,7 @@ figure_list:
     src: figures/HerBrushEarlyViews17.jpg
   - id: banner-forward
     src: figures/banner-forward.jpg
-    credit: "test"
+    credit: ""
   - id: banner-collectors
     src: figures/banner-collectors.jpg
     credit: 'Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Wada Gesshin <span lang="ja">和田月心</span>, 1800–1870, Stag and Poem, About 1865–70, Ink on paper, 2018.245'

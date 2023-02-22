@@ -14,7 +14,7 @@ $('a.footnote-backref').each(function() {
         var newhref = href.replace(/#/, "#lf-");
         $(this).attr('href',newhref);
 
-        location.href = href;
+        //location.href = href;
     }
 });
 // Makes sure anchor links do not open new tab

@@ -4,7 +4,8 @@ type: essay
 weight: 404
 svg_logo:  "svg/Daughters of the Ateliers.svg"
 class: left-column exhibition
-image: figures/banner-daughters.jpg
+image: 
+    id: banner-daughters
 ---
 
 In Japan, painting traditions were commonly passed down in the form of apprenticeships or from father to son. Some lineages like the Kanō school of painting endured for centuries. These professional painters subsisted through the patronage of wealthy clients.

@@ -4,7 +4,8 @@ type: essay
 weight: 405
 svg_logo:  "svg/Taking the Tonsure.svg"
 class: left-column exhibition
-image: figures/banner-taking.jpg
+image: 
+    id: banner-taking
 ---
 
 Taking the tonsure is the ceremonial shaving of one’s hair to join a Buddhist monastic order. It was a symbolic act of leaving one’s past behind. In fact, becoming a nun literally translates to “leaving one’s home” (*shukke* <span lang="ja">出家</span>).

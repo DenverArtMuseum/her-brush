@@ -4,7 +4,8 @@ type: essay
 weight: 406
 svg_logo:  "svg/Floating Worlds.svg"
 class: left-column exhibition
-image: figures/banner-floating.jpg
+image: 
+    id: banner-floating
 ---
 
 Starting in the Tokugawa period (or Edo period, 1615–1868), the Floating World (*ukiyo*) referred to the state-sanctioned pleasure quarters, or urban entertainment districts, which catered to male patrons who frequented the teahouses, brothels, and theaters. The term alludes to the hedonistic and ephemeral nature of this realm.

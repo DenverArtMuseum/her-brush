@@ -4,7 +4,8 @@ type: essay
 weight: 408
 svg_logo:  "svg/Unstoppable.svg"
 class: left-column exhibition
-image: figures/banner-unstoppable.jpg
+image: 
+    id: banner-unstoppable
 ---
 
 {{< q-figure id="2018-154A-C" >}}

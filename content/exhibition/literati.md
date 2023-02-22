@@ -4,7 +4,8 @@ type: essay
 weight: 407
 svg_logo:  "svg/Literati Circles.svg"
 class: left-column exhibition
-image: figures/banner-literati.jpg
+image: 
+    id: banner-literati
 ---
 
 United by a shared appreciation for China’s artistic traditions, intellectuals and art enthusiasts formed literati societies (*bunjin*). For them, art was a form of social interaction. In their gatherings, they composed poetry, painted together, and inscribed calligraphy for one another.
