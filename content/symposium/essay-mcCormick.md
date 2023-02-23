@@ -8,7 +8,8 @@ contributor:
 one_line:
 full:
 class: left-column
-image: figures/banner-mccormick.jpg
+image:
+  id: banner-mccormick
 ---
 
 {{< q-figure id="2018-164" class="right-column" caption="**fig. 1**" >}}

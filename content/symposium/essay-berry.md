@@ -7,7 +7,8 @@ contributor:
 one_line:
 full:
 class: left-column
-image: figures/banner-berry.jpg
+image:
+  id: banner-berry
 ---
 
 {{< q-figure id="2018-202" class="right-column" >}}

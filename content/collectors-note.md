@@ -11,7 +11,7 @@ full:
 class: left-column
 ---
 
-{{< q-figure id="fister-11" class="right-column sticky" caption="Calligraphy by Ōtagaki Rengetsu <span lang=\"ja\">太田垣蓮月</span> (1791–1875), painting by Wada Gesshin <span lang=\"ja\">和田月心</span> (1800–70), *Stag and Poem*, 1865–70. Ink on paper, 26¾ × 7¾ (67.9 × 19.7 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.245." >}}
+{{< q-figure id="2018-218" class="right-column sticky" >}}
 
 In one’s life, there are instances that come about purely by chance that have a profound impact on one’s future. More than forty years ago, my partner and I were introduced by the then-curator of Chinese art at the Philadelphia Museum of Art to the famous Asian art collector and dealer Alice Boney. At the time, I had just completed my psychiatric residency and was a novice collector of Chinese monochrome porcelains from the Qing dynasty. Miss Boney—tall, elegant, sharp-witted—was most cordial and accommodating but quick to state that she did not believe in psychiatry, and she immediately chided me for not being able to speak Chinese. She advised me to rid myself of the monochromes that I had collected and began to show me Qing dynasty porcelains with emperors’ reign marks on them, known in the trade as “period porcelains.” Despite this unpromising introduction, she became a mentor to both Dr. Johnstone and me, guiding us in collecting while becoming a close friend. 
 
