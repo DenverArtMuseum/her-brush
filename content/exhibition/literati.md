@@ -52,9 +52,9 @@ These paintings belong to the genre of *haiga*, an abbreviated and swiftly execu
 
 {{< q-figure id="seiko" class="right-column" >}}
 
->“The tip of her brush<br />
+>The tip of her brush<br />
 >can wipe away<br />
->one thousand armies.”<br />
+>one thousand armies.<br />
 >—Writer for *Postal News*, 1875
 
 [Okuhara Seiko](/artists/#Okuhara-Seiko-奥原晴湖/) (born Ikeda Setsu) was born into a high-ranking samurai family from Koga. Arriving in Edo (Tokyo), Seiko almost instantaneously garnered a large following and established a studio, which became a vibrant hub for literati painters, poets, and calligraphers.
@@ -67,7 +67,7 @@ One of the period’s most influential literati artists, Seiko founded a school 
 
 {{< q-figure id="shohin" class="right-column" caption="Portrait of Noguchi Shōhin 野口小蘋 in *Bunbu kōmeiroku 文武高名録*, a compilation of famous people and important literary figures published in 1893. Courtesy Hathi Trust Digital Library, digitized by Google." >}}
 
->“Good wife, wise mother”<br />
+>Good wife, wise mother.<br />
 >—Popular aphorism in Meiji-era Japan
 
 Noguchi Shōhin burst onto the literati art scene right at the tail end of Okuhara Seiko’s heyday. She exhibited remarkable talent from an early age and later enjoyed imperial patronage, becoming the first woman artist to be appointed Official Artist of the Imperial Household in 1904.

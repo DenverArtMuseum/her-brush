@@ -103,9 +103,9 @@ This poem was written shortly after this turning point. It reads:
 {{< q-class "flexbox-row full-width centered" >}}
 
 {{< q-class "flexbox-column" >}}
->“Not coiffuring my hair<br />
+>Not coiffuring my hair<br />
 >would leave my hands free<br />
->to spend my time at the desk.”<br />
+>to spend my time at the desk.<br />
 >—Kaga no Chiyo<br />
 {{< /q-class >}}
 

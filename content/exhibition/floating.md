@@ -42,9 +42,9 @@ This display is a reinterpretation of the traditional mounting in a scattered ar
 
 {{< q-class "flexbox-row col-2 full-width" >}}
 {{< q-class "flexbox-column" >}}
->“The Star Festival—\
+>The Star Festival—\
 >Off to hear good poetry\
->at lady Kaji’s teahouse.”\
+>at lady Kaji’s teahouse.\
 ><span class="no-italic">—Takarai Kikaku</span>
 {{< /q-class >}}
 
