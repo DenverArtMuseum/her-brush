@@ -666,24 +666,31 @@ figure_list:
     credit:'Installation view of *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection*. Photograph by Eric Stephenson.'
   - id: "symposium-cover"
     src: figures/symposium-cover.png
-    credit: 'Photograph by XXX. © XXX' 
+    alt: "Black-and-white photograph of a bare-foot person wearing a sleeveless black dress. Their left hand reaches up and the right rests at their side. An energetically brushed calligraphy is behind the figure."
+    credit:  
   - id: "tomoko-cover"
     src: figures/tomoko-cover.jpg
-    credit: 'Tomoko Kawao. Photography by XXX. © XXX'
+    alt: "A person in a sleeveless white dress holds a large black brush and bends toward the floor. Large images of black calligraphy on white paper hang on the wall behind."
+    credit: 
   - id: IMG_1282
     src: figures/IMG_1282.jpg
+    alt: "A young child looks at the camera with mouth open. Another child wearing a mask looks at the paper on a long table."
     credit: 'Children enjoying a gallery activty. Photograph by Eric Stephenson.'
   - id: early-views
     src: figures/HerBrushEarlyViews17.jpg
+    alt: "A person stands in the center, look up and to the right with arms outstretched. Behind, a black inky splotch fills a white wall."
     credit: 'A visitor in front of the interactive video projection in the last gallery of the exhibition. Photograph by Eric Stephenson.'
   - id: banner-forward
     src: figures/banner-forward.jpg
+    alt: "Dozens of poem slips float in a clear screen against a black wall."
     credit: 'Various artists, *Poem Slips* (*tanzaku*), 1700–1900s. Paper with pigment, gold, silver, and ink. Gift of Drs. John Fong and Colin Johnstone, 2018.181.4-44.'
   - id: banner-collectors
     src: figures/banner-collectors.jpg
+    alt: "Detail of a larger work with a stag looking over its shoulder to the right."
     credit: 'Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Wada Gesshin <span lang="ja">和田月心</span>, 1800–1870, *Stag and Poem*, about 1865–70. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.245.'
   - id: banner-fister
     src: figures/banner-fister.jpg
+    alt: "Detail of thickly brushed black calligraphy."
     credit: 'Murase Myōdō <span lang="ja">村瀬明道</span>, 1924–2013, *Breaking Waves in the Pines* (*shōtō*), late 1900s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.155.'
   - id: banner-mccormick
     src: figures/banner-mccormick.jpg
