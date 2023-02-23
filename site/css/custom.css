@@ -164,6 +164,7 @@ h1 > * {
 }
 
 .hero-body {
+    padding: 1rem 1.5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -449,6 +450,7 @@ h1 > * {
 
 .quire-page h1, .quire-page__header__title {
     font-size: 2.4rem;
+    max-width: 80vw;
 }
 
 .quire-page--list.quire-contents .quire-page__content {
@@ -780,7 +782,6 @@ article.quire-page--right-column .quire-page__content .container .content figure
 }
 .quire-featured .quire-page__header.hero-image .hero-body {
     width: 50%;
-    padding: 2em 0;
     flex-grow: 0;
     flex-shrink: 1;
     text-align: end;
@@ -791,6 +792,7 @@ article.quire-page--right-column .quire-page__content .container .content figure
     font-size: 1.8rem;
     margin-bottom: 0.3em;
     justify-content: right;
+
 }
 .quire-featured .quire-page__header.hero-image .hero-body .quire-page__header__contributor {
     color: var(--grayish-lime-green);
@@ -963,6 +965,10 @@ article.quire-page--right-column .quire-page__content .container .content figure
     margin: 0 auto;
 }
 
+#exhibition-checklist figcaption {
+    display: none;
+}
+
 #exhibition-checklist div.details {
     padding-left: 10rem;
     padding-right: 8.5714285682%;
@@ -1046,6 +1052,22 @@ h1 .title_logo {
 }
 
 
+
+#fister-essay article.quire-page--left-column .quire-page__content .container .content > *:not(.full-width) {
+    max-width: 710px;
+    width: 710px;
+}
+
+.no-italic {
+    font-style: normal;
+}
+.no-bold {
+    font-weight: normal;
+}
+
+.flexbox-row+.littlefoot-footnote__host {
+    float: right;
+}
 
 
 
