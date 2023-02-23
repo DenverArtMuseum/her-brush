@@ -12,6 +12,8 @@
 {{ $.Scratch.Set "imageDir" "" }}
 {{ end }}
 
+
+{{ $site := $.Site }}
 {{ $zoom :=  true  }}
 {{ $pdf :=  $.Site.Params.pdf }}
 
@@ -87,7 +89,7 @@
     {{ $figure = ($.Get "figure") }}{{ else if .figure }}{{ $figure = .figure }}{{ end -}}
 
 
-    {{- $dict := dict "Site" $.Site "title" $title "artist" $artist "year" $year "medium" $medium "dimensions" $dimensions "accession" $accession "credit" $credit "section" $section "id" $id "location" $location "link" $link "figure" $figure -}}
+    {{- $dict := dict "Site" $site "title" $title "artist" $artist "year" $year "medium" $medium "dimensions" $dimensions "accession" $accession "credit" $credit "section" $section "id" $id "location" $location "link" $link "figure" $figure -}}
 
     {{- $figSort := "" -}}
     {{ if .title }}
@@ -134,10 +136,10 @@
                 {{ range .figure }}
                     {{ if .id }}
                     {{ range where $.Site.Data.figures.figure_list "id" "eq" .id }}
-                        {{ template "figure" (dict "map" . "site" $ "pdf" $pdf "zoom" $zoom "imageDir" ($.Scratch.Get "imageDir") "figure" .  ) }}
+                        {{ template "figure" (dict "map" . "site" $site "pdf" $pdf "zoom" $zoom "imageDir" ($.Scratch.Get "imageDir") "figure" .  ) }}
                     {{ end }}
                     {{ else if .src }}
-                        {{ template "figure" (dict "map" . "site" $ "pdf" $pdf "zoom" $zoom "imageDir" ($.Scratch.Get "imageDir") "figure" .  ) }}
+                        {{ template "figure" (dict "map" . "site" $site "pdf" $pdf "zoom" $zoom "imageDir" ($.Scratch.Get "imageDir") "figure" .  ) }}
                     {{ end }}
                 {{ end }}
                 {{ end }}

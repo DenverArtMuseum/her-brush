@@ -47,7 +47,7 @@
   {{ end }}
 {{- end -}}
 
-{{- if eq .Site.Params.figureModal true -}}
+{{- if isset . "src" -}}
   </a>
 {{- end -}}
 

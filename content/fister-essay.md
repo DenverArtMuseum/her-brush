@@ -51,7 +51,7 @@ It is unclear how long Ryōnen resided at Hōkyōji, but she left to go to Edo (
 
 Impressed by her fervor, Hakuō accepted her as a disciple, and she trained under him for several years before he designated her as his dharma heir in 1680. Ryōnen later established her own temple, and the priest who had initially refused her, Tetsugyū, presided at the dedication of her Nyoirin Kannon Hall in 1694. Since the poem in the Fong-Johnstone collection is signed “Taiunji Ryōnen,” it must date from after her temple was officially designated as the Ōbaku Zen temple Taiunji in 1701.[^19] Ryōnen became famous for the radical act of scarring her face that inspired these poems, and the existence of numerous scrolls by her hand suggests that she received many requests for her potent verses.[^20] Like Bunchi, Ryōnen studied poetry and calligraphy from her childhood, and her manner of writing reflects the style prevailing at the court.
 
-{{< q-figure-group id="fister-4, fister-5" grid="2" class="full-width centered" >}}
+{{< q-figure-group id="fister-4, fister-5" grid="2" class="half-width centered" >}}
 
 Ryōnen’s two verses, accompanied by illustrations of her burning her face (fig. 4), appeared in numerous woodblock-printed books and gazetteers, as well as *ukiyo-e* featuring famous women, such as the print by Utagawa Kunisada (Toyokuni III) (fig. 5). She first became known in the West through Lafcadio Hearn, who wrote a paper titled “The Nun Ryōnen: Fragments of a Japanese Biography,” which was read at the meeting of the Japan Society of London on April 13, 1904.[^21] Famous for his books on Japan recounting legends and ghost stories, he presented a fictionalized account of Ryōnen’s life, emphasizing her spirit of self-sacrifice.
 
@@ -82,12 +82,18 @@ Rengetsu was married at the age of seventeen and bore three children, all of who
 Like Kikusha, in addition to writing out her poems, Rengetsu also created poem-paintings, combining her waka with simply brushed seasonal motifs such as a branch of cherry or plum blossoms, the moon (fig. 7), eggplants (fig. 8), birds, butterflies (fig. 9), and occasionally animals. The subject matter is not so different from that of Kikusha, but their brush styles are at opposite poles: Kikusha’s coarse and dynamic, Rengetsu’s delicate and ethereal. Living in Kyoto, Rengetsu was no doubt influenced by the lyrical Maruyama-Shijō tradition of painting, which emphasized nature subjects modeled with soft ink and color washes. She associated with many painters and sometimes inscribed her poems on their paintings. Examples of “joint creations” (*gassaku*) in the exhibition include those done with [Tomioka Tessai (<span lang="ja">富岡鉄斎</span> 1836–1924)](/artists/#Tomioka-Tessai-富岡鉄斎/) and [Wada Gesshin (<span lang="ja">和田月心/</span> 1800–1870)](/artists/#Wada-Gesshin-和田月心/) (figs. 10 and 11). Rengetsu’s unique calligraphic style, featuring elegantly brushed, threadlike lines, is easily identifiable and, judging from the scores of extant works, was highly admired and sought after. She herself loved to write, as expressed in the following verse:
 
 
-{{< q-figure-group id="fister-10, fister-11" grid="2" class="full-width centered"  >}}
+{{< q-figure-group id="fister-10, fister-11" grid="2" class="half-width centered"  >}}
 
+{{< q-class "flexbox-row col-1 half-width centered" >}}
+{{< q-class "flexbox-column" >}}
 > Taking up the brush<br />
 > just for the joy of it,<br />
 > writing on and on, leaving behind<br />
 > long lines of dancing letters.[^32]<br />
+{{< /q-class >}}
+{{< /q-class >}}
+
+<div class="spacer-100"></div>
 
 {{< q-figure id="fister-12" class="right-column" >}}
 
@@ -101,21 +107,36 @@ Some scholars believe that her mature calligraphy style, displaying slender line
 
 Whereas Kikusha moved around Japan as she wished, Rengetsu reportedly changed her residence in Kyoto dozens of times to escape from people seeking to meet her and acquire her work. The fact that she was a Buddhist nun added to her celebrity status. Like Kikusha, she was not a full-fledged nun, but the verses of both female poets often embody Buddhist teachings.
 
-> *Yoshi-ashi ni* On a reed[^38]<br />
-> *watari yukuyo ya* traversing this transient world,<br />
-> *muichimotsu* not one single thing. (Kikusha)<br />
+{{< q-class "flexbox-row col-2" >}}
+{{< q-class "flexbox-column" >}}
 
-> Clad in black robes,<br />
-> I should have no attractions to<br />
-> the shapes and scents of this world;<br />
-> But how can I keep my vows<br />
-> gazing at today’s crimson maple leaves? (Rengetsu)[^39]
+> Yoshi-ashi ni\
+> watari yukuyo ya\
+> muichimotsu
 
-> Perfectly aware,<br />
-> not a thought,<br />
-> just the moon<br />
-> piercing me with light<br />
-> as I gaze upon it. (Rengetsu)[^40]
+{{< /q-class >}}
+
+{{< q-class "flexbox-column" >}}
+
+> On a reed\
+> traversing this transient world,\
+> not one single thing. <span class="no-italic">(Kikusha)</span>
+
+{{< /q-class >}}
+{{< /q-class >}}
+[^38]
+
+> Clad in black robes,\
+> I should have no attractions to\
+> the shapes and scents of this world;\
+> But how can I keep my vows\
+> gazing at today’s crimson maple leaves? <span class="no-italic">(Rengetsu)</span>[^39]
+
+> Perfectly aware,\
+> not a thought,\
+> just the moon\
+> piercing me with light\
+> as I gaze upon it. <span class="no-italic">(Rengetsu)</span>[^40]
 
 Although she took her original vows at a Pure Land temple, Rengetsu associated with clergy from various sects. In her later years, she moved into a small hut on the grounds of Jinkōin temple northwest of Kyoto at the invitation of the chief priest, Wada Gesshin (also known as Gōzan, 1800–1870). It was here that she lived out the remainder of her life. She was such a celebrated figure in Kyoto that numerous artists did portraits of her. The example in the exhibition by Suganuma Ōhō showing Rengetsu seated in her hut, writing poems on pottery (fig. 13), was probably inspired by Tessai’s famous portrait of the wizened old nun in the collection of Jinkōin.
 
@@ -147,7 +168,7 @@ Born into the family of a rice merchant in Aichi Prefecture (she was the fifth o
 
 After the car accident, Myōdō was hospitalized for nine months. She suffered severe pain and found it difficult to breathe, but she remembers being encouraged by a doctor who said, “If the Buddha hadn’t wanted you to live, you’d be dead. The fact that you are alive is because you are needed.”[^46] Hearing that gave her strength and renewed her sense of purpose in life. She was determined to live every day fully, and cooking and preparing food became her spiritual practice. Having lost the use of her right arm and right leg, she trained herself to use her left hand to hold a writing brush, as well as to chop vegetables and grind sesame seeds with pestle and mortar for what became one of her specialties, sesame tofu. Giving by cooking and providing people with a pleasurable dining experience became her passion.
 
-{{< q-figure id="fister-19" class="full-width centered" >}}
+{{< q-figure id="fister-19" class="half-width centered" >}}
 
 {{< q-figure id="fister-20" class="right-column" >}}
 

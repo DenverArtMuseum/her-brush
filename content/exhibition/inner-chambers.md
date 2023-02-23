@@ -22,7 +22,7 @@ The painting depicts a scene from the *Tale of Genji,* the world’s earliest no
 
 Not much is known for certain about [Ono no Ozū](/artists/#Ono-no-Ozū-(or-Ono-no-Otsū)-小野お通/), not even her name (possibly pronounced Otsū). Apparently born to an aristocratic family and orphaned as a child, she was raised in Kyoto where she exhibited extraordinary talent in poetry, painting, calligraphy, and music. Ozū served as a lady-in-waiting, tutoring women in the Inner Chambers both for shoguns and for the imperial house. She likely served all three of the warlords known as Japan’s Great Unifiers (Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu). Generations of noblewomen emulated Ozū’s graceful style of calligraphy. She is known today as one of the greatest women calligraphers of premodern Japan.
 
-{{< q-figure id="2018-152" class="full-width centered">}}
+{{< q-figure id="2018-152" class="half-width centered">}}
 
 {{< q-figure id="2018-213" class="right-column" >}}
 

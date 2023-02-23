@@ -10,7 +10,7 @@ image:
 
 United by a shared appreciation for China’s artistic traditions, intellectuals and art enthusiasts formed literati societies (*bunjin*). For them, art was a form of social interaction. In their gatherings, they composed poetry, painted together, and inscribed calligraphy for one another.
 
-{{< q-figure id="2018-208" class="right-column" >}}
+{{< q-figure id="2018-208" class="is-pulled-left" >}}
 
 Literati painting (*bunjinga* <span lang="ja">文人画</span>) prioritized self-expression over technical skill. Following this understanding of the brushstroke as an expression of one’s true self, these artists constructed—and conveyed—their identity and personhood through art.
 
