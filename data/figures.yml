@@ -285,7 +285,7 @@ figure_list:
   - id: 2018-186
     src: figures/2018_186.jpg
     alt: "A square sheet of paper inscribed with flowing calligraphy, mounted on a vertical orange cloth with cream-colored clouds and green and gold embroidery."
-    caption: "Yuri of Gion <span lang="ja">祇園の百合</span>, 1694–1764, *Waka Poem*, mid-1700s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.186."
+    caption: 'Yuri of Gion <span lang="ja">祇園の百合</span>, 1694–1764, *Waka Poem*, mid-1700s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.186.'
     credit: ""
   - id: 2018-189
     src: figures/2018_189.jpg
@@ -341,7 +341,7 @@ figure_list:
   - id: 2018-206
     src: figures/2018_206.jpg
     alt: "Tall painting of a steep cliffside with orchids jutting from the rocky surface. Stylized Japanese calligraphy along the right edge"
-    caption: "Okuhara Seiko <span lang="ja">奥原晴湖</span>m 1837–1913, *Orchids on a Cliff*, 1870–80s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.206."
+    caption: 'Okuhara Seiko <span lang="ja">奥原晴湖</span>m 1837–1913, *Orchids on a Cliff*, 1870–80s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.206.'
     credit: ""
   - id: 2018-207
     src: figures/2018_207.jpg
@@ -615,12 +615,11 @@ figure_list:
   - id: "gion-teahouse"
     src: figures/Gion_Teahouse_hi-res.jpg
     alt: "A two-page spread of a black and white depiction of a street in the center of the pages. Trees line the top, while various people move in both directions. In the bottom right corner, people sit in a teahouse."
-    caption: ""
-    credit: 'Illustration by Mikuma Katen (<span lang="ja">三熊思孝</span>), *Matsuya Teahouse*, from the *Kinsei Kijin* <span lang=\"ja\">近世畸伝</span>, woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l'UCL. Public Domain.''
+    credit: "Illustration by Mikuma Katen (<span lang=\"ja\">三熊思孝</span>), *Matsuya Teahouse*, from the *Kinsei Kijin* <span lang=\"ja\">近世畸伝</span>, woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l'UCL. Public Domain."
   - id: "seiko"
     src: figures/Seiko_hi-res.jpg
     alt: "a black-and-white photo of a bust of a person with short cropped hair who stares out at the viewer with their right hand near their chin."
-    credit: 'Okuhara Seiko 奥原晴湖, 1912. Photographer unknown. Source: Patricia Fister, *Japanese Women Artists, 1600–1900* (Lawrence, KS: Spencer Museum of Art/Harper & Row, Publishers Inc., 1988), fig. 16.''
+    credit: 'Okuhara Seiko 奥原晴湖, 1912. Photographer unknown. Source: Patricia Fister, *Japanese Women Artists, 1600–1900* (Lawrence, KS: Spencer Museum of Art/Harper & Row, Publishers Inc., 1988), fig. 16.'
   - id: "shohin-crop"
     src: figures/Shohin_crop.jpg
     caption: ""
@@ -633,7 +632,7 @@ figure_list:
     src: figures/Tokuyama_Gyokuran_Ike_no_Taiga.jpg
     alt: "A black-and-white illustration of two people wearing kimono in a room. One playes a stringed instrument. Various paintings leant against a wall in the background. In the foreground, several objects sit atop a table."
     caption: ""
-    credit: 'Mikuma Shikō, *Tokuyama Gyokuran and Ike Taiga in their studio* (detail), in *Kinsei kijinden*, vol. 4 (1788), p. 8.''
+    credit: 'Mikuma Shikō, *Tokuyama Gyokuran and Ike Taiga in their studio* (detail), in *Kinsei kijinden*, vol. 4 (1788), p. 8.'
   - id: slips
     src: figures/slips.jpg
     alt: Five thin, printed strips resembling bookmarks. Each slip depicts one of the artists from the Her Brush exhibition.
@@ -649,7 +648,7 @@ figure_list:
     src: "figures/artist slip Shohin.jpg"
   - id: install-entrance
     src: figures/install-entrance.jpg
-       credit: 'Installation first gallery of *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection.* Photograph by Eric Stephenson.'
+    credit: 'Installation first gallery of *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection.* Photograph by Eric Stephenson.'
   - id: "install-intro"
     src: "figures/Install_Intro.jpg"
     alt: 
