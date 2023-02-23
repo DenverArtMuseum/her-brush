@@ -1,5 +1,6 @@
 ---
-title: "Her Brush, Her Needle: Rethinking the Relationship between Art and Artisanal Work by Women in Early Modern Japan"
+title: "Her Brush, Her Needle"
+subtitle: Rethinking the Relationship between Art and Artisanal Work by Women in Early Modern Japan
 short_title: Her Brush, Her Needle
 type: featured
 weight: 106

@@ -6,7 +6,7 @@
 
 */}}
 {{- $endPunctuation := findRE "[!|?]$" .Page.Params.title -}}
-{{ .Page.Params.title }}{{ with .Page.Params.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . }}{{ end }}
+{{ .Page.Params.title }}{{ with .Page.Params.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}<span class="subtitle"></span>{{ . }}</span>{{ end }}
 
 {{ if .Page.Params.svg_logo }}
 <div class="title_logo">

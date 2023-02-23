@@ -100,21 +100,36 @@ Some scholars believe that her mature calligraphy style, displaying slender line
 
 Whereas Kikusha moved around Japan as she wished, Rengetsu reportedly changed her residence in Kyoto dozens of times to escape from people seeking to meet her and acquire her work. The fact that she was a Buddhist nun added to her celebrity status. Like Kikusha, she was not a full-fledged nun, but the verses of both female poets often embody Buddhist teachings.
 
-> *Yoshi-ashi ni* On a reed[^38]<br />
-> *watari yukuyo ya* traversing this transient world,<br />
-> *muichimotsu* not one single thing. (Kikusha)<br />
+{{< q-class "flexbox-row col-2" >}}
+{{< q-class "flexbox-column" >}}
 
-> Clad in black robes,<br />
-> I should have no attractions to<br />
-> the shapes and scents of this world;<br />
-> But how can I keep my vows<br />
-> gazing at today’s crimson maple leaves? (Rengetsu)[^39]
+> Yoshi-ashi ni\
+> watari yukuyo ya\
+> muichimotsu
 
-> Perfectly aware,<br />
-> not a thought,<br />
-> just the moon<br />
-> piercing me with light<br />
-> as I gaze upon it. (Rengetsu)[^40]
+{{< /q-class >}}
+
+{{< q-class "flexbox-column" >}}
+
+> On a reed\
+> traversing this transient world,\
+> not one single thing. <span class="no-italic">(Kikusha)</span>
+
+{{< /q-class >}}
+{{< /q-class >}}
+[^38]
+
+> Clad in black robes,\
+> I should have no attractions to\
+> the shapes and scents of this world;\
+> But how can I keep my vows\
+> gazing at today’s crimson maple leaves? <span class="no-italic">(Rengetsu)</span>[^39]
+
+> Perfectly aware,\
+> not a thought,\
+> just the moon\
+> piercing me with light\
+> as I gaze upon it. <span class="no-italic">(Rengetsu)</span>[^40]
 
 Although she took her original vows at a Pure Land temple, Rengetsu associated with clergy from various sects. In her later years, she moved into a small hut on the grounds of Jinkōin temple northwest of Kyoto at the invitation of the chief priest, Wada Gesshin (also known as Gōzan, 1800–1870). It was here that she lived out the remainder of her life. She was such a celebrated figure in Kyoto that numerous artists did portraits of her. The example in the exhibition by Ōhō showing Rengetsu seated in her hut, writing poems on pottery (fig. 13), was probably inspired by Tessai’s famous portrait of the wizened old nun in the collection of Jinkōin.
 

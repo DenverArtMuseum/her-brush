@@ -40,15 +40,21 @@ This display is a reinterpretation of the traditional mounting in a scattered ar
 
 {{< q-figure id="2018-226" caption="" >}}
 
->“The Star Festival—<br />
->Off to hear good poetry<br />
->at lady Kaji’s teahouse.”<br />
->—Takarai Kikaku
+{{< q-class "flexbox-row col-2 full-width" >}}
+{{< q-class "flexbox-column" >}}
+>“The Star Festival—\
+>Off to hear good poetry\
+>at lady Kaji’s teahouse.”\
+><span class="no-italic">—Takarai Kikaku</span>
+{{< /q-class >}}
 
-><span lang="ja">「七夕や<br />
->&#12288;良き歌聞きに<br />
->&#12288;梶が茶屋」<br />
->&#12288;宝井其角</span>
+{{< q-class "flexbox-column" >}}
+><span lang="ja">「七夕や\
+>&#12288;良き歌聞きに\
+>&#12288;梶が茶屋」\
+>&#12288;宝井其角\
+{{< /q-class >}}
+{{< /q-class >}}
 
 {{< q-figure id="gion-teahouse" >}}
 
