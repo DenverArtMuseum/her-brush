@@ -773,6 +773,9 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
     flex-direction: row;
 }
 .flexbox-row > div,
+.flexbox-row.col-1 > div {
+    width: 100%;
+}
 .flexbox-row.col-2 > div {
     width: 50%;
 }
