@@ -250,6 +250,7 @@ figure_list:
     credit: ""
   - id: "2018_181_3_back_signature"
     src: figures/2018_181_3_back_signature.jpg
+    alt: "The back of a poem slip with a visible signature."
     caption: ""
     credit: ""
   - id: 2018-181-3
@@ -284,7 +285,7 @@ figure_list:
   - id: 2018-186
     src: figures/2018_186.jpg
     alt: "A square sheet of paper inscribed with flowing calligraphy, mounted on a vertical orange cloth with cream-colored clouds and green and gold embroidery."
-    caption: ""
+    caption: "Yuri of Gion <span lang="ja">祇園の百合</span>, 1694–1764, *Waka Poem*, mid-1700s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.186."
     credit: ""
   - id: 2018-189
     src: figures/2018_189.jpg
@@ -308,6 +309,7 @@ figure_list:
     credit: ""
   - id: 2018-193
     src: figures/2018_193.jpg
+    alt: "An ink-painted scroll depicts house on an outcropping, surrounded by trees. A small figure in a blue shirt walks up a path toward the house."
     credit: 'Kō (Ōshima) Raikin <span lang="ja">高(大島)来禽</span>, active late 1700s, *Autumn Landscape*, late 1700s. Ink and light color on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.193.'
   - id: 2018-194
     src: figures/2018_194.jpg
@@ -339,7 +341,7 @@ figure_list:
   - id: 2018-206
     src: figures/2018_206.jpg
     alt: "Tall painting of a steep cliffside with orchids jutting from the rocky surface. Stylized Japanese calligraphy along the right edge"
-    caption: 'Okuhara Seiko <span lang="ja">奥原晴湖</span>m 1837–1913, *Orchids on a Cliff*, 1870–80s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.206.'
+    caption: "Okuhara Seiko <span lang="ja">奥原晴湖</span>m 1837–1913, *Orchids on a Cliff*, 1870–80s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.206."
     credit: ""
   - id: 2018-207
     src: figures/2018_207.jpg
@@ -418,6 +420,7 @@ figure_list:
     credit: 'Takabatake Shikibu <span lang="ja">高畠式部</span>, 1785–1881, *Seven Waka Poems*, 1800s. Ink on decorated paper. Gift of Drs. John Fong and Colin Johnstone, 2018.226.'
   - id: 2018-245
     src: figures/2018_245.jpg
+    alt: "A stag painted in thin black ink stands on a light ground near the bottom of the narrow, vertical composition. A poem in Japanese calligraphy is inscribed in the top half of the composition, and a red stamped seal appears below the stag."
     credit: 'Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Wada Gesshin <span lang="ja">和田月心</span>, 1800–1870. *Stag and Poem*, about 1865–70. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.245'
   - id: 2018-247A
     src: figures/2018_247A-B.jpg
@@ -440,6 +443,7 @@ figure_list:
     credit: 'Artist unknown, Signed Kiyohara Yukinobu <span lang="ja">清原雪信</span>, 1643–1682, *Genji Peeping at the Young Murasaki*, 1600s. Ink and color on silk. Gift of Drs. John Fong and Colin Johnstone, 2018.255.'
   - id: 2018-257A-B
     src: figures/2018_257A-B.jpg
+    alt: "A small brown teapot with calligraphy inscribed on its sides. The lid handle is in the shape of a slender vine."
     credit: "Ōtagaki Rengetsu 太田垣蓮月, 1791–1875, *Teapot*, 1800s. Stoneware. Gift of Drs. John Fong and Colin Johnstone, 2018.257.A-B."
   - id: 2018-259-1-2
     src: figures/2018_259_1-2.jpg
@@ -461,6 +465,7 @@ figure_list:
     credit: ""
   - id: 2021-163A-B
     src: figures/2021_163A-B.jpg
+    alt: "a small brown teapot with some calligraphy inscribed around its surface. The lid is concave with a small half-moon handle in its center."
     caption: ""
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Teapot for Sencha*. Ceramic. Gift of Drs. John Fong and Colin Johnstone, 2021.163A-B.'
   - id: 2021-164A-B
@@ -473,6 +478,7 @@ figure_list:
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Incense Box* (*kōgō*) (in the Shape of a Tortoise*, 1800s. Ceramic with gold and lacquer repair (*kintsugi*). Gift of Drs. John Fong and Colin Johnstone, 2021.164B.'
   - id: 2021-170-1-5
     src: figures/2021_170_1-5.jpg
+    alt: "Each cream-colored cup is a slightly different shape and size, but each are round with a brown base and painted with calligraphy and flowers."
     caption: ""
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Set of Five Sencha Cups*, 1800s. Glazed ceramic. Gift of Drs. John Fong and Colin Johnstone, 2021.170.1-5.'
   - id: 2021-182-A-B
@@ -520,75 +526,75 @@ figure_list:
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-cover
     src: figures/2021_206/2021_206.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "The front cover of an accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-back
     src: figures/2021_206/2021_206-back.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "The back cover of an accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-3
     src: figures/2021_206/2021_206~03.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-4
     src: figures/2021_206/2021_206~04.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album. The right page contains a faint painting of a landscape with a gate surrounded by loosely painted trees. The right page includes several vertical lines of cursive poetry.."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-5
     src: figures/2021_206/2021_206~05.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-6
     src: figures/2021_206/2021_206~06.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-7
     src: figures/2021_206/2021_206~07.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-8
     src: figures/2021_206/2021_206~08.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-9
     src: figures/2021_206/2021_206~09.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "ATwo-page spread of a bound album with several vertical lines of cursive poetry."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-10
     src: figures/2021_206/2021_206~10.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-11
     src: figures/2021_206/2021_206~11.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-12
     src: figures/2021_206/2021_206~12.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive of poetry on the left page. On the right page, a painted sprig of pink flowers sits diagonally on the page from the top right down to the left."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-13
     src: figures/2021_206/2021_206~13.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-14
     src: figures/2021_206/2021_206~14.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-15
     src: figures/2021_206/2021_206~15.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.6'
   - id: 2021-206-16
     src: figures/2021_206/2021_206~16.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-17
     src: figures/2021_206/2021_206~17.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry. On the center left side of the left page are two gray butterflies."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: 2021-206-18
     src: figures/2021_206/2021_206~18.jpg
-    alt: "Accordion-bound album with elegant cursive lines of poetry and occasional illustrations like butterflies or a sprig of pink flowers."
+    alt: "Two-page spread of a bound album with several vertical lines of cursive poetry on the left page. The inside back cover speckled with gold is on the right."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206.'
   - id: rengetsu-portrait
     src: figures/Rengetsu_scan.jpg
@@ -608,11 +614,13 @@ figure_list:
     credit: ""
   - id: "gion-teahouse"
     src: figures/Gion_Teahouse_hi-res.jpg
+    alt: "A two-page spread of a black and white depiction of a street in the center of the pages. Trees line the top, while various people move in both directions. In the bottom right corner, people sit in a teahouse."
     caption: ""
-    credit: "Illustration by Mikuma Katen (<span lang=\"ja\">三熊思孝</span>), *Matsuya Teahouse*, from the *Kinsei Kijin* <span lang=\"ja\">近世畸伝</span>, woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l'UCL. Public Domain."
+    credit: 'Illustration by Mikuma Katen (<span lang="ja">三熊思孝</span>), *Matsuya Teahouse*, from the *Kinsei Kijin* <span lang=\"ja\">近世畸伝</span>, woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l'UCL. Public Domain.''
   - id: "seiko"
     src: figures/Seiko_hi-res.jpg
-    credit: 'Okuhara Seiko 奥原晴湖, 1912. Photographer unknown. Source: Patricia Fister, *Japanese Women Artists, 1600–1900* (Lawrence, KS: Spencer Museum of Art/Harper & Row, Publishers Inc., 1988), fig. 16.'
+    alt: "a black-and-white photo of a bust of a person with short cropped hair who stares out at the viewer with their right hand near their chin."
+    credit: 'Okuhara Seiko 奥原晴湖, 1912. Photographer unknown. Source: Patricia Fister, *Japanese Women Artists, 1600–1900* (Lawrence, KS: Spencer Museum of Art/Harper & Row, Publishers Inc., 1988), fig. 16.''
   - id: "shohin-crop"
     src: figures/Shohin_crop.jpg
     caption: ""
@@ -623,8 +631,9 @@ figure_list:
     credit: ""
   - id: "tokuyama-gyokuran"
     src: figures/Tokuyama_Gyokuran_Ike_no_Taiga.jpg
+    alt: "A black-and-white illustration of two people wearing kimono in a room. One playes a stringed instrument. Various paintings leant against a wall in the background. In the foreground, several objects sit atop a table."
     caption: ""
-    credit: 'Mikuma Shikō, *Tokuyama Gyokuran and Ike Taiga in their studio* (detail), in *Kinsei kijinden*, vol. 4 (1788), p. 8.'
+    credit: 'Mikuma Shikō, *Tokuyama Gyokuran and Ike Taiga in their studio* (detail), in *Kinsei kijinden*, vol. 4 (1788), p. 8.''
   - id: slips
     src: figures/slips.jpg
     alt: Five thin, printed strips resembling bookmarks. Each slip depicts one of the artists from the Her Brush exhibition.
@@ -640,9 +649,10 @@ figure_list:
     src: "figures/artist slip Shohin.jpg"
   - id: install-entrance
     src: figures/install-entrance.jpg
-    credit: 'Installation first gallery of *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection.* Photograph by Eric Stephenson.'
+       credit: 'Installation first gallery of *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection.* Photograph by Eric Stephenson.'
   - id: "install-intro"
     src: "figures/Install_Intro.jpg"
+    alt: 
   - id: "install-inner-chambers"
     src: "figures/Install_Inner_Chambers.jpg"
     credit: "Installation of Inner Chambers"
@@ -661,24 +671,31 @@ figure_list:
     credit: 'Installation view of *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection*. Photograph by Eric Stephenson.'
   - id: "symposium-cover"
     src: figures/symposium-cover.png
-    credit: 'Photograph by XXX. © XXX' 
+    alt: "Black-and-white photograph of a bare-foot person wearing a sleeveless black dress. Their left hand reaches up and the right rests at their side. An energetically brushed calligraphy is behind the figure."
+    credit:  
   - id: "tomoko-cover"
     src: figures/tomoko-cover.jpg
-    credit: 'Tomoko Kawao. Photography by XXX. © XXX'
+    alt: "A person in a sleeveless white dress holds a large black brush and bends toward the floor. Large images of black calligraphy on white paper hang on the wall behind."
+    credit: 
   - id: IMG_1282
     src: figures/IMG_1282.jpg
+    alt: "A young child looks at the camera with mouth open. Another child wearing a mask looks at the paper on a long table."
     credit: 'Children enjoying a gallery activty. Photograph by Eric Stephenson.'
   - id: early-views
     src: figures/HerBrushEarlyViews17.jpg
+    alt: "A person stands in the center, look up and to the right with arms outstretched. Behind, a black inky splotch fills a white wall."
     credit: 'A visitor in front of the interactive video projection in the last gallery of the exhibition. Photograph by Eric Stephenson.'
   - id: banner-forward
     src: figures/banner-forward.jpg
+    alt: "Dozens of poem slips float in a clear screen against a black wall."
     credit: 'Various artists, <cite>Poem Slips</cite> (<cite>tanzaku</cite>), 1700–1900s. Paper with pigment, gold, silver, and ink. Gift of Drs. John Fong and Colin Johnstone, 2018.181.4-44.'
   - id: banner-collectors
     src: figures/banner-collectors.jpg
+    alt: "Detail of a larger work with a stag looking over its shoulder to the right."
     credit: 'Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Wada Gesshin <span lang="ja">和田月心</span>, 1800–1870, <cite>Stag and Poem</cite>, about 1865–70. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.245.'
   - id: banner-fister
     src: figures/banner-fister.jpg
+    alt: "Detail of thickly brushed black calligraphy."
     credit: 'Murase Myōdō <span lang="ja">村瀬明道</span>, 1924–2013, <cite>Breaking Waves in the Pines</cite> (<cite>shōtō</cite>), late 1900s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.155.'
   - id: banner-mccormick
     src: figures/banner-mccormick.jpg

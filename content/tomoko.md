@@ -9,4 +9,4 @@ contributor:
 class: left-column black-page
 ---
 
-Tomoko Kawao, a Kyoto-based artist, will perform her internationally acclaimed calligraphy process at the Denver Art Museum on March 21, 2023, at 6 pm MST. This page will eventually contain an artist's statement and a video excerpt of her performance. 
+Tomoko Kawao, a Kyoto-based artist, will perform her internationally acclaimed calligraphy process at the Denver Art Museum on March 21, 2023, at 6 pm MST. This page will eventually contain an artist's statement and documentation of her performance. 
