@@ -1061,6 +1061,9 @@ h1 .title_logo {
 .no-italic {
     font-style: normal;
 }
+.no-bold {
+    font-weight: normal;
+}
 
 .flexbox-row+.littlefoot-footnote__host {
     float: right;

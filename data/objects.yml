@@ -411,7 +411,7 @@ object_list:
     figure:
       - id: 2018-159
   - id: 2018-160
-    title: '“The Nun Ryōnen (Ryōnen-ni)” from *Kokon meifuden* [Famous women of past and present]Ryōnen Gensō <span lang="ja">了然元総</span>, 1646–1711'
+    title: '“The Nun Ryōnen (Ryōnen-ni)” <span class="no-bold">from *Kokon meifuden* [Famous women of past and present]Ryōnen Gensō <span lang="ja">了然元総</span>, 1646–1711</span>'
     artist: 'Image by Utagawa Kunisada <span lang="ja">歌川国貞</span>, 1786–1864; Inscription by Ryūtei Tanehiko <span lang="ja">柳亭種</span>, 1783–1842'
     year: 1854 edition
     medium: Color woodblock print
@@ -834,7 +834,7 @@ object_list:
     dimensions: Mu 13 × 23⅞ in. (33 × 60.6 cm), Kan 15¼ × 23⅞ in. (38.7 × 60.6 cm)
     accession: "2018.154A-C"
     credit: Gift of Drs. John Fong and Colin Johnstone.
-    section: Unstoppable
+    section: Unstoppable (No Barriers)
     location:
     link:
     figure:
@@ -847,7 +847,7 @@ object_list:
     dimensions: 15 × 19¾ in. (38.1 × 50.2 cm)
     accession: "2018.157"
     credit: Gift of Drs. John Fong and Colin Johnstone.
-    section: Unstoppable
+    section: Unstoppable (No Barriers)
     location:
     link:
     figure:
@@ -860,7 +860,7 @@ object_list:
     dimensions: 9⅛ × 7⅜ in. (23.2 × 18.7 cm)
     accession: "2018.216"
     credit: Gift of Drs. John Fong and Colin Johnstone.
-    section: Unstoppable
+    section: Unstoppable (No Barriers)
     location:
     link:
     figure:
@@ -873,7 +873,7 @@ object_list:
     dimensions: 11 × 11½ in. (27.9 × 29.2 cm)
     accession: "2018.253"
     credit: Gift of Drs. John Fong and Colin Johnstone.
-    section: Unstoppable
+    section: Unstoppable (No Barriers)
     location:
     link:
     figure:
@@ -886,7 +886,7 @@ object_list:
     dimensions: 14⅝ × 18¼ in. (37.1 × 46.4 cm)
     accession: "2018.164"
     credit: Gift of Drs. John Fong and Colin Johnstone.
-    section: Unstoppable
+    section: Unstoppable (No Barriers)
     location:
     link:
     figure:
