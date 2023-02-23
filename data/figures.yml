@@ -333,7 +333,7 @@ figure_list:
   - id: 2018-206
     src: figures/2018_206.jpg
     alt: "Tall painting of a steep cliffside with orchids jutting from the rocky surface. Stylized Japanese calligraphy along the right edge"
-    caption: "Okuhara Seiko <span lang="ja">奥原晴湖</span>m 1837–1913, *Orchids on a Cliff*, 1870–80s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.206."
+    caption: 'Okuhara Seiko <span lang="ja">奥原晴湖</span>m 1837–1913, *Orchids on a Cliff*, 1870–80s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.206.'
     credit: ""
   - id: 2018-207
     src: figures/2018_207.jpg
@@ -443,7 +443,7 @@ figure_list:
     src: figures/2018_262_1-7.jpg
     alt: "A pale-colored ceramic tea set with a teapot, a water cooler, and five cups. Each piece has a slightly flared rim and features Japanese calligraphy incised on the exterior."
     caption: ""
-    credit: "After Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Set for Sencha Tea*, 1800s. Glazed ceramic (porcelain). Gift of Drs. John Fong and Colin Johnstone, 2018.262.1-7."
+    credit: 'After Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Set for Sencha Tea*, 1800s. Glazed ceramic (porcelain). Gift of Drs. John Fong and Colin Johnstone, 2018.262.1-7.'
   - id: 2020-570
     src: figures/24_2018.jpg
     alt: "Two crickets crawl on wispy grasses in the lefthand side of the frame. The right is filled with eleven lines of calligraphy."
@@ -604,10 +604,10 @@ figure_list:
   - id: "gion-teahouse"
     src: figures/Gion_Teahouse_hi-res.jpg
     caption: ""
-    credit: 'Illustration by Mikuma Katen (<span lang="ja">三熊思孝</span>), *Matsuya Teahouse*, from the *Kinsei Kijin* <span lang=\"ja\">近世畸伝</span>, woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l'UCL. Public Domain.''
+    credit: "Illustration by Mikuma Katen (<span lang=\"ja\">三熊思孝</span>), *Matsuya Teahouse*, from the *Kinsei Kijin* <span lang=\"ja\">近世畸伝</span>, woodblock edition of 1788. Courtesy DIAL.num - Vitrine numérique des bibliothèques de l'UCL. Public Domain."
   - id: "seiko"
     src: figures/Seiko_hi-res.jpg
-    credit: 'Okuhara Seiko 奥原晴湖, 1912. Photographer unknown. Source: Patricia Fister, *Japanese Women Artists, 1600–1900* (Lawrence, KS: Spencer Museum of Art/Harper & Row, Publishers Inc., 1988), fig. 16.''
+    credit: 'Okuhara Seiko 奥原晴湖, 1912. Photographer unknown. Source: Patricia Fister, *Japanese Women Artists, 1600–1900* (Lawrence, KS: Spencer Museum of Art/Harper & Row, Publishers Inc., 1988), fig. 16.'
   - id: "shohin-crop"
     src: figures/Shohin_crop.jpg
     caption: ""
@@ -619,7 +619,7 @@ figure_list:
   - id: "tokuyama-gyokuran"
     src: figures/Tokuyama_Gyokuran_Ike_no_Taiga.jpg
     caption: ""
-    credit: 'Mikuma Shikō, *Tokuyama Gyokuran and Ike Taiga in their studio* (detail), in *Kinsei kijinden*, vol. 4 (1788), p. 8.''
+    credit: 'Mikuma Shikō, *Tokuyama Gyokuran and Ike Taiga in their studio* (detail), in *Kinsei kijinden*, vol. 4 (1788), p. 8.'
   - id: slips
     src: figures/slips.jpg
     alt: Five thin, printed strips resembling bookmarks. Each slip depicts one of the artists from the Her Brush exhibition.
@@ -653,7 +653,7 @@ figure_list:
     src: "figures/Install_Unstoppable.jpg"
   - id: "install-three-obediences"
     src: "figures/three-obediences-install.jpg"
-    credit:'Installation view of *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection*. Photograph by Eric Stephenson.'
+    credit: 'Installation view of *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection*. Photograph by Eric Stephenson.'
   - id: "symposium-cover"
     src: figures/symposium-cover.png
     credit: 'Photograph by XXX. © XXX' 
@@ -668,7 +668,7 @@ figure_list:
     credit: 'A visitor in front of the interactive video projection in the last gallery of the exhibition. Photograph by Eric Stephenson.'
   - id: banner-forward
     src: figures/banner-forward.jpg
-    credit: 'Various artists, *Poem Slips* (*tanzaku*), 1700–1900s. Paper with pigment, gold, silver, and ink. Gift of Drs. John Fong and Colin Johnstone, 2018.181.4-44.''
+    credit: 'Various artists, *Poem Slips* (*tanzaku*), 1700–1900s. Paper with pigment, gold, silver, and ink. Gift of Drs. John Fong and Colin Johnstone, 2018.181.4-44.'
   - id: banner-collectors
     src: figures/banner-collectors.jpg
     credit: 'Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Wada Gesshin <span lang="ja">和田月心</span>, 1800–1870, *Stag and Poem*, about 1865–70. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.245.'
