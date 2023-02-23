@@ -22,7 +22,7 @@ With this institutional inheritance in mind, curator Einor Cervone and I were pr
 
 The interpretive elements we created present art-historical detail *in the service of* personal connection. Biographical focus moments, for example, bring together an artist’s words, work, signature, and story and encourage visitors to see each artist as an individual with unique experience instead of the nebulous notion of the invisible hand.
 
-{{< q-figure id="early-views" class="is-pulled-left" >}}
+{{< q-figure id="early-views" class="is-pulled-left" caption="**fig. 1**">}}
 
 While we wanted to privilege the artists’ experiences, we recognized the limitations of our own familiarity with their circumstances. Several of the highlighted artists in the exhibition dealt with challenges related to trauma, gender, and national and religious identity. While the exhibition team approached these artists’ experiences through a historical lens, many visitors face related challenges today and would bring their own vulnerabilities and preconceived notions to the exhibition. To help us navigate these key issues, we convened a group of local stakeholders. This group of community consultants included people from a range of backgrounds, including a disability rights lawyer, a Zen-based psychotherapist, Denver-based Japanese nationals, and Japanese American artists. The goal was not co-curation but rather gaining a nuanced understanding of the priorities and concerns of vulnerable communities represented in the exhibition. We sought to craft an approach that framed these historical stories in a way that was sensitive to our twenty-first-century cultural climate.
 
@@ -34,6 +34,4 @@ We made special effort to welcome kids and families into *Her Brush*. Denver-bas
 
 Ultimately, art museums exist at the nexus of learning and leisure; visitors therefore generally do not view the museum-going experience with the same goals of mastering content as one would expect from, say, a lecture or a book. It is with this conviction that we approached the exhibition interpretation and visitor experience for *Her Brush*. By adding emotional relevance to historical content, by enhancing narrativity, we allow information—otherwise inaccessible, intimidating, even—to ring salient and memorable.
 
-### Notes
-
-[^1]: John Dewey, *Art as Experience* (New York: Minton, Balch & Company, 1934), TK.
+[^1]: John Dewey, *Art as Experience* (New York: Minton, Balch & Company, 1934), 2.

@@ -50,7 +50,7 @@ These paintings belong to the genre of *haiga*, an abbreviated and swiftly execu
 
 ### Okuhara Seiko <span lang="ja">奥原晴湖</span> (1837–1913)
 
-{{< q-figure id="seiko" class="right-column" caption="Okuhara Seiko <span lang=\"ja\">奥原晴湖</span>, 1912. Photographer unknown. Source: Patricia Fister, *Japanese Women Artists, 1600–1900* (Lawrence, KS: Spencer Museum of Art/Harper & Row, Publishers Inc., 1988), fig. 16." >}}
+{{< q-figure id="seiko" class="right-column" >}}
 
 >“The tip of her brush<br />
 >can wipe away<br />

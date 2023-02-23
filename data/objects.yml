@@ -8,7 +8,7 @@ object_display_order:
   - credit
 object_list:
   - id: 2021-196
-    title: Sake Decanter (tokkuri)
+    title: Sake Decanter (*tokkuri*)
     artist: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875'
     year: 1800s
     medium: Glazed ceramic
@@ -51,7 +51,7 @@ object_list:
     artist: 'Katō Seiko <span lang="ja">加藤青湖</span>, Active 1800s'
     year: About 1872
     medium: Ink and color on silk
-    dimensions: 9⅜ × 16⅛ in. (125.4 × 41 cm)
+    dimensions: 49⅜ × 16⅛ in. (125.4 × 41 cm)
     accession: "2018.212"
     credit: Gift of Drs. John Fong and Colin Johnstone.
     section: Introduction
@@ -73,7 +73,7 @@ object_list:
     figure:
       - id: 2018-181-3
   - id: 2018-166-1-2
-    title: Two Poems on *Uchiwa* fans
+    title: Two Poems on *Uchiwa* Fans
     artist: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875'
     year: 1800s
     medium: Ink on paper with bamboo ribbing, wood handles, silk tassels, and mica
@@ -113,7 +113,7 @@ object_list:
       - id: 2021-164A-B
   - id: 2018-245
     title: Stag and Poem
-    artist: 'Calilgraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Wada Gesshin <span lang="ja">和田月心</span>, 1800–1870'
+    artist: 'Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Wada Gesshin <span lang="ja">和田月心</span>, 1800–1870'
     year: About 1865–70
     medium: Ink on paper
     dimensions: 26¾ × 7 ¾ in. (67.9 × 19.7 cm)
@@ -126,8 +126,8 @@ object_list:
       - id: 2018-245
   - id: 2021-156
     title: Three *Waka* Poems and a Pine
-    artist: 'Calilgraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Tomioka Tessai <span lang="ja">富岡鉄斎</span>, 1836–1924'
-    year: Second half of the 1800s
+    artist: 'Calligraphy by Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Painting by Tomioka Tessai <span lang="ja">富岡鉄斎</span>, 1836–1924'
+    year: 1850–1900
     medium: Ink on paper
     dimensions: 38¼ × 12 in. (97.2 × 30.5 cm)
     accession: "2021.156"
@@ -139,7 +139,7 @@ object_list:
       - id: 2021-156
   - id: 2018-259-1-2
     title: Two Teabowls in the Style of Rengetsu (*Rengetsu-yaki*)
-    artist: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–95'
+    artist: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–1895'
     year: Late 1800s
     medium: Glazed ceramic
     dimensions: Each 1⅞ × 4½ in. dia. (4.6 × 11.4 cm dia.)
@@ -411,7 +411,7 @@ object_list:
     figure:
       - id: 2018-159
   - id: 2018-160
-    title: '“The Nun Ryōnen (Ryōnen-ni)” <span class="no-bold">from *Kokon meifuden* [Famous women of past and present]Ryōnen Gensō <span lang="ja">了然元総</span>, 1646–1711</span>'
+    title: '“The Nun Ryōnen (Ryōnen-ni)” <span class="no-bold">from *Kokon meifuden* [Famous women of past and present] Ryōnen Gensō <span lang="ja">了然元総</span>, 1646–1711</span>'
     artist: 'Image by Utagawa Kunisada <span lang="ja">歌川国貞</span>, 1786–1864; Inscription by Ryūtei Tanehiko <span lang="ja">柳亭種</span>, 1783–1842'
     year: 1854 edition
     medium: Color woodblock print
@@ -450,7 +450,7 @@ object_list:
     figure:
       - id: 2018-181-install
   - id: 2018-184-1A-B
-    title: Poetry Slip Box (*tanzaku*) with God of Longevity (*Juro–jin*) and deer
+    title: Poetry Slip Box (*tanzaku*) with God of Longevity (Juro–jin) and Deer
     artist: Artist Unknown
     year: 1800s
     medium: Lacquer, wood, gold, silver, and cinnabar
@@ -724,7 +724,7 @@ object_list:
       - id: 2018-191
   - id: 2018-190
     title: Orchids
-    artist: 'Hashimoto Seik <span lang="ja">橋本青江</span>, 1821–1898'
+    artist: 'Hashimoto Seikō <span lang="ja">橋本青江</span>, 1821–1898'
     year: Mid-1800s
     medium: Ink on paper
     dimensions: 56¼ × 14⅞ in. (142.9 × 37.8 cm)
