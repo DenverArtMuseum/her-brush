@@ -5,7 +5,8 @@ type: featured
 weight: 302
 contributor:
   - id: pfister
-image: figures/2018_159.jpg
+image:
+    id: 2018-159
 one_line:
 full:
 class: left-column
