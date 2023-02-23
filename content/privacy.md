@@ -2,6 +2,7 @@
 title: Privacy Policy and Terms
 type: page
 weight: 10003
+class: full-width
 ---
 
 The Denver Art Museum (the "DAM") is committed to protecting the privacy of its visitors, members, and donors in accordance with applicable laws and regulations.

@@ -33,8 +33,8 @@ identifier:
 publisher:
   - name: Fong-Johnstone Collection, Denver Art Museum
     location: Denver
-    url:
-    logo:
+    url: https://www.denverartmuseum.org/
+    logo: DAM-logo-white@2x.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -192,7 +192,7 @@ copyright: © 2023 Denver Art Museum
 
 license:
   name: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
-  abbreviation: CC BY NC SA
+  abbreviation: CC BY-NC-SA
   url: https://creativecommons.org/licenses/by-nc-sa/4.0/
   scope: full # full | text-only | some-exceptions
 
@@ -223,11 +223,11 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
-  - type: footer-link
-    name: Terms of Use
-    link_relation: terms-of-service
-    url:
+    url: /privacy/
+---  - type: footer-link
+---    name: Terms of Use
+---    link_relation: terms-of-service
+---    url:
 
 # ------------------------------------------------------------------------------
 # Subjects
