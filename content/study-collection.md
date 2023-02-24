@@ -28,7 +28,18 @@ Belying the elaborate role of copying in East Asian art, the very classification
 
 Dismissing idiomatic art can be likened, perhaps, to removing archeological artifacts from an excavation site without taking stock and documenting the context within which they were found. In the case of Rengetsu, the legacy that emanated from and orbited her lode star can shed light not only on her reception throughout the ages but on her practice as well. Take, for instance, these two hanging vases (*hana-ike*) (figs. 5–6). Both are Rengetsu-yaki, fashioned into bulbous gourds, wonky and humorous. At first glance one might be tempted to attribute both to the artist. Looking closely, though, the cracks begin to show.
 
-{{< q-figure-group id="2021-184, 2018-173" grid="2" class="full-width" caption="">}}
+
+<div class="spacer-100"></div>
+
+<div class="flexbox-row col-2">
+<div class="flexbox-column padding-20">
+{{< q-figure id="2021-184" class="half-width" caption="**fig 5.**" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-173" class="half-width" caption="**fig 6.**" >}}
+</div>
+</div>
+
 
 {{< q-class "full-width centered" >}}
 The two hana-ike are inscribed with poems by Rengetsu, reading, respectively:
@@ -74,7 +85,14 @@ The calligraphy on *Friendless Plover*, however, is more belabored and uncertain
 
 Once again, the objects’ backs disclose important information (figs. 7 and 8). Placed side by side, it is evident that the cut-out apertures, intended to accommodate a hook for hanging, were not handled with the same attention.
 
-{{< q-figure-group id="2021-184-back, 2018-173-back" grid="2" class="full-width" caption="" >}}
+<div class="flexbox-row col-2">
+<div class="flexbox-column padding-20">
+{{< q-figure id="2021-184-back" class="half-width" caption="**fig 7.**" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-173-back" class="half-width" caption="**fig 8.**" >}}
+</div>
+</div>
 
 *Friendless Plover* bears a rectangular cutout with rugged, uneven edges. This haphazard and unpolished treatment is in line with Rengetsu’s style; however, here lies a clue: hana-ike are functional wares. They were intended to be hung in a *tokonoma* (display niche) and often contained flower arrangements (*ikebana*). The hook cutout therefore was not a forgiving element in the ware and would have needed to be smoothed out and leveled, so as not to snag or hang askew. *Lone Pine*’s hook aperture fulfills these requirements with a clean, oval finish. It hangs naturally and perfectly balanced.
 

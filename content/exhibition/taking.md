@@ -37,7 +37,7 @@ This is an imagined portrait done sixty years after Rengetsu’s death. Depictin
 
 <div class="spacer spacer-200"></div>
 
-{{< q-figure id="2021-206" class="full-width centered">}}
+{{< q-figure id="2021-206" class="half-width centered">}}
 {{< q-figure id="2021-206-cover" class="hidden">}}
 {{< q-figure id="2021-206-back" class="hidden">}}
 {{< q-figure id="2021-206-3" class="hidden">}}
@@ -60,7 +60,7 @@ This is an imagined portrait done sixty years after Rengetsu’s death. Depictin
 This travel journal recounts Ōtagaki Rengetsu’s visit to Arashiyama, a district to the west of Kyoto. Freely brushed poetry is occasionally punctuated by offhand and charming illustrations. Simple forms outline a cluster of flowers. A few lines gather into a *torii*, a traditional Japanese gate, overtaken by vegetation. This account offers a rare and intimate glimpse into the artist’s personal musings. It must not have been a long trip since Rengetsu left a good part of the album blank.
 
 
-<div class="spacer spacer-200"></div>
+<div class="spacer spacer-300"></div>
 
 {{< q-figure id="2018-153" class="right-column" >}}
 
@@ -68,9 +68,9 @@ Princess Umenomiya, daughter of Emperor Gomizuno-o (1596–1680), took the tonsu
 
 The calligraphy reads “Bodhisattva of Myriad Acts of Compassion,” the Buddhist name for the principal deity of a Shinto shrine in Nara. By writing this *myōgō* (names of Buddhist deities as invocations), Bunchi performed a devotional act, accumulating karmic merit.
 
-<div class="spacer spacer-200"></div>
+<div class="spacer spacer-300"></div>
 
-{{< q-figure id="fister-14" caption="Photograph of Ōishi Junkyō. From *The Mainichi Graphic*, 4 January 1956, published by The Mainichi Newspapers Co., Ltd. Source: Wikimedia Commons" >}}
+{{< q-figure id="fister-14" caption="Photograph of Ōishi Junkyō. From *The Mainichi Graphic*, 4 January 1956, published by The Mainichi Newspapers Co., Ltd. Source: Wikimedia Commons" class="half-width centered" >}}
 
 ### ŌISHI JUNKYŌ <span lang="ja">大石順教</span> (1888–1968)
 
@@ -80,7 +80,9 @@ After a long journey to recovery, she observed a bird feeding chicks with its be
 
 At the age of forty-five, she took the tonsure as a Buddhist nun, adopting the name Junkyō. Junkyō later founded a Buddhist temple where she devoted herself to art, Buddhism, and counseling people with disabilities, advocating for independence and resolve.
 
-{{< q-figure id="2018-160" >}}
+<div class="spacer spacer-300"></div>
+
+{{< q-figure id="2018-160" class="half-width centered" >}}
 
 ### RYŌNEN GENSŌ <span lang="ja">了然元総</span>
 

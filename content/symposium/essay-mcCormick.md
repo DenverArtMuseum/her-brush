@@ -8,7 +8,7 @@ contributor:
   - id: mmccormick
 one_line:
 full:
-class: left-column
+class: left-column symposium
 image:
   id: banner-mccormick
 ---

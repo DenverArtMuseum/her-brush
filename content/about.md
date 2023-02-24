@@ -27,10 +27,10 @@ Publication text and design © 2023 Denver Art Museum
 
 Most of the images of the artworks are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. A copyright line accompanies the illustrations that are not covered under this license.
 
-Published by the Denver Art Museum
-100 West 14th Avenue Parkway
-Denver, CO 80204
-denverartmuseum.org
+Published by the Denver Art Museum\
+100 West 14th Avenue Parkway\
+Denver, CO 80204\
+[denverartmuseum.org](https://denverartmuseum.org)
 
 The Denver Art Museum is located on the homeland of the Arapaho, Cheyenne, and Ute people, along with many people from other Indigenous nations that call this place home. Learn more about our commitments to better represent, elevate, and support Indigenous cultures and people, past and present, on our website.
 

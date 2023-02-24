@@ -23,13 +23,15 @@ Gyokuran and her husband, the accomplished artist Ike Taiga, were on such equal 
 {{< q-figure id="tokuyama-gyokuran" class="right-column" caption="Mikuma Shikō, Tokuyama Gyokuran and Ike Taiga in their studio (detail), in *Kinsei kijinden*, vol. 4 (1788), 8." >}}
 
 
-<div class="spacer spacer-200"></div>
+<div class="spacer spacer-300"></div>
 
-{{< q-figure id="2018-202" >}}
+{{< q-figure id="2018-202" class="half-width centered" >}}
 
 This collaborative work (*gassaku*) was signed by different literati artists during an artistic gathering. Three of them—Atomi Gyokushi (1859–1943), [Noguchi Shōhin (1847–1917)](/artists/#Noguchi-Shōhin-野口小蘋/), and [Nakabayashi Seishuku (1829–1912)](/artists/#Nakabayashi-Seishuku-中林清淑/)—are women.
 
 Turtles, and especially the long-tailed *minogame*, are symbols of longevity. As the sun rises on the New Year, these perky turtles come to celebrate and commemorate the occasion.
+
+<div class="spacer spacer-300"></div>
 
 {{< q-figure id="2021-198-1-5" >}}
 
@@ -37,23 +39,21 @@ These small plates, painted for a literati gathering, were used for sweets to co
 
 This group of plates is also rare for its impeccable documentation. Their original box bears an inscription of authenticity by Priest Kōen of the Jinkō-in temple, where Rengetsu once lived.
 
-{{< q-figure id="2018-189" class="right-column" >}}
+<div class="spacer spacer-300"></div>
 
-<div class="spacer spacer-100"></div>
+{{< q-figure id="2018-189" class="right-column" >}}
 
 The Three Friends of Winter, namely pine, plum, and bamboo, are a common subject of literati painting (*bunjinga*). But here, [Ema Saikō](/artists/#Ema-Saikō-江馬細香/) creates an unconventional composition. From the crevice of a garden rock, wildly twisting pines intertwine and loop around bamboo and frenzied plum blossoms that jut out in all directions. Immortality mushrooms (*reishi*), sprouting in the foreground, allude to the subject of resilience in old age. Saikō painted this only four years before her death.
 
-{{< q-figure id="2018-224" >}}
+<div class="spacer spacer-300"></div>
 
-{{< q-figure id="2018-225" >}}
-
-{{< q-figure id="2020-570" >}}
+{{< q-figure-group id="2018-224, 2018-225, 2020-570" grid="3" >}}
 
 These paintings belong to the genre of *haiga*, an abbreviated and swiftly executed painting accompanied by an equally brief form of poetry called *haikai*, or haiku.
 
 [Nonoguchi Ryūho](/artists/#Nonoguchi-Ryūho-野々口立圃/) was one of the progenitors of the haiga form. [Takabatake Shikibu](/artists/#Takabatake-Shikibu-高畠式部/), a poet-painter who exhibited talent at an exceedingly young age, continued producing art well into her nineties. In haiga, text becomes an aesthetic element, offsetting, complementing, and balancing the image.
 
-<div class="spacer spacer-100"></div>
+<div class="spacer spacer-300"></div>
 
 ### Okuhara Seiko <span lang="ja">奥原晴湖</span> (1837–1913)
 

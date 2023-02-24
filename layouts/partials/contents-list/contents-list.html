@@ -165,7 +165,7 @@ In order to properly close the /ul/li elements and nest sub-sections, the logic 
 
   {{- else -}}
 
-    <li class="page-item level-{{ $sectionLevel }}{{ if lt .Page.Weight $pageOne }} frontmatter-page{{ end }}">{{ partial "contents-list/list-item-type" (dict "Page" . "Class" $contentsPageClass) }}</li>
+    <li data-title="{{ .Page.Params.title }}" class="page-item level-{{ $sectionLevel }}{{ if lt .Page.Weight $pageOne }} frontmatter-page{{ end }}">{{ partial "contents-list/list-item-type" (dict "Page" . "Class" $contentsPageClass) }}</li>
     {{ partial "contents-list/closing-tags" (dict "Page" . "AllPages" $pages "PageIndex" $index "openSections" $openSections) -}}
 
   {{- end -}}

@@ -7,7 +7,7 @@ contributor:
   - id: abstanley
 one_line:
 full:
-class: left-column
+class: left-column symposium
 image:
   id: banner-stanley
 ---

@@ -1,13 +1,13 @@
 ---
-title: Narratives of Japanese Art History"
-subtitle: "Where Are the Women?
+title: "Narratives of Japanese Art History"
+subtitle: "Where Are the Women?"
 type: featured
 weight: 107
 contributor:
   - id: pberry
 one_line:
 full:
-class: left-column
+class: left-column symposium
 image:
   id: banner-berry
 ---

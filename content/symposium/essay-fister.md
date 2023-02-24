@@ -3,7 +3,7 @@ title: "Shining Light on Art by Japanese Buddhist Nuns"
 short_title: Shining Light on Art
 type: featured
 weight: 102
-class: left-column
+class: left-column symposium
 image:
   id: banner-fister
 contributor:

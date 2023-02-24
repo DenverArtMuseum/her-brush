@@ -5,6 +5,7 @@ type: page
 contributor:
   - id: amaske
   - id: pfister
+contributor_as_it_appears: 
 class: full-width
 ---
 

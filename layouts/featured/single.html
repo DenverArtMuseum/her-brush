@@ -39,6 +39,7 @@
     {{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") $src -}}
     <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero {{ if .Content }}{{ else }}quire-page__header--full-height{{ end }} {{ if .Params.image }}hero-image hero__image{{ end }}" style="background-image: url('{{ $imgPath | absURL }}');">
       {{ if $credit }}
+        <span class="hero-credit-icon"></span>
         <span class="hero-credit">{{ $credit | safeHTML }}</span>
       {{ end }}
     </section>

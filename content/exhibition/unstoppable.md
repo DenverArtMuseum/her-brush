@@ -8,7 +8,7 @@ image:
     id: banner-unstoppable
 ---
 
-{{< q-figure id="2018-154A-C" >}}
+{{< q-figure id="2018-154A-C" class="half-width" >}}
 
 The screen at the center of the last gallery of the exhibition lends its name to the section title. On one side, it reads: "no," or "nothingness." On the other: “barriers.” When considered together, however, the two characters spell “unstoppable” (or no barriers, *mukan* <span lang="ja">無関</span>).
 
@@ -16,13 +16,13 @@ Each of the works in this section addresses the subject of perseverance, overcom
 
 These artists dared to leave their enduring mark through art.
 
-<div class="spacer spacer-100"></div>
+<div class="spacer spacer-300"></div>
 
 {{< q-figure id="2018-157" class="right-column" >}}
 
 In this painting, [Ōishi Junkyō](/artists/#Ōishi-Junkyō-大石順教/) borrows an anecdote from the life of the courtier Ono no Tofu (894–964) to express resilience and tenacity. Having failed to get a promotion seven times, the courtier was all but ready to quit. Dejected, he noticed a frog trying to reach a willow branch. Seven times, the frog leapt and failed. But then, mustering its strength, it jumped again—finally reaching the branch. Inspired, he persevered and on that eighth time succeeded, ultimately becoming an important statesman.
 
-<div class="spacer spacer-100"></div>
+<div class="spacer spacer-300"></div>
 
 {{< q-figure id="2018-216" class="right-column" >}}
 
@@ -30,7 +30,7 @@ Petal by petal, this blossoming cluster of chrysanthemums unfolds against a subt
 
 Little is known of [Yamamoto Shōtō’s](/artists/#Yamamoto-Shōtō-山本緗桃/) background, but her enduring mark survives though her own art and her legacy: her children followed her path, and her granddaughter, Yamamoto Suiun (active 1800s), became an accomplished painter.
 
-<div class="spacer spacer-100"></div>
+<div class="spacer spacer-300"></div>
 
 {{< q-figure id="2018-253"  class="right-column">}}
 
@@ -42,7 +42,7 @@ In [Takabatake Shikibu’s](/artists/#Takabatake-Shikibu-高畠式部/) time, si
 >But with whose permission<br />
 >does the storm blow over it?
 
-<div class="spacer spacer-100"></div>
+<div class="spacer spacer-300"></div>
 
 {{< q-figure id="2018-164" class="right-column" >}}
 
