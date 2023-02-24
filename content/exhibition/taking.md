@@ -19,6 +19,8 @@ Leaving their old names behind, taking new names as ordained nuns, these artists
 
 {{< q-figure id="2018-165" class="right-column" >}}
 
+<div class="spacer-100"></div>
+
 The nun-artist [Ōtagaki Rengetsu](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/) is seen here brushing a poem onto her ceramics. Her elegant surroundings, more like a scholar’s study than a nun’s hut, alludes to her literati background and affiliation.
 
 This is an imagined portrait done sixty years after Rengetsu’s death. Depicting her with feminine and manicured features, Suganuma Ōhō constructed quite a different portrait from the wizened likeness by her student, collaborator, and close friend [Tessai](/artists/#Tomioka-Tessai-富岡鉄斎/).
@@ -57,11 +59,16 @@ This is an imagined portrait done sixty years after Rengetsu’s death. Depictin
 
 This travel journal recounts Ōtagaki Rengetsu’s visit to Arashiyama, a district to the west of Kyoto. Freely brushed poetry is occasionally punctuated by offhand and charming illustrations. Simple forms outline a cluster of flowers. A few lines gather into a *torii*, a traditional Japanese gate, overtaken by vegetation. This account offers a rare and intimate glimpse into the artist’s personal musings. It must not have been a long trip since Rengetsu left a good part of the album blank.
 
+
+<div class="spacer spacer-200"></div>
+
 {{< q-figure id="2018-153" class="right-column" >}}
 
 Princess Umenomiya, daughter of Emperor Gomizuno-o (1596–1680), took the tonsure at age twenty-two, changing her name to Bunchi. She later founded a temple, which functioned as a training center for women.
 
 The calligraphy reads “Bodhisattva of Myriad Acts of Compassion,” the Buddhist name for the principal deity of a Shinto shrine in Nara. By writing this *myōgō* (names of Buddhist deities as invocations), Bunchi performed a devotional act, accumulating karmic merit.
+
+<div class="spacer spacer-200"></div>
 
 {{< q-figure id="fister-14" caption="Photograph of Ōishi Junkyō. From *The Mainichi Graphic*, 4 January 1956, published by The Mainichi Newspapers Co., Ltd. Source: Wikimedia Commons" >}}
 

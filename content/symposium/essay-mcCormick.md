@@ -1,5 +1,6 @@
 ---
-title: "Ōtagaki Rengetsu’s Buddhist Poetics: Gender and Materiality"
+title: "Ōtagaki Rengetsu’s Buddhist Poetics"
+subtitle: "Gender and Materiality"
 short_title: Gender and Materiality
 type: featured
 weight: 103
@@ -26,3 +27,5 @@ While Rengetsu’s status as a Buddhist nun differentiated her from lay women an
 
 
 [^1]: In addition to Saigyō and Bashō, Rengetsu had nun predecessors to emulate, such as Tagami Kikusha (1753–1826), who studied *haikai* with a teacher in the Bashō lineage and who famously reenacted, in an inverse manner, the journey that Bashō documented in his *Narrow Road to the North* (*Oku no hosomichi*, 1702). See Oka Masako ed., *Unyū no ama Tagami Kikusha* (Yamaguchi: Kikusha Kenshōkai, 2004); and Rebecca Corbett, “Crafting Identity as a Tea Practitioner in Early Modern Japan: Ōtagaki Rengetsu and Tagami Kikusha,” *U.S.-Japan Women’s Journal*, no. 47 (2014): 3–27.
+
+<div class="spacer-100"></div>

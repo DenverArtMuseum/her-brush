@@ -50,6 +50,6 @@ Some rights reserved. For questions, email publicationsdept@denverartmuseum.org 
 
 **Manager of Rights and Reproductions** Renée B. Miller
 
-This publication was created using Quire^TM^, a multiplatform publishing tool created by the J. Paul Getty Trust, and customized for the Denver Art Museum by Darcy Christ.
+This publication was created using Quire™, a multiplatform publishing tool created by the J. Paul Getty Trust, and customized for the Denver Art Museum by Darcy Christ.
 
 **Home page image** Yamamoto Shōtō 山本緗桃 (1757–1831), *Chrysanthemums* (detail), late 1700s–early 1800s. Ink, color, and gold on silk. Gift of Drs. John Fong and Colin Johnstone, 2018.216.

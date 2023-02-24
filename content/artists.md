@@ -2,6 +2,9 @@
 title: "Artists’ Biographies"
 weight: 420
 type: page
+contributor:
+  - id: amaske
+  - id: pfister
 class: full-width
 ---
 

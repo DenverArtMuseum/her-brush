@@ -90,9 +90,10 @@ Like Kikusha, in addition to writing out her poems, Rengetsu also created poem-p
 > Taking up the brush<br />
 > just for the joy of it,<br />
 > writing on and on, leaving behind<br />
-> long lines of dancing letters.[^32]<br />
+> long lines of dancing letters.
 {{< /q-class >}}
 {{< /q-class >}}
+[^32]
 
 <div class="spacer-100"></div>
 

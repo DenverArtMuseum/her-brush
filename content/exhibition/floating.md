@@ -32,6 +32,8 @@ Her poems here read:
 >My hands wring out my sleeves, making the pools<br />
 >overflow with my tears.
 
+<div class="spacer spacer-200"></div>
+
 {{< q-figure id="2018-181-install" class="right-column" >}}
 
 These poetry slips (*tanzaku*) were written by women and men occupying different social realms, including pleasure quarters, aristocracy, and monastic orders. Written in private or in gatherings, tanzaku were saved, exchanged, and sometimes discarded. These floating tanzaku therefore existed in a space between art and ephemera.
@@ -39,6 +41,8 @@ These poetry slips (*tanzaku*) were written by women and men occupying different
 This display is a reinterpretation of the traditional mounting in a scattered arrangement (*chirashigaki*). A modern example bears the poetry of Takabatake Shikibu, a literati artist whose works appear in the next section.
 
 {{< q-figure id="2018-226" caption="" >}}
+
+### Three Women of Gion <span lang="ja">祇園三女</span> (1600s–1700s)
 
 {{< q-class "flexbox-row col-2 full-width" >}}
 {{< q-class "flexbox-column" >}}
@@ -57,8 +61,6 @@ This display is a reinterpretation of the traditional mounting in a scattered ar
 {{< /q-class >}}
 
 {{< q-figure id="gion-teahouse" >}}
-
-### Three Women of Gion <span lang="ja">祇園三女</span> (1600s–1700s)
 
 [Kaji](/artists/#Kaji-of-Gion-祇園梶子/), [Yuri](/artists/#Yuri-of-Gion-祇園の百合/), and [Machi](/artists/#Tokuyama-(Ike)-Gyokuran-徳山(池)玉瀾/) were owners of a famous teahouse in Gion called Matsuya where many of Kyoto’s lovers of art and poetry would meet. Together, these three remarkable women formed a matriarchal artistic lineage.
 

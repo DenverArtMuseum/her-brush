@@ -1,5 +1,6 @@
 ---
-title: Narratives of Japanese Art History—Where Are the Women?
+title: Narratives of Japanese Art History"
+subtitle: "Where Are the Women?
 type: featured
 weight: 107
 contributor:
