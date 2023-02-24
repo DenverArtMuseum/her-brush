@@ -8,7 +8,7 @@ contributor:
 class: left-column
 ---
 
-{{< q-figure id="2021-164A-B" class="right-column scrolling-zoom" caption="**fig. 1a**">}}
+{{< q-figure id="2021-164A-B" class="right-column" caption="**fig. 1a**">}}
 
 {{< q-figure id="2021-164-bottom" class="right-column" caption="**fig. 1b**" >}}
 
@@ -79,18 +79,35 @@ The two hana-ike are inscribed with poems by Rengetsu, reading, respectively:
 {{< /q-class >}}
 {{< /q-class >}}
 
-We will refer to the first hana-ike as *Lone Pine* and to the second as *Friendless Plover*. While both poems were indeed composed by Rengetsu, the calligraphy reveals a discrepancy in style and technique. The poem gracing *Lone Pine* is rendered in a confident hand with elegant *kana* and lithe curves. The stylus pushed through the soft clay, parting it smoothly, leaving clean and crisp ridges that are further accentuated by the darkened edges from the firing process.
+We will refer to the first hana-ike as *Lone Pine* and to the second as *Friendless Plover*. While both poems were indeed composed by Rengetsu, the calligraphy reveals a discrepancy in style and technique. The poem gracing *Lone Pine* is rendered in a confident hand with elegant *kana* and lithe curves. The stylus pushed through the soft clay, parting it smoothly, leaving clean and crisp ridges that are further accentuated by the darkened edges from the firing process (fig. 7).
 
-The calligraphy on *Friendless Plover*, however, is more belabored and uncertain. The kana drags and tears at the clay, leaving a rugged trail in its furrows. It is weighed down by forced flourishes and overly accented curlicues, and it lacks the balanced cadence of *Lone Pine*. Nowhere does this discrepancy emerge more clearly than in the incised signatures. The lightness and natural undulation of line in *Lone Pine* contrasts sharply with the clunky *kanji* on *Friendless Plover*.
+The calligraphy on *Friendless Plover*, however, is more belabored and uncertain. The kana drags and tears at the clay, leaving a rugged trail in its furrows. It is weighed down by forced flourishes and overly accented curlicues (fig. 8), and it lacks the balanced cadence of *Lone Pine*.
 
-Once again, the objects’ backs disclose important information (figs. 7 and 8). Placed side by side, it is evident that the cut-out apertures, intended to accommodate a hook for hanging, were not handled with the same attention.
+<div class="flexbox-row col-4">
+<div class="flexbox-column padding-20">
+{{< q-figure id="2021-184-detail-2" caption="**fig. 7**" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-173-detail-2" caption="**fig. 8**" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2021-184-detail-3" caption="**fig. 9**" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-173-detail-3" caption="**fig. 10**" >}}
+</div>
+</div>
+
+Nowhere does this discrepancy emerge more clearly than in the incised signatures. The lightness and natural undulation of line in *Lone Pine* (fig. 9) contrasts sharply with the clunky *kanji* on *Friendless Plover* (fig. 10).
+
+Once again, the objects’ backs disclose important information (figs. 11 and 12). Placed side by side, it is evident that the cut-out apertures, intended to accommodate a hook for hanging, were not handled with the same attention.
 
 <div class="flexbox-row col-2">
 <div class="flexbox-column padding-20">
-{{< q-figure id="2021-184-back" class="half-width" caption="**fig 7**" >}}
+{{< q-figure id="2021-184-back" class="half-width" caption="**fig 11**" >}}
 </div>
 <div class="flexbox-column padding-20">
-{{< q-figure id="2018-173-back" class="half-width" caption="**fig 8**" >}}
+{{< q-figure id="2018-173-back" class="half-width" caption="**fig 12**" >}}
 </div>
 </div>
 
@@ -104,8 +121,8 @@ In recent decades, opportunities to access this type of information have been st
 
 The sobering realization that this coming generation of scholars will have little access to artwork has been the force behind the Fong-Johnstone Collection and Study Collection initiative. The gift, numbering more than five hundred objects—both copies and originals—will be made available to specialists, educators, and students. The Denver Art Museum is committed to leveraging the collection to raise awareness, offer accessibility, and advance the study of connoisseurship in its two focus areas: Ōbaku Zen painting and women artists from early modern and modern Japan. This is done with the conviction that, together, idiomatic and original artworks can help shed light on a more complete story of art history.
 
-{{< q-figure id="2021-200-1-4" class="right-column" caption="**fig. 9**" >}}
+{{< q-figure id="2021-200-1-4" class="right-column" caption="**fig. 13**" >}}
 
-And so, three inexplicable grooves on a late set of Rengetsu-yaki plates may speak not only to the artist’s centuries-long fame but also divulge a recognition of the powerful statement they make (fig. 9). By drawing three fingers across the clay—a stylized nod to pressing the material into the mold and the scraping off excess clay—Rengetsu acknowledges her medium of choice and at the same time she commemorates her intimate touch of the clay. The later set mimics the famous detail seen on the mold-pressed tortoise kōgō, but it does so on the back of the plates and over an impression of a slump mold’s coarse fabric. In other words, opposite to where it should have been placed. This misunderstanding of the process and intent inadvertently exposes the set of plates to be a copy, foiling an attempt to replicate the artist’s personal touch.
+And so, three inexplicable grooves on a late set of Rengetsu-yaki plates may speak not only to the artist’s centuries-long fame but also divulge a recognition of the powerful statement they make (fig. 13). By drawing three fingers across the clay—a stylized nod to pressing the material into the mold and the scraping off excess clay—Rengetsu acknowledges her medium of choice and at the same time she commemorates her intimate touch of the clay. The later set mimics the famous detail seen on the mold-pressed tortoise kōgō, but it does so on the back of the plates and over an impression of a slump mold’s coarse fabric. In other words, opposite to where it should have been placed. This misunderstanding of the process and intent inadvertently exposes the set of plates to be a copy, foiling an attempt to replicate the artist’s personal touch.
 
 And is it not that, ultimately, that draws us to this mystery? The artist’s touch. Her mark.

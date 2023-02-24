@@ -225,6 +225,14 @@ figure_list:
     src: figures/2018_173~4.jpg
     alt: "A gourd-shaped ceramic vase with vertical ridges and a loop of clay vine at the top. A dark hole near the center of the vase is surrounded by incised Japanese calligraphy."
     credit: 'Artist uknown, copy after Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Hana-ike Hanging Flower Vase in the Shape of a Hechima Gourd* (*Friendless Plover*) (detail), date unknown. Ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.173.'
+  - id: 2018-173-detail-2
+    src: figures/2018_173_detail_2.jpg
+    alt: "A gourd-shaped ceramic vase with vertical ridges and a loop of clay vine at the top. A dark hole near the center of the vase is surrounded by incised Japanese calligraphy."
+    credit: 'Artist uknown, copy after Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Hana-ike Hanging Flower Vase in the Shape of a Hechima Gourd* (*Friendless Plover*) (detail), date unknown. Ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.173.'
+  - id: 2018-173-detail-3
+    src: figures/2018_173_detail_3.jpg
+    alt: "A gourd-shaped ceramic vase with vertical ridges and a loop of clay vine at the top. A dark hole near the center of the vase is surrounded by incised Japanese calligraphy."
+    credit: 'Artist uknown, copy after Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Hana-ike Hanging Flower Vase in the Shape of a Hechima Gourd* (*Friendless Plover*) (detail), date unknown. Ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.173.'
   - id: 2018-175
     src: figures/2018_175.jpg
     alt: "Dark brown ceramic vase with round body that tapers towards the top. Uneven surface is inscribed with stylized Japanese calligraphy."
@@ -490,6 +498,14 @@ figure_list:
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Hana-ike Hanging Flower Vase in the Shape of a Hechima Gourd* (*Lone Pine*), 1800s Ceramic. Gift of Drs. John Fong and Colin Johnstone, 2021.184.'
   - id: 2021-184-back
     src: figures/2021_184~6.jpg
+    alt: "A gourd-shaped vase with vertical ridges. A dark hole in the center takes up about one third of the surface area."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Hana-ike Hanging Flower Vase in the Shape of a Hechima Gourd* (*Lone Pine*) (detail), 1800s Ceramic. Gift of Drs. John Fong and Colin Johnstone, 2021.184.'
+  - id: 2021-184-detail-2
+    src: figures/2021_184_detail_2.jpg
+    alt: "A gourd-shaped vase with vertical ridges. A dark hole in the center takes up about one third of the surface area."
+    credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Hana-ike Hanging Flower Vase in the Shape of a Hechima Gourd* (*Lone Pine*) (detail), 1800s Ceramic. Gift of Drs. John Fong and Colin Johnstone, 2021.184.'
+  - id: 2021-184-detail-3
+    src: figures/2021_184_detail_3.jpg
     alt: "A gourd-shaped vase with vertical ridges. A dark hole in the center takes up about one third of the surface area."
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Hana-ike Hanging Flower Vase in the Shape of a Hechima Gourd* (*Lone Pine*) (detail), 1800s Ceramic. Gift of Drs. John Fong and Colin Johnstone, 2021.184.'
   - id: 2021-196
