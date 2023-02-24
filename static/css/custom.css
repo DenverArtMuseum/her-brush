@@ -999,14 +999,14 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 
 /* Class: symposium */
  
-#main.quire-page--symposium.quire-page h1,
+/* #main.quire-page--symposium.quire-page h1,
 #main.quire-page--symposium.quire-page .quire-page__header__contributor {
     color: var(--bright-lime-green);
 
 }
 #main.quire-page--symposium.quire-page .hero-body {
     background-color: #D1D1CD;
-}
+} */
 
 
 
@@ -1036,7 +1036,9 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
     right: 100px;
     background-color: transparent;
 }
-
+#main.quire-page--exhibition .quire-page__header .hero-body {
+    margin-right: 0px
+}
 #main.quire-page--exhibition .quire-page__header__title {
     display: flex;
     flex-direction: row;
@@ -1312,7 +1314,7 @@ h1 .title_logo {
 @media (max-width: 767px) {
 
     .quire-page.quire-cover .quire-cover__hero-body .title {
-        font-size: 4rem;
+        font-size: 3rem;
     }
     .quire-page__header .hero-body {
         padding: 0.25em;
