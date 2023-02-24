@@ -173,11 +173,11 @@ h1 :lang(ja), h2 :lang(ja), h3 :lang(ja) {
 h1 > * {
     display: inherit;
 }
-.quire-page h1 {
-    color: var(--grayish-lime-green);
+.quire-featured .quire-page__header .hero-body .quire-page__header__title {
+    color: #333;
 }
 .quire-page__header__contributor {
-    color: var(--grayish-lime-green);
+    color: #333;
     margin-top: 0;
 }
 .quire #main {
@@ -852,6 +852,11 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 #main.quire-page--black-page .quire-page__content .container .content {
     background-color: #000;
     color: #fff;
+}
+#main.quire-page--black-page h1,
+#main.quire-page--black-page .quire-page__header__contributor
+ {
+    color: var(--bright-lime-green);
 }
 #main.quire-page--black-page h2, #main.quire-page--black-page h3,
 #main.quire-page--black-page h4, #main.quire-page--black-page h5, #main.quire-page--black-page h6 {
