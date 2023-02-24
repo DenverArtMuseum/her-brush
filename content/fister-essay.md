@@ -85,15 +85,16 @@ Like Kikusha, in addition to writing out her poems, Rengetsu also created poem-p
 
 {{< q-figure-group id="fister-10, fister-11" grid="2" class="half-width centered"  >}}
 
-{{< q-class "flexbox-row col-1 half-width centered" >}}
-{{< q-class "flexbox-column" >}}
-> Taking up the brush<br />
-> just for the joy of it,<br />
-> writing on and on, leaving behind<br />
-> long lines of dancing letters.
-{{< /q-class >}}
-{{< /q-class >}}
-[^32]
+<div class="flexbox-row col-1 half-width centered">
+<div class="flexbox-column">
+
+> Taking up the brush\
+> just for the joy of it,\
+> writing on and on, leaving behind\
+> long lines of dancing letters. [^32]
+
+</div>
+</div>
 
 <div class="spacer-100"></div>
 
@@ -109,24 +110,23 @@ Some scholars believe that her mature calligraphy style, displaying slender line
 
 Whereas Kikusha moved around Japan as she wished, Rengetsu reportedly changed her residence in Kyoto dozens of times to escape from people seeking to meet her and acquire her work. The fact that she was a Buddhist nun added to her celebrity status. Like Kikusha, she was not a full-fledged nun, but the verses of both female poets often embody Buddhist teachings.
 
-{{< q-class "flexbox-row col-2" >}}
-{{< q-class "flexbox-column" >}}
+<div class="flexbox-row col-2">
+<div class="flexbox-column">
 
 > Yoshi-ashi ni\
 > watari yukuyo ya\
 > muichimotsu
 
-{{< /q-class >}}
+</div>
 
-{{< q-class "flexbox-column" >}}
+<div class="flexbox-column">
 
 > On a reed\
 > traversing this transient world,\
-> not one single thing.<span class="no-italic">—Kikusha</span>
+> not one single thing.<span class="no-italic">—Kikusha</span>[^38]
 
-{{< /q-class >}}
-{{< /q-class >}}
-[^38]
+</div>
+</div>
 
 > Clad in black robes,\
 > I should have no attractions to\

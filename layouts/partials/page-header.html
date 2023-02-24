@@ -27,7 +27,7 @@
     <section class="{{ if or (eq $title "title page") (eq $title "half title page") }} is-screen-only {{ end }} quire-page__header hero__image" style="background-image: url('{{ $imgPath | absURL }}');">
       {{ if $credit }}
         <span class="hero-credit-icon"></span>
-        <span class="hero-credit">{{ $credit }}</span>
+        <span class="hero-credit">{{ $credit | markdownify | safeHTML }}</span>
       {{ end }}
     </section>
 {{- end -}}

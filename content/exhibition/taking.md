@@ -8,6 +8,27 @@ image:
     id: banner-taking
 ---
 
+{{< q-class "flexbox-row full-width centered" >}}
+
+{{< q-class "flexbox-column" >}}
+>“Not coiffuring my hair<br />
+>would leave my hands free<br />
+>to spend my time at the desk.”<br />
+>—Kaga no Chiyo<br />
+{{< /q-class >}}
+
+{{< q-class "flexbox-column" >}}
+><span lang="ja">「髪を結ふ<br />
+>&#12288;手の隙明て　<br />
+>&#12288;炬燵哉」<br />
+>&#12288;加賀千代</span>
+{{< /q-class >}}
+
+{{< /q-class >}}
+
+
+<div class="spacer-200"></div>
+
 Taking the tonsure is the ceremonial shaving of one’s hair to join a Buddhist monastic order. It was a symbolic act of leaving one’s past behind. In fact, becoming a nun literally translates to “leaving one’s home” (*shukke* <span lang="ja">出家</span>).
 
 Tonsure did not mean, however, relinquishing one’s autonomy. On the contrary, it offered a form of liberation from societal expectations, such as the Three Obediences (of a woman to her father, husband, and son). It also enabled nuns to travel freely in times of state-imposed restrictions, which especially impacted women. Above all, it allowed them the freedom to pursue their art.
@@ -17,9 +38,9 @@ Women from all walks of life took the tonsure, from princesses (like [Daitsū Bu
 Leaving their old names behind, taking new names as ordained nuns, these artists crafted new identities for themselves.
 
 
-{{< q-figure id="2018-165" class="right-column" >}}
-
 <div class="spacer-100"></div>
+
+{{< q-figure id="2018-165" class="right-column" >}}
 
 The nun-artist [Ōtagaki Rengetsu](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/) is seen here brushing a poem onto her ceramics. Her elegant surroundings, more like a scholar’s study than a nun’s hut, alludes to her literati background and affiliation.
 
@@ -94,37 +115,16 @@ Wishing to join as a disciple of a famous Ōbaku Zen monk, she traveled to Edo (
 
 In a stark show of determination, she used a searing iron to disfigure her face. Only when proving this degree of devoutness to her faith was she finally accepted into the order.
 
-<div class="spacer-200"></div>
 
 This poem was written shortly after this turning point. It reads:
 
 {{< q-class "flexbox-row full-width centered" >}}
-
 {{< q-class "flexbox-column" >}}
+
 >“In this living world,<br />
 >my flesh is burned and thrown away.<br />
 >I would be wretched<br />
 >if I did not think of it as kindling that burns away my sins.
-{{< /q-class >}}
 
 {{< /q-class >}}
-
-{{< q-class "flexbox-row full-width centered" >}}
-
-{{< q-class "flexbox-column" >}}
->“Not coiffuring my hair<br />
->would leave my hands free<br />
->to spend my time at the desk.”<br />
->—Kaga no Chiyo<br />
 {{< /q-class >}}
-
-{{< q-class "flexbox-column" >}}
-><span lang="ja">「髪を結ふ<br />
->&#12288;手の隙明て　<br />
->&#12288;炬燵哉」<br />
->&#12288;加賀千代</span>
-{{< /q-class >}}
-
-{{< /q-class >}}
-
-
