@@ -724,7 +724,7 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 }
 .content figure.sticky.fit img {
     width: auto;
-    max-height: 100vh;
+    max-height: 90vh;
     float: left;
 }
 
@@ -796,6 +796,10 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
     clear: both;
 }
 
+
+.footnotes hr {
+    clear: both;
+}
 
 .footnotes.footnote-print-only,
 .footnotes .footnote-print-only {
@@ -1153,6 +1157,7 @@ figure.scrolling-zoom figcaption {
 
 figcaption {
     background-color: #fff;
+    clear: left;
 }
 
 
@@ -1192,10 +1197,10 @@ h1 .title_logo {
 /* Exceptions */
 
 
-#fister-essay article.quire-page--left-column .quire-page__content .container .content > *:not(.full-width) {
+/* #fister-essay article.quire-page--left-column .quire-page__content .container .content > *:not(.full-width) {
     max-width: 710px;
     width: 710px;
-}
+} */
 
 .no-italic {
     font-style: normal;
