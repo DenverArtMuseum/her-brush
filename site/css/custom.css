@@ -189,12 +189,12 @@ h1 > * {
     border-bottom: 1px dotted var(--rich-gold);
 }
 .quire-page__content .content a:hover {
-    color: var(--grayish-lime-green);
-    border-bottom: 1px dotted var(--grayish-lime-green);
+    color: var(--grayish-lime-green) !important;
+    border-bottom: 1px dotted var(--grayish-lime-green) !important;
 }
 .quire-contents-list a:hover {
-    color: var(--grayish-lime-green);
-    border-bottom: 1px dotted var(--grayish-lime-green);
+    color: var(--grayish-lime-green) !important;
+    border-bottom: 1px dotted var(--grayish-lime-green) !important;
 }
 
 .hero-body {
@@ -228,6 +228,7 @@ h1 > * {
 }
 .quire-page__header.hero__image {
     z-index: 100;
+    position: relative;
 }
 .quire-page__header.hero__image .hero-credit-icon:after {
     position: absolute;
@@ -999,14 +1000,14 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 
 /* Class: symposium */
  
-#main.quire-page--symposium.quire-page h1,
+/* #main.quire-page--symposium.quire-page h1,
 #main.quire-page--symposium.quire-page .quire-page__header__contributor {
     color: var(--bright-lime-green);
 
 }
 #main.quire-page--symposium.quire-page .hero-body {
     background-color: #D1D1CD;
-}
+} */
 
 
 
@@ -1036,7 +1037,9 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
     right: 100px;
     background-color: transparent;
 }
-
+#main.quire-page--exhibition .quire-page__header .hero-body {
+    margin-right: 0px
+}
 #main.quire-page--exhibition .quire-page__header__title {
     display: flex;
     flex-direction: row;
@@ -1214,9 +1217,11 @@ h1 .title_logo {
     font-weight: normal;
 }
 
-.flexbox-row+.littlefoot-footnote__host {
+/* .flexbox-row+.littlefoot-footnote__host {
     float: right;
-}
+    margin-top: -98px;
+    margin-right: 96px;
+} */
 
 #study-collection .quire-page__header__contributor .quire-contributor__comma,
 #study-collection .quire-page__header__contributor .quire-contributor__title,
@@ -1312,7 +1317,7 @@ h1 .title_logo {
 @media (max-width: 767px) {
 
     .quire-page.quire-cover .quire-cover__hero-body .title {
-        font-size: 4rem;
+        font-size: 3rem;
     }
     .quire-page__header .hero-body {
         padding: 0.25em;
@@ -1433,6 +1438,10 @@ h1 .title_logo {
         bottom: auto;
         margin-top: 40px;
     }
+    /* .flexbox-row+.littlefoot-footnote__host {        
+        margin-top: -90px;
+        margin-right: -126px;
+    } */
 }
 
 /* Media Query for Mobile Devices */
