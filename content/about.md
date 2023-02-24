@@ -9,7 +9,7 @@ This digital catalog accompanies *Her Brush: Japanese Women Artists from the Fon
 
 This exhibition is made possible through the generous gift of the John Fong and Colin Johnstone collection. Support is provided by the E. Rhodes and Leona B. Carpenter Foundation, the Blakemore Foundation, the donors to the Annual Fund Leadership Campaign, and the residents who support the Scientific and Cultural Facilities District (SCFD). 
 
-\<SCFD Logo\>
+<a href="https://scfd.org/" style="border-bottom: none !important;"><img src="/img/scfd_logo.png" style="max-width:22rem;width:50%;"  alt="SCFD: We Fund Culture" /></a>
 
 **Citations:**
 
