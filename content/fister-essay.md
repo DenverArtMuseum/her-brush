@@ -78,7 +78,7 @@ Rengetsu was born into an entirely different world than Kikusha; instead of the 
 
 Rengetsu was married at the age of seventeen and bore three children, all of whom died. After separating from her husband, she remarried and had another child, but lost both her second husband and daughter to illness. At the age of thirty-three, she took the tonsure, adopting Rengetsu (literally, “lotus moon”) as her Buddhist name. She took up residence in a subtemple at Chion’in with her adoptive father (who also took vows), and they lived together until his death. Rengetsu then moved to the Okazaki district in eastern Kyoto, where many poets and artists lived. She studied waka with Kagawa Kageki and Mutobe Yoshika and within a few years had established a reputation as a poet. Her name was also included in such compendiums as the *Heian jinbutsu shi* (Record of Heian [Kyoto] Notables),[^30] and two volumes of her waka were published during her lifetime.[^31] Waka had been the prevailing form of literary expression for aristocratic women from ancient times, and by the Edo period (1615–1868) women from all walks of life were becoming literate and interested in composing poetry. Rengetsu and Kikusha had the advantage over counterparts from earlier periods of growing up in an age when many famous waka and haikai poets readily accepted and encouraged female pupils.
 
-{{< q-figure-group id="fister-7, fister-8, fister-9" grid="3" class="full-width centered" caption="**fig. 7:** Ōtagaki Rengetsu <span lang=\"ja\">太田垣蓮月</span> (1791–1875), *Moon, Blossoming Cherry, and Poem*, 1867. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.164. **fig. 8:**  Ōtagaki Rengetsu <span lang=\"ja\">太田垣蓮月</span> (1791–1875), *Sweets Plate with Painting and Poem*, 1800s. Ink and color on cedar plank. Gift of Drs. John Fong and Colin Johnstone, 2021.198.1. **fig. 9:** Ōtagaki Rengetsu <span lang=\"ja\">太田垣蓮月</span> (1791–1875), Page from *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206." >}}
+{{< q-figure-group id="fister-7, fister-8, fister-9" grid="3" class="full-width centered" caption="**fig. 7:** Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Moon, Blossoming Cherry, and Poem*, 1867. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.164. **fig. 8:**  Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Sweets Plate with Painting and Poem*, 1800s. Ink and color on cedar plank. Gift of Drs. John Fong and Colin Johnstone, 2021.198.1. **fig. 9:** Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, Page from *Travel Journal to Arashiyama* (*Arashiyama hana no ki*), 1800s. Ink and color on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.206." >}}
 
 Like Kikusha, in addition to writing out her poems, Rengetsu also created poem-paintings, combining her waka with simply brushed seasonal motifs such as a branch of cherry or plum blossoms, the moon (fig. 7), eggplants (fig. 8), birds, butterflies (fig. 9), and occasionally animals. The subject matter is not so different from that of Kikusha, but their brush styles are at opposite poles: Kikusha’s coarse and dynamic, Rengetsu’s delicate and ethereal. Living in Kyoto, Rengetsu was no doubt influenced by the lyrical Maruyama-Shijō tradition of painting, which emphasized nature subjects modeled with soft ink and color washes. She associated with many painters and sometimes inscribed her poems on their paintings. Examples of “joint creations” (*gassaku*) in the exhibition include those done with [Tomioka Tessai (<span lang="ja">富岡鉄斎</span> 1836–1924)](/artists/#Tomioka-Tessai-富岡鉄斎/) and [Wada Gesshin (<span lang="ja">和田月心/</span> 1800–1870)](/artists/#Wada-Gesshin-和田月心/) (figs. 10 and 11). Rengetsu’s unique calligraphic style, featuring elegantly brushed, threadlike lines, is easily identifiable and, judging from the scores of extant works, was highly admired and sought after. She herself loved to write, as expressed in the following verse:
 
@@ -122,7 +122,7 @@ Whereas Kikusha moved around Japan as she wished, Rengetsu reportedly changed he
 
 > On a reed\
 > traversing this transient world,\
-> not one single thing. <span class="no-italic">(Kikusha)</span>
+> not one single thing.<span class="no-italic">—Kikusha</span>
 
 {{< /q-class >}}
 {{< /q-class >}}
@@ -132,13 +132,13 @@ Whereas Kikusha moved around Japan as she wished, Rengetsu reportedly changed he
 > I should have no attractions to\
 > the shapes and scents of this world;\
 > But how can I keep my vows\
-> gazing at today’s crimson maple leaves? <span class="no-italic">(Rengetsu)</span>[^39]
+> gazing at today’s crimson maple leaves?<span class="no-italic">—Rengetsu</span>[^39]
 
 > Perfectly aware,\
 > not a thought,\
 > just the moon\
 > piercing me with light\
-> as I gaze upon it. <span class="no-italic">(Rengetsu)</span>[^40]
+> as I gaze upon it.<span class="no-italic">—Rengetsu</span>[^40]
 
 Although she took her original vows at a Pure Land temple, Rengetsu associated with clergy from various sects. In her later years, she moved into a small hut on the grounds of Jinkōin temple northwest of Kyoto at the invitation of the chief priest, Wada Gesshin (also known as Gōzan, 1800–1870). It was here that she lived out the remainder of her life. She was such a celebrated figure in Kyoto that numerous artists did portraits of her. The example in the exhibition by Suganuma Ōhō showing Rengetsu seated in her hut, writing poems on pottery (fig. 13), was probably inspired by Tessai’s famous portrait of the wizened old nun in the collection of Jinkōin.
 
@@ -245,7 +245,7 @@ Regretfully, I never had the chance to meet Myōdō or enjoy her *shōjin ryōri
 
 [^30]: Beginning in the year 1838.
 
-[^31]: *Rengetsu Shikibu nijo waka shū* (1868) and *Ama no karamu* (1870). The former volume is a compilation of poems by both Rengetsu and her poetess friend [Takebatake Shikibu (<span lang="ja">高畠式部</span> 1785–1881)](/artists/#Takabatake-Shikibu-高畠式部/), who is also represented in the Fong-Johnstone collection (fig. 22).
+[^31]: *Rengetsu Shikibu nijo waka shū* (1868) and *Ama no karamu* (1870). The former volume is a compilation of poems by both Rengetsu and her poetess friend [Takebatake Shikibu (<span lang="ja">高畠式部</span> 1785–1881)](/artists/#Takabatake-Shikibu-高畠式部/), who is also represented in the Fong-Johnstone collection.
 
 [^32]: Translation by John Stevens. Stevens, *Lotus Moon*, 108.
 

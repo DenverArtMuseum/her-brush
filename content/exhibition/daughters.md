@@ -14,7 +14,7 @@ Artists in this section emerged from such artistic families and, thanks to their
 
 {{< q-figure id="2018-150" class="is-pulled-left" >}}
 
-Some, like Kiyohara Yukinobu, chose to sign their works with the term *uji-me* (literally, daughter of the clan), identifying themselves as upholders of their family’s artistic school.
+Some, like [Kiyohara Yukinobu](/artists/#Kiyohara-Yukinobu-清原雪信), chose to sign their works with the term *uji-me* (literally, daughter of the clan), identifying themselves as upholders of their family’s artistic school.
 
 Famous during her lifetime, Kiyohara Yukinobu was a professional painter like her great uncle, Kanō Tan’yū, who led the Kanō school of painting in his time. Signing her works with “Brush of Yukinobu, Daughter of the Kiyohara Clan,” she identified with the family’s atelier.
 
