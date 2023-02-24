@@ -41,7 +41,7 @@ figure_list:
     alt: "A black-and-white woodblock print depicting the nun Ryōn with a shaved head, putting a hot iron to her face. Two startled attendants reach out to try and stop her."
   - id: fister-5
     src: figures/2018_160.jpg
-    caption: '**fig. 5** Image by Utagawa Kunisada <span lang="ja">歌川国貞</span>, 1786–1864, inscription by Ryūtei Tanehiko 柳亭種彦 (1783–1842), “The Nun Ryōnen (Ryōnen-ni)” from *Famous Women of Past and Present* (*Kokon meifuden*), 1864. Color woodblock print, 14⅞ × 9¾ in. (37.8 × 24. 8 cm). Gift of Drs. John Fong and Colin Johnstone, 2018.160.'
+    caption: '**fig. 5** Image by Utagawa Kunisada <span lang="ja">歌川国貞</span>, 1786–1864, inscription by Ryūtei Tanehiko 柳亭種彦 (1783–1842), “The Nun Ryōnen (Ryōnen-ni)” from *Famous Women of Past and Present* (*Kokon meifuden*), 1864. Color woodblock print. Gift of Drs. John Fong and Colin Johnstone, 2018.160.'
     alt: "Colorful woodblock print showing a nun pressing a hot iron to her cheek. A brazier with smoldering embers in the background. Tightly arranged blocks of Japanese text overhead."
   - id: fister-6
     src: figures/2018_222.jpg
@@ -236,8 +236,8 @@ figure_list:
   - id: 2018-181-install
     src: figures/2018_181_install.jpg
     alt: "Dozens of vertical, decorated paper slips with calligraphy are mounted haphazardly on faux folding screen made of transparent plexiglass. Their reflection in the mirror-like platform, enhanced by the dark room, creates a sense of floating."
-    caption: "Various artists, *Poem Slips* (*tanzaku*), 1700–1900s. Paper with pigment, gold, silver, and ink. Gift of Drs. John Fong and Colin Johnstone, 2018.181.4-44."
-    credit: "Various artists, *Poem Slips* (*tanzaku*), 1700–1900s. Paper with pigment, gold, silver, and ink. Gift of Drs. John Fong and Colin Johnstone, 2018.181.4-44."
+    caption: 
+    credit: 'Various artists, *Poem Slips* (*tanzaku*), 1700–1900s. Paper with pigment, gold, silver, and ink. Gift of Drs. John Fong and Colin Johnstone, 2018.181.4-44.'
   - id: 2018-181-1
     src: figures/2018_181_1.jpg
     alt: "Long, vertical paper slip with light grey marbled pattern inscribed with stylized Japanese calligraphy."

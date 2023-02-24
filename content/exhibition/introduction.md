@@ -34,19 +34,19 @@ Every aspect of this work reveals her personal mark. The pockmarked surface reco
 
 {{< q-class "flexbox-row" >}}
 {{< q-class "flexbox-column" >}}
->“Taking up the brush\
+>Taking up the brush\
 >just for the joy of it,\
 >writing on and on, leaving behind\
->long lines of dancing letters.”\
+>long lines of dancing letters.\
 >—Ōtagaki Rengetsu
 {{< /q-class >}}
 
 {{< q-class "flexbox-column" >}}
-><span lang="ja">「なにごとを\
+><span lang="ja">なにごとを\
 >&#12288;なすとはなしに\
 >&#12288;たはむれに\
 >&#12288;かきながしたる\
->&#12288;水莖のあと」\
+>&#12288;水莖のあと\
 >太田垣蓮月</span>
 {{< /q-class >}}
 {{< /q-class >}}

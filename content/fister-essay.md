@@ -122,7 +122,7 @@ Whereas Kikusha moved around Japan as she wished, Rengetsu reportedly changed he
 
 > On a reed\
 > traversing this transient world,\
-> not one single thing. <span class="no-italic">(Kikusha)</span>
+> not one single thing.<span class="no-italic">—Kikusha</span>
 
 {{< /q-class >}}
 {{< /q-class >}}
@@ -132,13 +132,13 @@ Whereas Kikusha moved around Japan as she wished, Rengetsu reportedly changed he
 > I should have no attractions to\
 > the shapes and scents of this world;\
 > But how can I keep my vows\
-> gazing at today’s crimson maple leaves? <span class="no-italic">(Rengetsu)</span>[^39]
+> gazing at today’s crimson maple leaves?<span class="no-italic">—Rengetsu</span>[^39]
 
 > Perfectly aware,\
 > not a thought,\
 > just the moon\
 > piercing me with light\
-> as I gaze upon it. <span class="no-italic">(Rengetsu)</span>[^40]
+> as I gaze upon it.<span class="no-italic">—Rengetsu</span>[^40]
 
 Although she took her original vows at a Pure Land temple, Rengetsu associated with clergy from various sects. In her later years, she moved into a small hut on the grounds of Jinkōin temple northwest of Kyoto at the invitation of the chief priest, Wada Gesshin (also known as Gōzan, 1800–1870). It was here that she lived out the remainder of her life. She was such a celebrated figure in Kyoto that numerous artists did portraits of her. The example in the exhibition by Suganuma Ōhō showing Rengetsu seated in her hut, writing poems on pottery (fig. 13), was probably inspired by Tessai’s famous portrait of the wizened old nun in the collection of Jinkōin.
 
@@ -245,7 +245,7 @@ Regretfully, I never had the chance to meet Myōdō or enjoy her *shōjin ryōri
 
 [^30]: Beginning in the year 1838.
 
-[^31]: *Rengetsu Shikibu nijo waka shū* (1868) and *Ama no karamu* (1870). The former volume is a compilation of poems by both Rengetsu and her poetess friend [Takebatake Shikibu (<span lang="ja">高畠式部</span> 1785–1881)](/artists/#Takabatake-Shikibu-高畠式部/), who is also represented in the Fong-Johnstone collection (fig. 22).
+[^31]: *Rengetsu Shikibu nijo waka shū* (1868) and *Ama no karamu* (1870). The former volume is a compilation of poems by both Rengetsu and her poetess friend [Takebatake Shikibu (<span lang="ja">高畠式部</span> 1785–1881)](/artists/#Takabatake-Shikibu-高畠式部/), who is also represented in the Fong-Johnstone collection.
 
 [^32]: Translation by John Stevens. Stevens, *Lotus Moon*, 108.
 
