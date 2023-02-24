@@ -528,8 +528,8 @@ h1 > * {
 .quire-page--list.quire-contents .section.quire-page__content .container {
     max-width: 1400px;
     width: 1400px;
-    margin-left: 1.4rem;
-    margin-right: 1.4rem;
+    /* margin-left: 1.4rem;
+    margin-right: 1.4rem; */
 }
 .quire-page--list.quire-contents .quire-contents-list.list > ul {
     columns: 2;
