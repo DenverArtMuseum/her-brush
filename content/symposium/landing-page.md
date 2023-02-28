@@ -3,7 +3,8 @@ title: "New Approaches to Gender and Agency in Japanese Art"
 short_title: "Symposium"
 weight: 101
 type: contents
-image: figures/symposium-cover.jpg
+image: 
+    id: symposium-cover
 slug: .
 class: list black-page
 ---

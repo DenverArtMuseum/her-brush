@@ -189,13 +189,14 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2023 Denver Art Museum
+copyright: Publication text and design © 2023 Denver Art Museum
 
 license:
   name: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
   abbreviation: CC BY-NC-SA
   url: https://creativecommons.org/licenses/by-nc-sa/4.0/
   scope: full # full | text-only | some-exceptions
+  online_text: "Most of the images of the artworks are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. A copyright line accompanies the illustrations that are not covered under this license."
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links

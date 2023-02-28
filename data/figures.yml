@@ -687,11 +687,11 @@ figure_list:
   - id: "symposium-cover"
     src: figures/symposium-cover.png
     alt: "Black-and-white photograph of a bare-foot person wearing a sleeveless black dress. Their left hand reaches up and the right rests at their side. An energetically brushed calligraphy is behind the figure."
-    credit:  
+    credit: "© Tomoko Kawao. All Rights Reserved"
   - id: "tomoko-cover"
     src: figures/tomoko-cover.jpg
     alt: "A person in a sleeveless white dress holds a large black brush and bends toward the floor. Large images of black calligraphy on white paper hang on the wall behind."
-    credit: 
+    credit: "© Tomoko Kawao. All Rights Reserved"
   - id: IMG_1282
     src: figures/IMG_1282.jpg
     alt: "A young child looks at the camera with mouth open. Another child wearing a mask looks at the paper on a long table."

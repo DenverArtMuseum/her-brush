@@ -3,7 +3,8 @@ title: "Tomoko Kawao—Artist Statement"
 short_title: Tomoko Kawao
 type: featured
 weight: 301
-image: figures/tomoko-cover.jpg
+image:
+    id: tomoko-cover
 contributor:
     - id: tomoko
 class: left-column black-page
