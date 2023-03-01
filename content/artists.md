@@ -4,12 +4,11 @@ weight: 420
 type: page
 contributor:
   - id: amaske
-  - id: pfister
 contributor_as_it_appears: 
 class: full-width
 ---
 
-Compiled from research conducted by Andrew Maske and Patricia Fister
+Compiled from research conducted by Andrew Maske
 
 ### Daitsū Bunchi 大通文智
 1619–1697
