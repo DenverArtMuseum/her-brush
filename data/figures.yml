@@ -685,7 +685,7 @@ figure_list:
     src: "figures/three-obediences-install.jpg"
     credit: 'Installation view of *Her Brush: Japanese Women Artists from the Fong-Johnstone Collection*. Photograph by Eric Stephenson.'
   - id: "symposium-cover"
-    src: figures/symposium-cover.png
+    src: figures/symposium-cover.jpg
     alt: "Black-and-white photograph of a bare-foot person wearing a sleeveless black dress. Their left hand reaches up and the right rests at their side. An energetically brushed calligraphy is behind the figure."
     credit: "© Tomoko Kawao. All Rights Reserved"
   - id: "tomoko-cover"
