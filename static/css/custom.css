@@ -1232,7 +1232,8 @@ h1 .title_logo {
     display: none;
 }
 
-#site-menu__inner li[data-title="Artists’ Biographies"] .contributor {
+#site-menu__inner li[data-title="Artists’ Biographies"] .contributor,
+.quire-contents li[data-title="Artists’ Biographies"] .contributor {
     display: none;
 }
 #contributors .quire-contributor__bio {
