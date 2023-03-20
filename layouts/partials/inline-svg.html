@@ -1,4 +1,6 @@
+{{- $logoURL := printf "%s/%s" "img" .svg -}}
 {{- $logoPath := printf "%s/%s" "static/img" .svg -}}
 <figure class="logo">
+    <img src="{{ $logoURL | relURL }}" />
     {{ readFile $logoPath | safeHTML }}
 </figure>

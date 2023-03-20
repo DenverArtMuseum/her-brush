@@ -2,7 +2,7 @@
 Title: Taking the Tonsure
 type: essay
 weight: 405
-svg_logo:  "svg/Taking the Tonsure.svg"
+svg_logo:  "svg/Taking The Tonsure.svg"
 class: left-column exhibition
 image: 
     id: banner-taking
@@ -59,24 +59,24 @@ This is an imagined portrait done sixty years after Rengetsu’s death. Depictin
 <div class="spacer spacer-200"></div>
 
 {{< q-figure id="2021-206" class="half-width centered">}}
-{{< q-figure id="2021-206-cover" class="hidden">}}
-{{< q-figure id="2021-206-back" class="hidden">}}
-{{< q-figure id="2021-206-3" class="hidden">}}
-{{< q-figure id="2021-206-4" class="hidden">}}
-{{< q-figure id="2021-206-5" class="hidden">}}
-{{< q-figure id="2021-206-6" class="hidden">}}
-{{< q-figure id="2021-206-7" class="hidden">}}
-{{< q-figure id="2021-206-8" class="hidden">}}
-{{< q-figure id="2021-206-9" class="hidden">}}
-{{< q-figure id="2021-206-10" class="hidden">}}
-{{< q-figure id="2021-206-11" class="hidden">}}
-{{< q-figure id="2021-206-12" class="hidden">}}
-{{< q-figure id="2021-206-13" class="hidden">}}
-{{< q-figure id="2021-206-14" class="hidden">}}
-{{< q-figure id="2021-206-15" class="hidden">}}
-{{< q-figure id="2021-206-16" class="hidden">}}
-{{< q-figure id="2021-206-17" class="hidden">}}
-{{< q-figure id="2021-206-18" class="hidden">}}
+{{< q-figure id="2021-206-cover" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-back" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-3" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-4" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-5" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-6" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-7" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-8" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-9" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-10" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-11" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-12" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-13" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-14" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-15" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-16" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-17" class="hidden remove-from-epub">}}
+{{< q-figure id="2021-206-18" class="hidden remove-from-epub">}}
 
 This travel journal recounts Ōtagaki Rengetsu’s visit to Arashiyama, a district to the west of Kyoto. Freely brushed poetry is occasionally punctuated by offhand and charming illustrations. Simple forms outline a cluster of flowers. A few lines gather into a *torii*, a traditional Japanese gate, overtaken by vegetation. This account offers a rare and intimate glimpse into the artist’s personal musings. It must not have been a long trip since Rengetsu left a good part of the album blank.
 

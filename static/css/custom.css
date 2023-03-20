@@ -627,21 +627,6 @@ h1 > * {
 
 /* Page Styles */
 
-/* .quire-page--sticky-hero-image article {
-    display: flex;
-    align-items: center;
-    position: -webkit-sticky;
-    position: sticky;
-    height: 120px;
-}
-.quire-page--sticky-hero-image  .quire-page__header.hero-image {
-    height: 70px;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0; 
-} */
-
-
 article.quire-page--full-width .quire-page__content .container,
 article.quire-page--left-column .quire-page__content .container,
 article.quire-page--right-column .quire-page__content .container {
@@ -657,7 +642,7 @@ article.quire-page--right-column .quire-page__content > figure {
 }
 article.quire-page--left-column .quire-page__content .container .content blockquote,
 article.quire-page--right-column .quire-page__content .container .content blockquote {
-    max-width: 60%
+    max-width: 60%,
     width: 60%;
 }
 
@@ -950,8 +935,6 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
     background-color: #000;
 }
 
-
-
 #exhibition-landing-page .quire-page__header__title,
 #exhibition-landing-page .quire-contents-list.grid .section-item .card .card-content,
 #exhibition-landing-page .quire-contents-list.grid .page-item .card .card-content {
@@ -1099,6 +1082,8 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 #exhibition-checklist h2 {
     text-align: center;
     margin-top: 8rem;
+    break-after: auto;
+    page-break-after: auto;
 }
 
 #exhibition-checklist .content figure {
@@ -1180,7 +1165,9 @@ h1 .title_logo {
     width: 200px;
     height: auto;
 }
-
+.title_logo img {
+    display: none;
+}
 .title_logo svg {
     width: 100%;
     height: auto;
@@ -1456,6 +1443,144 @@ h1 .title_logo {
 
 
 @media print {
+
+    .quire:not(.no-js) .quire__primary {
+        height: 100%;
+    }
+
+    figure img.quire-figure__image {
+        width: 100% !important;
+        height: auto !important;
+        max-height: 8in !important;
+    }
+
+    .content figure.sticky {
+        position: static;
+    }
+    .quire-figure .q-figure__wrapper img {
+        height: 70%;
+        max-height: 8in;
+        width: auto;
+        max-width: none;
+    }
+
+    article.quire-page--left-column .quire-page__content .container .content > p,
+    article.quire-page--right-column .quire-page__content .container .content > p,
+    article.quire-page--left-column .quire-page__content > figure,
+    article.quire-page--right-column .quire-page__content > figure { 
+        max-width: 100%;
+        width: 100%;
+    }
+    article.quire-page--left-column .quire-page__content .container .content blockquote,
+    article.quire-page--right-column .quire-page__content .container .content blockquote {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    article.quire-page__content .container .content > .full-width,
+    article .quire-page__content .container .content > figure.full-width {
+        margin-left: calc( -100% / 2 + 100% / 2 + 50px );
+        margin-right: calc(-100% / 2 + 100% / 2 - 50px );
+        max-width: calc( 100% - 100px );
+    }
+    article .quire-page__content .container .content > .half-width,
+    article .quire-page__content .container .content > figure.half-width {
+        max-width: calc( 50% - 100px );
+    }
+    article .quire-page__content .container .content > figure.float {
+        float: none;
+    }
+
+    article.quire-page--left-column .quire-page__content .container .content figure.right-column {
+        float: none;
+        height: 70%;
+        max-height: 8in;
+        clear: both;
+    }
+
+    article.quire-page--right-column .quire-page__content .container .content figure.left-column {
+        float: none;
+    }
+    
+    #symposium-landing-page .quire-page__header.hero h1 {
+        font-size: 24px;
+    }
+    .content figure.sticky.fit img {
+        max-height: auto;
+    }
+    .quire-page.quire-featured {
+        min-height: 100%;
+    }
+    .quire-splash.quire-featured .quire-page__header.hero__image,
+    #main.quire-page--exhibition .quire-page__header.hero__image {
+        height: 10cm;
+        top: auto;
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    .quire-page__header.hero__image .hero-credit-icon:after {
+        display: none;
+    }
+    .quire-page__header.hero__image .hero-credit {
+        display: block;
+        color: #000;
+        position: static;
+    }
+
+
+    #exhibition-landing-page .quire-contents, #exhibition-landing-page .card, 
+    #exhibition-landing-page .quire-page__header, #exhibition-landing-page .section.quire-page__content {
+        background-color: #fff;
+    }
+    #exhibition-landing-page .quire-page__header__title,
+    #exhibition-landing-page .quire-contents-list.grid .section-item .card .card-content,
+    #exhibition-landing-page .quire-contents-list.grid .page-item .card .card-content {
+        color: #000;
+    }
+    #exhibition-landing-page .quire-contents-list.grid .page-item .card.no-image .card-content {
+        padding-top: 1.25rem;
+        padding-bottom: 0.25rem;
+        padding-right: 94px;
+        font-size: 1.125rem;
+        line-height: 1.35;
+    }
+    #exhibition-landing-page .quire-contents-list.grid .page-item .card .card-image figure {
+        width: 300px; 
+        height: 100px; 
+    }
+    
+    #exhibition-landing-page .quire-contents-list.grid .page-item .card {
+        min-height: 160px;
+    }
+
+
+    #exhibition-checklist h2 {
+        margin-top: 40%;
+        break-before: always;
+        page-break-before: always;
+        break-after: always;
+        page-break-after: always;
+    }
+    #exhibition-checklist .content figure img {
+        max-height: 8in;
+        height: 100%;
+        max-width: auto;
+    }
+    #exhibition-checklist div.details
+    #exhibition-checklist div.image {
+        break-after: always;
+        page-break-after: always;
+    }
+    #exhibition-checklist div.details div {
+        font-size: 12pt;
+    }
+
+    .quire-figure {
+        border-top: none !important;
+        border-bottom: none !important;
+    }
+
     .remove-from-epub, template {
       display: none;
     }
@@ -1483,6 +1608,25 @@ h1 .title_logo {
     }
     #main.quire-page--black-page h1, #main.quire-page--black-page h2, #main.quire-page--black-page h3,
     #main.quire-page--black-page h4, #main.quire-page--black-page h5, #main.quire-page--black-page h6 {
-        color: #fff;
+        color: #000;
     }
+    #main.quire-page--black-page h1,
+    #main.quire-page--black-page .quire-page__header__contributor {
+        color: #000;
+    }
+
+    .title_logo > img {
+        display: block !important;
+        width: 5cm !important;
+        height: auto !important;
+    }
+    .title_logo > svg {
+        display: none !important;
+    }
+    
+    #site-menu__inner .title_logo,
+    #contents .title_logo {
+        display: none;
+    }
+
 }
