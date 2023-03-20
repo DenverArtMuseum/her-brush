@@ -293,8 +293,11 @@ figure_list:
   - id: 2018-186
     src: figures/2018_186.jpg
     alt: "A square sheet of paper inscribed with flowing calligraphy, mounted on a vertical orange cloth with cream-colored clouds and green and gold embroidery."
-    caption: 'Yuri of Gion <span lang="ja">祇園の百合</span>, 1694–1764, *Waka Poem*, mid-1700s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.186.'
-    credit: ""
+    credit: 'Yuri of Gion <span lang="ja">祇園の百合</span>, 1694–1764, *Waka Poem*, mid-1700s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.186.'
+  - id: 2018-186-mounted
+    src: figures/2018_186_2.jpg
+    alt: "A square sheet of paper inscribed with flowing calligraphy, mounted on a vertical orange cloth with cream-colored clouds and green and gold embroidery."
+    credit: 'Yuri of Gion <span lang="ja">祇園の百合</span>, 1694–1764, *Waka Poem*, mid-1700s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.186.'
   - id: 2018-189
     src: figures/2018_189.jpg
     alt: "Branches of pine, bamboo and plum blossom intertwine and fill the majority of the paper. Mushrooms sprout at the bottom. Calligraphy and red stamps in the middle-right."
@@ -456,6 +459,14 @@ figure_list:
     src: figures/2018_259_1-2.jpg
     alt: "Two small beige bowls with slanted sides. The exteriors are rough and darker brown than the smooth interiors. The interior rims are stamped with small squares and circles. The interior of the bowls are lighter beige and inscribed with poems written in  Japanese characters."
     credit: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–1895, *Two Teabowls in the Style of Rengetsu* (*Rengetsu-yaki*), late 1800s. Glazed ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2.'
+  - id: 2018-259-seal-1
+    src: figures/2018_259_seal_1.jpg
+    alt: "Two small beige bowls with slanted sides. The exteriors are rough and darker brown than the smooth interiors. The interior rims are stamped with small squares and circles. The interior of the bowls are lighter beige and inscribed with poems written in  Japanese characters."
+    credit: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–1895, *Two Teabowls in the Style of Rengetsu* (*Rengetsu-yaki*), late 1800s. Glazed ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2.'
+  - id: 2018-259-seal-2
+    src: figures/2018_259_seal_2.jpg
+    alt: "Two small beige bowls with slanted sides. The exteriors are rough and darker brown than the smooth interiors. The interior rims are stamped with small squares and circles. The interior of the bowls are lighter beige and inscribed with poems written in  Japanese characters."
+    credit: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–1895, *Two Teabowls in the Style of Rengetsu* (*Rengetsu-yaki*), late 1800s. Glazed ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2.'
   - id: 2018-262-1-7
     src: figures/2018_262_1-7.jpg
     alt: "A pale-colored ceramic tea set with a teapot, a water cooler, and five cups. Each piece has a slightly flared rim and features Japanese calligraphy incised on the exterior."
@@ -528,6 +539,10 @@ figure_list:
     credit: ""
   - id: 2021-200-1-4
     src: figures/PTL-21788.jpg
+    alt: "A set of four square ceramic plates with raised edges. The top left corner of each plate is lighter in color and features a floral motif. The rest of each plate is filled with Japanese calligraphy."
+    credit: 'Artist unknown, copy after Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Set of Four Plates*, dates unknown. Ceramic. Gift of Drs. John Fong and Colin Johnstone, 2021.200.1–4.'
+  - id: 2021-200-back
+    src: figures/2021_200_back.jpg
     alt: "A set of four square ceramic plates with raised edges. The top left corner of each plate is lighter in color and features a floral motif. The rest of each plate is filled with Japanese calligraphy."
     credit: 'Artist unknown, copy after Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Set of Four Plates*, dates unknown. Ceramic. Gift of Drs. John Fong and Colin Johnstone, 2021.200.1–4.'
   - id: 2021-205
