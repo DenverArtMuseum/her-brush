@@ -8,10 +8,6 @@ image:
     id: banner-unstoppable
 ---
 
-{{< q-figure id="2018-154A-C" class="half-width" >}}
-
-The screen at the center of the last gallery of the exhibition lends its name to the section title. On one side, it reads: "no," or "nothingness." On the other: “barriers.” When considered together, however, the two characters spell “unstoppable” (or no barriers, *mukan* <span lang="ja">無関</span>).
-
 Each of the works in this section addresses the subject of perseverance, overcoming personal and societal obstacles, and shattering the glass ceiling.
 
 These artists dared to leave their enduring mark through art.

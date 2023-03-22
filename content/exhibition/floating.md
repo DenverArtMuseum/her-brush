@@ -68,4 +68,4 @@ Kaji of Gion was a gifted poet-calligrapher and the first owner of the Matsuya t
 
 Yuri of Gion established herself as a renowned calligrapher and painter in her own right.
 
-Machi of Gion, Yuri’s daughter, is best known by her later name, Tokuyama (Ike) Gyokuran, and was a formidable literati painter, calligrapher, and poet. Her work is shown in the following section, dedicated to literati circles.
+Machi of Gion, Yuri’s daughter, is best known by her later name, Tokuyama (Ike) Gyokuran, and was a formidable literati painter, calligrapher, and poet. Her work is included in the following section, dedicated to literati circles.

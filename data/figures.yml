@@ -525,6 +525,7 @@ figure_list:
     credit: 'Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>, 1791–1875, *Sake Decanter* (*tokkuri*), 1800s. Glazed ceramic. Gift of Drs. John Fong and Colin Johnstone, 2021.196.'
   - id: 2021-198
     src: figures/RA_2021_198.jpg
+    alt: "A rectangular brown wooden box with Japanese characters written on the lid."
     caption: ""
     credit: "Maker unknown, *Lidded Wooden Box* (*tomobako*) *with Inscription by Priest Kōen of the Jinkō-in temple*, 1800s. Wood. Gift of Drs. John Fong and Colin Johnstone, RA.2021.198."
   - id: 2021-198-1-5
@@ -662,7 +663,7 @@ figure_list:
     src: figures/Tokuyama_Gyokuran_Ike_no_Taiga.jpg
     alt: "A black-and-white illustration of two people wearing kimono in a room. One playes a stringed instrument. Various paintings leant against a wall in the background. In the foreground, several objects sit atop a table."
     caption: ""
-    credit: 'Mikuma Shikō, *Tokuyama Gyokuran and Ike Taiga in their studio* (detail), in *Kinsei kijinden*, vol. 4 (1788), p. 8.'
+    credit: *Tokuyama Gyokuran and Ike Taiga in Their Studio* (detail), in Ban Kōkei <span lang="ja">伴蒿蹊</span> and Mikuma Katen <span lang="ja">三熊花顛</span>,*Kinsei kijinden*, vol. 4 (1788), 8. National Diet Library Digital Collections, via Wikimedia Commons. Public domain.'
   - id: slips
     src: figures/slips.jpg
     alt: Five thin, printed strips resembling bookmarks. Each slip depicts one of the artists from the Her Brush exhibition.
