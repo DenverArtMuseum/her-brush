@@ -10,7 +10,7 @@ class: left-column kanji-header exhibition
 
 The Inner Chambers (*ōoku* <span lang="ja">大奥</span>) are the secluded areas where women primarily resided within the courts and castles of the upper class. The term became synonymous with women and reveals the gender segregation of early modern Japan’s elite.
 
-Daughters born into elite and wealthy households studied the fundamentals of the Three Perfections (painting, poetry, and calligraphy). They were not expected to become artists. Their artistic education was intended to prepare them to be proper companions for the men in their lives.
+Daughters born into elite and wealthy households studied the fundamentals of the Three Perfections (painting, poetry, and calligraphy). They were not expected to become artists. Their artistic education was intended to prepare them to be proper companions for their male counterparts.
 
 Yet sometimes exceptionally talented and driven women continued to cultivate these skills, paving their own paths as independent artists. Some, like Ono no Ozū, even served as teachers in the Inner Chambers, transmitting their knowledge in the arts to future generations.
 
