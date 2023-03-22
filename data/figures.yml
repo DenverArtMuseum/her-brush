@@ -461,12 +461,12 @@ figure_list:
     credit: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–1895, *Two Teabowls in the Style of Rengetsu* (*Rengetsu-yaki*), late 1800s. Glazed ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2.'
   - id: 2018-259-seal-1
     src: figures/2018_259_seal_1.jpg
-    alt: "Two small beige bowls with slanted sides. The exteriors are rough and darker brown than the smooth interiors. The interior rims are stamped with small squares and circles. The interior of the bowls are lighter beige and inscribed with poems written in  Japanese characters."
-    credit: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–1895, *Two Teabowls in the Style of Rengetsu* (*Rengetsu-yaki*), late 1800s. Glazed ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2.'
+    alt: "Photo of the rough outside of the teabowl with a small stamp with Japanese characters in the center."
+    credit: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–1895, *Teabowl in the Style of Rengetsu* (*Rengetsu-yaki*) (detail), late 1800s. Glazed ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.259.1.'
   - id: 2018-259-seal-2
     src: figures/2018_259_seal_2.jpg
-    alt: "Two small beige bowls with slanted sides. The exteriors are rough and darker brown than the smooth interiors. The interior rims are stamped with small squares and circles. The interior of the bowls are lighter beige and inscribed with poems written in  Japanese characters."
-    credit: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–1895, *Two Teabowls in the Style of Rengetsu* (*Rengetsu-yaki*), late 1800s. Glazed ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.259.1-2.'
+    alt: "Close-up photo of the small stamp with Japanese characters on the rough outside of the teabowl."
+    credit: 'Kuroda Kōryō <span lang="ja">黒田光良</span>, 1823–1895, *Teabowl in the Style of Rengetsu* (*Rengetsu-yaki*) (detail), late 1800s. Glazed ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.259.1.'
   - id: 2018-262-1-7
     src: figures/2018_262_1-7.jpg
     alt: "A pale-colored ceramic tea set with a teapot, a water cooler, and five cups. Each piece has a slightly flared rim and features Japanese calligraphy incised on the exterior."
@@ -629,7 +629,7 @@ figure_list:
   - id: rengetsu-portrait
     src: figures/Rengetsu_scan.jpg
     caption: ""
-    credit: 'Tomioka Tessai, detail of a posthumous portrait of Ōtagaki Rengetsu <span lang="ja">太田垣蓮月</span>. Source: Tokuda Kōen, *Otakagaki Rengetsu* <span lang="ja">大田垣蓮月</span> (Tōkyō: Kodansha, 1982).'
+    credit: 'Tomioka Tessai, *A Posthumous Portrait of Ōtagaki Rengetsu* <span lang="ja">太田垣蓮月</span>. Source: Tokuda Kōen, *Otakagaki Rengetsu* <span lang="ja">大田垣蓮月</span> (Tōkyō: Kodansha, 1982).'
   - id: "2018_198_1"
     src: figures/2018_198_1.jpg
     caption: ""
