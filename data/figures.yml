@@ -663,7 +663,7 @@ figure_list:
     src: figures/Tokuyama_Gyokuran_Ike_no_Taiga.jpg
     alt: "A black-and-white illustration of two people wearing kimono in a room. One playes a stringed instrument. Various paintings leant against a wall in the background. In the foreground, several objects sit atop a table."
     caption: ""
-    credit: *Tokuyama Gyokuran and Ike Taiga in Their Studio* (detail), in Ban Kōkei <span lang="ja">伴蒿蹊</span> and Mikuma Katen <span lang="ja">三熊花顛</span>,*Kinsei kijinden*, vol. 4 (1788), 8. National Diet Library Digital Collections, via Wikimedia Commons. Public domain.'
+    credit: '*Tokuyama Gyokuran and Ike Taiga in Their Studio* (detail), in Ban Kōkei <span lang="ja">伴蒿蹊</span> and Mikuma Katen <span lang="ja">三熊花顛</span>,*Kinsei kijinden*, vol. 4 (1788), 8. National Diet Library Digital Collections, via Wikimedia Commons. Public domain.'
   - id: slips
     src: figures/slips.jpg
     alt: Five thin, printed strips resembling bookmarks. Each slip depicts one of the artists from the Her Brush exhibition.

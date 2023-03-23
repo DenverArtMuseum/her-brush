@@ -131,7 +131,7 @@ $print-trim: $print-bleed * 2;
     margin-right: 0;
   }
 
-  @page no-footer, entry-image, splash-image, cover {
+  @page no-footer {  /*, entry-image, splash-image, cover { */
     @bottom-right {
       content: none;
     }
@@ -245,17 +245,17 @@ $print-trim: $print-bleed * 2;
   }
 
   .quire-splash {
-    page: splash;
-    .quire-page__header {
-      &.hero-image {
-        /* page: splash-image; */
-      }
-      &--full-height {
-        $print-splash-height: $print-height - $print-top-margin - $print-bottom-margin;
-        height: $print-splash-height;
-        /* page: splash-image; */
-      }
-    }
+    page: splash-image;
+    // .quire-page__header {
+    //   &.hero-image {
+    //     page: splash-image;
+    //   }
+    //   &--full-height {
+    //     $print-splash-height: $print-height - $print-top-margin - $print-bottom-margin;
+    //     height: $print-splash-height;
+    //     page: splash-image;
+    //   }
+    // }
   }
 
   .quire-splash.quire-page--frontmatter {
@@ -307,25 +307,25 @@ $print-trim: $print-bleed * 2;
       }
     }
 
-    @if $print-width > 7 {
-      .quire-essay &,
-      .quire-entry & {
-        column-count: 2;
-        column-fill: balance;
-        column-gap: .1875in;
-        max-width: 100%;
-        margin: 0;
+    // @if $print-width > 7 {
+    //   .quire-essay &,
+    //   .quire-entry & {
+    //     column-count: 2;
+    //     column-fill: balance;
+    //     column-gap: .1875in;
+    //     max-width: 100%;
+    //     margin: 0;
 
-        // with narrower columns, image should be full width
-        .quire-figure.is-pulled-left,
-        .quire-figure.is-pulled-right {
-          float: none;
-          width: 100%;
-          margin-left: 0;
-          margin-right: 0;
-        }
-      }
-    }
+    //     // with narrower columns, image should be full width
+    //     .quire-figure.is-pulled-left,
+    //     .quire-figure.is-pulled-right {
+    //       float: none;
+    //       width: 100%;
+    //       margin-left: 0;
+    //       margin-right: 0;
+    //     }
+    //   }
+    // }
 
   }
 
