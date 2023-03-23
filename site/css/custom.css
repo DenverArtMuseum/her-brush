@@ -184,11 +184,11 @@ h1 > * {
     background-color: #fff;
 }
 
-.quire-page__content .content a {
+.quire-page__content .content :not(figure) a {
     color: var(--rich-gold);
     border-bottom: 1px dotted var(--rich-gold);
 }
-.quire-page__content .content a:hover {
+.quire-page__content .content :not(figure) a:hover {
     color: var(--grayish-lime-green) !important;
     border-bottom: 1px dotted var(--grayish-lime-green) !important;
 }
@@ -1302,7 +1302,7 @@ h1 .title_logo {
 }
 
 /* Media Query for low resolution Tablets, Ipads */
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
 
     .quire-page.quire-cover .quire-cover__hero-body .title {
         font-size: 3rem;
@@ -1329,7 +1329,7 @@ h1 .title_logo {
     .flexbox-row.col-3 > div, .flexbox-row.col-4 > div {
         width: 100%;
     }
-    .quire-splash.quire-featured .quire-page__header.hero__image,
+    /* .quire-splash.quire-featured .quire-page__header.hero__image,
     .quire-page__header.hero__image {
         height: 40vh;
         max-height: 400px;
@@ -1338,7 +1338,7 @@ h1 .title_logo {
     .quire-page__header.hero-image {
         padding-left: 20px;
         padding-right: 20px;
-    }
+    } */
     
     .quire-featured .hero-body {
         padding-left: 20px;
@@ -1433,7 +1433,7 @@ h1 .title_logo {
 }
 
 /* Media Query for Mobile Devices */
-@media (max-width: 480px) {
+@media screen and (max-width: 480px) {
     #symposium-landing-page .quire-page__header.hero h1 {
         font-size: 2.5rem;
     }
@@ -1444,24 +1444,37 @@ h1 .title_logo {
 
 @media print {
 
+    :lang(ja) {
+        word-break: normal;
+    }
+
+    .quire-page__content {
+        max-width: 5.25in;
+    }
+    .quire-contents .quire-page__content .quire-contents-list:not(.grid) {
+        max-width: 6.75in;
+    }
+    #exhibition-checklist .quire-page__content {
+        max-width: 100%;
+    }
+
     .quire:not(.no-js) .quire__primary {
         height: 100%;
     }
 
     figure img.quire-figure__image {
-        width: 100% !important;
-        height: auto !important;
-        max-height: 8in !important;
+        /* width: 100% !important; */
+        /* height: auto !important; */
+        /* max-height: 8in !important; */
     }
 
     .content figure.sticky {
         position: static;
     }
     .quire-figure .q-figure__wrapper img {
-        height: 70%;
-        max-height: 8in;
-        width: auto;
-        max-width: none;
+        /* height: 70%;
+        max-height: 8in;*/
+        width: 50%;
     }
 
     article.quire-page--left-column .quire-page__content .container .content > p,
@@ -1477,16 +1490,16 @@ h1 .title_logo {
         width: 100%;
     }
 
-    article.quire-page__content .container .content > .full-width,
+    /* article.quire-page__content .container .content > .full-width,
     article .quire-page__content .container .content > figure.full-width {
         margin-left: calc( -100% / 2 + 100% / 2 + 50px );
         margin-right: calc(-100% / 2 + 100% / 2 - 50px );
         max-width: calc( 100% - 100px );
-    }
-    article .quire-page__content .container .content > .half-width,
+    } */
+    /* article .quire-page__content .container .content > .half-width,
     article .quire-page__content .container .content > figure.half-width {
         max-width: calc( 50% - 100px );
-    }
+    } */
     article .quire-page__content .container .content > figure.float {
         float: none;
     }
@@ -1494,7 +1507,7 @@ h1 .title_logo {
     article.quire-page--left-column .quire-page__content .container .content figure.right-column {
         float: none;
         height: 70%;
-        max-height: 8in;
+        /* max-height: 8in; */
         clear: both;
     }
 
@@ -1519,15 +1532,29 @@ h1 .title_logo {
         page-break-after: avoid;
     }
 
+    .quire-page__header.hero__image {
+        margin-bottom: 60px !important;
+    }
     .quire-page__header.hero__image .hero-credit-icon:after {
         display: none;
     }
     .quire-page__header.hero__image .hero-credit {
         display: block;
         color: #000;
-        position: static;
+        position: absolute;
+        bottom: -46px;
+        left: 20px;
     }
 
+    .quire-contributor__title::before,
+    .quire-contributor__affiliation::before{
+        content: "\a";
+        white-space: pre;
+    }
+
+    #main.quire-page--exhibition .quire-page__header.hero {
+        position: relative;
+    }
 
     #exhibition-landing-page .quire-contents, #exhibition-landing-page .card, 
     #exhibition-landing-page .quire-page__header, #exhibition-landing-page .section.quire-page__content {
@@ -1554,23 +1581,48 @@ h1 .title_logo {
         min-height: 160px;
     }
 
+    /* #exhibition-checklist .quire-page__content__objects {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    } */
+    #exhibition-checklist .quire-page__content__object {
+        max-height: 33%;
+        height: auto;
+    }
+    /* #exhibition-checklist .quire-page__content__objects .quire-page__content__object:nth-child(6) {
+        break-after: always;
+        page-break-after: always;
+    } */
 
     #exhibition-checklist h2 {
         margin-top: 40%;
+        clear: both;
         break-before: always;
         page-break-before: always;
-        break-after: always;
-        page-break-after: always;
-    }
-    #exhibition-checklist .content figure img {
-        max-height: 8in;
-        height: 100%;
-        max-width: auto;
+        /* break-after: always;
+        page-break-after: always; */
     }
     #exhibition-checklist div.details
     #exhibition-checklist div.image {
-        break-after: always;
-        page-break-after: always;
+        width: 50%;
+        page-break-inside: avoid;
+    }
+    #exhibition-checklist div.details {
+        padding-left: 1cm;
+        padding-right: 1cm;
+    }
+    #exhibition-checklist div.details .quire-page__content__object:nth-child(odd) {
+        padding-left: 1cm;
+        padding-right: 1cm;
+    }
+    #exhibition-checklist .content figure a {
+        border: none !important;
+    }
+    #exhibition-checklist .content figure img {
+        width: auto;
+        max-width: 50%;
+        max-height: 33%;
     }
     #exhibition-checklist div.details div {
         font-size: 12pt;
