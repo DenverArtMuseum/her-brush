@@ -184,11 +184,11 @@ h1 > * {
     background-color: #fff;
 }
 
-.quire-page__content .content a {
+.quire-page__content .content :not(figure) a {
     color: var(--rich-gold);
     border-bottom: 1px dotted var(--rich-gold);
 }
-.quire-page__content .content a:hover {
+.quire-page__content .content :not(figure) a:hover {
     color: var(--grayish-lime-green) !important;
     border-bottom: 1px dotted var(--grayish-lime-green) !important;
 }
@@ -1302,7 +1302,7 @@ h1 .title_logo {
 }
 
 /* Media Query for low resolution Tablets, Ipads */
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
 
     .quire-page.quire-cover .quire-cover__hero-body .title {
         font-size: 3rem;
@@ -1433,7 +1433,7 @@ h1 .title_logo {
 }
 
 /* Media Query for Mobile Devices */
-@media (max-width: 480px) {
+@media screen and (max-width: 480px) {
     #symposium-landing-page .quire-page__header.hero h1 {
         font-size: 2.5rem;
     }
@@ -1450,6 +1450,12 @@ h1 .title_logo {
 
     .quire-page__content {
         max-width: 5.25in;
+    }
+    .quire-contents .quire-page__content .quire-contents-list:not(.grid) {
+        max-width: 6.75in;
+    }
+    #exhibition-checklist .quire-page__content {
+        max-width: 100%;
     }
 
     .quire:not(.no-js) .quire__primary {
@@ -1580,28 +1586,43 @@ h1 .title_logo {
         flex-direction: column;
         flex-wrap: wrap;
     } */
-    /* #exhibition-checklist .quire-page__content__objects .quire-page__content__object {
-        width: 100%;
-    } */
-    #exhibition-checklist .quire-page__content__objects .quire-page__content__object:nth-child(6) {
+    #exhibition-checklist .quire-page__content__object {
+        max-height: 33%;
+        height: auto;
+    }
+    /* #exhibition-checklist .quire-page__content__objects .quire-page__content__object:nth-child(6) {
         break-after: always;
         page-break-after: always;
-    }
+    } */
 
     #exhibition-checklist h2 {
         margin-top: 40%;
         clear: both;
-        /* break-before: always;
+        break-before: always;
         page-break-before: always;
-        break-after: always;
+        /* break-after: always;
         page-break-after: always; */
     }
     #exhibition-checklist div.details
     #exhibition-checklist div.image {
         width: 50%;
+        page-break-inside: avoid;
+    }
+    #exhibition-checklist div.details {
+        padding-left: 1cm;
+        padding-right: 1cm;
+    }
+    #exhibition-checklist div.details .quire-page__content__object:nth-child(odd) {
+        padding-left: 1cm;
+        padding-right: 1cm;
+    }
+    #exhibition-checklist .content figure a {
+        border: none !important;
     }
     #exhibition-checklist .content figure img {
-        width: 50%;
+        width: auto;
+        max-width: 50%;
+        max-height: 33%;
     }
     #exhibition-checklist div.details div {
         font-size: 12pt;
