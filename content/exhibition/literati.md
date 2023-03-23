@@ -20,7 +20,7 @@ As in other realms explored in this exhibition, literati circles included women 
 
 Gyokuran and her husband, the accomplished artist Ike Taiga, were on such equal footing that they would wear one another’s clothes, paint together, and neglect their housekeeping chores.
 
-{{< q-figure id="tokuyama-gyokuran" class="right-column" caption="Mikuma Shikō, Tokuyama Gyokuran and Ike Taiga in their studio (detail), in *Kinsei kijinden*, vol. 4 (1788), 8." >}}
+{{< q-figure id="tokuyama-gyokuran" class="right-column" >}}
 
 
 <div class="spacer spacer-300"></div>

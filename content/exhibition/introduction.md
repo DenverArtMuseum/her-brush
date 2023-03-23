@@ -28,7 +28,7 @@ We cannot speak for them, but we hope to amplify their voices and celebrate how 
 
 [Ōtagaki Rengetsu](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/) did not use a pottery wheel since it was considered unsuitable for women. Instead of emulating wheel-thrown pottery, she embraced the idiosyncrasies of hand-building.
 
-Every aspect of this work reveals her personal mark. The pockmarked surface records her fingers’ movement. She inscribed it with her own poetry, written in Hiragana (also known as women’s script). Notice her fingerprints on the *tokkuri*’s surface.
+Every aspect of this work reveals her personal mark. The pockmarked surface records her fingers’ movement. She inscribed it with her own poetry, written in Hiragana (also known as women’s script).
 
 ### Joys of Calligraphy
 
@@ -52,6 +52,8 @@ Every aspect of this work reveals her personal mark. The pockmarked surface reco
 {{< /q-class >}}
 
 
+### Making a Mark ###
+
 Turning to the sister arts of painting, poetry, and calligraphy (together called the Three Perfections) for artistic expression was an act of self-assertion. One’s brushwork (whether in calligraphy or painting) reflected one’s true nature.
 
 You will find the designation *joshi* in the signature of several artists in the exhibition. It is made of two *kanji* characters:
@@ -64,7 +66,7 @@ Today this gendered honorific is outdated. Recently, it has even been used as a 
 
 {{< q-figure id="2018-155" caption="Left to right, the characters read “pines” and “waves”." >}}
 
-Notice the forceful calligraphy. It splinters and breaks—like waves or rugged pine bark—into white streaks. [Murase Myōdō](/artists/#Murase-Myōdō-村瀬明道/) created this powerful work using her left, nondominant, hand. At thirty-nine, an accident rendered her right side paralyzed. Resolute to continue pursuing her passions, she taught herself to use her left hand.
+Notice the forceful calligraphy in [Murase Myōdō’s](/artists/#Murase-Myōdō-村瀬明道/) *Breaking Waves in the Pines*. It splinters and breaks—like waves or rugged pine bark—into white streaks. Myōdō created this powerful work using her left, nondominant, hand. At thirty-nine, an accident rendered her right side paralyzed. Resolute to continue pursuing her passions, she taught herself to use her left hand.
 
 {{< q-figure id="2018-215" class="half-width centered">}}
 
