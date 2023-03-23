@@ -12,6 +12,8 @@ Each of the works in this section addresses the subject of perseverance, overcom
 
 These artists dared to leave their enduring mark through art.
 
+{{< q-figure id="early-views" class="half-width centered" >}}
+
 <div class="spacer spacer-300"></div>
 
 {{< q-figure id="2018-157" class="right-column" >}}

@@ -1445,7 +1445,7 @@ h1 .title_logo {
 @media print {
 
     :lang(ja) {
-        word-break: normal;
+        word-break: break-word;
     }
 
     .quire-page__content {

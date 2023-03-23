@@ -58,7 +58,7 @@ This is an imagined portrait done sixty years after Rengetsu’s death. Depictin
 
 <div class="spacer spacer-200"></div>
 
-{{< q-figure id="2021-206" class="half-width centered">}}
+{{< q-figure id="2021-206" class="half-width centered" caption="*Click on the image to see more pages from the Travel Journal.*<br/><br/>">}}
 {{< q-figure id="2021-206-cover" class="hidden remove-from-epub">}}
 {{< q-figure id="2021-206-back" class="hidden remove-from-epub">}}
 {{< q-figure id="2021-206-3" class="hidden remove-from-epub">}}
