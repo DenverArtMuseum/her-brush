@@ -1329,7 +1329,7 @@ h1 .title_logo {
     .flexbox-row.col-3 > div, .flexbox-row.col-4 > div {
         width: 100%;
     }
-    .quire-splash.quire-featured .quire-page__header.hero__image,
+    /* .quire-splash.quire-featured .quire-page__header.hero__image,
     .quire-page__header.hero__image {
         height: 40vh;
         max-height: 400px;
@@ -1338,7 +1338,7 @@ h1 .title_logo {
     .quire-page__header.hero-image {
         padding-left: 20px;
         padding-right: 20px;
-    }
+    } */
     
     .quire-featured .hero-body {
         padding-left: 20px;
@@ -1444,14 +1444,18 @@ h1 .title_logo {
 
 @media print {
 
+    .quire-page__content {
+        max-width: 5.25in;
+    }
+
     .quire:not(.no-js) .quire__primary {
         height: 100%;
     }
 
     figure img.quire-figure__image {
-        width: 100% !important;
-        height: auto !important;
-        max-height: 8in !important;
+        /* width: 100% !important; */
+        /* height: auto !important; */
+        /* max-height: 8in !important; */
     }
 
     .content figure.sticky {
@@ -1479,9 +1483,9 @@ h1 .title_logo {
 
     article.quire-page__content .container .content > .full-width,
     article .quire-page__content .container .content > figure.full-width {
-        margin-left: calc( -100% / 2 + 100% / 2 + 50px );
+        /* margin-left: calc( -100% / 2 + 100% / 2 + 50px );
         margin-right: calc(-100% / 2 + 100% / 2 - 50px );
-        max-width: calc( 100% - 100px );
+        max-width: calc( 100% - 100px ); */
     }
     article .quire-page__content .container .content > .half-width,
     article .quire-page__content .container .content > figure.half-width {
@@ -1494,7 +1498,7 @@ h1 .title_logo {
     article.quire-page--left-column .quire-page__content .container .content figure.right-column {
         float: none;
         height: 70%;
-        max-height: 8in;
+        /* max-height: 8in; */
         clear: both;
     }
 
@@ -1519,13 +1523,24 @@ h1 .title_logo {
         page-break-after: avoid;
     }
 
+    .quire-page__header.hero__image {
+        margin-bottom: 60px !important;
+    }
     .quire-page__header.hero__image .hero-credit-icon:after {
         display: none;
     }
     .quire-page__header.hero__image .hero-credit {
         display: block;
         color: #000;
-        position: static;
+        position: absolute;
+        bottom: -46px;
+        left: 20px;
+    }
+
+    .quire-contributor__title::before,
+    .quire-contributor__affiliation::before{
+        content: "\a";
+        white-space: pre;
     }
 
 

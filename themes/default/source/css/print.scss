@@ -248,13 +248,12 @@ $print-trim: $print-bleed * 2;
     page: splash;
     .quire-page__header {
       &.hero-image {
-        page: splash-image;
-
+        /* page: splash-image; */
       }
       &--full-height {
         $print-splash-height: $print-height - $print-top-margin - $print-bottom-margin;
         height: $print-splash-height;
-        page: splash-image;
+        /* page: splash-image; */
       }
     }
   }
@@ -267,9 +266,9 @@ $print-trim: $print-bleed * 2;
     .quire-entry__image__group-container {
       figure {
         page: entry-image;
-        }
       }
     }
+  }
 
   .quire-contents {
     page: no-footer;
