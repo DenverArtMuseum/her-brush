@@ -782,3 +782,6 @@ figure_list:
     src: videostill.jpg
     media_id: 822160370/67d940455e
     media_type: vimeo
+  - id: walk-through-still
+    src: figures/walk-through.png
+    credit: 
