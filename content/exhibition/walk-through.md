@@ -1,9 +1,7 @@
 ---
-title: Video interview/walk-through
+title: Exhibitionalk-through
 type: essay
 weight: 401
-contributor:
-    - id: pberry
 epub: false
 pdf: false
 class: exhibition

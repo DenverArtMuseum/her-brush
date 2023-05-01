@@ -779,9 +779,8 @@ figure_list:
     src: figures/banner-unstoppable.jpg
     credit: 'Installation of <cite>Her Brush: Japanese Women Artists from the Fong-Johnstone Collection</cite>. Photograph by Eric Stephenson.'
   - id: walk-through
-    src: videostill.jpg
     media_id: 822160370/67d940455e
     media_type: vimeo
   - id: walk-through-still
-    src: figures/walk-through.png
-    credit: 
+    src: figures/walk-through-still.png
+    credit: Walk-through of Exhibition
