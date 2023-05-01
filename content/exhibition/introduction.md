@@ -24,15 +24,11 @@ We refer here to their gender identity as women. But it is possible that if aske
 
 We cannot speak for them, but we hope to amplify their voices and celebrate how they left their indelible mark on the world through art.
 
-{{< q-figure id="2021-196" class="half-width centered">}}
-
-[Ōtagaki Rengetsu](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/) did not use a pottery wheel since it was considered unsuitable for women. Instead of emulating wheel-thrown pottery, she embraced the idiosyncrasies of hand-building.
-
-Every aspect of this work reveals her personal mark. The pockmarked surface records her fingers’ movement. She inscribed it with her own poetry, written in Hiragana (also known as women’s script).
+<div class="spacer-300"></div>
 
 ### Joys of Calligraphy
 
-{{< q-class "flexbox-row" >}}
+{{< q-class "flexbox-row centered threefourths-width standout" >}}
 {{< q-class "flexbox-column" >}}
 >“Taking up the brush\
 >just for the joy of it,\
@@ -51,6 +47,12 @@ Every aspect of this work reveals her personal mark. The pockmarked surface reco
 {{< /q-class >}}
 {{< /q-class >}}
 
+{{< q-figure id="2021-196" class="half-width centered">}}
+
+[Ōtagaki Rengetsu](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/) did not use a pottery wheel since it was considered unsuitable for women. Instead of emulating wheel-thrown pottery, she embraced the idiosyncrasies of hand-building.
+
+Every aspect of this work reveals her personal mark. The pockmarked surface records her fingers’ movement. She inscribed it with her own poetry, written in Hiragana (also known as women’s script).
+
 
 ### Making a Mark ###
 
@@ -68,13 +70,20 @@ Today this gendered honorific is outdated. Recently, it has even been used as a 
 
 Notice the forceful calligraphy in [Murase Myōdō’s](/artists/#Murase-Myōdō-村瀬明道/) *Breaking Waves in the Pines*. It splinters and breaks—like waves or rugged pine bark—into white streaks. Myōdō created this powerful work using her left, nondominant, hand. At thirty-nine, an accident rendered her right side paralyzed. Resolute to continue pursuing her passions, she taught herself to use her left hand.
 
-{{< q-figure id="2018-215" class="half-width centered">}}
+<div class="flexbox-row col-2 threefourths-width centered">
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-215" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-212" >}}
+</div>
+</div>
 
-{{< q-figure id="2018-212" class="half-width centered" >}}
-
-{{< q-figure id="2018-193" class="half-width centered" >}}
+{{< q-figure id="2018-193" class="right-column" >}}
 
 From an early age [Kō (Ōshima) Raikin](/artists/#Kō-(Ōshima)-Raikin-高(大島)来禽/) studied Chinese painting, poetry, and calligraphy and later took an active role in literati circles, intellectuals who shared a passion for Chinese art. *Autumn Landscape*, with its abbreviated strokes, schematized rendering of foliage, and color washes, reveals her familiarity with Chinese painting manuals, especially *The* *Mustard Seed Garden Manual of Painting*, popular in Japan at the time.
+
+<div class="spacer-100"></div>
 
 {{< q-figure id="rengetsu-portrait" class="half-width centered" >}}
 
@@ -107,12 +116,18 @@ They were made as a tribute by her collaborator and admirer [Kuroda Kōryō](/ar
 <div class="spacer-300"></div>
 {{< q-figure id="2018-146" class="right-column" >}}
 
-
+{{< q-class "flexbox-row centered threefourths-width standout" >}}
+{{< q-class "flexbox-column" >}}
 >“The Three Obediences—I’ve had none all my life.”\
 >— Ema Saikō
+{{< /q-class >}}
 
+{{< q-class "flexbox-column" >}}
 ><span lang="ja">「 三従総欠一生涯」\
 >江馬細香</span>
+{{< /q-class >}}
+
+{{< /q-class >}}
 
 In this folk painting, an aged woman clutching Buddhist rosary beads crouches on a mat.
 

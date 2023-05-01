@@ -8,7 +8,7 @@ contributor:
 class: left-column
 ---
 
-{{< q-figure id="2021-164A-B" class="right-column" caption="**fig. 1a**">}}
+{{< q-figure id="2021-164A-B" class="right-column scrolling-zoom" caption="**fig. 1a**">}}
 
 {{< q-figure id="2021-164-bottom" class="right-column" caption="**fig. 1b**" >}}
 
@@ -18,9 +18,19 @@ Oscillating between mass production and prized rarity, this tortoise kōgō snee
 
 The market—forever attentive—swiftly responded to this demand in kind with a flood of copies and forgeries already in the artist’s own lifetime. This plethora of Rengetsu-yaki wares has long challenged art historians and connoisseurs in assessing the artist’s oeuvre. At the same time, these idiomatic works hold an equally important key to better understanding the artist, her life, and her work.
 
-{{< q-figure id="2018-262-1-7" class="right-column" caption="**fig 2**" >}}
-{{< q-figure id="2018-177" class="right-column" caption="**fig 3**" >}}
-{{< q-figure id="2018-169-A-B" class="right-column" caption="**fig 4**" >}}
+<div class="spacer-100"></div>
+
+<div class="flexbox-row col-3 threefourths-width centered">
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-262-1-7" caption="**fig 2**" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-177" caption="**fig 3**" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-169-A-B" caption="**fig 4**" >}}
+</div>
+</div>
 
 Emulations of Rengetsu’s signature style range from outright forgeries (e.g., figs. 2–3) to pieces that, as art historian Paul Berry has remarked, were never intended to deceive but instead were a nod to her work—an homage to the artist. Such, for instance, is this later incenser bearing an underglaze poem by Rengetsu and crowned with reticulated metal openwork (fig. 4). Its smooth and clear-overglazed surface indicates it was thrown on a wheel. It thereby does not attempt to imitate Rengetsu’s hand-built process. It is not a forgery; neither is it an authentic work by Rengetsu herself. It is an “honest copy.” It lives in the liminal space, somewhere on the richly gradated spectrum of idiomatic artmaking (a forthcoming video will feature a discussion of two Rengetsu-yaki teabowls by the artist [Kuroda Kōryō (<span lang="ja">黒田光良</span> 1823–1895)](/artists/#Kuroda-Kōryō-黒田光良/).
 
@@ -85,13 +95,13 @@ The calligraphy on *Friendless Plover*, however, is more belabored and uncertain
 
 <div class="flexbox-row col-4">
 <div class="flexbox-column padding-20">
-{{< q-figure id="2021-184-detail-2" caption="**fig. 7**" >}}
+{{< q-figure id="2021-184-detail-3" caption="**fig. 7**" >}}
 </div>
 <div class="flexbox-column padding-20">
 {{< q-figure id="2018-173-detail-2" caption="**fig. 8**" >}}
 </div>
 <div class="flexbox-column padding-20">
-{{< q-figure id="2021-184-detail-3" caption="**fig. 9**" >}}
+{{< q-figure id="2021-184-detail-2" caption="**fig. 9**" >}}
 </div>
 <div class="flexbox-column padding-20">
 {{< q-figure id="2018-173-detail-3" caption="**fig. 10**" >}}

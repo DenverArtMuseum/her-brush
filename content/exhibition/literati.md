@@ -33,9 +33,11 @@ Turtles, and especially the long-tailed *minogame*, are symbols of longevity. As
 
 <div class="spacer spacer-300"></div>
 
+{{< q-figure id="2021-198-1-5" >}}
+
 These small plates, painted for a literati gathering, were used for sweets to complement the *sencha* (green leaf tea) ceremony. These abbreviated paintings and poems burst with humor and personality. Their creator, the nun-artist [Ōtagaki Rengetsu](/artists/#Ōtagaki-Rengetsu-太田垣蓮月/), was a central figure in Edo literati circles. She also produced other tea ceremony paraphernalia, as exhibited here.
 
-{{< q-figure id="2021-198-1-5" class="right-column" >}}
+{{< q-figure id="2021-198" class="right-column" >}}
 
 This group of plates is also rare for its impeccable documentation. Their original box bears an inscription of authenticity by Priest Kōen of the Jinkō-in temple, where Rengetsu once lived.
 

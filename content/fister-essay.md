@@ -1,5 +1,6 @@
 ---
-title: "Calligraphy, Poems, and Paintings by Japanese Buddhist Nuns"
+title: "Calligraphy, Poems, and Paintings"
+subtitle: "by Japanese Buddhist Nuns"
 short_title: "Calligraphy, Poems & Paintings"
 type: featured
 weight: 302

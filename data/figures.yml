@@ -778,3 +778,7 @@ figure_list:
     alt: "Installation view of a gallery with curved walls. Mounted calligraphy sits in a case in the center. To the right hang several scrolls. To the left a video wall project is visible."
     src: figures/banner-unstoppable.jpg
     credit: 'Installation of <cite>Her Brush: Japanese Women Artists from the Fong-Johnstone Collection</cite>. Photograph by Eric Stephenson.'
+  - id: walk-through
+    src: videostill.jpg
+    media_id: 822160370/67d940455e
+    media_type: vimeo

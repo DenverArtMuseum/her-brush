@@ -1,13 +1,14 @@
 ---
 title: Video interview/walk-through
-type: page
+type: essay
 weight: 401
 contributor:
     - id: pberry
-online: false
-toc: false
 epub: false
 pdf: false
+image: 
+    id: walk-through-still
+class: exhibition
 ---
 
-TK—not until after the symposium/Quire launch
+{{< q-figure id="walk-through" class="full-width">}}
