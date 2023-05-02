@@ -1,5 +1,5 @@
 ---
-title: Exhibitionalk-through
+title: Video tour of the exhibition
 type: essay
 weight: 401
 epub: false
