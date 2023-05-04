@@ -10,4 +10,6 @@ contributor:
 class: left-column black-page
 ---
 
+{{< q-figure id="tomoko-calligraphy-performance" class="full-width">}}
+
 Tomoko Kawao, a Kyoto-based artist, performed her internationally acclaimed calligraphy process at the Denver Art Museum on March 21, 2023. This page will eventually contain an artist's statement. 
