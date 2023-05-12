@@ -335,7 +335,7 @@ figure_list:
     src: figures/2018_195.jpg
     alt: "Cream colored paper folding fan painted with mountain scene with red leaf tree."
     caption: ""
-    credit: ""
+    credit: 'Noguchi Shōhin <span lang="ja">野口小蘋</span>, 1847–1917, *Fan with Scene of Autumn Mountains and Mist*, late 1800s–early 1900s. Ink and light color on paper with bamboo support. Gift of Drs. John Fong and Colin Johnstone, 2018.195.'
   - id: 2018-196
     src: figures/2018_196.jpg
     alt: "A wicker basket overflowing with flowers and foliage sits in the bottom foreground of a vertical composition. Behind it, a tall narrow vase on a short plant stand also overspills with blooming flowers, verdant foliage, and a pine bough."
@@ -348,7 +348,7 @@ figure_list:
     src: figures/2018_201.jpg
     alt: "Cream colored paper folding fan painted with mountain scene."
     caption: ""
-    credit: ""
+    credit: 'Noguchi Shōhin <span lang="ja">野口小蘋</span>, 1847–1917, *Fan with Summer Scene*, late 1800s. Ink and color on silk with bamboo and lacquered wood support. Gift of Drs. John Fong and Colin Johnstone, 2018.201.'
   - id: 2018-202
     src: figures/2018_202.jpg
     alt: "Yellowed silk painted with nine turtles clamering up a rocky surface under a rising sun. Each turtle is accompanied by a signature."
@@ -440,7 +440,7 @@ figure_list:
     src: figures/2018_247A-B.jpg
     alt: "A pair of sliding screen doors framed in brown wood. Colorful flowers span the two doors. The left door has ten lines of calligraphy in the upper left-hand corner."
     caption: ""
-    credit: ""
+    credit: 'Okuhara Seiko <span lang="ja">奥原晴湖</span>, 1837–1913, *Flowering Plants of the Four Seasons*, 1898. Ink and color on paper mounted on cabinet doors. Gift of Drs. John Fong and Colin Johnstone, 2018.247A-B.'
   - id: 2018-251
     src: figures/2018_251.jpg
     alt: "Ink painting of cross-legged female figure in flowing robes with long dark hair. Two lines of calligraphy at the top right and bottom left."
