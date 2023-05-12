@@ -60,6 +60,7 @@ These paintings belong to the genre of *haiga*, an abbreviated and swiftly execu
 ### Okuhara Seiko <span lang="ja">奥原晴湖</span> (1837–1913)
 
 {{< q-figure id="seiko" class="right-column" >}}
+{{< q-figure id="2018-247A-B" class="right-column" >}}
 
 >The tip of her brush<br />
 >can wipe away<br />
@@ -74,6 +75,17 @@ One of the period’s most influential literati artists, Seiko founded a school 
 
 <div class="spacer spacer-100"></div>
 
+<div class="flexbox-row col-2 threefourths-width centered">
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-195" class="" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-201" class="" >}}
+</div>
+</div>
+
+<div class="spacer spacer-100"></div>
+
 ### Noguchi Shōhin <span lang="ja">野口小蘋</span> (1847–1917)
 
 {{< q-figure id="shohin" class="right-column" caption="Portrait of Noguchi Shōhin 野口小蘋 in *Bunbu kōmeiroku 文武高名録*, a compilation of famous people and important literary figures published in 1893. Courtesy Hathi Trust Digital Library, digitized by Google." >}}
@@ -83,8 +95,15 @@ One of the period’s most influential literati artists, Seiko founded a school 
 
 Noguchi Shōhin burst onto the literati art scene right at the tail end of Okuhara Seiko’s heyday. She exhibited remarkable talent from an early age and later enjoyed imperial patronage, becoming the first woman artist to be appointed Official Artist of the Imperial Household in 1904.
 
-{{< q-figure id="2018-196" class="right-column" >}}
-
 Shōhin cultivated a public persona as a paragon of womanhood, complying with the “good wife, wise mother” paradigm (*ryōsai kenbo*), which gained traction at the turn of the century. Like Seiko, Shōhin used the expressive qualities of literati painting as a vehicle of self-expression and identity-construction. But unlike Seiko’s maverick and masculine comportment, Shōhin’s persona leveraged her femininity.
 
 Together, Shōhin and Seiko represent two wildly different visions of what it meant to be a literati artist.
+
+<div class="flexbox-row col-2 threefourths-width centered">
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-196" class="" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-206" class="" >}}
+</div>
+</div>

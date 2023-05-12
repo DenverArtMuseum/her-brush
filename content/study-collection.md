@@ -5,12 +5,17 @@ type: page
 weight: 303
 contributor:
     - id: einorcervone
-class: left-column
+class: full-width
 ---
 
-{{< q-figure id="2021-164A-B" class="right-column scrolling-zoom" caption="**fig. 1a**">}}
-
-{{< q-figure id="2021-164-bottom" class="right-column" caption="**fig. 1b**" >}}
+<div class="flexbox-row col-2 threefourths-width centered">
+<div class="flexbox-column padding-20">
+{{< q-figure id="2021-164A-B" class="scrolling-zoom" caption="**fig. 1a**">}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2021-164-bottom" class="" caption="**fig. 1b**" >}}
+</div>
+</div>
 
 A slapdash fissure stretches into a grimace beneath two burrowed cavities—a pair of gaping eyes—pressed into groggy *shigaraki* clay (fig. 1). Simple, coarse, unglazed. Almost insignificant. But then, a metallic glimmer draws the eye. Gold and lacquer *kintsugi*, lovingly applied to mend a crack, discloses how treasured a possession this tortoise-shaped *kōgō* (incense box) must have been. Notwithstanding its undeniable charm, how was its earthy material, hastily pressed onto a mold, valued above gold? Turning it over, three finger-wide grooves drag vertically from chin to tail. Through them, a signature emerges: Rengetsu (fig. 1b).
 
@@ -131,7 +136,7 @@ In recent decades, opportunities to access this type of information have been st
 
 The sobering realization that this coming generation of scholars will have little access to artwork has been the force behind the Fong-Johnstone Collection and Study Collection initiative. The gift, numbering more than five hundred objects—both copies and originals—will be made available to specialists, educators, and students. The Denver Art Museum is committed to leveraging the collection to raise awareness, offer accessibility, and advance the study of connoisseurship in its two focus areas: Ōbaku Zen painting and women artists from early modern and modern Japan. This is done with the conviction that, together, idiomatic and original artworks can help shed light on a more complete story of art history.
 
-{{< q-figure id="2021-200-1-4" class="right-column" caption="**fig. 13**" >}}
+{{< q-figure id="2021-200-1-4" class="half-width centered" caption="**fig. 13**" >}}
 
 And so, three inexplicable grooves on a late set of Rengetsu-yaki plates may speak not only to the artist’s centuries-long fame but also divulge a recognition of the powerful statement they make (fig. 13). By drawing three fingers across the clay—a stylized nod to pressing the material into the mold and the scraping off excess clay—Rengetsu acknowledges her medium of choice and at the same time she commemorates her intimate touch of the clay. The later set mimics the famous detail seen on the mold-pressed tortoise kōgō, but it does so on the back of the plates and over an impression of a slump mold’s coarse fabric. In other words, opposite to where it should have been placed. This misunderstanding of the process and intent inadvertently exposes the set of plates to be a copy, foiling an attempt to replicate the artist’s personal touch.
 

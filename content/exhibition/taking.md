@@ -8,6 +8,14 @@ image:
     id: banner-taking
 ---
 
+Taking the tonsure is the ceremonial shaving of one’s hair to join a Buddhist monastic order. It was a symbolic act of leaving one’s past behind. In fact, becoming a nun literally translates to “leaving one’s home” (*shukke* <span lang="ja">出家</span>).
+
+Tonsure did not mean, however, relinquishing one’s autonomy. On the contrary, it offered a form of liberation from societal expectations, such as the Three Obediences (of a woman to her father, husband, and son). It also enabled nuns to travel freely in times of state-imposed restrictions, which especially impacted women. Above all, it allowed them the freedom to pursue their art.
+
+Women from all walks of life took the tonsure, from princesses (like [Daitsū Bunchi](/artists/#Daitsū-Bunchi-大通文智/)) to entertainers (like [Ōishi Junkyō](/artists/#Ōishi-Junkyō-大石順教/)). Still, this was an extremely difficult path to take and often entailed unimaginable determination.
+
+Leaving their old names behind, taking new names as ordained nuns, these artists crafted new identities for themselves.
+
 {{< q-class "flexbox-row full-width centered" >}}
 
 {{< q-class "flexbox-column" >}}
@@ -26,19 +34,7 @@ image:
 
 {{< /q-class >}}
 
-
-<div class="spacer-200"></div>
-
-Taking the tonsure is the ceremonial shaving of one’s hair to join a Buddhist monastic order. It was a symbolic act of leaving one’s past behind. In fact, becoming a nun literally translates to “leaving one’s home” (*shukke* <span lang="ja">出家</span>).
-
-Tonsure did not mean, however, relinquishing one’s autonomy. On the contrary, it offered a form of liberation from societal expectations, such as the Three Obediences (of a woman to her father, husband, and son). It also enabled nuns to travel freely in times of state-imposed restrictions, which especially impacted women. Above all, it allowed them the freedom to pursue their art.
-
-Women from all walks of life took the tonsure, from princesses (like [Daitsū Bunchi](/artists/#Daitsū-Bunchi-大通文智/)) to entertainers (like [Ōishi Junkyō](/artists/#Ōishi-Junkyō-大石順教/)). Still, this was an extremely difficult path to take and often entailed unimaginable determination.
-
-Leaving their old names behind, taking new names as ordained nuns, these artists crafted new identities for themselves.
-
-
-<div class="spacer-100"></div>
+<div class="spacer-300"></div>
 
 {{< q-figure id="2018-165" class="right-column" >}}
 
@@ -91,9 +87,9 @@ The calligraphy reads “Bodhisattva of Myriad Acts of Compassion,” the Buddhi
 
 <div class="spacer spacer-300"></div>
 
-{{< q-figure id="fister-14" caption="Photograph of Ōishi Junkyō. From *The Mainichi Graphic*, 4 January 1956, published by The Mainichi Newspapers Co., Ltd. Source: Wikimedia Commons" class="half-width centered" >}}
-
 ### ŌISHI JUNKYŌ <span lang="ja">大石順教</span> (1888–1968)
+
+{{< q-figure id="fister-14" caption="Photograph of Ōishi Junkyō. From *The Mainichi Graphic*, 4 January 1956, published by The Mainichi Newspapers Co., Ltd. Source: Wikimedia Commons" class="right-column" >}}
 
 In her youth, Ōishi Yone was establishing her career as a *geigi* dancer. Her stage name was Tsumakichi. When she was seventeen, her adoptive father went on a murderous rampage, killing six members of the teahouse where she worked and severing both her arms.
 
@@ -101,13 +97,17 @@ After a long journey to recovery, she observed a bird feeding chicks with its be
 
 At the age of forty-five, she took the tonsure as a Buddhist nun, adopting the name Junkyō. Junkyō later founded a Buddhist temple where she devoted herself to art, Buddhism, and counseling people with disabilities, advocating for independence and resolve.
 
+<div class="spacer spacer-100"></div>
+
+{{< q-figure id="2018-156" class="half-width centered" >}}
+
+
 <div class="spacer spacer-300"></div>
 
-{{< q-figure id="2018-160" class="half-width centered" >}}
 
 ### RYŌNEN GENSŌ <span lang="ja">了然元総</span>
 
-{{< q-figure id="2018-159" class="right-column" >}}
+{{< q-figure id="2018-160" class="right-column" >}}
 
 Born into an aristocratic family as the daughter of a lady-in-waiting, [Ryōnen Gensō](/artists/#Ryōnen-Gensō-了然元総/) spent her early years in the Inner Chambers. At the age of seventeen, she married a courtier. Ten years later, she took the tonsure and became a Buddhist nun.
 
@@ -115,6 +115,11 @@ Wishing to join as a disciple of a famous Ōbaku Zen monk, she traveled to Edo (
 
 In a stark show of determination, she used a searing iron to disfigure her face. Only when proving this degree of devoutness to her faith was she finally accepted into the order.
 
+<div class="spacer spacer-100"></div>
+
+{{< q-figure id="2018-159" class="half-width centered" >}}
+
+<div class="spacer spacer-100"></div>
 
 This poem was written shortly after this turning point. It reads:
 

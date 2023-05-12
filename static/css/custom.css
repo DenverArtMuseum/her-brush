@@ -1254,6 +1254,7 @@ h1 .title_logo {
     margin-bottom: 1rem;
 }
 #contributors .quire-contributor__page-link {
+    display: none;
     padding-left: 2rem;
     margin-bottom: 0px !important;
 }

@@ -12,6 +12,8 @@ Painting traditions in Japan were commonly passed down in the form of apprentice
 
 Artists in this section emerged from such artistic families and, thanks to their talent and tenacity, became sought-after artists and continued their family’s artistic legacy while creating their own distinctive interpretations.
 
+<div class="spacer spacer-200"></div>
+
 {{< q-figure id="2018-150" class="is-pulled-left" >}}
 
 Some, like [Kiyohara Yukinobu](/artists/#Kiyohara-Yukinobu-清原雪信), chose to sign their works with the term *uji-me* (literally, daughter of the clan), identifying themselves as upholders of their family’s artistic school.

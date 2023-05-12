@@ -16,7 +16,21 @@ Being well-versed in the Three Perfections (painting, poetry, and calligraphy) w
 
 Eternal art in a floating world.
 
-{{< q-figure id="2018-183" class="full-width">}}
+<div class="spacer spacer-200"></div>
+
+{{< q-figure id="2018-181-install" class="right-column" >}}
+
+These poetry slips (*tanzaku*) were written by women and men occupying different social realms, including pleasure quarters, aristocracy, and monastic orders. Written in private or in gatherings, tanzaku were saved, exchanged, and sometimes discarded. These floating tanzaku therefore existed in a space between art and ephemera.
+
+This display is a reinterpretation of the traditional mounting in a scattered arrangement (*chirashigaki*). A modern example bears the poetry of Takabatake Shikibu, a literati artist whose works appear in the next section.
+
+<div class="spacer spacer-100"></div>
+
+{{< q-figure id="2018-226" class="right-column" >}}
+
+<div class="spacer spacer-300"></div>
+
+{{< q-figure id="2018-183" class="threefourths-width centered">}}
 
 [Ōhashi](/artists/#Ōhashi-dayū-(The-Tayū-Ōhashi)-大橋太夫/) is the stage name of Ritsu, born to a wealthy samurai family and trained in various arts as a child. When her family lost their fortune, they sold her to a brothel. With her talent and dazzling looks, she quickly rose to the highest rank of *tayū* (Grand Courtesan) in Kyoto’s Shimabara pleasure quarter. Although highly admired, she remained beholden to her clients and patrons.
 
@@ -33,12 +47,6 @@ Her poems here read:
 >overflow with my tears.
 
 <div class="spacer spacer-200"></div>
-
-{{< q-figure id="2018-181-install" class="right-column" >}}
-
-These poetry slips (*tanzaku*) were written by women and men occupying different social realms, including pleasure quarters, aristocracy, and monastic orders. Written in private or in gatherings, tanzaku were saved, exchanged, and sometimes discarded. These floating tanzaku therefore existed in a space between art and ephemera.
-
-This display is a reinterpretation of the traditional mounting in a scattered arrangement (*chirashigaki*). A modern example bears the poetry of Takabatake Shikibu, a literati artist whose works appear in the next section.
 
 {{< q-figure id="2018-226" caption="" >}}
 
@@ -60,7 +68,7 @@ This display is a reinterpretation of the traditional mounting in a scattered ar
 {{< /q-class >}}
 {{< /q-class >}}
 
-{{< q-figure id="gion-teahouse" >}}
+{{< q-figure id="gion-teahouse" class="right-column" >}}
 
 [Kaji](/artists/#Kaji-of-Gion-祇園梶子/), [Yuri](/artists/#Yuri-of-Gion-祇園の百合/), and [Machi](/artists/#Tokuyama-(Ike)-Gyokuran-徳山(池)玉瀾/) were owners of a famous teahouse in Gion called Matsuya where many of Kyoto’s lovers of art and poetry would meet. Together, these three remarkable women formed a matriarchal artistic lineage.
 
@@ -69,3 +77,13 @@ Kaji of Gion was a gifted poet-calligrapher and the first owner of the Matsuya t
 Yuri of Gion established herself as a renowned calligrapher and painter in her own right.
 
 Machi of Gion, Yuri’s daughter, is best known by her later name, Tokuyama (Ike) Gyokuran, and was a formidable literati painter, calligrapher, and poet. Her work is included in the following section, dedicated to literati circles.
+
+
+<div class="flexbox-row col-2 threefourths-width centered">
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-181-1" class="" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-186-mounted" class="" >}}
+</div>
+</div>

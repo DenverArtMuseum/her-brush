@@ -97,6 +97,8 @@ Despite her popularity, much of her life remains a mystery. Purportedly the ille
 
 Following the loss of her husband and children to illness, she became a Buddhist nun. It was then that she chose the name Rengetsu (Lotus Moon).
 
+<div class="spacer-300"></div>
+
 {{< q-figure id="2018-181-3" class="right-column" >}}
 
 This poetry slip (*tanzaku*) is a rare work, likely composed in Rengetsu’s forties judging from the signature on the back, shown here. Her poem celebrates the New Year. It alludes to the practice of gathering pine saplings during the New Year festivities, symbolizing longevity.
@@ -106,6 +108,12 @@ This poetry slip (*tanzaku*) is a rare work, likely composed in Rengetsu’s for
 >this field of pine saplings<br />
 >gives a hazy sense of<br />
 >a long life to come.<br />
+
+<div class="spacer-300"></div>
+
+### RENGETSU’S LEGACY
+
+{{< q-figure-group id="2018-245, 2021-156" class="threefourths-width centered" grid="2" caption="Kuroda Kōryō 黒田光良, 1823–1895, Teabowl in the Style of Rengetsu (Rengetsu-yaki) (detail), late 1800s. Glazed ceramic. Gift of Drs. John Fong and Colin Johnstone, 2018.259.1." >}}
 
 {{< q-figure id="2018-259-1-2" class="is-pulled-left" >}}
 
