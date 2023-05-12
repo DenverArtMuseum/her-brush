@@ -77,20 +77,17 @@ body {
 h1, h2, h3, h4, h5, h6, blockquote p cite, dt, pre, address, table, caption, th, td, .align-left, .align-center, .align-right, .caption, .no-hyphens {
   adobe-hyphenate: none;
   /* proprietary for Legacy RMSDK */
-  -ms-hyphens: none;
   -webkit-hyphens: none;
   -epub-hyphens: none;
   hyphens: none; }
 
 h1, h2, h3, h4, h5, h6, dt, hr {
   page-break-inside: avoid;
-  -webkit-column-break-inside: avoid;
-     -moz-column-break-inside: avoid;
-          break-inside: avoid;
+  -moz-column-break-inside: avoid;
+       break-inside: avoid;
   page-break-after: avoid;
-  -webkit-column-break-after: avoid;
-     -moz-column-break-after: avoid;
-          break-after: avoid; }
+  -moz-column-break-after: avoid;
+       break-after: avoid; }
 
 p {
   text-indent: 0;
@@ -176,9 +173,8 @@ sup {
 /* FIGURES + IMAGES  */
 figure {
   page-break-inside: avoid;
-  -webkit-column-break-inside: avoid;
-     -moz-column-break-inside: avoid;
-          break-inside: avoid;
+  -moz-column-break-inside: avoid;
+       break-inside: avoid;
   margin: 1.5em 0; }
   figure img {
     background-color: #CCCCCC; }
@@ -317,7 +313,6 @@ section.level1 {
   margin: 0 auto .75em;
   text-align: center;
   padding: 0 .25em;
-  width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
   display: table;
