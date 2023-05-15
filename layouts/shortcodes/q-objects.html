@@ -17,11 +17,11 @@
 {{ $zoom :=  true  }}
 {{ $pdf :=  $.Site.Params.pdf }}
 
-
-{{ $unsorted := slice }}
+{{ $counter := 0 }}
 
 {{- range $.Site.Data.objects.object_list -}}
 
+  {{ $counter = add $counter 1 }}
 
     {{/* 
     id: 2021-196
@@ -90,25 +90,24 @@
 
     {{- if ($.Get "figure") }}
     {{ $figure = ($.Get "figure") }}{{ else if .figure }}{{ $figure = .figure }}{{ end -}}
+   
+   
+    {{ $index := printf "%20s" ( string $counter ) }}
 
-
-    {{- $dict := dict "Site" $site "title" $title "artist" $artist "year" $year "medium" $medium "dimensions" $dimensions "accession" $accession "credit" $credit "section" $section "id" $id "location" $location "link" $link "figure" $figure -}}
+    {{- $dict := dict "index" $index "Site" $site "title" $title "artist" $artist "year" $year "medium" $medium "dimensions" $dimensions "accession" $accession "credit" $credit "section" $section "id" $id "location" $location "link" $link "figure" $figure -}}
 
     {{- $figSort := "" -}}
     {{ if .title }}
     {{- $figSort = .title -}}
     {{ else }}
-    {{- $figSort = index -}}
+    {{- $figSort = .id -}}
     {{ end }}
     {{- $figSort = $figSort | truncate 400 | urlize -}}
-
-
+    
     {{- $.Page.Scratch.SetInMap "ref" "0" $dict -}}
     {{- $ref := ($.Page.Scratch.GetSortedMapValues "ref") -}}
-    {{- $.Page.Scratch.SetInMap "object" $figSort $ref -}}
+    {{- $.Page.Scratch.SetInMap "object" $index $ref -}}  
     {{- $.Page.Scratch.Delete "ref" -}}
-
-    {{ $unsorted = $unsorted | append $dict }}
 
 {{- end -}}
 
@@ -120,9 +119,8 @@
   {{ range $sections }}
     {{ $.Scratch.Set "section" . }}
     <h2>{{ $.Scratch.Get "section" }}</h2>
-    <!-- {{- range ($.Page.Scratch.GetSortedMapValues "object") -}}
-        {{ $dict := (index . 0) }} -->
-    {{- range $unsorted -}}
+    {{- range ($.Page.Scratch.GetSortedMapValues "object") -}}
+        {{ $dict := (index . 0) }}
         {{ with $dict }}
           {{ $section := $.Scratch.Get "section" }}
           {{- if eq .section $section -}}
@@ -134,6 +132,7 @@
                     <div class="object-medium">{{- .medium | markdownify  -}}</div>
                     <div class="object-dimensions">{{- .dimensions -}}</div>
                     <div class="object-accession">{{- .accession -}}</div>
+                    <div class="">{{- .index -}}</div>
                 </div>
                 <div class="image">
                 {{ if .figure }}
