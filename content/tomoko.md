@@ -7,7 +7,7 @@ image:
     id: tomoko-cover
 contributor:
     - id: tomoko
-class: left-column black-page
+class: full-width black-page
 ---
 
 {{< q-figure id="tomoko-calligraphy-performance" class="full-width">}}

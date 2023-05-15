@@ -17,6 +17,9 @@
 {{ $zoom :=  true  }}
 {{ $pdf :=  $.Site.Params.pdf }}
 
+
+{{ $unsorted := slice }}
+
 {{- range $.Site.Data.objects.object_list -}}
 
 
@@ -95,7 +98,7 @@
     {{ if .title }}
     {{- $figSort = .title -}}
     {{ else }}
-    {{- $figSort = .id -}}
+    {{- $figSort = index -}}
     {{ end }}
     {{- $figSort = $figSort | truncate 400 | urlize -}}
 
@@ -105,7 +108,7 @@
     {{- $.Page.Scratch.SetInMap "object" $figSort $ref -}}
     {{- $.Page.Scratch.Delete "ref" -}}
 
-    
+    {{ $unsorted = $unsorted | append $dict }}
 
 {{- end -}}
 
@@ -117,8 +120,9 @@
   {{ range $sections }}
     {{ $.Scratch.Set "section" . }}
     <h2>{{ $.Scratch.Get "section" }}</h2>
-    {{- range ($.Page.Scratch.GetSortedMapValues "object") -}}
-        {{ $dict := (index . 0) }}
+    <!-- {{- range ($.Page.Scratch.GetSortedMapValues "object") -}}
+        {{ $dict := (index . 0) }} -->
+    {{- range $unsorted -}}
         {{ with $dict }}
           {{ $section := $.Scratch.Get "section" }}
           {{- if eq .section $section -}}
