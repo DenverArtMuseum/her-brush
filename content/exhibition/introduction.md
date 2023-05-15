@@ -115,7 +115,17 @@ This poetry slip (*tanzaku*) is a rare work, likely composed in Rengetsu’s for
 
 {{< q-figure-group id="2018-245, 2021-156" class="threefourths-width centered" grid="2" caption="Left: Calligraphy by Ōtagaki Rengetsu <span lang=\"ja\">太田垣蓮月</span>, 1791–1875, Painting by Wada Gesshin <span lang=\"ja\">和田月心</span>, 1800–1870. *Stag and Poem*, about 1865–70. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2018.245. Right: Calligraphy by Ōtagaki Rengetsu <span lang=\"ja\">太田垣蓮月</span> (1791–1875), painting by Tomioka Tessai 富岡鉄斎 (1836–1924), *Three Waka Poems and a Pine*, second half of the 1800s. Ink on paper. Gift of Drs. John Fong and Colin Johnstone, 2021.156." >}}
 
-{{< q-figure id="2018-259-1-2" class="is-pulled-left" >}}
+<div class="flexbox-row col-3 threefourths-width centered">
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-259-1-2" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-259-seal-1" >}}
+</div>
+<div class="flexbox-column padding-20">
+{{< q-figure id="2018-259-seal-2" >}}
+</div>
+</div>
 
 The interior of both of these teabowls is inscribed with poems by the nun-artist Ōtagaki Rengetsu. While the signatures also read “Rengetsu,” they were not made by her. And yet, they are not forgeries. (Though, owing to her fame, she was often faked.)
 
