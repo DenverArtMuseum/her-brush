@@ -1,5 +1,5 @@
 ---
-title: "Tomoko Kawao—Artist Statement"
+title: "Tomoko Kawao—Calligraphy Performance"
 short_title: Tomoko Kawao
 type: featured
 weight: 301

@@ -207,7 +207,7 @@ resource_link:
     name: PDF
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/her-brush.pdf
+    url: https://dam-static.s3.amazonaws.com/her-brush/her-brush.pdf
 #  - type: other-format
 #    name: EPUB
 #    media_type: application/epub+zip
