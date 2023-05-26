@@ -1189,10 +1189,10 @@ h1 .title_logo {
     width: 200px;
     height: auto;
 }
-.title_logo img {
+figure.logo img {
     display: none;
 }
-.title_logo svg {
+figure.logo svg {
     width: 100%;
     height: auto;
 }
