@@ -30,4 +30,4 @@ Finally, let us briefly consider the role of gender—one of the themes of the D
 
 Research focused on Buddhist nuns and convents is growing, not so much in art history but in other fields such as history, literature, and religious studies. All are necessary for us to form a comprehensive picture. The arts of Japanese Buddhist nuns deserve to be more well known than they are, and the Denver exhibition and symposium provide welcome opportunities to introduce a selected body of work to the general public.
 
-{{< q-figure id="video-fister" class="full-width" >}}
+{{< q-figure id="video-fister" >}}

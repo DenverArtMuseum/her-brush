@@ -32,6 +32,6 @@ Gendered categories have long pervaded the production and reception of Japanese 
 
 Among the many obstacles to making substantial progress in the understanding and appreciation of the arts of women in Japan is the global tendency for almost any topic associated with “women” to become a “women’s issue” that is unthinkingly taken to mean of concern to women rather than to “society at large.” In this context, “society at large” functions as a coded expression representing the “world of men.” As a result of this unreflective attitude in the academic and museum worlds, the vast majority of studies on the artwork of women in Japan have been done by women with only the occasional contribution by men. For a large-scale change in the study of the subject, the notion that it is somehow a subcategory of the larger art world needs to be revised. Only when the study of the art of women moves to the center of the study of art, due to its significance for the impact of gender in all artworks, will new and deeper investigations into the nature of art and society be possible.
 
-{{< q-figure id="video-berry" class="full-width" >}}
+{{< q-figure id="video-berry" >}}
 
 [^1]: Araki Tadashi, *Dai Nihon shoga meika taikan*. 4 vols. (Tokyo: Dai Nihon Shoga Meika Taikan Kankōkai, 1934). There are various later reprints.

@@ -26,4 +26,4 @@ Tsuneno’s family’s archive contains over two thousand documents in a variety
 
 Through this remarkable archive, I encountered not only a variety of forms of writing but also a multitude of perspectives on everyday life. I could see, in these letters, lists, and diaries, how people of different genders and classes kept track of their daily business. I could follow a story of books lent, taxes owed, marriages planned, servants hired, children welcomed, and deaths mourned. Those dispatches from a vanished world were mundane and not always beautiful—there were blots and stains, miswritten characters, torn pages, and worm holes—but they were vital, immediate, and often astonishing.
 
-{{< q-figure id="video-stanley" class="full-width" >}}
+{{< q-figure id="video-stanley" >}}
