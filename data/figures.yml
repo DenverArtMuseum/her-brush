@@ -787,3 +787,24 @@ figure_list:
   - id: tomoko-calligraphy-performance
     media_id: 823226962/732eb03100
     media_type: vimeo
+  - id: video-intro
+    media_id: 845056248/fada2894d4
+    media_type: vimeo
+  - id: video-stanley
+    media_id: 845055651/60214afb0f
+    media_type: vimeo
+  - id: video-miller
+    media_id: 845058413/cc0dad4a31
+    media_type: vimeo
+  - id: video-yonemoto
+    media_id: 845056284/bfc01080cf
+    media_type: vimeo
+  - id: video-fister
+    media_id: 845055981/0ce66a86b1
+    media_type: vimeo
+  - id: video-berry
+    media_id: 845056993/1749067a9e
+    media_type: vimeo
+  - id: video-mccormick
+    media_id: 845098224/8b8ea876f7
+    media_type: vimeo

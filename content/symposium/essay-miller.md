@@ -25,4 +25,6 @@ Ultimately, when considering gender in the context of art and artists, we are le
 
 The canon of art history is constantly rewritten, and the value of art is endlessly shifting. Gender as a lens for understanding visual culture is a relatively recent approach in the history of art as a field, and *Her Brush* owes its very existence to this shift. As gender theory focuses less on the male/female binary, we must grapple with what turn the field will take next and what new visual connections and values lie ahead.
 
+{{< q-figure id="video-miller" class="full-width" >}}
+
 [^1]: Patricia Fister, *Japanese Woman Artists* (Lawrence, KS: Spencer Museum of Art, 1988), 165.

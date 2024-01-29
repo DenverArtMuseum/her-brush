@@ -25,6 +25,8 @@ Close readings of certain works by Rengetsu suggest that she composed her poetry
 
 While Rengetsu’s status as a Buddhist nun differentiated her from lay women and impacted her ability to posit herself rhetorically as Saigyō or Bashō reborn, how did it shape her notion of poetics? Do Rengetsu’s works demonstrate, for example, the influence of a Buddhist aesthetic, which would foreground issues of the nonself or the interrogation of phenomenal form? Her ceramics, such as the sake decanter in the exhibition (fig. 3), would seem to project the opposite in their tangible, earthy materiality. And yet Rengetsu’s inscriptive practices on certain three-dimensional objects can result in work that projects an air of the insubstantial. Rengetsu’s work is ripe for analysis regarding the connection between its haptic qualities and Buddhist materiality. Her incorporation of past poetic personae and Buddhist aesthetics raises compelling questions about the intertextuality and material properties of her artifactual poetics.
 
+{{< q-figure id="video-mccormick" class="full-width" >}}
+
 
 [^1]: In addition to Saigyō and Bashō, Rengetsu had nun predecessors to emulate, such as Tagami Kikusha (1753–1826), who studied *haikai* with a teacher in the Bashō lineage and who famously reenacted, in an inverse manner, the journey that Bashō documented in his *Narrow Road to the North* (*Oku no hosomichi*, 1702). See Oka Masako ed., *Unyū no ama Tagami Kikusha* (Yamaguchi: Kikusha Kenshōkai, 2004); and Rebecca Corbett, “Crafting Identity as a Tea Practitioner in Early Modern Japan: Ōtagaki Rengetsu and Tagami Kikusha,” *U.S.-Japan Women’s Journal*, no. 47 (2014): 3–27.
 
